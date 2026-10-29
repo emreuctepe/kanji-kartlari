@@ -113,6 +113,45 @@
     store.ready = true; recompute(); render();
   }
 
+  // başka cihazdan indirilen JSON'un basışları: zaten olanlar (aynı an + aynı kelime) atlanır, kalanlar yeni bir oturum olur
+  function importEvents(evs) {
+    var have = new Set(allEvents().map(function (ev) { return ev.t + ' ' + ev.ck.slice(ev.ck.indexOf('/') + 1); }));
+    var byTitle = {};
+    DECKS.forEach(function (d) { byTitle[d.title] = d.id; });
+    var add = [];
+    evs.forEach(function (x) {
+      var t = Date.parse(x && x.at), gk = x && x.word + '|' + x.reading;
+      if (!t || !x.word || !x.reading || have.has(t + ' ' + gk)) return;
+      have.add(t + ' ' + gk);
+      var deckId = byTitle[x.deck] || (WORDS.has(gk) ? WORDS.get(gk).decks[0] : 'x');
+      add.push({ t: t, ck: deckId + '/' + gk, res: x.result === 'green' ? 1 : 0, ms: x.ms || 0, x: x.extraShown ? 1 : 0 });
+    });
+    if (!add.length) return 0;
+    add.sort(function (a, b) { return a.t - b.t; });
+    var s = { t0: add[0].t, k: [], e: [] }, kidx = new Map();
+    add.forEach(function (a) {
+      var i = kidx.get(a.ck);
+      if (i === undefined) { i = s.k.length; s.k.push(a.ck); kidx.set(a.ck, i); }
+      s.e.push([a.t - s.t0, i, a.res, a.ms, a.x]);
+    });
+    var id = 'imp' + Date.now().toString(36);
+    sessions.set(id, s);
+    var all = lsGet('kk.sessions', {});
+    all[id] = s;
+    if (!lsSet('kk.sessions', all)) toast('Kayıt alanı doldu.');
+    recompute();
+    return add.length;
+  }
+  function importFile(f) {
+    f.text().then(function (txt) {
+      var data = JSON.parse(txt);
+      if (!data || !Array.isArray(data.events)) throw new Error('events yok');
+      var n = importEvents(data.events);
+      render();
+      toast(n ? n + ' yeni basış eklendi' : 'Yeni basış yok; hepsi zaten bu cihazda');
+    }).catch(function () { toast('Dosya okunamadı. Bu uygulamadan indirilen JSON dosyasını seç.'); });
+  }
+
   document.addEventListener('visibilitychange', function () { if (document.hidden) flushNow(); });
   window.addEventListener('pagehide', flushNow);
 
@@ -196,7 +235,8 @@
       '<label class="toggle"><input type="checkbox" id="opt-shuffle"' + (prefs.shuffle ? ' checked' : '') + '> Karıştır</label>' +
       '<label class="toggle"><input type="checkbox" id="opt-ctx"' + (prefs.ctx ? ' checked' : '') + '> Ön yüzde cümle</label>' +
       '<span class="spacer"></span>' +
-      '<button class="btn" id="dl">JSON indir</button></div>';
+      '<button class="btn" id="dl">JSON indir</button>' +
+      '<input type="file" id="ul-file" class="vh"><label class="btn" for="ul-file">JSON yükle</label></div>';
     h += '<div class="legend"><span><i class="dot g"></i>Öğrendim (son ✓, ✓ &gt; ✗)</span><span><i class="dot y"></i>Kısmen (son ✓, ✓ ≤ ✗)</span><span><i class="dot r"></i>Öğrenemedim</span><span><i class="dot n"></i>Yeni</span></div>';
     var rk = loading ? [] : reviewKeys();
     h += '<ul class="decks"><li><button class="deck" id="rev" style="border-color:var(--bad)"' + (rk.length ? '' : ' disabled') + '>' +
@@ -224,10 +264,12 @@
     document.getElementById('opt-shuffle').addEventListener('change', function (e) { prefs.shuffle = e.target.checked; savePrefs(); });
     document.getElementById('opt-ctx').addEventListener('change', function (e) { prefs.ctx = e.target.checked; savePrefs(); });
     document.getElementById('dl').addEventListener('click', downloadJSON);
+    var ul = document.getElementById('ul-file');
+    ul.addEventListener('change', function () { if (ul.files[0]) importFile(ul.files[0]); ul.value = ''; });
   }
   function storageNote() {
     if (!store.ready) return 'İlerleme yükleniyor…';
-    return 'Her basış bu tarayıcıda saklanıyor. Kart durumu kelimenin son cevabıdır, bir kelime birden çok bölümde geçiyorsa durumu hepsinde ortaktır.';
+    return 'Her basış bu tarayıcıda saklanıyor. Başka cihaza taşımak için burada JSON indir, orada JSON yükle; aynı basışlar iki kez sayılmaz. Kart durumu kelimenin son cevabıdır, bir kelime birden çok bölümde geçiyorsa durumu hepsinde ortaktır.';
   }
   function deckById(id) { if (id === 'all') return ALL; for (var i = 0; i < DECKS.length; i++) if (DECKS[i].id === id) return DECKS[i]; return null; }
 
@@ -514,6 +556,17 @@
   function downloadJSON() {
     var data = JSON.stringify(buildExport(), null, 2);
     var name = 'kanji-kartlari-' + new Date().toISOString().slice(0, 10) + '.json';
+    // telefonda paylaşım menüsü (Dosyalar'a kaydet, AirDrop, mesaj…); ana ekran uygulamasında indirme bağlantısı takılabiliyor
+    var file = typeof File === 'function' ? new File([data], name, { type: 'application/json' }) : null;
+    if (file && matchMedia('(pointer: coarse)').matches && navigator.canShare && navigator.canShare({ files: [file] })) {
+      navigator.share({ files: [file] }).then(function () { toast('JSON paylaşıldı'); }, function (e) {
+        if (!e || e.name !== 'AbortError') saveBlob(data, name);
+      });
+      return;
+    }
+    saveBlob(data, name);
+  }
+  function saveBlob(data, name) {
     try {
       var a = document.createElement('a');
       a.href = URL.createObjectURL(new Blob([data], { type: 'application/json' }));
