@@ -286,7 +286,12 @@
       (c.r ? '<button class="btn" id="study-red">Sadece kırmızılar · ' + c.r + '</button>' : '') + '</div>';
     h += '<p class="sub" style="margin:-.6rem 0 1.2rem">Her oturum en fazla ' + ROUND_MAX + ' kart; bitince ana ekrana dönersin.</p>';
     h += '<ul class="words">';
-    d.cards.forEach(function (card) {
+    // Tüm kelimeler listesi: en çok ✗ alandan aşağı doğru (eşitler kendi sırasında)
+    var list = d.id === 'all' ? d.cards.slice().sort(function (a, b) {
+      var sa = stats.get(a.gk), sb = stats.get(b.gk);
+      return (sb ? sb.r : 0) - (sa ? sa.r : 0);
+    }) : d.cards;
+    list.forEach(function (card) {
       var st = status(card.gk), s = stats.get(card.gk);
       h += '<li><i class="dot ' + st + '"></i><span><span class="w">' + esc(card.w) + '</span><span class="r">' + esc(card.r) + '</span><span class="m">' + esc(card.m) + '</span></span>' +
         '<span class="c">' + (s ? '<span class="cg">✓' + s.g + '</span><span class="cr">✗' + s.r + '</span>' : '') + '</span></li>';
@@ -295,21 +300,18 @@
     app.innerHTML = h;
     document.getElementById('back').addEventListener('click', function () { go({ name: 'home' }); });
     document.getElementById('study-due').addEventListener('click', function () { startRound(d, due); });
-    document.getElementById('study-all').addEventListener('click', function () { startRound(d, d.cards.slice(), true); });
+    document.getElementById('study-all').addEventListener('click', function () { startRound(d, d.cards.slice()); });
     var red = document.getElementById('study-red');
     if (red) red.addEventListener('click', function () { startRound(d, d.cards.filter(function (x) { return status(x.gk) === 'r'; })); });
   }
 
-  function redCount(card) { var s = stats.get(card.gk); return s ? s.r : 0; }
   function shuffle(a) { for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
   // bir oturumda en fazla ROUND_MAX kart; oturum bitince ana ekrana dönülür
   var ROUND_MAX = 20;
-  // byRed: en çok ✗ alan kelimeden aşağı doğru (eşitler karıştır açıksa rastgele)
-  function startRound(d, cards, byRed) {
+  function startRound(d, cards) {
     if (!cards.length) return;
     var q = cards.slice();
     if (prefs.shuffle) shuffle(q);
-    if (byRed) q.sort(function (a, b) { return redCount(b) - redCount(a); });
     go({ name: 'study', deck: d, queue: q.slice(0, ROUND_MAX), pos: 0, flipped: false, shownAt: Date.now(), hist: [], g: 0, r: 0 });
   }
   function endRound(v, early) {
