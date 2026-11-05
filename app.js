@@ -295,18 +295,21 @@
     app.innerHTML = h;
     document.getElementById('back').addEventListener('click', function () { go({ name: 'home' }); });
     document.getElementById('study-due').addEventListener('click', function () { startRound(d, due); });
-    document.getElementById('study-all').addEventListener('click', function () { startRound(d, d.cards.slice()); });
+    document.getElementById('study-all').addEventListener('click', function () { startRound(d, d.cards.slice(), true); });
     var red = document.getElementById('study-red');
     if (red) red.addEventListener('click', function () { startRound(d, d.cards.filter(function (x) { return status(x.gk) === 'r'; })); });
   }
 
+  function redCount(card) { var s = stats.get(card.gk); return s ? s.r : 0; }
   function shuffle(a) { for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
   // bir oturumda en fazla ROUND_MAX kart; oturum bitince ana ekrana dönülür
   var ROUND_MAX = 20;
-  function startRound(d, cards) {
+  // byRed: en çok ✗ alan kelimeden aşağı doğru (eşitler karıştır açıksa rastgele)
+  function startRound(d, cards, byRed) {
     if (!cards.length) return;
     var q = cards.slice();
     if (prefs.shuffle) shuffle(q);
+    if (byRed) q.sort(function (a, b) { return redCount(b) - redCount(a); });
     go({ name: 'study', deck: d, queue: q.slice(0, ROUND_MAX), pos: 0, flipped: false, shownAt: Date.now(), hist: [], g: 0, r: 0 });
   }
   function endRound(v, early) {
