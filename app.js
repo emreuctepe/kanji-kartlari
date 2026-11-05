@@ -214,7 +214,6 @@
     if (view.name === 'home') renderHome();
     else if (view.name === 'deck') renderDeck();
     else if (view.name === 'study') renderStudy();
-    else if (view.name === 'done') renderDone();
     else if (view.name === 'review') renderReview();
   }
 
@@ -285,6 +284,7 @@
       '<button class="btn primary" id="study-due"' + (due.length ? '' : ' disabled') + '>Çalış · ' + due.length + ' kart</button>' +
       '<button class="btn" id="study-all">Hepsini çalış · ' + d.cards.length + '</button>' +
       (c.r ? '<button class="btn" id="study-red">Sadece kırmızılar · ' + c.r + '</button>' : '') + '</div>';
+    h += '<p class="sub" style="margin:-.6rem 0 1.2rem">Her oturum en fazla ' + ROUND_MAX + ' kart; bitince ana ekrana dönersin.</p>';
     h += '<ul class="words">';
     d.cards.forEach(function (card) {
       var st = status(card.gk), s = stats.get(card.gk);
@@ -301,11 +301,18 @@
   }
 
   function shuffle(a) { for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
+  // bir oturumda en fazla ROUND_MAX kart; oturum bitince ana ekrana dönülür
+  var ROUND_MAX = 20;
   function startRound(d, cards) {
     if (!cards.length) return;
     var q = cards.slice();
     if (prefs.shuffle) shuffle(q);
-    go({ name: 'study', deck: d, queue: q, pos: 0, flipped: false, shownAt: Date.now(), hist: [], g: 0, r: 0, missed: [] });
+    go({ name: 'study', deck: d, queue: q.slice(0, ROUND_MAX), pos: 0, flipped: false, shownAt: Date.now(), hist: [], g: 0, r: 0 });
+  }
+  function endRound(v, early) {
+    flushNow();
+    go({ name: 'home' });
+    toast((early ? 'Oturum yarıda bitti' : 'Oturum bitti') + ' · ✓ ' + v.g + ' · ✗ ' + v.r);
   }
 
   // kelimenin geçtiği tüm cümleler: önce kartın kendi destesi, sonra diğer desteler; ilk EX_OPEN açık, kalanı katlanır
@@ -381,7 +388,7 @@
     return out;
   }
   function startReview() {
-    var ks = shuffle(reviewKeys());
+    var ks = shuffle(reviewKeys()).slice(0, ROUND_MAX);
     if (!ks.length) return;
     go({ name: 'review', queue: ks.map(function (gk) { return CARD.get(WORDS.get(gk).decks[0] + '/' + gk); }), pos: 0, flipped: false });
   }
@@ -444,48 +451,23 @@
     var card = v.queue[v.pos];
     record(card, ok, Date.now() - v.shownAt, v.extraShown);
     v.hist.push({ pos: v.pos, ok: ok });
-    if (ok) v.g++; else { v.r++; v.missed.push(card); }
+    if (ok) v.g++; else v.r++;
     v.pos++; v.flipped = false; v.shownAt = Date.now();
-    if (v.pos >= v.queue.length) { flushNow(); go({ name: 'done', deck: v.deck, g: v.g, r: v.r, missed: v.missed, total: v.queue.length }); return; }
+    if (v.pos >= v.queue.length) { endRound(v, false); return; }
     renderStudy(); window.scrollTo(0, 0);
   }
   function undo() {
     var v = view; if (v.name !== 'study' || !v.hist.length) return;
     var last = v.hist.pop();
     unrecordLast();
-    if (last.ok) v.g--; else { v.r--; v.missed.pop(); }
+    if (last.ok) v.g--; else v.r--;
     v.pos = last.pos; v.flipped = true; v.shownAt = Date.now();
     renderStudy(); toast('Son cevap geri alındı');
   }
   function endRoundEarly() {
-    var v = view; flushNow();
-    if (v.hist.length) go({ name: 'done', deck: v.deck, g: v.g, r: v.r, missed: v.missed, total: v.hist.length, early: true });
+    var v = view;
+    if (v.hist.length) endRound(v, true);
     else go({ name: 'deck', deck: v.deck });
-  }
-
-  function renderDone() {
-    var v = view, d = v.deck;
-    var h = '<div class="wrap"><div class="done">';
-    h += '<p class="muted">' + esc(d.title) + (v.early ? ' · tur yarıda bırakıldı' : ' · tur bitti') + '</p>';
-    h += '<div class="big-n"><span class="g">✓ ' + v.g + '</span> &nbsp; <span class="r">✗ ' + v.r + '</span></div>';
-    h += '<p class="muted tnum">' + v.total + ' kartın ' + v.g + ' tanesini öğrendin</p>';
-    h += '<div class="actions">' +
-      (v.missed.length ? '<button class="btn primary" id="again">Öğrenemediklerimi tekrar çalış · ' + v.missed.length + '</button>' : '') +
-      '<button class="btn" id="todeck">Desteye dön</button><button class="btn" id="tohome">Bölümler</button></div>';
-    h += '</div>';
-    if (v.missed.length) {
-      h += '<div class="missed"><p class="sub">Bu turda öğrenemediklerin</p><ul class="words">';
-      v.missed.forEach(function (card) {
-        h += '<li><i class="dot r"></i><span><span class="w">' + esc(card.w) + '</span><span class="r">' + esc(card.r) + '</span><span class="m">' + esc(card.m) + '</span></span><span></span></li>';
-      });
-      h += '</ul></div>';
-    }
-    h += '</div>';
-    app.innerHTML = h;
-    var again = document.getElementById('again');
-    if (again) again.addEventListener('click', function () { startRound(d, v.missed); });
-    document.getElementById('todeck').addEventListener('click', function () { go({ name: 'deck', deck: d }); });
-    document.getElementById('tohome').addEventListener('click', function () { go({ name: 'home' }); });
   }
 
   document.addEventListener('keydown', function (e) {
