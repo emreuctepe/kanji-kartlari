@@ -1,6 +1,6 @@
 // Çevrimdışı çalışma: uygulama dosyaları ilk açılışta önbelleğe alınır, sonraki açılışlarda önbellekten
 // gelir ve arka planda yenilenir (yeni sürüm bir sonraki açılışta görünür). FILES değişirse CACHE'i artır.
-var CACHE = 'kk-v1';
+var CACHE = 'kk-v2';
 var FONT_CACHE = 'kk-fonts-v1';
 var FILES = [
   './', 'index.html', 'style.css', 'app.js', 'manifest.webmanifest',
@@ -37,7 +37,8 @@ function keep(c, req, res) {
 function staleWhileRevalidate(name, req, e) {
   return caches.open(name).then(function (c) {
     return c.match(req, { ignoreSearch: true }).then(function (hit) {
-      var net = fetch(req).then(function (res) { return keep(c, req, res); });
+      // no-cache: tarayıcının HTTP önbelleğini atlayıp sunucuya sor (değişmediyse 304, ucuz)
+      var net = fetch(req.url, { cache: 'no-cache' }).then(function (res) { return keep(c, req, res); });
       if (!hit) return net;
       e.waitUntil(net.catch(function () {}));
       return hit;

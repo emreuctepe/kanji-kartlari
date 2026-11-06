@@ -1,0 +1,124 @@
+@ 68 第68回
+1 東京{とうきょう}は昔{むかし}江戸{えど}と呼{よ}ばれていた。当時{とうじ}は江戸{えど}湾{わん}のどの入{い}り江{え}でも漁師{りょうし}の舟{ふね}が見{み}られ、漁業{ぎょぎょう}が盛{さか}んだった。そして、江戸{えど}湾{わん}でとれた魚{さかな}で江戸前{えどまえ}寿司{ずし}が握{にぎ}られたのである。しかし、現在{げんざい}は東京{とうきょう}湾{わん}の汚染{おせん}が進{すす}み、本当{ほんとう}の江戸前{えどまえ}寿司{ずし}は非常{ひじょう}に少{すく}なくなった。
+= Tokyo-ya eskiden Edo de-n-ir-di. O zaman-lar Edo Körfez-i-nin her koy-un-da balıkçı-lar-ın tekne-ler-i gör-ül-ür, balıkçılık canlı-ydı. Ve Edo Körfez-i-nde tut-ul-an balık-la Edomae suşi-si yap-ıl-ır-dı. Ama şimdi Tokyo Körfez-i-nin kirlilik-i art-tı ve gerçek Edomae suşi çok az-al-dı.
++ 東京|とうきょう|Tokyo
++ 昔|むかし|eskiden, eski zamanlar
++ 江戸|えど|Edo (Tokyo'nun eski adı)
++ 呼ぶ|よぶ|çağırmak; adlandırmak|呼
++ 当時|とうじ|o zamanlar
++ 江戸湾|えどわん|Edo Körfezi|江戸湾
++ 入り江|いりえ|koy, küçük körfez
++ 漁師|りょうし|balıkçı
++ 舟|ふね|tekne, kayık
++ 見る|みる|görmek|見
++ 漁業|ぎょぎょう|balıkçılık
++ 盛ん|さかん|canlı, yoğun, faal|盛ん
++ 江戸湾|えどわん|Edo Körfezi|江戸湾#2
++ 魚|さかな|balık
++ 江戸前寿司|えどまえずし|Edomae suşisi (Tokyo usulü)|江戸前寿司
++ 握る|にぎる|kavramak; (suşi) yapmak|握
++ 現在|げんざい|şimdi, günümüzde
++ 東京湾|とうきょうわん|Tokyo Körfezi
++ 汚染|おせん|kirlilik
++ 進む|すすむ|ilerlemek|進
++ 本当|ほんとう|gerçek, gerçekten
++ 江戸前寿司|えどまえずし|Edomae suşisi (Tokyo usulü)|江戸前寿司#2
++ 非常に|ひじょうに|son derece, çok|非常に
++ 少ない|すくない|az|少な
+2 東京{とうきょう}は大気{たいき}汚染{おせん}で空気{くうき}が非常{ひじょう}に汚{きたな}くなっている。
+= Tokyo-da hava kirliliğ-i yüzün-den hava son derece kirlen-miş durum-da.
++ 東京|とうきょう|Tokyo
++ 大気汚染|たいきおせん|hava kirliliği
++ 空気|くうき|hava
++ 非常に|ひじょうに|son derece, çok|非常に
++ 汚い|きたない|kirli, pis|汚
+3 川{かわ}や海{うみ}を汚{よご}さないようにしましょう。
+= Nehir-ler-i ve deniz-i kirlet-me-me-ye çalış-alım.
++ 川|かわ|nehir, ırmak
++ 海|うみ|deniz
++ 汚す|よごす|kirletmek|汚さ
+4 今{いま}はこの辺{へん}の池{いけ}や川{かわ}の水{みず}がとても汚{きたな}くなって魚{さかな}一匹{いっぴき}泳{およ}いでいない。
+= Şimdi bu civar-ın gölet ve nehir-ler-i-nin su-yu çok kirlen-ip tek bir balık bile yüz-mü-yor.
++ 今|いま|şimdi
++ 辺|へん|civar, dolay
++ 池|いけ|gölet, havuz
++ 川|かわ|nehir, ırmak
++ 水|みず|su
++ 汚い|きたない|kirli, pis|汚
++ 魚|さかな|balık
++ 一匹|いっぴき|bir tane (hayvan)
++ 泳ぐ|およぐ|yüzmek|泳
+5 エイズは通常{つうじょう}の日常{にちじょう}的{てき}な接触{せっしょく}では感染{かんせん}しない。
+= AIDS olağan günlük temas-la bulaş-ma-z.
++ 通常|つうじょう|olağan, normalde
++ 日常的|にちじょうてき|gündelik
++ 接触|せっしょく|temas
++ 感染|かんせん|bulaşma, enfeksiyon
+6 ソースや醤油{しょうゆ}の染{し}みは繊維{せんい}の中{なか}まで染{し}みると取{と}れにくいので、ついてしまったらその場{ば}ですぐに洗{あら}ったほうがいい。
+= Sos ve soya sos-u-nun leke-si lif-ler-in için-e kadar işle-yince zor çık-ar; bu yüzden bulaş-ır-sa hemen o an yıka-sa-n iyi ol-ur.
++ 醤油|しょうゆ|soya sosu
++ 染み|しみ|leke|染み
++ 繊維|せんい|lif, elyaf
++ 中|なか|iç, içi
++ 染みる|しみる|işlemek, sızmak, nüfuz etmek|染みる
++ 取れる|とれる|çıkmak (leke), kopmak|取れ
++ 場|ば|yer, an (その場で: hemen orada)
++ 洗う|あらう|yıkamak|洗
+7 成田{なりた}空港{くうこう}の正式{せいしき}の名前{なまえ}は「新{しん}東京{とうきょう}国際{こくさい}空港{くうこう}」です。
+= Narita Havalimanı-nın resmî ad-ı "Yeni Tokyo Uluslararası Havalimanı"-dır.
++ 成田|なりた|Narita
++ 空港|くうこう|havalimanı|空港
++ 正式|せいしき|resmî
++ 名前|なまえ|ad, isim
++ 新東京国際空港|しんとうきょうこくさいくうこう|Yeni Tokyo Uluslararası Havalimanı (Narita)
+8 一人{ひとり}で小{ちい}さな漁村{ぎょそん}に来{き}た。朝{あさ}早{はや}く浜辺{はまべ}に出{で}てみた。波{なみ}が静{しず}かに打{う}ち寄{よ}せていた。しばらくすると沖{おき}の方{ほう}から漁{りょう}を終{お}えた漁船{ぎょせん}が帰{かえ}ってきた。漁場{ぎょじょう}は湾{わん}を出{で}たところにあるそうだ。いつの間{ま}にか浜辺{はまべ}はあちらの家{いえ}、こちらの家{いえ}から出{で}てきた人々{ひとびと}で一杯{いっぱい}になっていた。静{しず}かなこの漁村{ぎょそん}が一番{いちばん}活気{かっき}づく時{とき}だ。
+= Tek başıma küçük bir balıkçı köy-ü-ne gel-di-m. Sabah erken-den sahil-e çık-tı-m. Dalga-lar sessizce kıyı-ya vur-uyor-du. Bir süre sonra açık deniz taraf-ı-ndan av-ı-nı bitir-en balıkçı tekne-ler-i dön-dü. Av yer-i körfez-den çık-ınca-ki yer-de-ymiş. Farkında olmadan sahil şura-daki, bura-daki ev-ler-den çık-an insan-lar-la dol-muş-tu. Sessiz bu balıkçı köy-ü-nün en canlı ol-duğ-u an-dı.
++ 一人|ひとり|bir kişi; tek başına
++ 小さな|ちいさな|küçük
++ 漁村|ぎょそん|balıkçı köyü|漁村
++ 来る|くる|gelmek|来
++ 朝|あさ|sabah
++ 早い|はやい|erken|早
++ 浜辺|はまべ|sahil, kumsal|浜辺
++ 出る|でる|çıkmak|出
++ 波|なみ|dalga
++ 静か|しずか|sakin, sessiz|静か
++ 打ち寄せる|うちよせる|(dalga) kıyıya vurmak|打ち寄せ
++ 沖|おき|açık deniz
++ 方|ほう|taraf, yön
++ 漁|りょう|balık avı, av|漁を
++ 終える|おえる|bitirmek|終え
++ 漁船|ぎょせん|balıkçı teknesi
++ 帰る|かえる|dönmek|帰
++ 漁場|ぎょじょう|av sahası, balıkçılık alanı
++ 湾|わん|körfez|湾を
++ 間|ま|ara, an (いつの間にか: farkında olmadan)
++ 浜辺|はまべ|sahil, kumsal|浜辺#2
++ 家|いえ|ev|家
++ 家|いえ|ev|家#2
++ 人々|ひとびと|insanlar
++ 一杯|いっぱい|dolu; bir bardak
++ 静か|しずか|sakin, sessiz|静か#2
++ 漁村|ぎょそん|balıkçı köyü|漁村#2
++ 一番|いちばん|en, birinci
++ 活気づく|かっきづく|canlanmak, hareketlenmek
++ 時|とき|zaman, an
+9 この港{みなと}は昔{むかし}は鯨{くじら}の漁{りょう}で栄{さか}えていたが、今{いま}は漁民{ぎょみん}たちは漁{りょう}をやめ、町{まち}に働{はたら}きに出{で}ている。
+= Bu liman eskiden balina av-ı-yla gelişmiş-ti ama, şimdi balıkçı-lar av-ı bırak-ıp kasaba-ya çalış-ma-ya git-iyor-lar.
++ 港|みなと|liman
++ 昔|むかし|eskiden, eski zamanlar
++ 鯨|くじら|balina
++ 漁|りょう|balık avı, av|漁で
++ 栄える|さかえる|gelişmek, refaha kavuşmak|栄え
++ 今|いま|şimdi
++ 漁民|ぎょみん|balıkçılar
++ 漁|りょう|balık avı, av|漁を
++ 町|まち|kasaba, şehir
++ 働く|はたらく|çalışmak|働
++ 出る|でる|çıkmak|出
+10 言{い}うまでもなく、鮮魚{せんぎょ}は鮮度{せんど}が命{いのち}です。
+= Söylemeye gerek yok, taze balık-ta tazelik her şey-dir.
++ 言う|いう|söylemek, demek|言
++ 鮮魚|せんぎょ|taze balık
++ 鮮度|せんど|tazelik
++ 命|いのち|hayat, can (…が命: … her şeydir)

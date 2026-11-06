@@ -1,0 +1,157 @@
+@ 16 第16回
+1 今{いま}は不況{ふきょう}で、大卒{だいそつ}の人{ひと}でもなかなかいい仕事{しごと}が見{み}つからない。
+= Şimdi durgunluk yüzün-den, üniversite mezun-u insan bile bir türlü iyi iş bul-a-mı-yor.
++ 今|いま|şimdi
++ 不況|ふきょう|durgunluk, ekonomik kriz
++ 大卒|だいそつ|üniversite mezunu
++ 人|ひと|insan, kişi
++ 仕事|しごと|iş
++ 見つかる|みつかる|bulunmak|見つか
+2 日本{にほん}の大{おお}きな会社{かいしゃ}ではこれまでは、たいてい新卒者{しんそつしゃ}をとっていました。
+= Japonya-nın büyük şirket-ler-i şimdiye kadar genellikle yeni mezun-lar-ı işe al-ıyor-du.
++ 日本|にほん|Japonya
++ 大きな|おおきな|büyük
++ 会社|かいしゃ|şirket
++ 新卒者|しんそつしゃ|yeni mezun
+3 雨{あめ}の中{なか}わざわざレストランに行{い}ったのに、「本日{ほんじつ}休業{きゅうぎょう}」と書{か}いてあった。
+= Yağmur-un için-de zahmet edip restoran-a git-ti-m ama, "Bugün kapalı" diye yaz-ıl-ı-ydı.
++ 雨|あめ|yağmur
++ 中|なか|iç, içi
++ 行く|いく|gitmek|行
++ 本日|ほんじつ|bugün (resmî)
++ 休業|きゅうぎょう|kapalı olma, tatil (işyeri)
++ 書く|かく|yazmak|書
+4 事業{じぎょう}に成功{せいこう}する人{ひと}は、人間{にんげん}的{てき}にも何{なに}か素晴{すば}らしいところを持{も}っている。
+= İş-te başarılı ol-an insan-lar, insan ol-arak da harika bir yan-a sahip-tir.
++ 事業|じぎょう|iş, girişim, işletme
++ 成功|せいこう|başarı
++ 人|ひと|insan, kişi
++ 人間的|にんげんてき|insani, insan olarak
++ 何か|なにか|bir şey|何か
++ 素晴らしい|すばらしい|harika, muhteşem
++ 持つ|もつ|tutmak, sahip olmak|持
+5 当{とう}スポーツ・クラブのデータイム・メンバーの利用{りよう}時間{じかん}は5時{じ}までです。
+= Spor kulüb-ümüz-ün gündüz üye-ler-i-nin kullanım saat-i beş-e kadar-dır.
++ 当|とう|bu, işbu (当〜: bizim …)
++ 利用|りよう|kullanma, yararlanma
++ 時間|じかん|zaman, saat
++ 時|じ|saat (…時)
+6 スポーツ用具{ようぐ}を使用{しよう}した後{あと}は必{かなら}ずもとの場所{ばしょ}に戻{もど}してください。
+= Spor malzeme-si-ni kullan-dık-tan sonra mutlaka eski yer-i-ne geri koy-un lütfen.
++ 用具|ようぐ|malzeme, gereç
++ 使用|しよう|kullanım
++ 後|あと|sonra; arka
++ 必ず|かならず|mutlaka, kesinlikle
++ 場所|ばしょ|yer
++ 戻す|もどす|geri koymak, iade etmek|戻
+7 突然{とつぜん}、「今日{きょう}はちょっと用事{ようじ}がありますので、お先{さき}に失礼{しつれい}します。」と言{い}って、彼{かれ}は立{た}ち去{さ}った。
+= Aniden "Bugün biraz iş-im var, müsaadenizle önce çık-ıyor-um" de-yip, o çek-ip git-ti.
++ 突然|とつぜん|aniden, birden
++ 今日|きょう|bugün
++ 用事|ようじ|iş, yapılacak iş
++ お先に|おさきに|(sizden) önce
++ 失礼|しつれい|kabalık; müsaadenizle (失礼します)
++ 言う|いう|söylemek, demek|言
++ 彼|かれ|o (erkek)
++ 立ち去る|たちさる|çekip gitmek, ayrılmak|立ち去
+8 食事{しょくじ}の用意{ようい}ができましたので、みなさん、食堂{しょくどう}の方{ほう}にいらしてください。
+= Yemek-in hazırlığ-ı tamam ol-duğ-u için, herkes yemekhane taraf-ı-na buyur-sun lütfen.
++ 食事|しょくじ|yemek
++ 用意|ようい|hazırlık
++ 食堂|しょくどう|yemekhane, lokanta
++ 方|ほう|taraf, yön
+9 文学{ぶんがく}専門{せんもん}の私{わたし}には、経済学{けいざいがく}の用語{ようご}や政治学{せいじがく}の用語{ようご}は全然{ぜんぜん}分{わ}かりません。
+= Edebiyat uzman-ı ol-an ben, iktisat-ın terim-ler-i-ni ve siyaset bilim-i-nin terim-ler-i-ni hiç anla-mı-yor-um.
++ 文学|ぶんがく|edebiyat
++ 専門|せんもん|uzmanlık alanı
++ 私|わたし|ben
++ 経済学|けいざいがく|iktisat, ekonomi bilimi
++ 用語|ようご|terim|用語
++ 政治学|せいじがく|siyaset bilimi
++ 用語|ようご|terim|用語#2
++ 全然|ぜんぜん|hiç (olumsuzla)
++ 分かる|わかる|anlamak|分か
+10 今{いま}くらいの日本語{にほんご}ではビジネスの世界{せかい}では通用{つうよう}しない。
+= Şimdi-ki kadar-ki Japonca-yla iş dünya-sı-nda geçer-li ol-maz.
++ 今|いま|şimdi
++ 日本語|にほんご|Japonca
++ 世界|せかい|dünya
++ 通用|つうよう|geçerli olma, işe yarama
+11 雪{ゆき}の上{うえ}を歩{ある}く時{とき}は、用心{ようじん}して歩{ある}かないとすべって転{ころ}んでしまう。
+= Kar-ın üst-ün-de yürü-r-ken, dikkat ed-ip yürü-me-z-se-n kay-ıp düş-er-sin.
++ 雪|ゆき|kar
++ 上|うえ|üst
++ 歩く|あるく|yürümek|歩
++ 時|とき|zaman, …iken
++ 用心|ようじん|dikkat, ihtiyat
++ 歩く|あるく|yürümek|歩#2
++ 転ぶ|ころぶ|düşmek, yuvarlanmak|転
+12 私{わたし}の趣味{しゅみ}は写真{しゃしん}です。
+= Benim hobi-m fotoğraf-tır.
++ 私|わたし|ben
++ 趣味|しゅみ|hobi
++ 写真|しゃしん|fotoğraf
+13 日本{にほん}料理{りょうり}ではたいていのものは醤油{しょうゆ}で味{あじ}をつけます。言{い}ってみれば、醤油{しょうゆ}は何{なん}でも日本{にほん}料理{りょうり}にしてしまう万能{ばんのう}の調味料{ちょうみりょう}です。
+= Japon yemek-ler-i-nde çoğu şey-e soya sos-u-yla tat ver-il-ir. Bir bakıma, soya sos-u her şey-i Japon yemeğ-i-ne dönüştür-en çok yönlü bir çeşni-dir.
++ 日本料理|にほんりょうり|Japon mutfağı|日本料理
++ 醤油|しょうゆ|soya sosu|醤油
++ 味|あじ|tat, lezzet
++ 言う|いう|söylemek, demek|言
++ 醤油|しょうゆ|soya sosu|醤油#2
++ 何でも|なんでも|her şey, ne olursa
++ 日本料理|にほんりょうり|Japon mutfağı|日本料理#2
++ 万能|ばんのう|çok yönlü, her işe yarar
++ 調味料|ちょうみりょう|çeşni, baharat, sos
+14 旅先{たびさき}でその土地{とち}その土地{とち}の名物{めいぶつ}を味{あじ}わうのが私{わたし}の楽{たの}しみです。
+= Seyahat-te her yer-in kendi meşhur yiyecek-i-ni tat-mak benim zevk-im-dir.
++ 旅先|たびさき|gidilen yer (seyahatte)
++ 土地|とち|yer, yöre; arsa|土地
++ 名物|めいぶつ|(yöreye ait) meşhur ürün/yemek
++ 味わう|あじわう|tadına varmak, tatmak|味わう
++ 私|わたし|ben
++ 楽しみ|たのしみ|zevk, keyif; dört gözle bekleme
+15 道路{どうろ}を横断{おうだん}する時{とき}は、横断{おうだん}歩道{ほどう}か歩道橋{ほどうきょう}を渡{わた}りましょう。
+= Yol-dan karşıya geç-er-ken, yaya geçid-i-nden ya da üst geçit-ten geç-elim.
++ 道路|どうろ|yol, cadde
++ 横断|おうだん|karşıdan karşıya geçme|横断
++ 時|とき|zaman, …iken
++ 横断歩道|おうだんほどう|yaya geçidi
++ 歩道橋|ほどうきょう|yaya üst geçidi
++ 渡る|わたる|geçmek (karşıya)|渡
+16 あんなに素敵{すてき}な人{ひと}なのに色{いろ}っぽい話{はなし}が何{なに}もないなんて絶対{ぜったい}おかしい。
+= O kadar hoş bir insan ol-duğ-u hâlde hiç romantik bir hikâye-si-nin ol-ma-ma-sı kesinlikle tuhaf.
++ 素敵|すてき|hoş, harika
++ 人|ひと|insan, kişi
++ 色っぽい|いろっぽい|çekici, cilveli; aşk/romantik (konu)
++ 話|はなし|söz, hikâye
++ 何も|なにも|hiçbir şey (olumsuzla)
++ 絶対|ぜったい|kesinlikle, mutlaka
+17 研究{けんきゅう}では文語{ぶんご}の資料{しりょう}も読{よ}まなければならないので、これから文語{ぶんご}も勉強{べんきょう}しなければなりません。
+= Araştırma-da klasik yazı dil-i-nin kaynak-lar-ı-nı da oku-mak zorunda ol-duğ-um için, bundan sonra klasik dil-i de çalış-mam gerek.
++ 研究|けんきゅう|araştırma
++ 文語|ぶんご|yazı dili, klasik Japonca|文語
++ 資料|しりょう|belge, kaynak
++ 読む|よむ|okumak|読
++ 文語|ぶんご|yazı dili, klasik Japonca|文語#2
++ 勉強|べんきょう|ders çalışma
+18 作家{さっか}によって明{あき}らかに文体{ぶんたい}が違{ちが}う。
+= Yazar-a göre üslup açıkça farklı-dır.
++ 作家|さっか|yazar
++ 明らか|あきらか|açık, belli|明らか
++ 文体|ぶんたい|üslup, yazı tarzı
++ 違う|ちがう|farklı olmak|違
+19 食{た}べ物{もの}や飲{の}み物{もの}を残{のこ}すのは、本当{ほんとう}にもったいないと思{おも}います。
+= Yiyecek ve içecek-ler-i art-ır-mak-ı gerçekten israf diye düşün-ür-üm.
++ 食べ物|たべもの|yiyecek
++ 飲み物|のみもの|içecek
++ 残す|のこす|bırakmak, artırmak|残
++ 本当|ほんとう|gerçek, gerçekten
++ 思う|おもう|düşünmek, sanmak|思
+20 私{わたし}の机{つくえ}の上{うえ}には決{けっ}して物{もの}を置{お}かないでください。
+= Benim masa-m-ın üst-ün-e kesinlikle eşya koy-ma-yın lütfen.
++ 私|わたし|ben
++ 机|つくえ|masa
++ 上|うえ|üst
++ 決して|けっして|asla, kesinlikle (olumsuzla)|決して
++ 物|もの|şey, eşya
++ 置く|おく|koymak|置

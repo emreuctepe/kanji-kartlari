@@ -1,0 +1,121 @@
+@ 18 第18回
+1 寒{さむ}い外{そと}から家{いえ}に帰{かえ}って、暖{あたた}かい部屋{へや}で温{あたた}かいスープを飲{の}むと、体{からだ}も心{こころ}も暖{あたた}まる。
+= Soğuk dışarı-dan ev-e dön-üp, sıcak oda-da sıcak çorba iç-ince, beden de gönül de ısın-ır.
++ 寒い|さむい|soğuk|寒
++ 外|そと|dışarı, dış
++ 家|いえ|ev
++ 帰る|かえる|dönmek (eve)|帰
++ 暖かい|あたたかい|ılık, sıcak (hava, oda)|暖かい
++ 部屋|へや|oda
++ 温かい|あたたかい|sıcak (yiyecek, içecek; kalp)|温かい
++ 飲む|のむ|içmek|飲
++ 体|からだ|beden, vücut
++ 心|こころ|gönül, kalp, ruh
++ 暖まる|あたたまる|ısınmak|暖まる
+2 暑{あつ}い日{ひ}に喫茶店{きっさてん}に入{はい}って、涼{すず}しい部屋{へや}で冷{つめ}たいアイスコーヒーを飲{の}むと生{い}き返{かえ}ったような気{き}がする。
+= Sıcak bir gün-de kafe-ye gir-ip, serin oda-da soğuk buzlu kahve iç-ince yeniden can-lan-mış gibi hisset-er-im.
++ 暑い|あつい|sıcak (hava)|暑
++ 日|ひ|gün
++ 喫茶店|きっさてん|kafe, kahvehane
++ 入る|はいる|girmek|入
++ 涼しい|すずしい|serin|涼し
++ 部屋|へや|oda
++ 冷たい|つめたい|soğuk (dokununca)|冷た
++ 飲む|のむ|içmek|飲
++ 生き返る|いきかえる|canlanmak, hayata dönmek|生き返
++ 気|き|his, ruh (気がする: gibi hissetmek)
+3 映画{えいが}やドラマを見{み}ていて、悲{かな}しい場面{ばめん}になると私{わたし}は必{かなら}ず泣{な}いてしまう。
+= Film ya da dizi izler-ken, üzücü sahne gel-ince ben mutlaka ağla-r-ım.
++ 映画|えいが|film
++ 見る|みる|görmek, izlemek|見
++ 悲しい|かなしい|üzücü, hüzünlü|悲し
++ 場面|ばめん|sahne
++ 私|わたし|ben
++ 必ず|かならず|mutlaka, kesinlikle
++ 泣く|なく|ağlamak|泣
+4 入学{にゅうがく}試験{しけん}に失敗{しっぱい}したからといって、深刻{しんこく}に考{かんが}えて自分{じぶん}を苦{くる}しめることはない。また、来年{らいねん}やればいいんだから。
+= Giriş sınav-ın-da başarısız ol-du diye, ciddi ciddi düşün-üp kendi-n-i üz-me-ye gerek yok. Seneye yine yap-sa-n ol-ur çünkü.
++ 入学試験|にゅうがくしけん|giriş sınavı
++ 失敗|しっぱい|başarısızlık, hata
++ 深刻|しんこく|ciddi, vahim
++ 考える|かんがえる|düşünmek|考え
++ 自分|じぶん|kendi, kendisi
++ 苦しめる|くるしめる|acı çektirmek, üzmek|苦しめる
++ 来年|らいねん|gelecek yıl
+5 苦心{くしん}したわりにはあまりいいレポートが書{か}けなかった。
+= Çok uğraş-tı-ğ-ım hâlde pek iyi bir rapor yaz-a-ma-dı-m.
++ 苦心|くしん|uğraş, emek, çaba
++ 書く|かく|yazmak|書
+6 眠{ねむ}かったが、苦{にが}いコーヒーを飲{の}んだので、頭{あたま}がはっきりとした。
+= Uykum var-dı ama, acı kahve iç-tiğ-im için kafa-m açıl-dı.
++ 眠い|ねむい|uykulu|眠
++ 苦い|にがい|acı (tat); acı (deneyim)|苦い
++ 飲む|のむ|içmek|飲
++ 頭|あたま|baş, kafa
+7 私{わたし}は女性{じょせい}に関{かん}してはちょっと苦{にが}い経験{けいけん}があるので、今{いま}はあまり恋愛{れんあい}に興味{きょうみ}がありません。
+= Ben-im kadın-lar konusunda biraz acı bir deneyim-im ol-duğ-u için, şimdi aşk-a pek ilgi-m yok.
++ 私|わたし|ben
++ 女性|じょせい|kadın
++ 関する|かんする|ilgili olmak (〜に関して: … hakkında)|関
++ 苦い|にがい|acı (tat); acı (deneyim)|苦い
++ 経験|けいけん|deneyim, tecrübe
++ 今|いま|şimdi
++ 恋愛|れんあい|aşk, romantik ilişki
++ 興味|きょうみ|ilgi, merak
+8 苦{くる}しみながら長{なが}く生{い}きるより、安楽死{あんらくし}させてもらった方{ほう}がいい。
+= Acı çek-e-rek uzun yaşa-mak-tan-sa, ötanazi yap-tır-mak daha iyi.
++ 苦しみ|くるしみ|acı, ıstırap|苦しみ
++ 長い|ながい|uzun|長
++ 生きる|いきる|yaşamak|生きる
++ 安楽死|あんらくし|ötanazi
++ 方|ほう|taraf (〜た方がいい: … daha iyi)
+9 昨日{きのう}は（けがをした手{て}が）とても痛{いた}かったが、今日{きょう}はだいぶ痛{いた}みがとれた。今{いま}も少{すこ}しは痛{いた}みますが。
+= Dün (yaralı el-im) çok acı-yor-du ama, bugün acı epey geç-ti. Hâlâ biraz acı-yor gerçi.
++ 昨日|きのう|dün
++ 手|て|el
++ 痛い|いたい|ağrılı, acıyan|痛か
++ 今日|きょう|bugün
++ 痛み|いたみ|ağrı, acı|痛み
++ 今|いま|şimdi
++ 少し|すこし|biraz|少し
++ 痛む|いたむ|ağrımak, acımak|痛み#2
+10 社長{しゃちょう}は85才{さい}になってやっと引退{いんたい}し、社長{しゃちょう}の長男{ちょうなん}が新{あたら}しい社長{しゃちょう}になった。
+= Şirket başkan-ı 85 yaş-ın-a gel-ince nihayet emekli ol-du ve başkan-ın büyük oğl-u yeni başkan ol-du.
++ 社長|しゃちょう|şirket başkanı, patron|社長
++ 才|さい|yaş (sayma sözcüğü)
++ 引退|いんたい|emekliye ayrılma, (görevden) çekilme
++ 社長|しゃちょう|şirket başkanı, patron|社長#2
++ 長男|ちょうなん|en büyük oğul
++ 新しい|あたらしい|yeni|新し
++ 社長|しゃちょう|şirket başkanı, patron|社長#3
+11 論理的{ろんりてき}に議論{ぎろん}すると、あいつは理屈{りくつ}の多{おお}い奴{やつ}だと言{い}われることがある。
+= Mantıklı biçim-de tartış-ınca, "o lafazan, mantık taslayan bir herif" de-n-diğ-i ol-ur.
++ 論理的|ろんりてき|mantıksal, mantıklı
++ 議論|ぎろん|tartışma
++ 理屈|りくつ|mantık; laf ebeliği (理屈が多い: lafazan)
++ 多い|おおい|çok|多い
++ 奴|やつ|herif, adam (kaba)
++ 言う|いう|söylemek, demek|言
+12 彼女{かのじょ}とは中学{ちゅうがく}でも高校{こうこう}でも同{おな}じクラスでした。
+= O (kadın)-la ortaokul-da da lise-de de aynı sınıf-taydı-k.
++ 彼女|かのじょ|o (kadın); kız arkadaş
++ 中学|ちゅうがく|ortaokul
++ 高校|こうこう|lise
++ 同じ|おなじ|aynı|同じ
+13 親{おや}の同意{どうい}がなければこのキャンプに参加{さんか}することはできません。
+= Ebeveyn-in onay-ı ol-ma-z-sa bu kamp-a katıl-a-maz-sın.
++ 親|おや|ebeveyn, anne-baba
++ 同意|どうい|onay, rıza
++ 参加|さんか|katılım
+14 私{わたし}は不器用{ぶきよう}なので、同時{どうじ}に二{ふた}つの仕事{しごと}をすることはできません。
+= Ben beceriksiz ol-duğ-um için, aynı anda iki iş yap-a-ma-m.
++ 私|わたし|ben
++ 不器用|ぶきよう|beceriksiz, eli işe yatmayan
++ 同時に|どうじに|aynı anda
++ 二つ|ふたつ|iki (tane)
++ 仕事|しごと|iş
+15 スーパーマンとクラーク・ケントが同一{どういつ}人物{じんぶつ}であることは、誰{だれ}も知{し}らない。
+= Süpermen ile Clark Kent-in aynı kişi ol-duğ-u-nu kimse bil-mi-yor.
++ 同一人物|どういつじんぶつ|aynı kişi
++ 誰も|だれも|kimse (olumsuzla)|誰も
++ 知る|しる|bilmek, öğrenmek|知

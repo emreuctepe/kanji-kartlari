@@ -1,0 +1,160 @@
+@ 19 第19回
+1 戦争{せんそう}のない平和{へいわ}な世界{せかい}をつくることは、世界{せかい}中{じゅう}の人々{ひとびと}の願{ねが}いです。
+= Savaş-ın ol-ma-dığ-ı barış-çıl bir dünya kur-mak, bütün dünya-daki insan-lar-ın dileğ-i-dir.
++ 戦争|せんそう|savaş
++ 平和|へいわ|barış
++ 世界|せかい|dünya|世界
++ 世界中|せかいじゅう|bütün dünya(da)
++ 人々|ひとびと|insanlar
++ 願い|ねがい|dilek, istek|願い
+2 彼{かれ}は入学{にゅうがく}試験{しけん}に失敗{しっぱい}しても平気{へいき}な顔{かお}をしているが、実{じつ}はとてもがっかりしている。
+= O, giriş sınav-ın-da başarısız ol-sa da umursamaz bir yüz ifade-si takın-ıyor ama, aslında çok hayal kırıklığ-ı-na uğra-mış.
++ 彼|かれ|o (erkek)
++ 入学試験|にゅうがくしけん|giriş sınavı
++ 失敗|しっぱい|başarısızlık, hata
++ 平気|へいき|umursamaz, sakin, aldırmaz
++ 顔|かお|yüz
++ 実は|じつは|aslında, işin doğrusu|実は
+3 管理職{かんりしょく}の大切{たいせつ}な仕事{しごと}は社員{しゃいん}の間{あいだ}に和{わ}をつくることです。
+= Yönetici-ler-in önemli görev-i, çalışan-lar arası-nda uyum yarat-mak-tır.
++ 管理職|かんりしょく|yönetici kadro
++ 大切|たいせつ|önemli, değerli
++ 仕事|しごと|iş
++ 社員|しゃいん|şirket çalışanı
++ 間|あいだ|ara, arası
++ 和|わ|uyum, ahenk; barış
+4 和文{わぶん}英訳{えいやく}は簡単{かんたん}ですが、英文{えいぶん}和訳{わやく}は難{むずか}しいです。
+= Japonca metn-i İngilizce-ye çevir-mek kolay ama, İngilizce metn-i Japonca-ya çevir-mek zor.
++ 和文|わぶん|Japonca metin
++ 英訳|えいやく|İngilizceye çeviri
++ 簡単|かんたん|kolay, basit
++ 英文|えいぶん|İngilizce metin
++ 和訳|わやく|Japoncaya çeviri
++ 難しい|むずかしい|zor|難し
+5 日本{にほん}の会社{かいしゃ}で男女{だんじょ}平等{びょうどう}が実現{じつげん}されるのにはまだまだ時間{じかん}がかかるだろう。
+= Japon şirket-ler-in-de kadın-erkek eşitliğ-i-nin gerçekleş-me-si-ne daha çok zaman var gibi.
++ 日本|にほん|Japonya
++ 会社|かいしゃ|şirket
++ 男女|だんじょ|kadın ve erkek
++ 平等|びょうどう|eşitlik
++ 実現|じつげん|gerçekleşme, gerçekleştirme
++ 時間|じかん|zaman, saat
+6 この仕事{しごと}の応募{おうぼ}の条件{じょうけん}は「大学{だいがく}卒業{そつぎょう}またはそれと同等{どうとう}の学力{がくりょく}があること」です。
+= Bu iş-in başvuru şart-ı "üniversite mezun-u ya da on-a denk bilgi düzey-i-ne sahip ol-mak"-tır.
++ 仕事|しごと|iş
++ 応募|おうぼ|başvuru
++ 条件|じょうけん|şart, koşul
++ 大学|だいがく|üniversite
++ 卒業|そつぎょう|mezuniyet
++ 同等|どうとう|eşdeğer, denk
++ 学力|がくりょく|akademik yeterlik, bilgi düzeyi
+7 おやつはいつも兄弟{きょうだい}で等分{とうぶん}に分{わ}けます。
+= Atıştırmalık-lar-ı her zaman kardeş-ler eşit paylaş-ır-ız.
++ 兄弟|きょうだい|kardeşler
++ 等分|とうぶん|eşit bölme
++ 分ける|わける|bölmek, paylaştırmak|分け
+8 ビジネスで成功{せいこう}するためにはまず第一{だいいち}にいい人材{じんざい}を集{あつ}めることです。
+= İş-te başarılı ol-mak için önce ilk olarak iyi eleman-lar topla-mak gerek.
++ 成功|せいこう|başarı
++ 第一に|だいいちに|ilk olarak, her şeyden önce|第一に
++ 人材|じんざい|nitelikli eleman, insan kaynağı
++ 集める|あつめる|toplamak|集め
+9 ドナルド・キーンはアメリカの日本{にほん}文学{ぶんがく}研究{けんきゅう}の第一人者{だいいちにんしゃ}です。
+= Donald Keene Amerika-nın Japon edebiyat-ı araştırma-sı-nın önde gelen isim-i-dir.
++ 日本文学|にほんぶんがく|Japon edebiyatı
++ 研究|けんきゅう|araştırma
++ 第一人者|だいいちにんしゃ|alanın önde gelen ismi, otorite
+10 第三者{だいさんしゃ}から見{み}るとそれほどでもない人{ひと}でも、好{す}きになった人{ひと}には素晴{すば}らしい人{ひと}に見{み}える。
+= Üçüncü kişi-den bak-ınca o kadar da ol-ma-yan biri bile, onu sev-en-e harika bir insan gibi gör-ün-ür.
++ 第三者|だいさんしゃ|üçüncü şahıs, tarafsız kişi
++ 見る|みる|görmek, bakmak|見
++ 人|ひと|insan, kişi|人
++ 好き|すき|sevmek, hoşlanmak|好き
++ 人|ひと|insan, kişi|人#2
++ 素晴らしい|すばらしい|harika, muhteşem
++ 人|ひと|insan, kişi|人#3
++ 見える|みえる|görünmek|見え
+11 万年筆{まんねんひつ}で書{か}くと筆{ふで}で書{か}いたように太{ふと}い部分{ぶぶん}と細{ほそ}い部分{ぶぶん}を書{か}き分{わ}けることができます。
+= Dolma kalem-le yaz-ınca fırça-yla yaz-mış gibi kalın kısım-la ince kısm-ı ayır-arak yaz-abil-ir-sin.
++ 万年筆|まんねんひつ|dolma kalem
++ 書く|かく|yazmak|書
++ 筆|ふで|fırça (yazı); kalem
++ 書く|かく|yazmak|書#2
++ 太い|ふとい|kalın|太
++ 部分|ぶぶん|kısım, bölüm|部分
++ 細い|ほそい|ince|細
++ 部分|ぶぶん|kısım, bölüm|部分#2
++ 書き分ける|かきわける|ayırt ederek yazmak|書き分け
+12 何回{なんかい}計算{けいさん}しても計算{けいさん}が合{あ}わない。
+= Kaç kez hesapla-sa-m da hesap tut-mu-yor.
++ 何回|なんかい|kaç kez
++ 計算|けいさん|hesap, hesaplama|計算
++ 計算|けいさん|hesap, hesaplama|計算#2
++ 合う|あう|uymak, tutmak|合
+13 以前{いぜん}は暗算{あんざん}がよくできたが、電卓{でんたく}を使{つか}うようになって、暗算{あんざん}ができなくなってしまった。
+= Eskiden akıl-dan hesap-ı iyi yap-abil-ir-di-m ama, hesap makine-si kullan-ma-ya başla-yınca, akıl-dan hesap yap-a-maz ol-du-m.
++ 以前|いぜん|önceden, eskiden
++ 暗算|あんざん|akıldan hesap|暗算
++ 電卓|でんたく|hesap makinesi
++ 使う|つかう|kullanmak|使
++ 暗算|あんざん|akıldan hesap|暗算#2
+14 彼{かれ}はボーイフレンドじゃなくて、単{たん}なる友達{ともだち}です。
+= O erkek arkadaş-ım değil, sadece bir arkadaş-tır.
++ 彼|かれ|o (erkek)
++ 単なる|たんなる|sadece, basit bir
++ 友達|ともだち|arkadaş
+15 大統領{だいとうりょう}からの書簡{しょかん}が首相{しゅしょう}に届{とど}いた。
+= Cumhurbaşkanı-ndan gel-en mektup başbakan-a ulaş-tı.
++ 大統領|だいとうりょう|cumhurbaşkanı, başkan
++ 書簡|しょかん|mektup (resmî)
++ 首相|しゅしょう|başbakan
++ 届く|とどく|ulaşmak, varmak|届
+16 英語{えいご}話者{わしゃ}にとって日本語{にほんご}の単語{たんご}を覚{おぼ}えることはとても大変{たいへん}なことだ。
+= İngilizce konuşan-lar için Japonca-nın kelime-ler-i-ni ezberle-mek çok zor bir şey-dir.
++ 英語|えいご|İngilizce
++ 話者|わしゃ|konuşan kişi
++ 日本語|にほんご|Japonca
++ 単語|たんご|kelime, sözcük
++ 覚える|おぼえる|ezberlemek, öğrenmek|覚える
++ 大変|たいへん|çok; zor
+17 戦争{せんそう}している二{ふた}つの国{くに}を休戦{きゅうせん}させることは難{むずか}しいが、和平{わへい}を実現{じつげん}することはもっと難{むずか}しい。
+= Savaş-an iki ülke-yi ateşkes-e götür-mek zor ama, barış-ı gerçekleştir-mek daha da zor.
++ 戦争|せんそう|savaş
++ 二つ|ふたつ|iki (tane)
++ 国|くに|ülke, devlet
++ 休戦|きゅうせん|ateşkes
++ 難しい|むずかしい|zor|難し
++ 和平|わへい|barış (antlaşma)
++ 実現|じつげん|gerçekleşme, gerçekleştirme
++ 難しい|むずかしい|zor|難し#2
+18 内戦{ないせん}で多{おお}くの人々{ひとびと}が住{す}む家{いえ}を失{うしな}い、家族{かぞく}や友{とも}を失{うしな}った。
+= İç savaş-ta çok insan otur-duğ-u ev-i kaybet-ti, aile-si-ni ve dost-lar-ı-nı kaybet-ti.
++ 内戦|ないせん|iç savaş
++ 多く|おおく|çok, birçok|多く
++ 人々|ひとびと|insanlar
++ 住む|すむ|yaşamak, oturmak|住
++ 家|いえ|ev
++ 失う|うしなう|kaybetmek|失
++ 家族|かぞく|aile
++ 友|とも|dost, arkadaş
++ 失う|うしなう|kaybetmek|失#2
+19 戦前{せんぜん}と戦後{せんご}では、日本{にほん}の社会{しゃかい}はいろいろな面{めん}で大{おお}きく変化{へんか}しました。
+= Savaş öncesi ile savaş sonrası arasında, Japonya-nın toplum-u çeşitli yön-ler-den büyük ölçüde değiş-ti.
++ 戦前|せんぜん|savaş öncesi
++ 戦後|せんご|savaş sonrası
++ 日本|にほん|Japonya
++ 社会|しゃかい|toplum
++ 面|めん|yön, açı; yüz
++ 大きい|おおきい|büyük|大き
++ 変化|へんか|değişim
+20 第二次{だいにじ}世界{せかい}大戦{たいせん}で日本{にほん}は米国{べいこく}と戦{たたか}って敗{やぶ}れた。
+= İkinci Dünya Savaşı-nda Japonya ABD ile savaş-ıp yenil-di.
++ 第二次世界大戦|だいにじせかいたいせん|İkinci Dünya Savaşı
++ 日本|にほん|Japonya
++ 米国|べいこく|ABD, Amerika
++ 戦う|たたかう|savaşmak, mücadele etmek|戦
++ 敗れる|やぶれる|yenilmek|敗れ
+21 つまらない言{い}い争{あらそ}いはやめて、仲良{なかよ}くやりましょう。
+= Boş çekişme-yi bırak-ıp, iyi geçin-elim.
++ 言い争い|いいあらそい|tartışma, ağız kavgası
++ 仲良く|なかよく|iyi geçinerek, dostça|仲良く

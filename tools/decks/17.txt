@@ -1,0 +1,154 @@
+@ 17 第17回
+1 勉強{べんきょう}のためとはいえ、家族{かぞく}と離{はな}れて暮{く}らすのはやはり寂{さび}しいものです。
+= Ders için ol-sa da, aile-den ayrı yaşa-mak yine de yalnız hisset-tir-ir.
++ 勉強|べんきょう|ders çalışma
++ 家族|かぞく|aile
++ 離れる|はなれる|ayrılmak, uzaklaşmak|離れ
++ 暮らす|くらす|yaşamak, geçinmek|暮ら
++ 寂しい|さびしい|yalnız, kimsesiz hissetmek|寂し
+2 最近{さいきん}は食事{しょくじ}付{つ}きの下宿{げしゅく}は少{すく}なくなった。
+= Son zaman-lar-da yemek-li pansiyon az-al-dı.
++ 最近|さいきん|son zamanlarda
++ 食事|しょくじ|yemek
++ 付き|つき|…li, dahil|付き
++ 下宿|げしゅく|pansiyon (öğrenci için oda kiralama)
++ 少ない|すくない|az|少な
+3 久{ひさ}しぶりにのんびりしようと思{おも}って温泉{おんせん}に行{い}った。宿{やど}に着{つ}くとさっそくひと風呂{ふろ}浴{あ}びた。
+= Uzun zaman sonra kafa dinle-yeyim diye düşün-üp kaplıca-ya git-ti-m. Han-a var-ınca hemen bir banyo yap-tı-m.
++ 久しぶり|ひさしぶり|uzun zaman sonra|久しぶり
++ 思う|おもう|düşünmek, sanmak|思
++ 温泉|おんせん|kaplıca
++ 行く|いく|gitmek|行
++ 宿|やど|han, konaklama yeri
++ 着く|つく|varmak, ulaşmak|着
++ 風呂|ふろ|banyo, küvet
++ 浴びる|あびる|(banyo, duş) almak, yıkanmak|浴び
+4 急{きゅう}に雨{あめ}が降{ふ}りだしたので、すぐそばのケーキ屋{や}さんの店先{みせさき}で雨宿{あまやど}りした。
+= Aniden yağmur yağ-ma-ya başla-dığ-ı için, hemen yan-daki pastane-nin ön-ün-de yağmur-dan korun-du-m.
++ 急に|きゅうに|aniden, birden
++ 雨|あめ|yağmur
++ 降る|ふる|(yağmur/kar) yağmak|降
++ 屋|や|dükkân, …cı
++ 店先|みせさき|dükkân önü
++ 雨宿り|あまやどり|yağmurdan korunmak için sığınma
+5 昨日{きのう}見{み}た映画{えいが}、すごく面白{おもしろ}かったんだけど、もう題名{だいめい}、忘{わす}れちゃった。
+= Dün izle-diğ-im film çok ilginç-ti ama, ad-ı-nı çoktan unut-tu-m.
++ 昨日|きのう|dün
++ 見る|みる|görmek, izlemek|見
++ 映画|えいが|film
++ 面白い|おもしろい|ilginç, eğlenceli|面白
++ 題名|だいめい|başlık, ad (eser)
++ 忘れる|わすれる|unutmak|忘れ
+6 私{わたし}はアメリカのマサチューセッツ州{しゅう}で運転{うんてん}免許{めんきょ}をとったが、試験{しけん}は10問{もん}出題{しゅつだい}されて、そのうち8問{もん}できれば合格{ごうかく}です。
+= Ben ehliyet-i Amerika-da Massachusetts eyalet-i-nde al-dı-m; sınav-da on soru sor-ul-ur, bun-lar-ın sekiz-i-ni yap-abil-ir-se-n geç-er-sin.
++ 私|わたし|ben
++ 州|しゅう|eyalet
++ 運転免許|うんてんめんきょ|ehliyet
++ 試験|しけん|sınav
++ 問|もん|soru (sayma sözcüğü)|問
++ 出題|しゅつだい|soru sorma, soru hazırlama
++ 問|もん|soru (sayma sözcüğü)|問#2
++ 合格|ごうかく|sınavı geçme, başarı
+7 彼女{かのじょ}は趣味{しゅみ}が多{おお}く話題{わだい}が豊富{ほうふ}で、話{はな}していてとても楽{たの}しい人{ひと}だ。
+= O (kadın)-ın hobi-ler-i çok, konuşacak konu-su bol; konuş-ur-ken çok keyifli bir insan.
++ 彼女|かのじょ|o (kadın); kız arkadaş
++ 趣味|しゅみ|hobi
++ 多い|おおい|çok|多
++ 話題|わだい|konu (sohbet)
++ 豊富|ほうふ|bol, zengin
++ 話す|はなす|konuşmak|話
++ 楽しい|たのしい|eğlenceli, keyifli|楽し
++ 人|ひと|insan, kişi
+8 説明{せつめい}する時{とき}は図{ず}や表{ひょう}を使{つか}うと一層{いっそう}分{わ}かりやすくなります。
+= Açıkla-r-ken şekil ve tablo kullan-ınca daha da kolay anlaş-ıl-ır ol-ur.
++ 説明|せつめい|açıklama
++ 時|とき|zaman, …iken
++ 図|ず|şekil, çizim, diyagram
++ 表|ひょう|tablo, çizelge
++ 使う|つかう|kullanmak|使
++ 一層|いっそう|daha da, bir kat daha
++ 分かる|わかる|anlamak|分か
+9 合図{あいず}をしたら電気{でんき}を消{け}してください。
+= İşaret ver-ince ışığ-ı kapat-ın lütfen.
++ 合図|あいず|işaret
++ 電気|でんき|elektrik; ışık
++ 消す|けす|söndürmek, kapatmak|消
+10 彼{かれ}の親切{しんせつ}な言葉{ことば}の裏{うら}には必{かなら}ず何{なに}か意図{いと}がある。
+= Onun nazik söz-ler-i-nin ardın-da mutlaka bir niyet var.
++ 彼|かれ|o (erkek)
++ 親切|しんせつ|nazik, iyi kalpli
++ 言葉|ことば|söz, kelime
++ 裏|うら|arka, ters taraf
++ 必ず|かならず|mutlaka, kesinlikle
++ 何か|なにか|bir şey|何か
++ 意図|いと|niyet, amaç
+11 せっかく日本{にほん}に来{き}たのだから、西洋式{せいようしき}のホテルよりも日本式{にほんしき}の旅館{りょかん}に泊{と}まりたい。
+= Madem Japonya-ya gel-di-m, Batı tarz-ı otel-den çok Japon tarz-ı han-da kal-mak isti-yor-um.
++ 日本|にほん|Japonya
++ 来る|くる|gelmek|来
++ 西洋式|せいようしき|Batı tarzı
++ 日本式|にほんしき|Japon tarzı
++ 旅館|りょかん|Japon tarzı han, ryokan
++ 泊まる|とまる|konaklamak, gecelemek|泊
+12 固{かた}い座席{ざせき}に長{なが}く座{すわ}っていると疲{つか}れる。
+= Sert koltuk-ta uzun süre otur-unca yorul-ur-sun.
++ 固い|かたい|sert, katı|固
++ 座席|ざせき|koltuk, oturak
++ 長い|ながい|uzun|長
++ 座る|すわる|oturmak|座
++ 疲れる|つかれる|yorulmak|疲れ
+13 日本{にほん}に来{き}たのは今度{こんど}で二度{にど}目{め}です。
+= Japonya-ya gel-iş-im bu sefer-ki ile ikinci kez-dir.
++ 日本|にほん|Japonya
++ 来る|くる|gelmek|来
++ 今度|こんど|bu sefer; gelecek sefer
++ 二度目|にどめ|ikinci kez
+14 彼{かれ}はワープロを使{つか}うたびに、毎度{まいど}（使{つか}い方{かた}について）同{おな}じ質問{しつもん}をしている。
+= O, kelime işlemci-yi her kullan-dığ-ın-da, her seferinde (kullanım şekl-i hakkında) aynı soru-yu sor-uyor.
++ 彼|かれ|o (erkek)
++ 使う|つかう|kullanmak|使
++ 毎度|まいど|her seferinde
++ 使い方|つかいかた|kullanım şekli
++ 同じ|おなじ|aynı|同じ
++ 質問|しつもん|soru
+15 大使館{たいしかん}のレセプションなどで外務{がいむ}大臣{だいじん}とは度々{たびたび}会{あ}っているが、今{いま}までゆっくり話{はなし}をする機会{きかい}がなかった。今度{こんど}インタビューに行{い}くことになって、大変{たいへん}楽{たの}しみにしています。
+= Büyükelçilik-in resepsiyon-lar-ı gibi yer-ler-de dışişleri bakan-ı-yla sık sık karşılaş-ıyor-um ama, şimdiye kadar rahatça konuş-ma fırsat-ı ol-ma-dı. Bu sefer röportaj-a gid-ecek ol-du-m, dört gözle bekl-iyor-um.
++ 大使館|たいしかん|büyükelçilik
++ 外務大臣|がいむだいじん|dışişleri bakanı
++ 度々|たびたび|sık sık, defalarca
++ 会う|あう|buluşmak, karşılaşmak|会
++ 今|いま|şimdi
++ 話|はなし|söz, konuşma
++ 機会|きかい|fırsat
++ 今度|こんど|bu sefer; gelecek sefer
++ 行く|いく|gitmek|行
++ 大変|たいへん|çok; zor
++ 楽しみ|たのしみ|zevk; dört gözle bekleme
+16 最近{さいきん}は野球{やきゅう}やサッカーをしたくても場所{ばしょ}がない。
+= Son zaman-lar-da beyzbol ya da futbol oyna-mak iste-se-n de yer yok.
++ 最近|さいきん|son zamanlarda
++ 野球|やきゅう|beyzbol
++ 場所|ばしょ|yer
+17 「どうも」という言葉{ことば}はよく使{つか}われるが、その意味{いみ}は時{とき}と場合{ばあい}によって違{ちが}うようだ。
+= "Doumo" kelime-si sık kullan-ıl-ır ama, anlam-ı zaman-a ve durum-a göre farklı ol-uyor gibi.
++ 言葉|ことば|söz, kelime
++ 使う|つかう|kullanmak|使
++ 意味|いみ|anlam
++ 時|とき|zaman
++ 場合|ばあい|durum, hâl
++ 違う|ちがう|farklı olmak|違
+18 この問題{もんだい}は重要{じゅうよう}な問題{もんだい}なのできちんとした話{はな}し合{あ}いの場{ば}を設{もう}けましょう。
+= Bu mesele önemli bir mesele ol-duğ-u için düzgün bir görüşme ortam-ı oluştur-alım.
++ 問題|もんだい|sorun, mesele|問題
++ 重要|じゅうよう|önemli
++ 問題|もんだい|sorun, mesele|問題#2
++ 話し合い|はなしあい|görüşme, müzakere
++ 場|ば|yer, ortam
++ 設ける|もうける|kurmak, oluşturmak|設け
+19 水曜日{すいようび}はちょっと都合{つごう}が悪{わる}いので、木曜日{もくようび}か金曜日{きんようび}にしていただけませんでしょうか。
+= Çarşamba biraz uygun ol-ma-dığ-ı için, perşembe ya da cuma yap-a-bil-ir mi-siniz acaba?
++ 水曜日|すいようび|çarşamba
++ 都合|つごう|uygunluk, durum (都合が悪い: uygun değil)
++ 悪い|わるい|kötü|悪
++ 木曜日|もくようび|perşembe
++ 金曜日|きんようび|cuma

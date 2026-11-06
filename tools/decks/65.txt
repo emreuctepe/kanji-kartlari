@@ -1,0 +1,153 @@
+@ 65 第65回
+1 この辺{あた}りはついこの間{あいだ}まで畑{はたけ}だったが、この2、3年{ねん}のうちにどんどん家{いえ}が建{た}ってきた。
+= Bu civar daha geçen-lerde tarla-ydı ama, bu iki üç yıl için-de hızla ev-ler dik-il-di.
++ 辺り|あたり|civar, dolay|辺り
++ 間|あいだ|ara, süre (この間: geçenlerde)
++ 畑|はたけ|tarla, bostan
++ 年|ねん|yıl
++ 家|いえ|ev
++ 建つ|たつ|(bina) dikilmek, inşa edilmek|建
+2 私{わたし}の父{ちち}は30歳{さい}の時{とき}に田畑{たはた}を売{う}って、小{ちい}さなペンションを始{はじ}めた。
+= Benim baba-m 30 yaş-ın-da iken tarla-lar-ı-nı sat-ıp, küçük bir pansiyon aç-tı.
++ 私|わたし|ben
++ 父|ちち|(benim) babam
++ 歳|さい|yaş
++ 時|とき|zaman, …iken
++ 田畑|たはた|tarla ve çeltik tarlası, tarlalar
++ 売る|うる|satmak|売
++ 小さな|ちいさな|küçük
++ 始める|はじめる|başlamak, başlatmak|始め
+3 飛行機{ひこうき}に乗{の}り遅{おく}れたおかげで、災難{さいなん}を逃{のが}れた。
+= Uçağ-ı kaçır-dığ-ım sayesinde, felaket-ten kurtul-du-m.
++ 飛行機|ひこうき|uçak
++ 乗り遅れる|のりおくれる|(araca) yetişememek, kaçırmak|乗り遅れ
++ 災難|さいなん|felaket, bela
++ 逃れる|のがれる|kurtulmak, kaçıp kurtulmak|逃れ
+4 「天災{てんさい}は忘{わす}れたころにやってくる」という言葉{ことば}があります。天災{てんさい}には普段{ふだん}から十分{じゅうぶん}な備{そな}えをしておきましょう。
+= "Doğal afet unut-tuğ-un zaman gel-ir" diye bir söz var. Doğal afet-e karşı her zaman-dan yeterli hazırlık yap-alım.
++ 天災|てんさい|doğal afet|天災
++ 忘れる|わすれる|unutmak|忘れ
++ 言葉|ことば|söz, kelime
++ 天災|てんさい|doğal afet|天災#2
++ 普段|ふだん|her zaman, olağan zamanda
++ 十分|じゅうぶん|yeterli, yeterince
++ 備え|そなえ|hazırlık, önlem|備え
+5 1923年{ねん}（大正{たいしょう}12年{ねん}）、関東{かんとう}地方{ちほう}を大{おお}きな地震{じしん}が襲{おそ}った。この地震{じしん}と続{つづ}いて起{お}こった火災{かさい}で10万{まん}人{にん}以上{いじょう}の人{ひと}が死亡{しぼう}した。関東{かんとう}大震災{だいしんさい}である。
+= 1923 yıl-ı (Taishō 12), Kantō bölge-si-ni büyük bir deprem vur-du. Bu deprem ve ardından çık-an yangın-lar-da 100 bin-den fazla insan öl-dü. Büyük Kantō Depremi-dir.
++ 年|ねん|yıl|年
++ 大正|たいしょう|Taishō dönemi (1912–1926)
++ 関東地方|かんとうちほう|Kantō bölgesi
++ 大きな|おおきな|büyük
++ 地震|じしん|deprem|地震
++ 襲う|おそう|saldırmak, vurmak (afet)|襲
++ 地震|じしん|deprem|地震#2
++ 続く|つづく|devam etmek, ardından gelmek|続
++ 起こる|おこる|meydana gelmek|起こ
++ 火災|かさい|yangın
++ 万|まん|on bin
++ 人|にん|kişi (sayma sözcüğü)
++ 以上|いじょう|…den fazla
++ 人|ひと|insan, kişi
++ 死亡|しぼう|ölüm
++ 関東大震災|かんとうだいしんさい|Büyük Kantō Depremi (1923)
+6 桜島{さくらじま}は今{いま}でも盛{さか}んに活動{かつどう}を続{つづ}け、大量{たいりょう}の火山灰{かざんばい}を吹{ふ}き上{あ}げている。ひどい時{とき}には、空{そら}一面{いちめん}が灰色{はいいろ}になる。
+= Sakurajima şimdi bile canlı biçim-de faaliyet-i-ni sürdür-üp, büyük miktar-da volkanik kül püskürt-üyor. Kötü zaman-lar-da gökyüzü-nün her yer-i kül rengi-ne bür-ün-ür.
++ 桜島|さくらじま|Sakurajima (yanardağ)
++ 今|いま|şimdi
++ 盛ん|さかん|canlı, yoğun, faal|盛ん
++ 活動|かつどう|faaliyet
++ 続ける|つづける|sürdürmek|続け
++ 大量|たいりょう|büyük miktar
++ 火山灰|かざんばい|volkanik kül
++ 吹き上げる|ふきあげる|püskürtmek, yukarı savurmak|吹き上げ
++ 時|とき|zaman
++ 空|そら|gökyüzü
++ 一面|いちめん|her yer, baştan başa
++ 灰色|はいいろ|gri, kül rengi
+7 日本{にほん}では、石炭{せきたん}は以前{いぜん}は貴重{きちょう}な燃料{ねんりょう}だったが、現在{げんざい}はほとんど使{つか}われなくなった。
+= Japonya-da kömür eskiden değerli bir yakıt-tı ama, şimdi neredeyse hiç kullan-ıl-maz ol-du.
++ 日本|にほん|Japonya
++ 石炭|せきたん|kömür (taşkömürü)
++ 以前|いぜん|önceden, eskiden
++ 貴重|きちょう|değerli, kıymetli
++ 燃料|ねんりょう|yakıt
++ 現在|げんざい|şimdi, günümüzde
++ 使う|つかう|kullanmak|使
+8 私{わたし}は小学校{しょうがっこう}の頃{ころ}体育{たいいく}が嫌{きら}いで、体育{たいいく}の時間{じかん}になると、いつもお腹{なか}が痛{いた}いとうそを言{い}って、授業{じゅぎょう}を見学{けんがく}していた。
+= Ben ilkokul zaman-ı beden eğitim-i-nden nefret ed-er, beden eğitim-i saat-i gel-ince hep karn-ım ağrı-yor diye yalan söyle-yip, ders-i kenar-dan izle-r-di-m.
++ 私|わたし|ben
++ 小学校|しょうがっこう|ilkokul
++ 頃|ころ|zaman, sıralar
++ 体育|たいいく|beden eğitimi|体育
++ 嫌い|きらい|sevmemek, nefret etmek|嫌い
++ 体育|たいいく|beden eğitimi|体育#2
++ 時間|じかん|zaman, ders saati
++ お腹|おなか|karın
++ 痛い|いたい|ağrılı, acıyan|痛い
++ 言う|いう|söylemek, demek|言
++ 授業|じゅぎょう|ders
++ 見学|けんがく|izleyerek öğrenme, gözlem; (derse katılmadan) izleme
+9 近所{きんじょ}の同{おな}じくらいの子供{こども}と比{くら}べると、うちの子供{こども}は発育{はついく}が遅{おそ}いようだ。
+= Civar-daki aynı yaş-taki çocuk-lar-la karşılaştır-ınca, bizim çocuğ-un gelişim-i yavaş gibi.
++ 近所|きんじょ|civar, komşuluk
++ 同じ|おなじ|aynı|同じ
++ 子供|こども|çocuk|子供
++ 比べる|くらべる|karşılaştırmak|比べ
++ 子供|こども|çocuk|子供#2
++ 発育|はついく|gelişim, büyüme
++ 遅い|おそい|yavaş; geç|遅い
+10 うちでは庭{にわ}でトマトやキュウリを育{そだ}てています。
+= Biz bahçe-de domates ve salatalık yetiştir-iyor-uz.
++ 庭|にわ|bahçe
++ 育てる|そだてる|yetiştirmek, büyütmek|育て
+11 肥料{ひりょう}をやると生育{せいいく}が速{はや}くなるが、たくさんやればいいというものではない。
+= Gübre ver-ince büyüme hızlan-ır ama, çok ver-ir-se-n iyi olur diye bir şey yok.
++ 肥料|ひりょう|gübre
++ 生育|せいいく|büyüme, gelişme (bitki, hayvan)
++ 速い|はやい|hızlı|速
+12 私{わたし}は東京{とうきょう}で生{う}まれて、東京{とうきょう}で育{そだ}ちました。
+= Ben Tokyo-da doğ-up, Tokyo-da büyü-dü-m.
++ 私|わたし|ben
++ 東京|とうきょう|Tokyo|東京
++ 生まれる|うまれる|doğmak|生まれ
++ 東京|とうきょう|Tokyo|東京#2
++ 育つ|そだつ|büyümek, yetişmek|育ち
+13 昔{むかし}は絹{きぬ}の着物{きもの}と木綿{もめん}の着物{きもの}があったが、今{いま}は着物{きもの}と言{い}えばたいてい絹{きぬ}だ。
+= Eskiden ipek kimono ve pamuk kimono var-dı ama, şimdi kimono de-yince genellikle ipek-tir.
++ 昔|むかし|eskiden, eski zamanlar
++ 絹|きぬ|ipek|絹
++ 着物|きもの|kimono|着物
++ 木綿|もめん|pamuklu (kumaş)
++ 着物|きもの|kimono|着物#2
++ 今|いま|şimdi
++ 着物|きもの|kimono|着物#3
++ 言う|いう|söylemek, demek|言
++ 絹|きぬ|ipek|絹#2
+14 綿{わた}から綿糸{めんし}を作{つく}り、綿糸{めんし}で木綿{もめん}を作{つく}る。
+= Pamuk-tan pamuk iplik yap-ıl-ır, pamuk iplik-le pamuklu kumaş yap-ıl-ır.
++ 綿|わた|pamuk
++ 綿糸|めんし|pamuk ipliği|綿糸
++ 作る|つくる|yapmak|作
++ 綿糸|めんし|pamuk ipliği|綿糸#2
++ 木綿|もめん|pamuklu (kumaş)
++ 作る|つくる|yapmak|作#2
+15 組織{そしき}が大{おお}きくなると、どうしても社内{しゃない}のコミュニケーションが悪{わる}くなる。
+= Kuruluş büyü-yünce, ister istemez şirket içi iletişim kötüleş-ir.
++ 組織|そしき|kuruluş, örgüt, organizasyon
++ 大きい|おおきい|büyük|大き
++ 社内|しゃない|şirket içi
++ 悪い|わるい|kötü|悪
+16 私{わたし}は今{いま}雑誌{ざっし}の編集{へんしゅう}の仕事{しごと}をしています。編集{へんしゅう}の仕事{しごと}は初{はじ}めてですが、編集長{へんしゅうちょう}がとても親切{しんせつ}な人{ひと}で、いろいろと教{おし}えてくれます。
+= Ben şimdi dergi-nin editörlük iş-i-ni yap-ıyor-um. Editörlük iş-i ilk kez ama, yazı işleri müdür-ü çok nazik bir insan ve, bana birçok şey öğret-iyor.
++ 私|わたし|ben
++ 今|いま|şimdi
++ 雑誌|ざっし|dergi
++ 編集|へんしゅう|editörlük, derleme, düzenleme|編集
++ 仕事|しごと|iş|仕事
++ 編集|へんしゅう|editörlük, derleme, düzenleme|編集#2
++ 仕事|しごと|iş|仕事#2
++ 初めて|はじめて|ilk kez|初めて
++ 編集長|へんしゅうちょう|yazı işleri müdürü, baş editör
++ 親切|しんせつ|nazik, iyi kalpli
++ 人|ひと|insan, kişi
++ 教える|おしえる|öğretmek|教え

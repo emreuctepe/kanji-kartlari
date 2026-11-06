@@ -1,0 +1,150 @@
+@ 15 第15回
+1 会社{かいしゃ}の近{ちか}くのレストランに入{はい}って定食{ていしょく}を注文{ちゅうもん}したら、1分{ぷん}で来{き}た。
+= Şirket-in yakın-ın-daki restoran-a gir-ip tabldot sipariş et-ince, bir dakika-da gel-di.
++ 会社|かいしゃ|şirket
++ 近く|ちかく|yakın, yakını
++ 入る|はいる|girmek|入
++ 定食|ていしょく|tabldot, set menü
++ 注文|ちゅうもん|sipariş
++ 分|ふん|dakika (1分: いっぷん)
++ 来る|くる|gelmek|来
+2 部品{ぶひん}を発注{はっちゅう}したらすぐに持{も}ってきてもらわないと、生産{せいさん}が後{おく}れる。
+= Parça-yı sipariş ed-ince hemen getir-t-me-z-se-k, üretim gecik-ir.
++ 部品|ぶひん|parça, yedek parça
++ 発注|はっちゅう|sipariş verme (firmaya)
++ 持つ|もつ|tutmak, taşımak (持ってくる: getirmek)|持
++ 生産|せいさん|üretim
++ 後れる|おくれる|geri kalmak, gecikmek|後れ
+3 うちでは地震{じしん}が来{き}た時{とき}のために、水{みず}や食料{しょくりょう}などをいつも用意{ようい}している。
+= Biz-de deprem gel-diğ-i zaman için, su ve yiyecek gibi şey-ler-i her zaman hazır tut-uyor-uz.
++ 地震|じしん|deprem
++ 来る|くる|gelmek|来
++ 時|とき|zaman, …iken
++ 水|みず|su
++ 食料|しょくりょう|yiyecek, gıda
++ 用意|ようい|hazırlık
+4 意外{いがい}な人{ひと}から結婚{けっこん}のプロポーズをされて困{こま}っています。でも、友達{ともだち}の話{はなし}によると、その人{ひと}は以前{いぜん}から私{わたし}に好意{こうい}を持{も}っていたそうです。
+= Beklenmedik bir insan-dan evlilik teklif-i al-ıp zor durum-da-yım. Ama arkadaş-ım-ın söz-ü-ne göre, o kişi öteden beri ban-a sempati besl-iyor-muş.
++ 意外|いがい|beklenmedik, şaşırtıcı
++ 人|ひと|insan, kişi|人
++ 結婚|けっこん|evlilik
++ 困る|こまる|zor durumda olmak|困
++ 友達|ともだち|arkadaş
++ 話|はなし|söz, konuşma, hikâye
++ 人|ひと|insan, kişi|人#2
++ 以前|いぜん|önceden, eskiden
++ 私|わたし|ben
++ 好意|こうい|sempati, iyi niyet, hoşlanma
++ 持つ|もつ|tutmak, sahip olmak|持
+5 小{ちい}さい頃{ころ}はいたずらをして、隣{となり}のおじいさんによく説教{せっきょう}されました。
+= Küçük-ken yaramazlık yap-ıp, komşu dede-den sık sık nasihat (azar) işit-ir-di-m.
++ 小さい|ちいさい|küçük
++ 頃|ころ|zaman, sıralar
++ 隣|となり|komşu, yan
++ 説教|せっきょう|vaaz; nasihat, azar
+6 この2、3日{にち}の暖{あたた}かさで雪{ゆき}がすっかり解{と}けてしまった。
+= Bu iki üç gün-ün sıcaklığ-ı-yla kar tamamen eri-yip git-ti.
++ 日|にち|gün (sayma)
++ 暖かさ|あたたかさ|sıcaklık, ılıklık
++ 雪|ゆき|kar
++ 解ける|とける|erimek; çözülmek|解け
+7 PKO問題{もんだい}について総理{そうり}大臣{だいじん}が見解{けんかい}を発表{はっぴょう}した。
+= PKO mesele-si hakkında başbakan görüş-ü-nü açıkla-dı.
++ 問題|もんだい|sorun, mesele
++ 総理大臣|そうりだいじん|başbakan
++ 見解|けんかい|görüş, kanaat
++ 発表|はっぴょう|açıklama, duyuru; sunum
+8 散歩{さんぽ}のついでに近所{きんじょ}の神社{じんじゃ}にお参{まい}りに行{い}った。
+= Yürüyüş-ün fırsat-ı-yla civar-daki Şinto tapınağ-ı-na ziyaret-e (dua-ya) git-ti-m.
++ 散歩|さんぽ|yürüyüş, gezinti
++ 近所|きんじょ|civar, komşuluk
++ 神社|じんじゃ|Şinto tapınağı
++ お参り|おまいり|(tapınak, mezar) ziyareti, dua etmeye gitme
++ 行く|いく|gitmek|行
+9 明日{あした}のハイキングには各自{かくじ}お弁当{べんとう}を持参{じさん}してください。
+= Yarın-ki yürüyüş-e herkes kendi yemeğ-i-ni getir-sin lütfen.
++ 明日|あした|yarın
++ 各自|かくじ|herkes kendisi, her biri
++ お弁当|おべんとう|öğle yemeği kutusu, bento
++ 持参|じさん|yanında getirme
+10 父{ちち}も母{はは}も生命{せいめい}保険{ほけん}に加入{かにゅう}している。
+= Baba-m da anne-m de hayat sigorta-sı-na üye-ler.
++ 父|ちち|(benim) babam
++ 母|はは|(benim) annem
++ 生命保険|せいめいほけん|hayat sigortası
++ 加入|かにゅう|katılma, üye olma
+11 ポテトサラダを作{つく}る時{とき}はほんの少{すこ}し砂糖{さとう}を加{くわ}えると一層{いっそう}おいしくなります。
+= Patates salata-sı yap-ar-ken azıcık şeker ekle-yince daha da lezzetli ol-ur.
++ 作る|つくる|yapmak|作
++ 時|とき|zaman, …iken
++ 少し|すこし|biraz|少し
++ 砂糖|さとう|şeker
++ 加える|くわえる|eklemek, katmak|加える
++ 一層|いっそう|daha da, bir kat daha
+12 今{いま}でも十分{じゅうぶん}日本語{にほんご}で会話{かいわ}ができるが、もっと洗練{せんれん}された話{はな}し方{かた}ができるようになりたい。
+= Şimdi bile yeterince Japonca konuşma yap-abil-iyor-um ama, daha incelikli bir konuşma tarz-ı-na sahip ol-mak isti-yor-um.
++ 今|いま|şimdi
++ 十分|じゅうぶん|yeterli, yeterince
++ 日本語|にほんご|Japonca
++ 会話|かいわ|konuşma, sohbet
++ 洗練|せんれん|incelik, rafinelik (洗練された: incelikli)
++ 話し方|はなしかた|konuşma tarzı
+13 戦後{せんご}長{なが}く続{つづ}いた東西{とうざい}冷戦{れいせん}がようやく終結{しゅうけつ}した。
+= Savaş sonrası uzun süre devam ed-en Doğu-Batı Soğuk Savaş-ı nihayet son-a er-di.
++ 戦後|せんご|savaş sonrası
++ 長い|ながい|uzun|長
++ 続く|つづく|devam etmek, sürmek|続
++ 東西|とうざい|doğu ve batı
++ 冷戦|れいせん|soğuk savaş
++ 終結|しゅうけつ|sona erme
+14 結婚式{けっこんしき}の夜{よる}は都内{とない}のホテルに泊{と}まり、翌日{よくじつ}新婚{しんこん}旅行{りょこう}に出{で}かけた。
+= Düğün gece-si Tokyo için-deki otel-de kal-ıp, ertesi gün balayı-na çık-tı-k.
++ 結婚式|けっこんしき|düğün, nikâh töreni
++ 結婚|けっこん|evlilik
++ 夜|よる|gece
++ 都内|とない|Tokyo içi
++ 泊まる|とまる|konaklamak, gecelemek|泊
++ 翌日|よくじつ|ertesi gün
++ 新婚旅行|しんこんりょこう|balayı
++ 出かける|でかける|dışarı çıkmak, yola çıkmak|出かけ
+15 健康{けんこう}のためには、せめて週{しゅう}に一度{いちど}くらいは運動{うんどう}をした方{ほう}がいい。
+= Sağlık için, en azından hafta-da bir kez kadar spor yap-sa-n iyi ol-ur.
++ 健康|けんこう|sağlık
++ 週|しゅう|hafta
++ 一度|いちど|bir kez
++ 運動|うんどう|egzersiz, spor; hareket
++ 方|ほう|taraf (〜た方がいい: …sen iyi olur)
+16 隣{となり}の子{こ}は2階{かい}のベランダから落{お}ちたのにけが一{ひと}つしなかった。本当{ほんとう}に運{うん}の強{つよ}い子{こ}だ。
+= Komşu-nun çocuğ-u ikinci kat-ın balkon-un-dan düş-tü-ğ-ü hâlde tek bir yara bile al-ma-dı. Gerçekten şans-ı güçlü bir çocuk.
++ 隣|となり|komşu, yan
++ 子|こ|çocuk|子
++ 階|かい|kat
++ 落ちる|おちる|düşmek|落
++ 一つ|ひとつ|bir (tane)
++ 本当|ほんとう|gerçek, gerçekten
++ 運|うん|şans, talih
++ 強い|つよい|güçlü|強
++ 子|こ|çocuk|子#2
+17 不況{ふきょう}対策{たいさく}を立{た}てるための閣議{かくぎ}が開{ひら}かれたが、なかなかいい案{あん}が出{で}ず、いったん休憩{きゅうけい}に入{はい}った。果{は}たして名案{めいあん}が出{で}てくるだろうか。
+= Durgunluk önlem-ler-i-ni belirle-mek için kabine toplantı-sı yap-ıl-dı ama, bir türlü iyi bir öneri çık-ma-yınca, bir süre ara-ya gir-il-di. Acaba gerçekten parlak bir fikir çık-acak mı?
++ 不況|ふきょう|durgunluk, ekonomik kriz
++ 対策|たいさく|önlem, tedbir
++ 立てる|たてる|kurmak, (plan) yapmak|立て
++ 閣議|かくぎ|kabine toplantısı
++ 開く|ひらく|açmak; (toplantı) düzenlemek|開
++ 案|あん|öneri, fikir, plan
++ 出る|でる|çıkmak|出
++ 休憩|きゅうけい|mola, ara
++ 入る|はいる|girmek|入
++ 果たして|はたして|acaba gerçekten; beklendiği gibi|果たして
++ 名案|めいあん|parlak fikir
++ 出る|でる|çıkmak|出#2
+18 1級{きゅう}の試験{しけん}なので相当{そうとう}難{むずか}しいだろうと思{おも}っていたが、受{う}けてみると案外{あんがい}やさしかった。
+= Birinci seviye-nin sınav-ı ol-duğ-u için epey zor ol-ur diye düşün-üyor-du-m ama, gir-ip bak-ınca beklenmedik şekilde kolay-dı.
++ 級|きゅう|seviye, derece
++ 試験|しけん|sınav
++ 相当|そうとう|epey, oldukça
++ 難しい|むずかしい|zor|難し
++ 思う|おもう|düşünmek, sanmak|思
++ 受ける|うける|almak; (sınava) girmek|受け
++ 案外|あんがい|beklenmedik şekilde, umulmadık biçimde

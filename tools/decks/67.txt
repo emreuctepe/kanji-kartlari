@@ -1,0 +1,170 @@
+@ 67 第67回
+1 お金{かね}がたくさんあるからといって、幸{しあわ}せになれるものではない。
+= Çok para-n var diye, mutlu ol-abil-ecek değil-sin.
++ お金|おかね|para
++ 幸せ|しあわせ|mutluluk, mutlu
+2 昔{むかし}はやった歌{うた}の一節{いっせつ}に「幸子{さちこ}の幸{さち}はどこにある」という言葉{ことば}があった。
+= Eskiden moda ol-an bir şarkı-nın bir dize-si-nde "Sachiko-nun mutluluğ-u nerede" diye bir söz var-dı.
++ 昔|むかし|eskiden, eski zamanlar
++ 歌|うた|şarkı
++ 一節|いっせつ|bir bölüm, bir dize
++ 幸子|さちこ|Sachiko (kadın adı)
++ 幸|さち|mutluluk, talih (edebî)|幸#2
++ 言葉|ことば|söz, kelime
+3 花嫁{はなよめ}と花婿{はなむこ}を祝福{しゅくふく}するために大勢{おおぜい}の友人{ゆうじん}が集{あつ}まった。
+= Gelin ile damad-ı kutla-mak için çok sayıda arkadaş topla-n-dı.
++ 花嫁|はなよめ|gelin
++ 花婿|はなむこ|damat
++ 祝福|しゅくふく|kutlama, hayır dua
++ 大勢|おおぜい|çok sayıda (insan)
++ 友人|ゆうじん|arkadaş, dost
++ 集まる|あつまる|toplanmak|集ま
+4 私{わたし}の友達{ともだち}の田中{たなか}さんは日本語{にほんご}の先生{せんせい}をしていますが、副業{ふくぎょう}として翻訳{ほんやく}の仕事{しごと}もしています。でも、最近{さいきん}は本業{ほんぎょう}の方{ほう}が忙{いそが}しいので、翻訳{ほんやく}の仕事{しごと}を頼{たの}まれても断{ことわ}っているそうです。
+= Arkadaş-ım Tanaka Japonca öğretmen-i-dir ama, yan iş olarak çeviri de yap-ıyor. Ama son zaman-lar-da asıl iş-i yoğun ol-duğ-u için, çeviri iş-i iste-n-se de redded-iyor-muş.
++ 私|わたし|ben
++ 友達|ともだち|arkadaş
++ 田中|たなか|Tanaka (soyadı)
++ 日本語|にほんご|Japonca
++ 先生|せんせい|öğretmen
++ 副業|ふくぎょう|yan iş, ek iş
++ 翻訳|ほんやく|çeviri|翻訳
++ 仕事|しごと|iş|仕事
++ 最近|さいきん|son zamanlarda
++ 本業|ほんぎょう|asıl iş, ana meslek
++ 方|ほう|taraf
++ 忙しい|いそがしい|meşgul, yoğun|忙し
++ 翻訳|ほんやく|çeviri|翻訳#2
++ 仕事|しごと|iş|仕事#2
++ 頼む|たのむ|rica etmek, istemek|頼
++ 断る|ことわる|reddetmek, geri çevirmek|断
+5 告訴{こくそ}により裁判{さいばん}が始{はじ}まると、何度{なんど}か公判{こうはん}が開{ひら}かれ、その後{あと}に判決{はんけつ}が下{くだ}される。
+= Dava aç-ıl-ma-sı-yla yargılama başla-yınca, birkaç kez duruşma yap-ıl-ır, ondan sonra karar ver-il-ir.
++ 告訴|こくそ|şikâyet, dava açma
++ 裁判|さいばん|yargılama, dava
++ 始まる|はじまる|başlamak|始ま
++ 何度|なんど|kaç kez (何度か: birkaç kez)
++ 公判|こうはん|duruşma
++ 開く|ひらく|açmak; (toplantı) düzenlemek|開
++ 後|あと|sonra; arka
++ 判決|はんけつ|(mahkeme) kararı, hüküm
++ 下す|くだす|(karar) vermek; indirmek|下
+6 危険{きけん}な時{とき}こそ冷静{れいせい}にならなければならない。冷静{れいせい}さを失{うしな}うと判断力{はんだんりょく}が鈍{にぶ}ってしまう。
+= Tehlikeli zaman-lar-da işte sakin ol-mak gerek. Soğukkanlılığ-ı kaybed-ince karar verme yeteneğ-i körel-ir.
++ 危険|きけん|tehlike, tehlikeli
++ 時|とき|zaman, …iken
++ 冷静|れいせい|sakin, soğukkanlı|冷静
++ 冷静さ|れいせいさ|soğukkanlılık
++ 失う|うしなう|kaybetmek|失
++ 判断|はんだん|karar, yargı, değerlendirme
++ 判断力|はんだんりょく|karar verme yeteneği, muhakeme
++ 鈍る|にぶる|körelmek, zayıflamak|鈍
+7 銀行{ぎんこう}や区役所{くやくしょ}に行{い}く時{とき}は、必{かなら}ず判子{はんこ}を持{も}って行{い}きましょう。
+= Banka-ya ya da belediye-ye gid-er-ken, mutlaka mühr-ü-nüz-ü yanınız-a al-ıp gid-in.
++ 銀行|ぎんこう|banka
++ 区役所|くやくしょ|ilçe belediyesi
++ 行く|いく|gitmek|行
++ 時|とき|zaman, …iken
++ 必ず|かならず|mutlaka, kesinlikle
++ 判子|はんこ|kişisel mühür
++ 持つ|もつ|tutmak, taşımak|持
+8 道路{どうろ}を横断{おうだん}するのは危険{きけん}です。必{かなら}ず横断{おうだん}歩道{ほどう}を渡{わた}りましょう。
+= Yol-u karşıdan karşıya geç-mek tehlikeli-dir. Mutlaka yaya geçid-i-nden geç-elim.
++ 道路|どうろ|yol, cadde
++ 横断|おうだん|karşıdan karşıya geçme
++ 危険|きけん|tehlike, tehlikeli
++ 必ず|かならず|mutlaka, kesinlikle
++ 横断歩道|おうだんほどう|yaya geçidi
++ 渡る|わたる|geçmek (karşıya)|渡
+9 警察{けいさつ}は被害者{ひがいしゃ}の愛人{あいじん}Aを今回{こんかい}の殺人{さつじん}事件{じけん}の犯人{はんにん}と断定{だんてい}し、現在{げんざい}Aの行方{ゆくえ}を調{しら}べています。
+= Polis kurban-ın sevgili-si A-yı bu cinayet olay-ı-nın fail-i olarak kesin-leştir-di ve şu an A-nın nerede ol-duğ-u-nu araştır-ıyor.
++ 警察|けいさつ|polis
++ 被害者|ひがいしゃ|kurban, mağdur
++ 愛人|あいじん|(gizli) sevgili, metres
++ 今回|こんかい|bu sefer
++ 殺人事件|さつじんじけん|cinayet olayı
++ 犯人|はんにん|suçlu, fail
++ 断定|だんてい|kesin karar, kesin olarak belirleme
++ 現在|げんざい|şimdi, günümüzde
++ 行方|ゆくえ|gidilen yer, akıbet, iz
++ 調べる|しらべる|araştırmak, incelemek|調べ
+10 一生{いっしょう}のうちには何度{なんど}か大{おお}きな決断{けつだん}をしなければならないことがある。
+= Bir ömür için-de birkaç kez büyük bir karar ver-mek zorunda kal-dığ-ın ol-ur.
++ 一生|いっしょう|bütün hayat, ömür
++ 何度|なんど|kaç kez (何度か: birkaç kez)
++ 大きな|おおきな|büyük
++ 決断|けつだん|karar (verme), kararlılık
+11 相手{あいて}が弱{よわ}そうに見{み}えても油断{ゆだん}してはいけない。
+= Rakip zayıf gibi gör-ün-se de gaflet-e düş-me-me-li-sin.
++ 相手|あいて|rakip; karşı taraf
++ 弱い|よわい|zayıf|弱
++ 見える|みえる|görünmek|見え
++ 油断|ゆだん|dikkatsizlik, gaflet
+12 「継続{けいぞく}は力{ちから}なり」と言{い}います。漢字{かんじ}の勉強{べんきょう}は大変{たいへん}だと思{おも}いますが、あきらめないで続{つづ}けてください。
+= "Devamlılık güç-tür" de-n-ir. Kanji çalış-ma-k zor diye düşün-üyor-um ama, vazgeç-me-den devam et-in.
++ 継続|けいぞく|süreklilik, devam
++ 力|ちから|güç
++ 言う|いう|söylemek, demek|言
++ 漢字|かんじ|kanji
++ 勉強|べんきょう|ders çalışma
++ 大変|たいへん|zor; çok
++ 思う|おもう|düşünmek, sanmak|思
++ 続ける|つづける|sürdürmek, devam etmek|続け
+13 日本{にほん}で初{はじ}めてのテレビの衛星{えいせい}中継{ちゅうけい}ではケネディ大統領{だいとうりょう}の暗殺{あんさつ}というショッキングな事件{じけん}が伝{つた}えられた。
+= Japonya-da ilk televizyon uydu yayın-ı-nda Kennedy-nin suikast-ı gibi şok edici bir olay aktar-ıl-dı.
++ 日本|にほん|Japonya
++ 初めて|はじめて|ilk kez|初めて
++ 衛星中継|えいせいちゅうけい|uydu yayını
++ 大統領|だいとうりょう|cumhurbaşkanı, başkan
++ 暗殺|あんさつ|suikast
++ 事件|じけん|olay, vaka
++ 伝える|つたえる|iletmek, aktarmak|伝え
+14 会社{かいしゃ}に就職{しゅうしょく}するか親{おや}の会社{かいしゃ}を継{つ}ぐかずっと迷{まよ}っていましたが、そろそろ決断{けつだん}しなければなりません。しかし、今{いま}他{ほか}の会社{かいしゃ}に就職{しゅうしょく}したとしても、最終的{さいしゅうてき}には父{ちち}の事業{じぎょう}を受{う}け継{つ}ぐことになるでしょう。
+= Bir şirket-te işe mi gir-sem, ailem-in şirket-i-ni mi devral-sa-m diye hep kararsız-dı-m ama, artık karar ver-mem gerek. Ama şimdi başka bir şirket-te işe gir-se-m bile, sonunda baba-m-ın iş-i-ni devral-acağ-ım herhâlde.
++ 会社|かいしゃ|şirket|会社
++ 就職|しゅうしょく|işe girme|就職
++ 親|おや|ebeveyn, anne-baba
++ 会社|かいしゃ|şirket|会社#2
++ 継ぐ|つぐ|devralmak, (yerine) geçmek|継ぐ
++ 迷う|まよう|kararsız kalmak; yolunu kaybetmek|迷
++ 決断|けつだん|karar (verme), kararlılık
++ 今|いま|şimdi
++ 他|ほか|başka, diğer
++ 会社|かいしゃ|şirket|会社#3
++ 就職|しゅうしょく|işe girme|就職#2
++ 最終的|さいしゅうてき|nihai, sonunda|最終的
++ 父|ちち|(benim) babam
++ 事業|じぎょう|iş, girişim, işletme
++ 受け継ぐ|うけつぐ|devralmak, miras almak
+15 漢字{かんじ}は繰{く}り返{かえ}し勉強{べんきょう}しないと覚{おぼ}えられません。
+= Kanji tekrar tekrar çalış-ma-z-sa-n ezberle-ye-mez-sin.
++ 漢字|かんじ|kanji
++ 繰り返し|くりかえし|tekrar tekrar, yineleme
++ 勉強|べんきょう|ders çalışma
++ 覚える|おぼえる|ezberlemek, öğrenmek|覚え
+16 明日{あした}は晴{は}れで気温{きおん}が低{ひく}く、空気{くうき}が乾燥{かんそう}します。火{ひ}の元{もと}には十分{じゅうぶん}ご注意{ちゅうい}ください。
+= Yarın hava açık ve sıcaklık düşük ol-acak, hava kuru ol-acak. Ateş-e (yangın kaynağ-ı-na) iyice dikkat et-in.
++ 明日|あした|yarın
++ 晴れ|はれ|açık hava|晴れ
++ 気温|きおん|hava sıcaklığı
++ 低い|ひくい|alçak, düşük|低
++ 空気|くうき|hava
++ 乾燥|かんそう|kuruluk, kuruma
++ 火の元|ひのもと|yangın kaynağı (ateş, ocak)
++ 十分|じゅうぶん|yeterli, yeterince
++ 注意|ちゅうい|dikkat
+17 乾電池{かんでんち}は普通{ふつう}「電池{でんち}」と言{い}います。
+= Kuru pil-e genellikle "pil" de-n-ir.
++ 乾電池|かんでんち|kuru pil
++ 普通|ふつう|genellikle; sıradan
++ 電池|でんち|pil|電池#2
++ 言う|いう|söylemek, demek|言
+18 （洗濯物{せんたくもの}を）一日{いちにち}中{じゅう}干{ほ}しておいたのにまだ乾{かわ}いていない。梅雨{つゆ}の時期{じき}は本当{ほんとう}に困{こま}ります。
+= (Çamaşır-lar-ı) bütün gün as-ıp bırak-tı-ğ-ım hâlde hâlâ kuru-ma-mış. Yağmur mevsim-i gerçekten sıkıntılı.
++ 洗濯物|せんたくもの|çamaşır (yıkanan)
++ 一日中|いちにちじゅう|bütün gün
++ 干す|ほす|(kurumaya) asmak|干
++ 乾く|かわく|kurumak|乾
++ 梅雨|つゆ|yağmur mevsimi (Haziran-Temmuz)
++ 時期|じき|dönem, mevsim
++ 本当|ほんとう|gerçek, gerçekten
++ 困る|こまる|zor durumda olmak|困

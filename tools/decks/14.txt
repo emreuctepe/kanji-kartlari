@@ -1,0 +1,129 @@
+@ 14 第14回
+1 先週{せんしゅう}ある会社{かいしゃ}の面接{めんせつ}を受{う}けて、今{いま}返事{へんじ}を待{ま}っているところです。結果{けっか}が出{で}るまでなんとなく落{お}ち着{つ}かない感{かん}じがします。
+= Geçen hafta bir şirket-in mülakat-ı-na gir-ip, şimdi cevab-ı bekl-iyor-um. Sonuç çık-ana kadar nedense huzursuz bir his var.
++ 先週|せんしゅう|geçen hafta
++ 会社|かいしゃ|şirket
++ 面接|めんせつ|mülakat, yüz yüze görüşme
++ 受ける|うける|almak; (sınava, mülakata) girmek|受け
++ 今|いま|şimdi
++ 返事|へんじ|cevap, yanıt
++ 待つ|まつ|beklemek|待
++ 結果|けっか|sonuç
++ 出る|でる|çıkmak|出
++ 落ち着く|おちつく|sakinleşmek, yatışmak (落ち着かない: huzursuz)|落ち着か
++ 感じ|かんじ|his, izlenim|感じ
+2 野球{やきゅう}では投手{とうしゅ}は「ピッチャー」、捕手{ほしゅ}は「キャッチャー」というふうに外来語{がいらいご}を使{つか}うことが多{おお}い。
+= Beyzbol-da atıcı-ya "pitcher", tutucu-ya "catcher" de-mek gibi yabancı kökenli kelime kullan-ıl-ma-sı çok.
++ 野球|やきゅう|beyzbol
++ 投手|とうしゅ|atıcı (beyzbol)
++ 捕手|ほしゅ|tutucu (beyzbol)
++ 外来語|がいらいご|yabancı kökenli kelime
++ 使う|つかう|kullanmak|使
++ 多い|おおい|çok|多い
+3 強盗{ごうとう}たちは警察{けいさつ}が来{く}るのを見{み}ると、急{きゅう}に逃{に}げ出{だ}した。彼{かれ}らは逃走{とうそう}のために銀行{ぎんこう}の前{まえ}に車{くるま}を用意{ようい}していて、その車{くるま}で逃{に}げて行{い}った。
+= Soyguncu-lar polis-in gel-diğ-i-ni gör-ünce, aniden kaç-ıp git-ti-ler. Onlar kaçış için banka-nın ön-ün-de araba-yı hazırla-mış-lar-dı ve o araba-yla kaç-ıp git-ti-ler.
++ 強盗|ごうとう|soygun; soyguncu
++ 警察|けいさつ|polis
++ 来る|くる|gelmek|来
++ 見る|みる|görmek, bakmak|見
++ 急に|きゅうに|aniden, birden
++ 逃げ出す|にげだす|kaçıp gitmek, kaçmaya başlamak|逃げ出
++ 彼ら|かれら|onlar
++ 逃走|とうそう|kaçış, firar
++ 銀行|ぎんこう|banka
++ 前|まえ|ön; önce
++ 車|くるま|araba|車
++ 車|くるま|araba|車#2
++ 用意|ようい|hazırlık
++ 逃げる|にげる|kaçmak|逃げて
++ 行く|いく|gitmek|行
+4 失敗{しっぱい}も一度{いちど}だけなら見逃{みのが}してもらえるが、二度目{にどめ}の失敗{しっぱい}は許{ゆる}されない。
+= Hata da bir kez-lik-se göz yum-ul-ur ama, ikinci kez-in hata-sı affed-il-mez.
++ 失敗|しっぱい|başarısızlık, hata|失敗
++ 一度|いちど|bir kez
++ 見逃す|みのがす|göz yummak; gözden kaçırmak|見逃
++ 二度目|にどめ|ikinci kez
++ 失敗|しっぱい|başarısızlık, hata|失敗#2
++ 許す|ゆるす|affetmek; izin vermek|許
+5 私{わたし}は夏{なつ}はたいてい軽井沢{かるいざわ}の別荘{べっそう}で過{す}ごします。
+= Ben yaz-ın genellikle Karuizawa-daki yazlık ev-de geçir-ir-im.
++ 私|わたし|ben
++ 夏|なつ|yaz
++ 軽井沢|かるいざわ|Karuizawa (yer adı)
++ 別荘|べっそう|yazlık ev, villa
++ 過ごす|すごす|(zaman) geçirmek|過ご
+6 新幹線{しんかんせん}の神戸{こうべ}と岡山{おかやま}の間{あいだ}はトンネルが多{おお}く、一{ひと}つのトンネルを通過{つうか}すると、すぐまた次{つぎ}のトンネルに入{はい}る。
+= Shinkansen-in Kobe ile Okayama ara-sı-nda tünel çok; bir tünel-den geç-ince, hemen yine sonraki tünel-e gir-er.
++ 新幹線|しんかんせん|Shinkansen (hızlı tren)
++ 神戸|こうべ|Kobe
++ 岡山|おかやま|Okayama
++ 間|あいだ|ara, arası
++ 多い|おおい|çok|多
++ 一つ|ひとつ|bir (tane)
++ 通過|つうか|geçme, içinden/yanından geçip gitme
++ 次|つぎ|sonraki
++ 入る|はいる|girmek|入
+7 台風{たいふう}が通{とお}り過{す}ぎた後{あと}はいつも素晴{すば}らしい天気{てんき}になる。
+= Tayfun geç-ip git-tik-ten sonra her zaman harika hava ol-ur.
++ 台風|たいふう|tayfun
++ 通り過ぎる|とおりすぎる|geçip gitmek|通り過ぎ
++ 後|あと|sonra; arka
++ 素晴らしい|すばらしい|harika, muhteşem
++ 天気|てんき|hava (durumu)
+8 祖母{そぼ}はとてもやさしい人{ひと}で、困{こま}っている人{ひと}を見{み}ると、見捨{みす}てておくことができない。
+= Büyükanne-m çok şefkatli bir insan-dır; zor durum-da olan insan-ı gör-ünce, yüzüstü bırak-a-maz.
++ 祖母|そぼ|(benim) büyükannem
++ 人|ひと|insan, kişi|人
++ 困る|こまる|zor durumda olmak, sıkıntıya düşmek|困
++ 人|ひと|insan, kişi|人#2
++ 見る|みる|görmek, bakmak|見
++ 見捨てる|みすてる|yüzüstü bırakmak, terk etmek|見捨て
+9 道路{どうろ}にゴミを捨{す}てないでください。ここはゴミ捨{す}て場{ば}ではありません。
+= Yol-a çöp at-ma-yın lütfen. Bura-sı çöp atma yer-i değil.
++ 道路|どうろ|yol, cadde
++ 捨てる|すてる|atmak (çöpe), bırakmak|捨て
++ 捨て場|すてば|atma yeri, çöplük|捨て場
+10 35才{さい}というと四捨五入{ししゃごにゅう}するともう40才{さい}だ。
+= 35 yaş de-yince, yuvarla-yınca artık 40 yaş-ı-dır.
++ 才|さい|yaş (sayma sözcüğü)|才
++ 四捨五入|ししゃごにゅう|yuvarlama (sayıyı)
++ 才|さい|yaş (sayma sözcüğü)|才#2
+11 電話{でんわ}はベルが発明{はつめい}した。
+= Telefon-u Bell icat et-ti.
++ 電話|でんわ|telefon
++ 発明|はつめい|icat, buluş
+12 アメリカ大陸{たいりく}はコロンブスが発見{はっけん}したとされている。
+= Amerika kıta-sı-nı Kolomb-un keşfet-tiğ-i kabul ed-il-ir.
++ 大陸|たいりく|kıta
++ 発見|はっけん|keşif, bulma
+13 主人{しゅじん}の収入{しゅうにゅう}だけでは家計{かけい}が苦{くる}しいので、私{わたし}もパートで働{はたら}いています。
+= Koca-m-ın gelir-i tek başına ev bütçe-si-ne yet-me-diğ-i için, ben de yarı zamanlı çalış-ıyor-um.
++ 主人|しゅじん|(benim) kocam; ev sahibi
++ 収入|しゅうにゅう|gelir
++ 家計|かけい|ev bütçesi, aile ekonomisi
++ 苦しい|くるしい|sıkıntılı, zor; acı veren|苦し
++ 私|わたし|ben
++ 働く|はたらく|çalışmak|働
+14 子供{こども}が3人{にん}いるので、毎月{まいつき}の教育費{きょういくひ}が合計{ごうけい}で15万{まん}円{えん}近{ちか}くかかる。
+= Çocuk üç tane ol-duğ-u için, her ay-ın eğitim masraf-ı toplam-da 150 bin yen-e yakın tut-ar.
++ 子供|こども|çocuk
++ 人|にん|kişi (sayma sözcüğü)
++ 毎月|まいつき|her ay
++ 教育費|きょういくひ|eğitim masrafı
++ 合計|ごうけい|toplam
++ 万|まん|on bin
++ 円|えん|yen
++ 近く|ちかく|yakın, …e yakın|近く
+15 国会{こっかい}は国{くに}の最高{さいこう}の意思{いし}決定{けってい}機関{きかん}である。
+= Meclis ülke-nin en yüksek karar alma organ-ı-dır.
++ 国会|こっかい|parlamento, meclis
++ 国|くに|ülke, devlet
++ 最高|さいこう|en yüksek, en iyi
++ 意思決定|いしけってい|karar alma
++ 機関|きかん|kurum, organ
+16 やっとちゃんとした会社{かいしゃ}に入{はい}ることができて、収入{しゅうにゅう}も安定{あんてい}した。
+= Sonunda düzgün bir şirket-e gir-ebil-di-m ve gelir-im de istikrar-a kavuş-tu.
++ 会社|かいしゃ|şirket
++ 入る|はいる|girmek|入
++ 収入|しゅうにゅう|gelir
++ 安定|あんてい|istikrar, denge

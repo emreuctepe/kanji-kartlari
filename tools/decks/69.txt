@@ -1,0 +1,108 @@
+@ 69 第69回
+1 小売{こうり}値{ね}から卸値{おろしね}を差{さ}し引{ひ}いたものが、小売店{こうりてん}の利益{りえき}になる。
+= Perakende fiyat-tan toptan fiyat-ı düş-ün-ce kal-an, perakendeci-nin kâr-ı ol-ur.
++ 小売値|こうりね|perakende fiyatı
++ 卸値|おろしね|toptan fiyatı
++ 差し引く|さしひく|düşmek, çıkarmak|差し引
++ 小売店|こうりてん|perakende mağaza
++ 利益|りえき|kâr; fayda
+2 うちの店{みせ}は主{しゅ}として衣料品{いりょうひん}を卸{おろ}してますが、最近{さいきん}はスポーツ用品{ようひん}の卸{おろ}しも始{はじ}めました。
+= Bizim dükkân esas olarak giyim eşya-sı-nı toptan sat-ıyor ama, son zaman-lar-da spor malzeme-ler-i-nin toptan satış-ı-na da başla-dı.
++ 店|みせ|dükkân, mağaza
++ 主として|しゅとして|esas olarak, başlıca|主として
++ 衣料品|いりょうひん|giyim eşyası
++ 卸す|おろす|toptan satmak|卸して
++ 最近|さいきん|son zamanlarda
++ 用品|ようひん|malzeme, eşya
++ 卸し|おろし|toptan satış|卸しも
++ 始める|はじめる|başlamak|始め
+3 「ごはん」は「ご飯{はん}」とも書{か}くし「御飯{ごはん}」とも書{か}きます。
+= "Gohan" "ご飯" diye de yaz-ıl-ır, "御飯" diye de yaz-ıl-ır.
++ ご飯|ごはん|pişmiş pirinç; yemek
++ 書く|かく|yazmak|書
++ 御飯|ごはん|pişmiş pirinç; yemek (kanjili yazım)
++ 書く|かく|yazmak|書#2
+4 不況{ふきょう}のせいで企業{きぎょう}の収益{しゅうえき}が悪化{あっか}している。
+= Durgunluk yüzün-den şirket-ler-in gelir-i kötüleş-iyor.
++ 不況|ふきょう|durgunluk, ekonomik kriz
++ 企業|きぎょう|şirket, işletme
++ 収益|しゅうえき|gelir, kazanç
++ 悪化|あっか|kötüleşme
+5 日本{にほん}側{がわ}はどう思{おも}っているか知{し}らないが、アメリカは日本{にほん}を同盟国{どうめいこく}と思{おも}っている。
+= Japon taraf-ı ne düşün-üyor bil-mi-yor-um ama, Amerika Japonya-yı müttefik ülke ol-arak gör-üyor.
++ 日本側|にほんがわ|Japon tarafı
++ 思う|おもう|düşünmek, sanmak|思
++ 知る|しる|bilmek|知
++ 日本|にほん|Japonya|日本を
++ 同盟国|どうめいこく|müttefik ülke
++ 思う|おもう|düşünmek, sanmak|思#2
+6 1919年{ねん}に国際{こくさい}連盟{れんめい}ができたが、その20年{ねん}後{ご}の1939年{ねん}にはヨーロッパで新{あら}たな戦争{せんそう}が始{はじ}まった。
+= 1919 yıl-ı-nda Milletler Cemiyet-i kur-ul-du ama, on-dan 20 yıl sonra 1939-da Avrupa-da yeni bir savaş başla-dı.
++ 年|ねん|yıl
++ 国際連盟|こくさいれんめい|Milletler Cemiyeti
++ 新た|あらた|yeni|新た
++ 戦争|せんそう|savaş
++ 始まる|はじまる|başlamak|始ま
+7 普通{ふつう}の食塩{しょくえん}ではあまりいい味{あじ}は出{で}ない。やはり自然{しぜん}の塩{しお}がいい。
+= Sıradan sofra tuz-u-yla pek iyi bir tat çık-maz. Yine de doğal tuz iyi-dir.
++ 普通|ふつう|sıradan; genellikle
++ 食塩|しょくえん|sofra tuzu
++ 味|あじ|tat, lezzet
++ 出る|でる|çıkmak|出
++ 自然|しぜん|doğa, doğal
++ 塩|しお|tuz|塩が
+8 醤油{しょうゆ}や味噌{みそ}には塩分{えんぶん}がたくさん含{ふく}まれています。塩分{えんぶん}をとりすぎると高血圧{こうけつあつ}になるので、醤油{しょうゆ}や味噌{みそ}は控{ひか}えめにしましょう。
+= Soya sos-u ve miso-da çok tuz bulun-ur. Fazla tuz al-ınca yüksek tansiyon ol-unur; bu yüzden soya sos-u ve miso-yu az kullan-alım.
++ 醤油|しょうゆ|soya sosu|醤油
++ 味噌|みそ|miso (soya fasulyesi ezmesi)|味噌
++ 塩分|えんぶん|tuz oranı, tuz|塩分
++ 含む|ふくむ|içermek|含
++ 塩分|えんぶん|tuz oranı, tuz|塩分#2
++ 高血圧|こうけつあつ|yüksek tansiyon
++ 醤油|しょうゆ|soya sosu|醤油#2
++ 味噌|みそ|miso (soya fasulyesi ezmesi)|味噌#2
++ 控えめ|ひかえめ|ölçülü, az|控えめ
+9 貝{かい}は料理{りょうり}する前{まえ}に塩水{しおみず}に浸{ひた}しておきます。そうすると、砂{すな}や泥{どろ}が抜{ぬ}けます。
+= Kabuklu deniz ürün-ler-i-ni pişir-me-den önce tuzlu su-ya batır-ıp bırak-ır-ız. Öyle yap-ınca kum ve çamur çık-ar.
++ 貝|かい|kabuklu deniz hayvanı, midye vb.
++ 料理|りょうり|yemek yapma, yemek
++ 前|まえ|ön; önce
++ 塩水|しおみず|tuzlu su
++ 浸す|ひたす|batırmak, ıslatmak|浸
++ 砂|すな|kum
++ 泥|どろ|çamur
++ 抜ける|ぬける|çıkmak, düşmek|抜け
+10 紛争{ふんそう}防止{ぼうし}のため国連{こくれん}軍{ぐん}が国境{こっきょう}付近{ふきん}を監視{かんし}している。
+= Çatışma-yı önle-mek için BM gücü sınır civar-ı-nı gözetle-r.
++ 紛争|ふんそう|çatışma, anlaşmazlık
++ 防止|ぼうし|önleme
++ 国連軍|こくれんぐん|BM barış gücü
++ 国境|こっきょう|sınır (ülke)
++ 付近|ふきん|civar, yakın
++ 監視|かんし|gözetim, izleme
+11 昨日{きのう}は失敗{しっぱい}ばかりでした。玉{たま}ねぎを切{き}っている時{とき}に間違{まちが}って指{ゆび}を切{き}って血{ち}が出{で}てくるし、バンドエイドをして皿{さら}洗{あら}いをしていたら手{て}をすべらせて茶碗{ちゃわん}を割{わ}ってしまうし、本当{ほんとう}に散々{さんざん}でした。
+= Dün hep aksilik-ti. Soğan doğra-r-ken yanlış-lıkla parmağ-ım-ı kes-ip kan gel-di, yara bandı yapıştır-ıp bulaşık yıka-r-ken el-im-den kay-dır-ıp pirinç kase-si-ni kır-dı-m; gerçekten berbat bir gün-dü.
++ 昨日|きのう|dün
++ 失敗|しっぱい|başarısızlık, hata
++ 玉ねぎ|たまねぎ|soğan
++ 切る|きる|kesmek|切
++ 時|とき|zaman, …iken
++ 間違う|まちがう|yanılmak, yanlış yapmak|間違
++ 指|ゆび|parmak
++ 切る|きる|kesmek|切#2
++ 血|ち|kan
++ 出る|でる|çıkmak|出
++ 皿洗い|さらあらい|bulaşık yıkama
++ 手|て|el
++ 茶碗|ちゃわん|pirinç kâsesi, çay kâsesi
++ 割る|わる|kırmak|割
++ 本当|ほんとう|gerçek, gerçekten
++ 散々|さんざん|berbat, perişan; fena hâlde
+12 輸血{ゆけつ}用{よう}の血液{けつえき}が不足{ふそく}しています。皆{みな}さん、献血{けんけつ}にご協力{きょうりょく}ください。
+= Kan nakl-i için kan yetersiz. Herkes, kan bağış-ı-na destek ver-sin lütfen.
++ 輸血|ゆけつ|kan nakli
++ 血液|けつえき|kan
++ 不足|ふそく|eksiklik, yetersizlik
++ 皆さん|みなさん|herkes, hepiniz
++ 献血|けんけつ|kan bağışı
++ 協力|きょうりょく|işbirliği, destek

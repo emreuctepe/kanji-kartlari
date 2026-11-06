@@ -1,0 +1,157 @@
+@ 66 第66回
+1 コットンのジーンズは洗{あら}うと縮{ちぢ}むが、最近{さいきん}は「プリシュランク」といって、先{さき}に布{ぬの}を縮{ちぢ}めてあるものも売{う}っている。
+= Pamuklu kot yıka-yınca çek-er ama, son zaman-lar-da "pre-shrunk" de-n-en, kumaş-ı önceden çek-tir-il-miş olan-lar da sat-ıl-ıyor.
++ 洗う|あらう|yıkamak|洗
++ 縮む|ちぢむ|çekmek (kumaş), büzülmek|縮む
++ 最近|さいきん|son zamanlarda
++ 先に|さきに|önceden, önce|先に
++ 布|ぬの|kumaş, bez
++ 縮める|ちぢめる|kısaltmak, büzmek, çektirmek|縮め
++ 売る|うる|satmak|売
+2 学校{がっこう}は社会{しゃかい}の縮図{しゅくず}と言{い}われるように、学校{がっこう}にはさまざまな人間{にんげん}関係{かんけい}が存在{そんざい}する。
+= Okul-un toplum-un minyatür-ü de-n-diğ-i gibi, okul-da çeşitli insan ilişki-ler-i var-dır.
++ 学校|がっこう|okul|学校
++ 社会|しゃかい|toplum
++ 縮図|しゅくず|küçültülmüş çizim; minyatür, özet görünüm
++ 言う|いう|söylemek, demek|言
++ 学校|がっこう|okul|学校#2
++ 人間関係|にんげんかんけい|insan ilişkileri
++ 存在|そんざい|varlık, var olma
+3 彼{かれ}は学生{がくせい}時代{じだい}は抜群{ばつぐん}の成績{せいせき}だったが、会社{かいしゃ}に入{はい}ってからはパッとしない。
+= O öğrenci-lik dönem-i-nde olağanüstü not-lar-a sahip-ti ama, şirket-e gir-dik-ten sonra pek parla-ya-ma-dı.
++ 彼|かれ|o (erkek)
++ 学生時代|がくせいじだい|öğrencilik yılları
++ 抜群|ばつぐん|olağanüstü, seçkin
++ 成績|せいせき|not, başarı derecesi
++ 会社|かいしゃ|şirket
++ 入る|はいる|girmek|入
+4 今{いま}のような不況{ふきょう}下{か}では、一人{ひとり}ひとりの社員{しゃいん}がそれぞれの仕事{しごと}に積極的{せっきょくてき}に取{と}り組{く}み、実績{じっせき}を上{あ}げて、何{なん}とか会社{かいしゃ}全体{ぜんたい}の業績{ぎょうせき}を伸{の}ばさなければ、企業{きぎょう}は生{い}き残{のこ}れない。
+= Şimdi-ki gibi durgunluk altında, her bir çalışan kendi iş-i-ne aktif biçim-de sarıl-ıp, sonuç elde ed-ip, bir şekilde şirket-in bütün-ün-ün performans-ı-nı art-ır-ma-z-sa, şirket ayakta kal-a-maz.
++ 今|いま|şimdi
++ 不況|ふきょう|durgunluk, ekonomik kriz
++ 一人|ひとり|bir kişi (一人ひとり: her biri)
++ 社員|しゃいん|şirket çalışanı
++ 仕事|しごと|iş
++ 積極的|せっきょくてき|aktif, istekli, girişken|積極的
++ 取り組む|とりくむ|uğraşmak, sarılmak (işe)|取り組
++ 実績|じっせき|somut başarı, sonuç
++ 上げる|あげる|yükseltmek; (sonuç) elde etmek|上げ
++ 何とか|なんとか|bir şekilde, her nasılsa
++ 会社|かいしゃ|şirket
++ 全体|ぜんたい|bütün, tamamı
++ 業績|ぎょうせき|(şirket) performansı, iş sonuçları
++ 伸ばす|のばす|uzatmak; artırmak, geliştirmek|伸ば
++ 企業|きぎょう|şirket, işletme
++ 生き残る|いきのこる|hayatta kalmak, ayakta kalmak|生き残
+5 子供{こども}の頃{ころ}は先生{せんせい}から成績表{せいせきひょう}をもらう時{とき}はいつもどきどきした。
+= Çocuk-ken öğretmen-den karne al-ır-ken hep yüreğ-im hop hop ed-er-di.
++ 子供|こども|çocuk
++ 頃|ころ|zaman, sıralar
++ 先生|せんせい|öğretmen
++ 成績表|せいせきひょう|karne, not çizelgesi
++ 時|とき|zaman, …iken
+6 寒{さむ}かったので毛布{もうふ}を2枚{まい}かけて寝{ね}た。
+= Soğuk ol-duğ-u için iki battaniye ört-üp uyu-du-m.
++ 寒い|さむい|soğuk|寒
++ 毛布|もうふ|battaniye
++ 枚|まい|yaprak, tane (yassı şeyler için)
++ 寝る|ねる|uyumak, yatmak|寝
+7 目白{めじろ}という鳥{とり}は日本{にほん}全国{ぜんこく}に分布{ぶんぷ}しているが、目黒{めぐろ}という鳥{とり}は小笠原{おがさわら}諸島{しょとう}にしかいない。
+= Mejiro denen kuş Japonya-nın her yer-i-ne yayıl-mış-tır ama, meguro denen kuş yalnızca Ogasawara Adalar-ı-nda var.
++ 目白|めじろ|mejiro (gözlüklü kuş)
++ 鳥|とり|kuş|鳥
++ 日本|にほん|Japonya
++ 全国|ぜんこく|bütün ülke
++ 分布|ぶんぷ|dağılım, yayılış
++ 目黒|めぐろ|meguro (Bonin gözlüklü kuşu)
++ 鳥|とり|kuş|鳥#2
++ 小笠原諸島|おがさわらしょとう|Ogasawara (Bonin) Adaları
+8 日本国{にほんこく}憲法{けんぽう}は1946年{ねん}の11月{がつ}に公布{こうふ}され、翌年{よくねん}5月{がつ}に施行{しこう}された。
+= Japonya Anayasa-sı 1946 yıl-ı-nın Kasım-ın-da ilan ed-il-di ve ertesi yıl Mayıs-ta yürürlüğ-e gir-di.
++ 日本国憲法|にほんこくけんぽう|Japonya Anayasası
++ 年|ねん|yıl
++ 公布|こうふ|(yasa) ilanı, yayımlanması
++ 翌年|よくねん|ertesi yıl
++ 施行|しこう|yürürlüğe koyma
+9 失敗{しっぱい}しても、あきらめないで希望{きぼう}を持{も}ってください。
+= Başarısız ol-sa-n da, vazgeç-me-den umut-lu ol.
++ 失敗|しっぱい|başarısızlık, hata
++ 希望|きぼう|umut; istek
++ 持つ|もつ|tutmak, sahip olmak|持
+10 日本語{にほんご}の先生{せんせい}には男{おとこ}の先生{せんせい}が少{すく}ないので、男{おとこ}というだけで希少{きしょう}価値{かち}がある。
+= Japonca öğretmen-ler-i arasında erkek öğretmen az ol-duğ-u için, sadece erkek ol-mak bile nadir-lik değer-i taşı-r.
++ 日本語|にほんご|Japonca
++ 先生|せんせい|öğretmen|先生
++ 男|おとこ|erkek|男
++ 先生|せんせい|öğretmen|先生#2
++ 少ない|すくない|az|少な
++ 男|おとこ|erkek|男#2
++ 希少価値|きしょうかち|nadirlik değeri
+11 家賃{やちん}や物価{ぶっか}の高{たか}い東京{とうきょう}では、衣食住{いしょくじゅう}を満{み}たすだけでも大変{たいへん}なことだ。
+= Kira ve fiyat-lar-ın yüksek ol-duğ-u Tokyo-da, giyim-yiyecek-barınma ihtiyaç-lar-ı-nı karşıla-mak bile zor bir iş-tir.
++ 家賃|やちん|kira
++ 物価|ぶっか|fiyatlar, hayat pahalılığı
++ 高い|たかい|yüksek; pahalı|高
++ 東京|とうきょう|Tokyo
++ 衣食住|いしょくじゅう|giyim, yiyecek ve barınma; temel ihtiyaçlar
++ 満たす|みたす|doldurmak, karşılamak|満た
++ 大変|たいへん|zor; çok
+12 引{ひ}っ越{こ}しの荷物{にもつ}と言{い}っても、学生{がくせい}ですから食器{しょっき}と衣類{いるい}と本{ほん}くらいのものです。
+= Taşınma eşya-sı de-sem de, öğrenci ol-duğ-um için tabak-çanak, giysi ve kitap gibi şey-ler-den ibaret.
++ 引っ越し|ひっこし|taşınma
++ 荷物|にもつ|eşya, bagaj
++ 言う|いう|söylemek, demek|言
++ 学生|がくせい|öğrenci
++ 食器|しょっき|tabak çanak, sofra takımı
++ 衣類|いるい|giysiler
++ 本|ほん|kitap
+13 戦後{せんご}の日本{にほん}経済{けいざい}の発展{はってん}は輸出{ゆしゅつ}に大{おお}きく依存{いそん}してきたが、経済{けいざい}大国{たいこく}になった今{いま}はその輸出{ゆしゅつ}が大{おお}きな経済{けいざい}問題{もんだい}を引{ひ}き起{お}こしている。
+= Savaş sonrası Japon ekonomi-si-nin gelişim-i büyük ölçüde ihracat-a bağlı ol-du ama, ekonomik bir güç ol-duğ-u şimdi o ihracat büyük ekonomik sorun-lar-a yol aç-ıyor.
++ 戦後|せんご|savaş sonrası
++ 日本経済|にほんけいざい|Japon ekonomisi
++ 発展|はってん|gelişme, kalkınma
++ 輸出|ゆしゅつ|ihracat|輸出
++ 大きい|おおきい|büyük|大き
++ 依存|いそん|bağımlılık, bağlı olma (いぞん da okunur)
++ 経済大国|けいざいたいこく|ekonomik süper güç
++ 今|いま|şimdi
++ 輸出|ゆしゅつ|ihracat|輸出#2
++ 大きな|おおきな|büyük
++ 経済|けいざい|ekonomi|経済#3
++ 問題|もんだい|sorun, mesele
++ 引き起こす|ひきおこす|yol açmak, neden olmak|引き起こ
+14 ある会社{かいしゃ}から翻訳{ほんやく}の仕事{しごと}を依頼{いらい}されたが、勉強{べんきょう}が忙{いそが}しいので断{ことわ}った。
+= Bir şirket-ten çeviri iş-i rica ed-il-di ama, ders-ler-im yoğun ol-duğ-u için reddet-ti-m.
++ 会社|かいしゃ|şirket
++ 翻訳|ほんやく|çeviri
++ 仕事|しごと|iş
++ 依頼|いらい|rica, talep, sipariş
++ 勉強|べんきょう|ders çalışma
++ 忙しい|いそがしい|meşgul, yoğun|忙し
++ 断る|ことわる|reddetmek, geri çevirmek|断
+15 電話{でんわ}やファクスが普及{ふきゅう}してきたので、電報{でんぽう}は結婚式{けっこんしき}の祝電{しゅくでん}など特別{とくべつ}な場合{ばあい}以外{いがい}はほとんど使{つか}われなくなった。
+= Telefon ve faks yaygın-laş-tığ-ı için, telgraf düğün-ün tebrik telgraf-ı gibi özel durum-lar dışında neredeyse hiç kullan-ıl-maz ol-du.
++ 電話|でんわ|telefon
++ 普及|ふきゅう|yaygınlaşma
++ 電報|でんぽう|telgraf
++ 結婚式|けっこんしき|düğün, nikâh töreni
++ 祝電|しゅくでん|tebrik telgrafı
++ 特別|とくべつ|özel
++ 場合|ばあい|durum, hâl
++ 以外|いがい|…dışında
++ 使う|つかう|kullanmak|使
+16 皇太子{こうたいし}の結婚{けっこん}の報道{ほうどう}については、報道{ほうどう}機関{きかん}の間{あいだ}で自主{じしゅ}規制{きせい}が行{おこな}われていた。
+= Veliaht prens-in evlilik haber-ler-i konusunda, basın kuruluş-lar-ı arasında öz denetim uygula-n-ıyor-du.
++ 皇太子|こうたいし|veliaht prens
++ 結婚|けっこん|evlilik
++ 報道|ほうどう|haber, haber yapma|報道
++ 報道機関|ほうどうきかん|basın kuruluşu, medya
++ 間|あいだ|ara, arası
++ 自主規制|じしゅきせい|öz denetim, gönüllü kısıtlama
++ 行う|おこなう|yapmak, uygulamak|行
+17 大安{たいあん}吉日{きちじつ}はどこの結婚{けっこん}式場{しきじょう}も予約{よやく}がいっぱいだ。
+= Uğurlu gün-ler-de her yer-in düğün salon-u rezervasyon-la dolu-dur.
++ 大安|たいあん|taian (takvimde en uğurlu gün)
++ 吉日|きちじつ|uğurlu gün (きつじつ da okunur)
++ 結婚式場|けっこんしきじょう|düğün salonu
++ 予約|よやく|rezervasyon
