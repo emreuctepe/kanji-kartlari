@@ -1,0 +1,567 @@
+// 2.sınıf kanji notları (kanji_1.pdf + kanji2.pdf): her kanjinin onyomi/kunyomi okunuşları için cümleler.
+// Notlardaki cümleler korunur (bariz yazım hataları düzeltildi); cümlesi olmayan okunuş/kelimeye yeni cümle eklendi.
+@ g2d 2.sınıf diğer
+// 笑　ショウ／わら・う、え・む
+1 彼{かれ}の冗談{じょうだん}にみんなが笑{わら}った。
+= Onun şaka-sı-na herkes gül-dü.
++ 笑う|わらう|gülmek|笑
+2 笑{わら}いは健康{けんこう}にいいと言{い}われている。
+= Gülme-nin sağlığ-a iyi geldiğ-i söyle-n-ir.
++ 笑い|わらい|gülme, kahkaha|笑い
+3 失敗{しっぱい}を指摘{してき}されて、彼{かれ}は苦笑{くしょう}した。
+= Hata-sı-na dikkat çek-il-ince, o acı acı gülümse-di.
++ 苦笑|くしょう|acı gülümseme, zoraki gülüş
+4 道{みち}を間違{まちが}えて、二人{ふたり}で苦笑{にがわら}いした。
+= Yol-u şaşır-ıp, ikimiz acı acı gül-dü-k.
++ 苦笑い|にがわらい|acı acı gülme, zoraki gülümseme
+5 赤{あか}ちゃんの笑顔{えがお}を見{み}ると元気{げんき}が出{で}る。
+= Bebeğ-in gülen yüz-ü-nü gör-ünce enerji-m gel-ir.
++ 笑顔|えがお|gülen yüz, tebessüm
+6 彼{かれ}の笑{え}みは人々{ひとびと}を安心{あんしん}させる。
+= Onun gülümseme-si insan-lar-ı rahatlat-ır.
++ 笑み|えみ|gülümseme, tebessüm|笑み
+7 成功{せいこう}の知{し}らせを聞{き}いて、彼{かれ}は笑{え}みをこぼした。
+= Başarı haber-i-ni duy-unca, yüzü-nde bir gülümseme belir-di.
++ 笑み|えみ|gülümseme, tebessüm|笑み
+// 泣　キュウ／な・く
+8 迷子{まいご}の子供{こども}が駅{えき}で泣{な}いていた。
+= Kaybol-muş bir çocuk istasyon-da ağlı-yor-du.
++ 泣く|なく|ağlamak|泣
+9 夜中{よなか}に隣{となり}の部屋{へや}から赤{あか}ちゃんの泣{な}き声{ごえ}が聞{き}こえた。
+= Gece yarısı yan oda-dan bebek ağlama-sı duy-ul-du.
++ 泣き声|なきごえ|ağlama sesi
+10 彼{かれ}は悲{かな}しい知{し}らせを聞{き}いて号泣{ごうきゅう}した。
+= O, üzücü haber-i duy-unca hıçkıra hıçkıra ağla-dı.
++ 号泣|ごうきゅう|hüngür hüngür ağlama
+11 映画{えいが}の最後{さいご}で多{おお}くの観客{かんきゃく}が号泣{ごうきゅう}した。
+= Film-in son-un-da birçok seyirci hüngür hüngür ağla-dı.
++ 号泣|ごうきゅう|hüngür hüngür ağlama
+12 彼女{かのじょ}は友人{ゆうじん}の前{まえ}で号泣{ごうきゅう}した。
+= O (kadın), arkadaş-ı-nın ön-ün-de hıçkıra hıçkıra ağla-dı.
++ 号泣|ごうきゅう|hüngür hüngür ağlama
+// 喜　キ／よろこ・ぶ
+13 彼{かれ}は試験{しけん}に合格{ごうかく}して喜{よろこ}んだ。
+= O sınav-ı geç-ince sevin-di.
++ 喜ぶ|よろこぶ|sevinmek|喜
+14 チャップリンの喜劇{きげき}は今{いま}も世界中{せかいじゅう}で愛{あい}されている。
+= Chaplin-in komedi-ler-i bugün de bütün dünya-da sev-il-iyor.
++ 喜劇|きげき|komedi
+15 「ロミオとジュリエット」は有名{ゆうめい}な悲劇{ひげき}だ。
+= "Romeo ve Juliet" ünlü bir trajedi-dir.
++ 悲劇|ひげき|trajedi
+// 困　コン／こま・る
+16 人生{じんせい}には困難{こんなん}な時期{じき}もある。
+= Hayat-ta zor dönem-ler de ol-ur.
++ 困難|こんなん|zorluk, güçlük
+17 財布{さいふ}をなくして、とても困{こま}っている。
+= Cüzdan-ım-ı kaybed-ip, çok zor durum-da-yım.
++ 困る|こまる|zor durumda olmak, sıkıntıya düşmek|困
+// 怒　ド／いか・る、おこ・る
+18 父{ちち}は私{わたし}の嘘{うそ}に激怒{げきど}した。
+= Baba-m yalan-ım-a öfke-den küplere bin-di.
++ 激怒|げきど|öfkeden kudurma, büyük öfke
+19 約束{やくそく}を忘{わす}れたので、友達{ともだち}が怒{おこ}った。
+= Söz-ü-mü unut-tuğ-um için arkadaş-ım kız-dı.
++ 怒る|おこる|kızmak, sinirlenmek|怒
+20 不正{ふせい}を知{し}った国民{こくみん}は怒{いか}りの声{こえ}を上{あ}げた。
+= Yolsuzluğ-u öğren-en halk öfke-yle ses-i-ni yükselt-ti.
++ 怒り|いかり|öfke, hiddet|怒り
+// 押　オウ／お・す、お・さえる
+21 ボタンを押{お}すとドアが開{ひら}きます。
+= Düğme-ye bas-ınca kapı açıl-ır.
++ 押す|おす|itmek, basmak|押
+22 布団{ふとん}を押{お}し入{い}れにしまった。
+= Yatak takım-ı-nı gömme dolab-a kaldır-dı-m.
++ 押し入れ|おしいれ|gömme dolap (futon dolabı)
+23 彼{かれ}は私{わたし}の肩{かた}を押{お}さえた。
+= O benim omz-um-u bastır-ıp tut-tu.
++ 押さえる|おさえる|bastırıp tutmak; zapt etmek, bastırmak|押さえ
+24 彼{かれ}は怒{いか}りを押{お}さえた。
+= O öfke-si-ni bastır-dı.
++ 怒り|いかり|öfke, hiddet|怒り
++ 押さえる|おさえる|bastırıp tutmak; zapt etmek, bastırmak|押さえ
+25 彼女{かのじょ}は泣{な}きたい気持{きも}ちを押{お}さえた。
+= O (kadın) ağla-mak iste-yen duygu-su-nu bastır-dı.
++ 押さえる|おさえる|bastırıp tutmak; zapt etmek, bastırmak|押さえ
+26 政府{せいふ}は物価{ぶっか}の上昇{じょうしょう}を押{お}さえようとしている。
+= Hükümet fiyat-lar-ın artış-ı-nı bastır-ma-ya çalış-ıyor.
++ 押さえる|おさえる|bastırıp tutmak; zapt etmek, bastırmak|押さえ
+27 警察{けいさつ}は犯人{はんにん}の家{いえ}から証拠{しょうこ}を押収{おうしゅう}した。
+= Polis fail-in ev-i-nden delil-ler-e el koy-du.
++ 押収|おうしゅう|el koyma, müsadere
+// 引　イン／ひ・く、ひ・ける
+28 このドアは引{ひ}いて開{あ}けてください。
+= Bu kapı-yı çek-erek aç-ın.
++ 引く|ひく|çekmek|引
+29 一人{ひとり}だけ早{はや}く帰{かえ}るのは、なんだか気{き}が引{ひ}ける。
+= Tek başıma erken dön-mek bir şekilde iç-im-e sinme-z (çekin-ir-im).
++ 引ける|ひける|çekinmek (気が引ける); (iş) bitmek|引ける
+30 会議{かいぎ}が長引{ながび}いて、昼{ひる}ご飯{はん}を食{た}べられなかった。
+= Toplantı uza-yınca öğle yemeğ-i-ni yi-ye-me-di-m.
++ 長引く|ながびく|uzamak, uzayıp gitmek|長引
+31 忘{わす}れ物{もの}に気{き}づいて家{いえ}へ引{ひ}き返{かえ}した。
+= Unut-tuğ-um eşya-yı fark ed-ip ev-e geri dön-dü-m.
++ 引き返す|ひきかえす|geri dönmek|引き返
+32 銀行{ぎんこう}でお金{かね}を引{ひ}き出{だ}す。
+= Banka-dan para çek-er-im.
++ 引き出す|ひきだす|(para) çekmek; ortaya çıkarmak|引き出す
+33 大事{だいじ}な書類{しょるい}は机{つくえ}の引{ひ}き出{だ}しに入{い}れてある。
+= Önemli belge-ler masa-nın çekmece-si-nde duruyor.
++ 引き出し|ひきだし|çekmece
+34 試験{しけん}で簡単{かんたん}なひっかけ問題{もんだい}に引{ひ}っかかってしまった。
+= Sınav-da basit bir tuzak soru-ya takıl-ıp kal-dı-m.
++ 引っかかる|ひっかかる|takılmak; tuzağa düşmek|引っかか
+35 コートをハンガーに引{ひ}っかけて、部屋{へや}に入{はい}った。
+= Mont-u askı-ya geçir-ip oda-ya gir-di-m.
++ 引っかける|ひっかける|asmak, takmak; kandırmak|引っかけ
+36 試合{しあい}は1対{たい}1の引{ひ}き分{わ}けに終{お}わった。
+= Maç 1-1 berabere bit-ti.
++ 引き分け|ひきわけ|beraberlik
+37 地球{ちきゅう}の引力{いんりょく}によって、物{もの}は地面{じめん}に落{お}ちる。
+= Dünya-nın çekim kuvvet-i yüzün-den cisim-ler yer-e düş-er.
++ 引力|いんりょく|çekim kuvveti, yerçekimi
+38 彼女{かのじょ}には人{ひと}を引{ひ}きつける不思議{ふしぎ}な引力{いんりょく}がある。
+= Onda insan-lar-ı kendi-ne çek-en gizemli bir çekim var.
++ 引きつける|ひきつける|cezbetmek, kendine çekmek|引きつけ
++ 引力|いんりょく|çekim kuvveti, yerçekimi
+39 この車{くるま}はエンジンの馬力{ばりき}も出力{しゅつりょく}も大{おお}きい。
+= Bu araba-nın motor-u-nun hem beygir gücü hem çıkış güc-ü büyük.
++ 馬力|ばりき|beygir gücü
++ 出力|しゅつりょく|çıkış gücü, güç
+40 論文{ろんぶん}では必{かなら}ず引用{いんよう}を明記{めいき}しなければならない。
+= Tez-de alıntı-lar-ı mutlaka açıkça belirt-mek gerekir.
++ 引用|いんよう|alıntı
+41 彼{かれ}は強引{ごういん}な性格{せいかく}だ。
+= O zorba (dayatmacı) bir karakter-dir.
++ 強引|ごういん|zorla, dayatmacı, zorba
+42 強引{ごういん}なやり方{かた}はよくない。
+= Zorla-yan yöntem iyi değil.
++ 強引|ごういん|zorla, dayatmacı, zorba
+43 彼{かれ}は強引{ごういん}に話{はなし}を進{すす}めた。
+= O konuşma-yı zorla ilerlet-ti.
++ 強引|ごういん|zorla, dayatmacı, zorba
+44 日本{にほん}とトルコの取{と}り引{ひ}きは年々{ねんねん}増{ふ}えている。
+= Japonya ile Türkiye arasındaki ticaret yıldan yıla art-ıyor.
++ 取り引き|とりひき|ticaret, alışveriş, iş anlaşması
+45 あの会社{かいしゃ}とは長{なが}く取引{とりひき}がある。
+= O şirket-le uzun süredir ticari ilişki-miz var.
++ 取引|とりひき|ticaret, iş ilişkisi (取り引き ile aynı)
+46 分{わ}からない言葉{ことば}は字引{じびき}を引{ひ}いて調{しら}べなさい。
+= Bilme-diğ-in kelime-ler-i sözlük-ten bak-ıp araştır.
++ 字引|じびき|sözlük
++ 引く|ひく|(sözlüğe) bakmak; çekmek|引い
+// 選　セン／えら・ぶ
+47 好{す}きな色{いろ}を一{ひと}つ選{えら}んでください。
+= Sevdiğ-in renk-ten birini seç lütfen.
++ 選ぶ|えらぶ|seçmek|選
+48 投票{とうひょう}でクラスの代表{だいひょう}を選出{せんしゅつ}した。
+= Oylama-yla sınıf temsilci-si-ni seç-ti-k.
++ 代表|だいひょう|temsilci
++ 選出|せんしゅつ|seçme (oyla, aday arasından)
+49 彼{かれ}は大学{だいがく}進学{しんがく}を選択{せんたく}した。
+= O üniversite-ye devam et-me-yi seç-ti.
++ 選択|せんたく|seçim, tercih
+50 日曜日{にちようび}に選挙{せんきょ}に行{い}く。
+= Pazar günü seçim-e (oy vermeye) gid-iyor-um.
++ 選挙|せんきょ|seçim (oylama)
+51 委員会{いいんかい}が受賞者{じゅしょうしゃ}を選定{せんてい}した。
+= Komite ödül kazanan-ı belirle-di.
++ 選定|せんてい|seçip belirleme
+52 彼{かれ}はオリンピックの水泳{すいえい}の選手{せんしゅ}だ。
+= O olimpiyat yüzme sporcu-su-dur.
++ 選手|せんしゅ|sporcu, oyuncu
+// 死　シ／し・ぬ
+53 飼{か}っていた金魚{きんぎょ}が死{し}んでしまった。
+= Beslediğ-im japon balığ-ı öl-üver-di.
++ 死ぬ|しぬ|ölmek|死
+54 その戦争{せんそう}で多{おお}くの死人{しにん}が出{で}た。
+= O savaş-ta çok ölü ol-du.
++ 死人|しにん|ölü (kişi)
+55 事故{じこ}の死者{ししゃ}は10人{にん}だった。
+= Kaza-da ölen-ler-in sayı-sı 10-du.
++ 死者|ししゃ|ölü, ölen kişi
+56 森{もり}の中{なか}で死体{したい}が発見{はっけん}された。
+= Orman-ın için-de ceset bulun-du.
++ 死体|したい|ceset
+57 死{し}について考{かんが}える。
+= Ölüm hakkında düşün-ür-üm.
++ 死|し|ölüm
+58 事故{じこ}で二人{ふたり}が死亡{しぼう}した。
+= Kaza-da iki kişi hayat-ı-nı kaybet-ti.
++ 死亡|しぼう|ölüm, vefat
+// 急　キュウ／いそ・ぐ
+59 遅刻{ちこく}しそうなので駅{えき}まで急{いそ}いだ。
+= Geç kal-acak gibi ol-duğ-um için istasyon-a kadar acele et-ti-m.
++ 急ぐ|いそぐ|acele etmek|急
+60 急{きゅう}に雨{あめ}が降{ふ}り始{はじ}めた。
+= Aniden yağmur yağ-ma-ya başla-dı.
++ 急に|きゅうに|aniden, birden|急に
+61 彼{かれ}は急{きゅう}に立{た}ち上{あ}がった。
+= O aniden ayağa kalk-tı.
++ 急に|きゅうに|aniden, birden|急に
+62 急行{きゅうこう}に乗{の}れば、30分{ぷん}早{はや}く着{つ}く。
+= Ekspres-e bin-er-se-n 30 dakika erken var-ır-sın.
++ 急行|きゅうこう|ekspres (tren)
+63 急用{きゅうよう}で会社{かいしゃ}を休{やす}んだ。
+= Acil bir iş yüzün-den iş-e git-me-di-m.
++ 急用|きゅうよう|acil iş
+64 急用{きゅうよう}がありますので、後{あと}で電話{でんわ}します。
+= Acil bir iş-im var, sonra telefon ed-eceğ-im.
++ 急用|きゅうよう|acil iş
+65 日本{にほん}は急速{きゅうそく}な近代化{きんだいか}を遂{と}げた。
+= Japonya hızlı bir modernleşme gerçekleştir-di.
++ 急速|きゅうそく|hızlı, süratli
+66 技術{ぎじゅつ}が急速{きゅうそく}に発展{はってん}している。
+= Teknoloji hızla gelişi-yor.
++ 急速|きゅうそく|hızlı, süratli
+// 咲　さ・く
+67 春{はる}になると桜{さくら}が咲{さ}く。
+= Bahar gel-ince kiraz çiçek-ler-i aç-ar.
++ 咲く|さく|(çiçek) açmak|咲
+68 彼{かれ}は社長{しゃちょう}に返{かえ}り咲{ざ}いた。
+= O yeniden şirket başkan-ı ol-du (koltuğ-a geri dön-dü).
++ 返り咲く|かえりざく|eski konumuna geri dönmek|返り咲
+69 彼女{かのじょ}は人気{にんき}歌手{かしゅ}として返{かえ}り咲{ざ}いた。
+= O (kadın) popüler şarkıcı olarak yeniden parla-dı.
++ 返り咲く|かえりざく|eski konumuna geri dönmek|返り咲
+// 置　チ／お・く
+70 かばんを机{つくえ}の上{うえ}に置{お}いた。
+= Çanta-yı masa-nın üst-ün-e koy-du-m.
++ 置く|おく|koymak|置
+71 床{とこ}の間{ま}に置物{おきもの}が飾{かざ}ってある。
+= Tokonoma-da süs eşya-sı duruyor.
++ 置物|おきもの|süs eşyası, biblo
+72 これは犬{いぬ}の置物{おきもの}です。
+= Bu bir köpek biblo-su-dur.
++ 置物|おきもの|süs eşyası, biblo
+73 棚{たな}には陶器{とうき}の置物{おきもの}が並{なら}んでいる。
+= Raf-ta porselen biblo-lar sıra-lan-mış.
++ 陶器|とうき|seramik, porselen
++ 置物|おきもの|süs eşyası, biblo
+74 古{ふる}い本{ほん}は物置{ものおき}にしまってある。
+= Eski kitap-lar depo-da kaldır-ıl-mış.
++ 物置|ものおき|depo, sundurma, ardiye
+75 庭{にわ}に物置{ものおき}を建{た}てた。
+= Bahçe-ye bir depo yap-tı-k.
++ 物置|ものおき|depo, sundurma, ardiye
+76 東京{とうきょう}の位置{いち}を地図{ちず}で見{み}てください。
+= Tokyo-nun yer-i-ni harita-da bak-ın.
++ 位置|いち|konum, yer
+77 地図{ちず}アプリで現在{げんざい}位置{いち}を確認{かくにん}した。
+= Harita uygulama-sı-yla şu an-ki konum-um-u kontrol et-ti-m.
++ 現在位置|げんざいいち|şu anki konum
+// 勝　ショウ／か・つ、まさ・る
+78 試合{しあい}の勝者{しょうしゃ}には賞金{しょうきん}が出{で}る。
+= Maç-ın kazanan-ı-na para ödül-ü ver-il-ir.
++ 勝者|しょうしゃ|kazanan, galip
+79 チームは見事{みごと}な勝利{しょうり}を収{おさ}めた。
+= Takım muhteşem bir zafer kazan-dı.
++ 勝利|しょうり|zafer, galibiyet
+80 チームは五{ご}連勝{れんしょう}した。
+= Takım üst üste beş galibiyet al-dı.
++ 連勝|れんしょう|üst üste galibiyet
+81 彼{かれ}は連勝{れんしょう}中{ちゅう}だ。
+= O galibiyet serisi-nde.
++ 連勝|れんしょう|üst üste galibiyet
+82 日本{にほん}が大会{たいかい}で優勝{ゆうしょう}した。
+= Japonya turnuva-da şampiyon ol-du.
++ 優勝|ゆうしょう|şampiyonluk, birincilik
+83 日本{にほん}が試合{しあい}に勝{か}った。
+= Japonya maç-ı kazan-dı.
++ 勝つ|かつ|kazanmak, yenmek|勝
+84 彼{かれ}は私{わたし}に勝{まさ}る知識{ちしき}を持{も}っている。
+= O benden üstün bir bilgi-ye sahip.
++ 勝る|まさる|üstün olmak, …den iyi olmak|勝る
+85 健康{けんこう}に勝{まさ}る宝{たから}はない。
+= Sağlık-tan üstün bir hazine yok-tur.
++ 勝る|まさる|üstün olmak, …den iyi olmak|勝る
+86 友情{ゆうじょう}には金{かね}にも勝{まさ}る価値{かち}がある。
+= Dostluğ-un para-dan bile üstün bir değer-i var.
++ 勝る|まさる|üstün olmak, …den iyi olmak|勝る
+// 吹　スイ／ふ・く
+87 風{かぜ}が吹{ふ}く。
+= Rüzgâr es-er.
++ 吹く|ふく|(rüzgâr) esmek; üflemek, çalmak|吹
+88 笛{ふえ}を吹{ふ}く。
+= Flüt (düdük) çal-ar-ım.
++ 笛|ふえ|flüt, kaval, düdük
++ 吹く|ふく|(rüzgâr) esmek; üflemek, çalmak|吹
+89 ろうそくを吹{ふ}き消{け}す。
+= Mum-u üfle-yip söndür-ür-üm.
++ 吹き消す|ふきけす|üfleyip söndürmek|吹き消
+90 春{はる}の息吹{いぶき}を感{かん}じる。
+= Bahar-ın soluğ-u-nu hisset-ir-im.
++ 息吹|いぶき|soluk, nefes; canlılık
+91 新{あたら}しい文化{ぶんか}の息吹{いぶき}が感{かん}じられる。
+= Yeni bir kültür-ün soluğ-u hisset-il-iyor.
++ 息吹|いぶき|soluk, nefes; canlılık
+92 娘{むすめ}は学校{がっこう}の吹奏楽部{すいそうがくぶ}に入{はい}っている。
+= Kız-ım okul-un nefesli çalgılar kulüb-ü-nde.
++ 吹奏楽|すいそうがく|nefesli çalgılar müziği, bando
+// 飛　ヒ／と・ぶ、と・ばす
+93 鳥{とり}が空{そら}を飛{と}んでいる。
+= Kuş gökyüzü-nde uç-uyor.
++ 飛ぶ|とぶ|uçmak|飛
+94 強{つよ}い風{かぜ}で帽子{ぼうし}を飛{と}ばされた。
+= Kuvvetli rüzgâr-la şapka-m uç-tu (uçur-ul-du).
++ 飛ばす|とばす|uçurmak; atlamak|飛ばさ
+95 猫{ねこ}が茂{しげ}みから飛{と}び出{だ}してきた。
+= Kedi çalılık-tan fırla-yıp çık-tı.
++ 飛び出す|とびだす|fırlamak, aniden çıkmak|飛び出
+96 本{ほん}から写真{しゃしん}が飛{と}び出{だ}した。
+= Kitap-tan bir fotoğraf fırla-yıp düş-tü.
++ 飛び出す|とびだす|fırlamak, aniden çıkmak|飛び出
+97 飛行機{ひこうき}で大阪{おおさか}へ行{い}った。
+= Uçak-la Osaka-ya git-ti-m.
++ 飛行機|ひこうき|uçak
+98 昔{むかし}この町{まち}には小{ちい}さな飛行場{ひこうじょう}があった。
+= Eskiden bu kasaba-da küçük bir havaalan-ı var-dı.
++ 飛行場|ひこうじょう|havaalanı (küçük), pist
+99 空港{くうこう}まで友達{ともだち}を迎{むか}えに行{い}った。
+= Arkadaş-ım-ı karşıla-mak için havalimanı-na git-ti-m.
++ 空港|くうこう|havalimanı
+// 踏　トウ／ふ・む、ふ・まえる
+100 ブレーキを踏{ふ}む。
+= Fren-e bas-ar-ım.
++ 踏む|ふむ|basmak, çiğnemek|踏
+101 久{ひさ}しぶりに故郷{こきょう}の土{つち}を踏{ふ}んだ。
+= Uzun zaman sonra memleket toprağ-ı-na ayak bas-tı-m.
++ 踏む|ふむ|basmak, çiğnemek|踏
+102 踏切{ふみきり}で電車{でんしゃ}を待{ま}つ。
+= Hemzemin geçit-te tren-i bekl-er-im.
++ 踏切|ふみきり|hemzemin geçit (demiryolu)
+103 シンデレラは舞踏会{ぶとうかい}に行{い}った。
+= Sindirella balo-ya git-ti.
++ 舞踏会|ぶとうかい|balo
+104 現状{げんじょう}を踏{ふ}まえて判断{はんだん}する。
+= Mevcut durum-u göz önünde bulundur-arak karar ver-ir-im.
++ 踏まえる|ふまえる|göz önünde bulundurmak, dayanmak|踏まえ
+// 進　シン／すす・む、すす・める
+105 列{れつ}が少{すこ}しずつ前{まえ}に進{すす}んだ。
+= Sıra yavaş yavaş ileri-ye ilerle-di.
++ 進む|すすむ|ilerlemek|進
+106 先生{せんせい}は授業{じゅぎょう}を予定{よてい}どおりに進{すす}めた。
+= Öğretmen ders-i plan-a uygun ilerlet-ti.
++ 進める|すすめる|ilerletmek, yürütmek|進め
+107 高校{こうこう}へ進学{しんがく}した。
+= Lise-ye geç-ti-m (devam et-ti-m).
++ 進学|しんがく|üst okula geçme
+108 大学{だいがく}への進学{しんがく}を希望{きぼう}している。
+= Üniversite-ye devam et-mek isti-yor-um.
++ 進学|しんがく|üst okula geçme
+109 車{くるま}がゆっくり前進{ぜんしん}する。
+= Araba yavaşça ileri gid-er.
++ 前進|ぜんしん|ilerleme, ileri gitme
+110 これで一歩{いっぽ}前進{ぜんしん}した。
+= Bu-nunla bir adım ileri git-ti-k.
++ 一歩|いっぽ|bir adım
++ 前進|ぜんしん|ilerleme, ileri gitme
+111 交渉{こうしょう}は前進{ぜんしん}した。
+= Müzakere-ler ilerle-di.
++ 前進|ぜんしん|ilerleme, ileri gitme
+112 科学{かがく}は進歩{しんぽ}している。
+= Bilim ilerli-yor.
++ 進歩|しんぽ|ilerleme, gelişme
+113 日本語{にほんご}が少{すこ}しずつ進歩{しんぽ}している。
+= Japonca-m yavaş yavaş gelişi-yor.
++ 進歩|しんぽ|ilerleme, gelişme
+114 日本{にほん}は先進国{せんしんこく}です。
+= Japonya gelişmiş bir ülke-dir.
++ 先進国|せんしんこく|gelişmiş ülke
+115 多{おお}くの先進国{せんしんこく}がこの問題{もんだい}に取{と}り組{く}んでいる。
+= Birçok gelişmiş ülke bu sorun-la uğraş-ıyor.
++ 先進国|せんしんこく|gelişmiş ülke
+// 盗　トウ／ぬす・む
+116 電車{でんしゃ}の中{なか}で財布{さいふ}を盗{ぬす}まれた。
+= Tren-de cüzdan-ım çal-ın-dı.
++ 盗む|ぬすむ|çalmak (hırsızlık)|盗
+117 昨夜{さくや}、銀行{ぎんこう}で強盗{ごうとう}事件{じけん}が発生{はっせい}した。
+= Dün gece banka-da bir soygun olay-ı meydana gel-di.
++ 強盗|ごうとう|soygun; soyguncu
+118 その論文{ろんぶん}は盗作{とうさく}だと認定{にんてい}された。
+= O makale-nin intihal ol-duğ-u tespit ed-il-di.
++ 盗作|とうさく|intihal, eser hırsızlığı
+// 受　ジュ／う・ける、う・かる
+119 授業{じゅぎょう}を受{う}ける。
+= Ders al-ır-ım.
++ 受ける|うける|almak; (sınava) girmek; maruz kalmak|受け
+120 試験{しけん}を受{う}ける。
+= Sınav-a gir-er-im.
++ 受ける|うける|almak; (sınava) girmek; maruz kalmak|受け
+121 台風{たいふう}で多{おお}くの家{いえ}が被害{ひがい}を受{う}けた。
+= Tayfun-da birçok ev zarar gör-dü.
++ 被害|ひがい|zarar, hasar
++ 受ける|うける|almak; (sınava) girmek; maruz kalmak|受け
+122 彼{かれ}は父親{ちちおや}の影響{えいきょう}を強{つよ}く受{う}けている。
+= O baba-sı-nın etki-si-ni güçlü biçimde taşı-yor.
++ 影響|えいきょう|etki
++ 受ける|うける|almak; (sınava) girmek; maruz kalmak|受け
+123 その仕事{しごと}を引{ひ}き受{う}けます。
+= O iş-i üstlen-ir-im.
++ 引き受ける|ひきうける|üstlenmek, kabul etmek|引き受け
+124 彼{かれ}は何事{なにごと}にも受{う}け身{み}の人{ひと}だ。
+= O her konu-da pasif bir insan-dır.
++ 受け身|うけみ|pasiflik, edilgenlik; edilgen çatı
+125 受付{うけつけ}で名前{なまえ}を書{か}いてください。
+= Resepsiyon-da ad-ınız-ı yaz-ın.
++ 受付|うけつけ|resepsiyon, danışma; başvuru kabulü
+126 契約書{けいやくしょ}の授受{じゅじゅ}は本社{ほんしゃ}で行{おこな}う。
+= Sözleşme-nin teslim alınıp verilme-si genel merkez-de yap-ıl-ır.
++ 授受|じゅじゅ|verip alma, teslim-tesellüm
+127 招待{しょうたい}を受理{じゅり}したのに、彼{かれ}は来{こ}なかった。
+= Davet-i kabul et-tiğ-i hâlde o gel-me-di.
++ 受理|じゅり|kabul etme (başvuru vb.)
+128 彼{かれ}の申{もう}し込{こ}みがやっと受理{じゅり}された。
+= Onun başvuru-su nihayet kabul ed-il-di.
++ 受理|じゅり|kabul etme (başvuru vb.)
+129 彼{かれ}は入学{にゅうがく}試験{しけん}に受{う}かった。
+= O giriş sınav-ı-nı kazan-dı.
++ 受かる|うかる|(sınavı) geçmek, kazanmak|受か
+// 取　シュ／と・る
+130 すみません、塩{しお}を取{と}ってください。
+= Affedersiniz, tuz-u uzat-ır mısınız?
++ 取る|とる|almak, uzatmak|取
+131 かばんから本{ほん}を取{と}り出{だ}す。
+= Çanta-dan kitab-ı çıkar-ır-ım.
++ 取り出す|とりだす|çıkarmak (içinden)|取り出
+132 記憶{きおく}を取{と}り出{だ}す。
+= Hatıra-yı (hafıza-dan) çıkar-ır-ım.
++ 取り出す|とりだす|çıkarmak (içinden)|取り出
+133 データを取{と}り出{だ}す。
+= Veri-yi çıkar-ır-ım.
++ 取り出す|とりだす|çıkarmak (içinden)|取り出
+134 大{おお}きな窓{まど}で日光{にっこう}を取{と}り入{い}れる。
+= Büyük pencere-yle güneş ışığ-ı-nı içeri al-ır-ız.
++ 日光|にっこう|güneş ışığı
++ 取り入れる|とりいれる|içeri almak; benimsemek|取り入れ
+135 新{あたら}しい考{かんが}えを取{と}り入{い}れる。
+= Yeni fikir-ler-i benimse-r-im.
++ 取り入れる|とりいれる|içeri almak; benimsemek|取り入れ
+136 荷物{にもつ}を受{う}け取{と}った。
+= Paket-i teslim al-dı-m.
++ 受け取る|うけとる|teslim almak, almak|受け取
+137 彼{かれ}の気持{きも}ちを受{う}け取{と}った。
+= Onun duygu-lar-ı-nı kabul et-ti-m (anla-dı-m).
++ 受け取る|うけとる|teslim almak, almak|受け取
+138 記者{きしゃ}が事故{じこ}現場{げんば}を取材{しゅざい}する。
+= Muhabir kaza yer-i-nde haber derle-r.
++ 取材|しゅざい|haber toplama, röportaj
+139 社長{しゃちょう}がテレビの取材{しゅざい}を受{う}ける。
+= Şirket başkan-ı televizyon röportaj-ı ver-ir.
++ 取材|しゅざい|haber toplama, röportaj
+// 合　ゴウ・ガッ・カッ／あ・う、あ・わす、あ・わせる
+140 この服{ふく}は私{わたし}に合{あ}う。
+= Bu giysi ban-a uy-ar.
++ 合う|あう|uymak, yakışmak|合
+141 時間{じかん}に間{ま}に合{あ}った。
+= Zaman-ın-da yetiş-ti-m.
++ 間に合う|まにあう|yetişmek, zamanında varmak|間に合
+142 彼{かれ}はお見合{みあ}いをした。
+= O görücü usulü tanışma yap-tı.
++ お見合い|おみあい|görücü usulü tanışma|お見合い
+143 両手{りょうて}を合{あ}わせる。
+= İki el-im-i birleştir-ir-im.
++ 合わせる|あわせる|birleştirmek; ayarlamak, uydurmak|合わせ
+144 二{ふた}つの会社{かいしゃ}を合{あ}わせる。
+= İki şirket-i birleştir-ir-iz.
++ 合わせる|あわせる|birleştirmek; ayarlamak, uydurmak|合わせ
+145 時計{とけい}を合{あ}わせる。
+= Saat-i ayarla-r-ım.
++ 合わせる|あわせる|birleştirmek; ayarlamak, uydurmak|合わせ
+146 予定{よてい}を合{あ}わせる。
+= Program-ı uyuştur-ur-uz.
++ 合わせる|あわせる|birleştirmek; ayarlamak, uydurmak|合わせ
+147 服{ふく}の色{いろ}を合{あ}わせる。
+= Giysi-ler-in renk-ler-i-ni uyuştur-ur-um.
++ 合わせる|あわせる|birleştirmek; ayarlamak, uydurmak|合わせ
+148 音楽{おんがく}に合{あ}わせて踊{おど}る。
+= Müziğ-e uy-arak dans ed-er-im.
++ 合わせる|あわせる|birleştirmek; ayarlamak, uydurmak|合わせ
+149 売上{うりあげ}を合{あ}わせると百万{ひゃくまん}円{えん}になる。
+= Satış-lar-ı topla-yınca bir milyon yen ed-er.
++ 合わせる|あわせる|birleştirmek; ayarlamak, uydurmak; toplamak|合わせ
+150 毎朝{まいあさ}エレベーターで部長{ぶちょう}と顔{かお}を合{あ}わす。
+= Her sabah asansör-de müdür-le yüz yüze gel-ir-im.
++ 合わす|あわす|birleştirmek, karşılaştırmak (合わせる'nın eşi)|合わす
+151 会合{かいごう}に出席{しゅっせき}する。
+= Toplantı-ya katıl-ır-ım.
++ 会合|かいごう|toplantı, buluşma
+152 会合{かいごう}が開{ひら}かれた。
+= Toplantı düzenle-n-di.
++ 会合|かいごう|toplantı, buluşma
+153 来月{らいげつ}東京{とうきょう}で国際{こくさい}会合{かいごう}が開{ひら}かれる。
+= Gelecek ay Tokyo-da uluslararası bir toplantı düzenle-n-ecek.
++ 国際会合|こくさいかいごう|uluslararası toplantı
+154 駅前{えきまえ}に集合{しゅうごう}する。
+= İstasyon önü-nde topla-n-ır-ız.
++ 集合|しゅうごう|toplanma, buluşma
+155 両者{りょうしゃ}は合意{ごうい}した。
+= İki taraf anlaş-tı.
++ 合意|ごうい|anlaşma, uzlaşma
+156 兄{あに}は大学{だいがく}の入学{にゅうがく}試験{しけん}に合格{ごうかく}した。
+= Ağabey-im üniversite giriş sınav-ı-nı geç-ti.
++ 合格|ごうかく|sınavı geçme, başarı
+157 二{ふた}つの銀行{ぎんこう}の合併{がっぺい}が発表{はっぴょう}された。
+= İki banka-nın birleşme-si açıkla-n-dı.
++ 合併|がっぺい|birleşme (şirket, kurum)
+158 源平{げんぺい}合戦{かっせん}は平安{へいあん}時代{じだい}の終{お}わりに起{お}こった。
+= Genpei Savaş-ı Heian dönem-i-nin son-un-da meydana gel-di.
++ 合戦|かっせん|muharebe, savaş
++ 源平合戦|げんぺいかっせん|Genpei Savaşı (Minamoto-Taira)
+// 吸　キュウ／す・う
+159 空気{くうき}を吸{す}う。
+= Hava-yı içime çek-er-im.
++ 吸う|すう|içine çekmek, emmek; (sigara) içmek|吸
+160 タバコを吸{す}う。
+= Sigara iç-er-im.
++ 吸う|すう|içine çekmek, emmek; (sigara) içmek|吸
+161 ストローでジュースを吸{す}う。
+= Pipet-le meyve suyu-nu çek-er-im.
++ 吸う|すう|içine çekmek, emmek; (sigara) içmek|吸
+162 スポンジが水{みず}を吸{す}い取{と}った。
+= Sünger su-yu em-di.
++ 吸い取る|すいとる|emmek, emip almak|吸い取
+163 掃除機{そうじき}がほこりを吸{す}い取{と}る。
+= Elektrik süpürge-si toz-u çek-er.
++ 吸い取る|すいとる|emmek, emip almak|吸い取
+164 彼{かれ}は人{ひと}の金{かね}を吸{す}い取{と}るような人{ひと}だ。
+= O, insan-lar-ın para-sı-nı sömür-en türden biri.
++ 吸い取る|すいとる|emmek, emip almak|吸い取
+165 深呼吸{しんこきゅう}してください。
+= Derin nefes al-ın.
++ 深呼吸|しんこきゅう|derin nefes
+166 呼吸{こきゅう}が早{はや}い。
+= Nefes alış-ı hızlı.
++ 呼吸|こきゅう|nefes alma, solunum; uyum
+167 水{みず}の中{なか}では呼吸{こきゅう}できない。
+= Su-yun için-de nefes al-a-mazsın.
++ 呼吸|こきゅう|nefes alma, solunum; uyum
+168 二人{ふたり}の呼吸{こきゅう}がぴったり合{あ}っている。
+= İkisi-nin uyum-u tam yerinde.
++ 呼吸|こきゅう|nefes alma, solunum; uyum
+169 植物{しょくぶつ}は水{みず}を吸収{きゅうしゅう}する。
+= Bitki-ler su-yu emer.
++ 吸収|きゅうしゅう|emme, soğurma; özümseme
+170 新{あたら}しい知識{ちしき}を吸収{きゅうしゅう}する。
+= Yeni bilgi-ler-i özümse-r-im.
++ 吸収|きゅうしゅう|emme, soğurma; özümseme
+// 拾　シュウ・ジュウ／ひろ・う
+171 道{みち}で財布{さいふ}を拾{ひろ}った。
+= Yol-da bir cüzdan bul-du-m (yerden al-dı-m).
++ 拾う|ひろう|yerden almak, bulmak|拾
+172 公園{こうえん}でごみを拾{ひろ}う。
+= Park-ta çöp topla-r-ım.
++ 拾う|ひろう|yerden almak, bulmak|拾
+173 彼{かれ}は子犬{こいぬ}を拾{ひろ}って育{そだ}てた。
+= O bir yavru köpek bul-up büyüt-tü.
++ 拾う|ひろう|yerden almak, bulmak|拾
+174 このラジオはよく電波{でんぱ}を拾{ひろ}う。
+= Bu radyo yayın-ı (dalga-yı) iyi çek-er.
++ 電波|でんぱ|radyo dalgası, sinyal
++ 拾う|ひろう|yerden almak, bulmak; (sinyal) almak|拾
+175 落{お}とし物{もの}を拾得{しゅうとく}した人{ひと}は交番{こうばん}に届{とど}けなければならない。
+= Kayıp eşya bul-an kişi onu polis kulübe-si-ne teslim et-mek zorunda-dır.
++ 拾得|しゅうとく|(kayıp eşya) bulma
+176 領収書{りょうしゅうしょ}では金額{きんがく}の「十」を「拾{じゅう}」と書{か}くことがある。
+= Makbuz-lar-da tutar-daki "十" bazen "拾" diye yaz-ıl-ır.
++ 拾|じゅう|on (resmî belgelerde 十 yerine)|拾

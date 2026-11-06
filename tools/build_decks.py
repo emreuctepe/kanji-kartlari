@@ -103,12 +103,20 @@ def main():
     txt = open(out, encoding='utf-8').read()
     pre = 'window.DECK_DATA = '
     decks = json.loads(txt[len(pre):].rstrip().rstrip(';'))
-    ids = {d['id'] for d in new}
-    decks = [d for d in decks if d['id'] not in ids]
-    # numaralı desteler (第N回) sırayla, diğerleri eski yerlerinde sonda
-    num = sorted([d for d in decks if order(d['id'])[0] == 0] + new, key=lambda d: order(d['id']))
-    rest = [d for d in decks if order(d['id'])[0] == 1]
-    decks = num + rest
+    # aynı id varsa yerinde değiştir; yeni numaralı deste (第N回) numara sırasına, diğerleri sona
+    for nd in new:
+        at = next((i for i, d in enumerate(decks) if d['id'] == nd['id']), None)
+        if at is not None:
+            decks[at] = nd
+        elif order(nd['id'])[0] == 0:
+            n = order(nd['id'])[1]
+            at = 0
+            for i, d in enumerate(decks):
+                if order(d['id'])[0] == 0 and order(d['id'])[1] < n:
+                    at = i + 1
+            decks.insert(at, nd)
+        else:
+            decks.append(nd)
     open(out, 'w', encoding='utf-8').write(pre + json.dumps(decks, ensure_ascii=False, separators=(',', ':')) + ';\n')
     for d in new:
         print('%s: %d cümle, %d kelime' % (d['title'], len(d['sents']), len(d['words'])))
