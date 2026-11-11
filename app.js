@@ -23,13 +23,44 @@
   var ALL = { id: 'all', title: 'Tüm kelimeler', sents: [], cards: [] };
   WORDS.forEach(function (w, gk) { ALL.cards.push(CARD.get(w.decks[0] + '/' + gk)); });
 
+  // 2年文法 kalıp desteleri ana listede tek bir klasör olarak görünür; desteler aynı kalır
+  var GRAMMAR = DECKS.filter(function (d) { return /^gp\d+$/.test(d.id); });
+  var FOLDER = { id: 'gram', title: '2年文法', folder: true, decks: GRAMMAR, cards: [] };
+  GRAMMAR.forEach(function (d) { FOLDER.cards = FOLDER.cards.concat(d.cards); });
+  var HOME = [];
+  DECKS.forEach(function (d) {
+    if (GRAMMAR.indexOf(d) < 0) HOME.push(d);
+    else if (d === GRAMMAR[0]) HOME.push(FOLDER);
+  });
+  // kilit sırası: ana listede yukarıdan aşağı, klasörün içindekiler kendi sırasıyla
+  var ORDER = [];
+  HOME.forEach(function (x) { ORDER = ORDER.concat(x.folder ? x.decks : [x]); });
+
+  // tüm cümleler: aynı metin birden çok destede geçiyorsa tek satır; gks = cümlede geçen kartların kelimeleri
+  function plainOf(g) { return g.map(function (x) { return typeof x === 'string' ? x : x[0]; }).join(''); }
+  function kanaOf(g) { return g.map(function (x) { return typeof x === 'string' ? x : x[1]; }).join(''); }
+  var SENTS = [];
+  (function () {
+    var byText = new Map();
+    DECKS.forEach(function (d) {
+      var gks = d.sents.map(function () { return []; });
+      d.cards.forEach(function (c) { c.occ.forEach(function (o) { if (gks[o[0]].indexOf(c.gk) < 0) gks[o[0]].push(c.gk); }); });
+      d.sents.forEach(function (s, i) {
+        var p = plainOf(s.g), e = byText.get(p);
+        if (!e) { e = { i: SENTS.length, g: s.g, t: s.t, p: p, src: [], gks: [] }; byText.set(p, e); SENTS.push(e); }
+        e.src.push(d.title + ' · ' + s.n + '. cümle');
+        gks[i].forEach(function (gk) { if (e.gks.indexOf(gk) < 0) e.gks.push(gk); });
+      });
+    });
+  })();
+
   function lsGet(k, def) { try { var v = localStorage.getItem(k); return v ? JSON.parse(v) : def; } catch (e) { return def; } }
   function lsSet(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); return true; } catch (e) { return false; } }
 
-  var prefs = Object.assign({ ctx: true, shuffle: true }, lsGet('kk.prefs', {}));
+  var prefs = Object.assign({ ctx: true, shuffle: true, lock: false, sentSort: 'abc' }, lsGet('kk.prefs', {}));
   function savePrefs() { lsSet('kk.prefs', prefs); }
 
-  // sessions: id -> {t0, k:[cardKey], e:[[dtMs, keyIndex, 1|0, responseMs]]}
+  // sessions: id -> {t0, k:[cardKey], e:[[dtMs, keyIndex, 1|0, responseMs, extraShown, redWeight?]]}
   var sessions = new Map();
   var MAX_EVENTS = 2500;
   var cur = null;
@@ -46,7 +77,7 @@
     function push(s) {
       for (var i = 0; i < s.e.length; i++) {
         var e = s.e[i];
-        out.push({ t: s.t0 + e[0], ck: s.k[e[1]], res: e[2], ms: e[3], x: e[4] === 1 });
+        out.push({ t: s.t0 + e[0], ck: s.k[e[1]], res: e[2], ms: e[3], x: e[4] === 1, w: e[5] || 1 });
       }
     }
     sessions.forEach(function (s, id) { if (id !== cur.id) push(s); });
@@ -68,7 +99,7 @@
       var s = stats.get(gk);
       if (!s) { s = { g: 0, r: 0, last: null, lastAt: 0, firstAt: ev.t, byDeck: {} }; stats.set(gk, s); }
       var bd = s.byDeck[deckId] || (s.byDeck[deckId] = { g: 0, r: 0 });
-      if (ev.res) { s.g++; bd.g++; } else { s.r++; bd.r++; }
+      if (ev.res) { s.g++; bd.g++; } else { s.r += ev.w; bd.r += ev.w; }
       s.last = ev.res ? 'g' : 'r'; s.lastAt = ev.t;
     });
   }
@@ -85,6 +116,17 @@
     });
     return c;
   }
+  // kilit: desteler yukarıdan aşağı sırayla açılır; tamamı yeşil olmayan ilk desteden (blocker) sonrakiler kilitli
+  function locks() {
+    var set = new Set(), blocker = null;
+    if (!prefs.lock || !store.ready) return { set: set, blocker: null };
+    ORDER.forEach(function (d) {
+      if (blocker) set.add(d.id);
+      else if (!d.cards.every(function (c) { return status(c.gk) === 'g'; })) blocker = d;
+    });
+    return { set: set, blocker: blocker };
+  }
+  function isLocked(lk, d) { return lk.set.has(d.folder ? d.decks[0].id : d.id); }
 
   // ---------- storage ----------
   // her basış bu tarayıcının localStorage'ına yazılır; claude.ai hesabından taşınan eski oturumlar data/progress.js'te
@@ -124,7 +166,7 @@
       if (!t || !x.word || !x.reading || have.has(t + ' ' + gk)) return;
       have.add(t + ' ' + gk);
       var deckId = byTitle[x.deck] || (WORDS.has(gk) ? WORDS.get(gk).decks[0] : 'x');
-      add.push({ t: t, ck: deckId + '/' + gk, res: x.result === 'green' ? 1 : 0, ms: x.ms || 0, x: x.extraShown ? 1 : 0 });
+      add.push({ t: t, ck: deckId + '/' + gk, res: x.result === 'green' ? 1 : 0, ms: x.ms || 0, x: x.extraShown ? 1 : 0, w: x.weight > 1 ? x.weight : 1 });
     });
     if (!add.length) return 0;
     add.sort(function (a, b) { return a.t - b.t; });
@@ -132,7 +174,7 @@
     add.forEach(function (a) {
       var i = kidx.get(a.ck);
       if (i === undefined) { i = s.k.length; s.k.push(a.ck); kidx.set(a.ck, i); }
-      s.e.push([a.t - s.t0, i, a.res, a.ms, a.x]);
+      s.e.push([a.t - s.t0, i, a.res, a.ms, a.x].concat(a.w > 1 ? [a.w] : []));
     });
     var id = 'imp' + Date.now().toString(36);
     sessions.set(id, s);
@@ -156,11 +198,15 @@
   window.addEventListener('pagehide', flushNow);
 
   // ---------- recording ----------
+  // öğrenilmiş (yeşil) bir kelime unutulup ✗ basılırsa 3 kırmızı sayılır; dönen değer kırmızının ağırlığı
+  var FORGOT_W = 3;
   function record(card, res, ms, extraShown) {
+    var w = !res && status(card.gk) === 'g' ? FORGOT_W : 1;
     var idx = cur.kidx.get(card.ck);
     if (idx === undefined) { idx = cur.k.length; cur.k.push(card.ck); cur.kidx.set(card.ck, idx); }
-    cur.e.push([Date.now() - cur.t0, idx, res ? 1 : 0, Math.min(Math.round(ms), 3600000), extraShown ? 1 : 0]);
+    cur.e.push([Date.now() - cur.t0, idx, res ? 1 : 0, Math.min(Math.round(ms), 3600000), extraShown ? 1 : 0].concat(w > 1 ? [w] : []));
     recompute(); markDirty(); rotateIfNeeded();
+    return w;
   }
   function unrecordLast() {
     if (!cur.e.length) return false;
@@ -212,6 +258,8 @@
 
   function render() {
     if (view.name === 'home') renderHome();
+    else if (view.name === 'folder') renderFolder();
+    else if (view.name === 'sents') renderSents();
     else if (view.name === 'deck') renderDeck();
     else if (view.name === 'study') renderStudy();
     else if (view.name === 'review') renderReview();
@@ -233,6 +281,7 @@
     h += '<div class="toolbar">' +
       '<label class="toggle"><input type="checkbox" id="opt-shuffle"' + (prefs.shuffle ? ' checked' : '') + '> Karıştır</label>' +
       '<label class="toggle"><input type="checkbox" id="opt-ctx"' + (prefs.ctx ? ' checked' : '') + '> Ön yüzde cümle</label>' +
+      '<label class="toggle" title="Desteler sırayla açılır: bir destenin tamamı yeşil olunca sıradaki açılır"><input type="checkbox" id="opt-lock"' + (prefs.lock ? ' checked' : '') + '> Kilit</label>' +
       '<span class="spacer"></span>' +
       '<button class="btn" id="dl">JSON indir</button>' +
       '<input type="file" id="ul-file" class="vh"><label class="btn" for="ul-file">JSON yükle</label></div>';
@@ -242,41 +291,78 @@
       '<span class="t">Ortak tekrar</span>' +
       '<span><span class="meta" style="display:block">' + (loading ? 'yükleniyor…' : 'Tüm destelerden en az ' + REV_MIN + ' kez kırmızı basılmış ve son cevabı kırmızı olan kelimeler · karışık · cevap kaydedilmez') + '</span></span>' +
       '<span class="n tnum">' + rk.length + ' kart</span></button></li></ul>';
+    var lk = locks();
     h += '<ul class="decks">';
-    DECKS.concat([ALL]).forEach(function (d) {
-      var c = deckCounts(d), total = d.cards.length;
-      h += '<li><button class="deck" data-deck="' + d.id + '">' +
-        '<span class="t">' + esc(d.title) + '</span>' +
-        '<span>' + (d.p ? '<span class="pat">' + esc(d.p) + '</span>' : '') + barHTML(c, total) + '<span class="meta tnum" style="display:block">' +
-        (loading ? 'yükleniyor…' : c.g + ' öğrendim · ' + c.y + ' kısmen · ' + c.r + ' öğrenemedim · ' + c.n + ' yeni') + '</span></span>' +
-        '<span class="n tnum">' + total + ' kart</span></button></li>';
-    });
+    HOME.concat([ALL]).forEach(function (d) { h += deckItemHTML(d, lk, loading); });
+    h += '<li><button class="deck" data-deck="sents"><span class="t">Tüm cümleler</span>' +
+      '<span><span class="meta" style="display:block">Ara · alfabetik ya da en çok yanlış yapılan kelimeye göre sırala · cümleye dokununca furigana ve çeviri</span></span>' +
+      '<span class="n tnum">' + SENTS.length + ' cümle</span></button></li>';
     h += '</ul>';
     h += '<p class="storage">' + storageNote() + '<br>Ek örnek cümleler <a href="https://tatoeba.org" target="_blank" rel="noopener">Tatoeba</a>\'dan alındı (CC BY 2.0 FR); Türkçe çevirileri Claude yazdı. Bir kelimeye en az bir kez kırmızı bastıysan kartın arka yüzünde görünür.</p>';
     h += '</div>';
     app.innerHTML = h;
     var revBtn = document.getElementById('rev');
     if (revBtn) revBtn.addEventListener('click', startReview);
-    app.querySelectorAll('.deck[data-deck]').forEach(function (b) {
-      b.addEventListener('click', function () { go({ name: 'deck', deck: deckById(b.dataset.deck) }); });
-    });
+    bindDecks();
     document.getElementById('opt-shuffle').addEventListener('change', function (e) { prefs.shuffle = e.target.checked; savePrefs(); });
     document.getElementById('opt-ctx').addEventListener('change', function (e) { prefs.ctx = e.target.checked; savePrefs(); });
+    document.getElementById('opt-lock').addEventListener('change', function (e) {
+      prefs.lock = e.target.checked; savePrefs(); render();
+      document.getElementById('opt-lock').focus({ preventScroll: true });
+      var b = locks().blocker;
+      if (prefs.lock) toast(b ? 'Kilit açık · sıradaki deste ' + b.title + ' tamamen yeşil olunca açılır' : 'Kilit açık · bütün desteler yeşil');
+    });
     document.getElementById('dl').addEventListener('click', downloadJSON);
     var ul = document.getElementById('ul-file');
     ul.addEventListener('change', function () { if (ul.files[0]) importFile(ul.files[0]); ul.value = ''; });
   }
   function storageNote() {
     if (!store.ready) return 'İlerleme yükleniyor…';
-    return 'Her basış bu tarayıcıda saklanıyor. Başka cihaza taşımak için burada JSON indir, orada JSON yükle; aynı basışlar iki kez sayılmaz. Kart durumu kelimenin son cevabıdır, bir kelime birden çok bölümde geçiyorsa durumu hepsinde ortaktır.';
+    return 'Her basış bu tarayıcıda saklanıyor. Başka cihaza taşımak için burada JSON indir, orada JSON yükle; aynı basışlar iki kez sayılmaz. Kart durumu kelimenin son cevabıdır, bir kelime birden çok bölümde geçiyorsa durumu hepsinde ortaktır. Öğrenilmiş (yeşil) bir kelimeye ✗ basarsan ' + FORGOT_W + ' kırmızı sayılır. Kilit açıkken Ortak tekrar, Tüm kelimeler ve Tüm cümleler hep açıktır.';
   }
   function deckById(id) { if (id === 'all') return ALL; for (var i = 0; i < DECKS.length; i++) if (DECKS[i].id === id) return DECKS[i]; return null; }
 
-  function renderDeck() {
-    var d = view.deck, c = deckCounts(d);
-    var due = d.cards.filter(function (card) { return status(card.gk) !== 'g'; });
+  // ana listedeki ve klasördeki deste satırı; klasör satırı içindeki destelerin toplamını gösterir
+  function deckItemHTML(d, lk, loading) {
+    var c = deckCounts(d), total = d.cards.length, locked = isLocked(lk, d);
+    var meta = loading ? 'yükleniyor…' : locked ? '🔒 Kilitli · önce ' + esc(lk.blocker.title) + ' tamamen yeşil olmalı'
+      : c.g + ' öğrendim · ' + c.y + ' kısmen · ' + c.r + ' öğrenemedim · ' + c.n + ' yeni';
+    return '<li><button class="deck' + (d.folder ? ' folder' : '') + (locked ? ' locked' : '') + '" data-deck="' + d.id + '"' + (locked ? ' aria-disabled="true"' : '') + '>' +
+      '<span class="t">' + esc(d.title) + '</span>' +
+      '<span>' + (d.p ? '<span class="pat">' + esc(d.p) + '</span>' : '') + barHTML(c, total) + '<span class="meta tnum" style="display:block">' + meta + '</span></span>' +
+      '<span class="n tnum">' + (d.folder ? d.decks.length + ' deste ›' : total + ' kart') + '</span></button></li>';
+  }
+  function bindDecks() {
+    app.querySelectorAll('.deck[data-deck]').forEach(function (b) {
+      b.addEventListener('click', function () { openEntry(b.dataset.deck); });
+    });
+  }
+  function openEntry(id) {
+    if (id === 'sents') { go({ name: 'sents', q: '', open: new Set() }); return; }
+    var d = id === FOLDER.id ? FOLDER : deckById(id), lk = locks();
+    if (isLocked(lk, d)) { toast('🔒 Önce ' + lk.blocker.title + ' destesinin tamamını yeşil yap'); return; }
+    go(d.folder ? { name: 'folder' } : { name: 'deck', deck: d });
+  }
+
+  function renderFolder() {
+    var f = FOLDER, c = deckCounts(f), lk = locks();
     var h = '<div class="wrap">';
     h += '<button class="back" id="back">← Bölümler</button>';
+    h += '<div class="deckhead"><h1>' + esc(f.title) + '</h1><span class="muted tnum">' + f.decks.length + ' deste · ' + f.cards.length + ' kart</span></div>';
+    h += '<div style="margin-top:.8rem">' + barHTML(c, f.cards.length) + '</div>';
+    h += '<p class="sub tnum" style="margin:.4rem 0 1.2rem">' + c.g + ' öğrendim · ' + c.y + ' kısmen · ' + c.r + ' öğrenemedim · ' + c.n + ' yeni</p>';
+    h += '<ul class="decks">' + f.decks.map(function (d) { return deckItemHTML(d, lk, false); }).join('') + '</ul></div>';
+    app.innerHTML = h;
+    document.getElementById('back').addEventListener('click', function () { go({ name: 'home' }); });
+    bindDecks();
+  }
+
+  function renderDeck() {
+    var d = view.deck, c = deckCounts(d);
+    var inFolder = GRAMMAR.indexOf(d) >= 0;
+    var due = d.cards.filter(function (card) { return status(card.gk) !== 'g'; });
+    var h = '<div class="wrap">';
+    h += '<button class="back" id="back">← ' + (inFolder ? esc(FOLDER.title) : 'Bölümler') + '</button>';
     h += '<div class="deckhead"><h1>' + esc(d.title) + '</h1><span class="muted tnum">' + d.cards.length + ' kart · ' + (d.id === 'all' ? DECKS.length + ' desteden' : d.sents.length + ' cümle') + '</span>' + (d.p ? '<span class="pat">' + esc(d.p) + '</span>' : '') + '</div>';
     h += '<div style="margin-top:.8rem">' + barHTML(c, d.cards.length) + '</div>';
     h += '<p class="sub tnum" style="margin-top:.4rem">' + c.g + ' öğrendim · ' + c.y + ' kısmen · ' + c.r + ' öğrenemedim · ' + c.n + ' yeni · bu destede ' + c.pg + ' yeşil, ' + c.pr + ' kırmızı basış</p>';
@@ -298,11 +384,107 @@
     });
     h += '</ul></div>';
     app.innerHTML = h;
-    document.getElementById('back').addEventListener('click', function () { go({ name: 'home' }); });
+    document.getElementById('back').addEventListener('click', function () { go(inFolder ? { name: 'folder' } : { name: 'home' }); });
     document.getElementById('study-due').addEventListener('click', function () { startRound(d, due); });
     document.getElementById('study-all').addEventListener('click', function () { startRound(d, d.cards.slice()); });
     var red = document.getElementById('study-red');
     if (red) red.addEventListener('click', function () { startRound(d, d.cards.filter(function (x) { return status(x.gk) === 'r'; })); });
+  }
+
+  // ---------- tüm cümleler ----------
+  // arama: kanji, okunuş (hiragana/katakana fark etmez), Türkçe çeviri (ekler arasındaki - yok sayılır) ve deste adı
+  function hira(s) { return s.replace(/[ァ-ヶ]/g, function (ch) { return String.fromCharCode(ch.charCodeAt(0) - 0x60); }); }
+  function norm(s) { return hira(String(s).normalize('NFKC').toLocaleLowerCase('tr')).replace(/-/g, ''); }
+  var sentsReady = false;
+  function sentsInit() {
+    if (sentsReady) return;
+    var col = window.Intl && Intl.Collator ? new Intl.Collator('ja') : null;
+    SENTS.forEach(function (e) {
+      var kana = kanaOf(e.g);
+      e.key = kana.replace(/^[^\p{L}\p{N}]+/u, '');
+      e.hay = norm([e.p, kana, e.t, e.src.join(' ')].join('\n'));
+    });
+    // alfabetik = okunuşa göre gojūon sırası
+    SENTS.slice().sort(function (a, b) { return col ? col.compare(a.key, b.key) : (a.key < b.key ? -1 : a.key > b.key ? 1 : 0); })
+      .forEach(function (e, i) { e.abc = i; });
+    sentsReady = true;
+  }
+  // cümlenin yanlış puanı: içindeki kelimelerin en yüksek ✗ sayısı, eşitse toplam ✗
+  function sentRed(e) {
+    var mx = 0, sum = 0;
+    e.gks.forEach(function (gk) { var s = stats.get(gk), r = s ? s.r : 0; if (r > mx) mx = r; sum += r; });
+    return [mx, sum];
+  }
+  function renderSents() {
+    sentsInit();
+    var v = view, red = prefs.sentSort === 'red';
+    var h = '<div class="wrap">';
+    h += '<button class="back" id="back">← Bölümler</button>';
+    h += '<div class="deckhead"><h1>Tüm cümleler</h1><span class="muted tnum">' + SENTS.length + ' cümle · ' + DECKS.length + ' desteden</span></div>';
+    h += '<div class="sfind"><input type="search" id="sq" value="' + esc(v.q) + '" placeholder="Ara: 漢字, かな ya da Türkçe" aria-label="Cümlelerde ara" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">' +
+      '<div class="seg" role="group" aria-label="Sıralama">' +
+      '<button class="btn' + (red ? '' : ' on') + '" data-sort="abc" aria-pressed="' + !red + '">Alfabetik</button>' +
+      '<button class="btn' + (red ? ' on' : '') + '" data-sort="red" aria-pressed="' + red + '">En çok yanlış</button></div></div>';
+    h += '<p class="sub tnum" id="scount" aria-live="polite"></p>';
+    h += '<ul class="sents" id="slist"></ul></div>';
+    app.innerHTML = h;
+    document.getElementById('back').addEventListener('click', function () { go({ name: 'home' }); });
+    var q = document.getElementById('sq'), timer = null;
+    q.addEventListener('input', function () {
+      clearTimeout(timer);
+      timer = setTimeout(function () { v.q = q.value; fillSents(); }, 120);
+    });
+    q.addEventListener('keydown', function (e) { if (e.key === 'Enter') q.blur(); });
+    app.querySelectorAll('.seg [data-sort]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        prefs.sentSort = b.dataset.sort; savePrefs();
+        app.querySelectorAll('.seg [data-sort]').forEach(function (x) { var on = x === b; x.classList.toggle('on', on); x.setAttribute('aria-pressed', on); });
+        fillSents();
+      });
+    });
+    var list = document.getElementById('slist');
+    list.addEventListener('click', function (e) {
+      var el = e.target.closest('.sent'); if (!el) return;
+      var sel = window.getSelection && window.getSelection();
+      if (sel && !sel.isCollapsed && el.contains(sel.anchorNode)) return; // metin seçerken kapanmasın
+      toggleSent(el);
+    });
+    list.addEventListener('keydown', function (e) {
+      var el = e.target.closest('.sent');
+      if (el && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); toggleSent(el); }
+    });
+    fillSents();
+  }
+  function fillSents() {
+    var v = view, red = prefs.sentSort === 'red';
+    var terms = norm(v.q).split(/\s+/).filter(Boolean);
+    var list = terms.length ? SENTS.filter(function (e) { return terms.every(function (t) { return e.hay.indexOf(t) >= 0; }); }) : SENTS.slice();
+    list.forEach(function (e) { e.sc = red ? sentRed(e) : null; });
+    list.sort(red ? function (a, b) { return b.sc[0] - a.sc[0] || b.sc[1] - a.sc[1] || a.abc - b.abc; } : function (a, b) { return a.abc - b.abc; });
+    document.getElementById('scount').textContent = (terms.length ? list.length + ' / ' + SENTS.length + ' cümle bulundu' : SENTS.length + ' cümle') +
+      ' · ' + (red ? 'en çok ✗ alan kelimenin cümlesi üstte' : 'okunuşa göre alfabetik') + ' · dokun: furigana ve çeviri';
+    document.getElementById('slist').innerHTML = list.length ? list.map(function (e) {
+      var open = v.open.has(e.i);
+      return '<li><div class="sent' + (open ? ' open' : '') + '" role="button" tabindex="0" aria-expanded="' + open + '" data-i="' + e.i + '">' + sentInner(e, open) + '</div></li>';
+    }).join('') : '<li class="empty">Bu aramayla cümle yok.</li>';
+  }
+  function sentInner(e, open) {
+    var h = '<span class="ja" lang="ja">' + (open ? sentenceHTML(e.g, 0, 0, true) : esc(e.p)) + '</span>';
+    h += e.sc && e.sc[0] ? '<span class="sx tnum" title="Cümledeki kelimelerin en yüksek ✗ sayısı">✗' + e.sc[0] + '</span>' : '<span></span>';
+    if (!open) return h;
+    h += '<span class="tr">' + esc(e.t) + '</span>';
+    var ws = e.gks.map(function (gk) { return { gk: gk, s: stats.get(gk) }; })
+      .filter(function (x) { return x.s && x.s.r; }).sort(function (a, b) { return b.s.r - a.s.r; });
+    if (ws.length) h += '<span class="sw">' + ws.map(function (x) {
+      return '<span><i class="dot ' + status(x.gk) + '"></i><span lang="ja">' + esc(x.gk.slice(0, x.gk.indexOf('|'))) + '</span> <span class="cr">✗' + x.s.r + '</span></span>';
+    }).join('') + '</span>';
+    return h + '<span class="src">' + esc(e.src.join(' / ')) + '</span>';
+  }
+  function toggleSent(el) {
+    var e = SENTS[+el.dataset.i], open = !view.open.has(e.i);
+    if (open) view.open.add(e.i); else view.open.delete(e.i);
+    el.classList.toggle('open', open); el.setAttribute('aria-expanded', open);
+    el.innerHTML = sentInner(e, open);
   }
 
   function shuffle(a) { for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
@@ -314,10 +496,10 @@
     if (prefs.shuffle) shuffle(q);
     go({ name: 'study', deck: d, queue: q.slice(0, ROUND_MAX), pos: 0, flipped: false, shownAt: Date.now(), hist: [], g: 0, r: 0 });
   }
-  function endRound(v, early) {
+  function endRound(v, early, lastW) {
     flushNow();
     go({ name: 'home' });
-    toast((early ? 'Oturum yarıda bitti' : 'Oturum bitti') + ' · ✓ ' + v.g + ' · ✗ ' + v.r);
+    toast((early ? 'Oturum yarıda bitti' : 'Oturum bitti') + ' · ✓ ' + v.g + ' · ✗ ' + v.r + (lastW > 1 ? ' · son kelimeye ' + lastW + ' kırmızı eklendi' : ''));
   }
 
   // kelimenin geçtiği tüm cümleler: önce kartın kendi destesi, sonra diğer desteler; ilk EX_OPEN açık, kalanı katlanır
@@ -454,12 +636,13 @@
   function answer(ok) {
     var v = view; if (v.name !== 'study' || !v.flipped) return;
     var card = v.queue[v.pos];
-    record(card, ok, Date.now() - v.shownAt, v.extraShown);
+    var w = record(card, ok, Date.now() - v.shownAt, v.extraShown);
     v.hist.push({ pos: v.pos, ok: ok });
     if (ok) v.g++; else v.r++;
     v.pos++; v.flipped = false; v.shownAt = Date.now();
-    if (v.pos >= v.queue.length) { endRound(v, false); return; }
+    if (v.pos >= v.queue.length) { endRound(v, false, w); return; }
     renderStudy(); window.scrollTo(0, 0);
+    if (w > 1) toast('Öğrendiğin kelimeyi unuttun · ' + w + ' kırmızı eklendi');
   }
   function undo() {
     var v = view; if (v.name !== 'study' || !v.hist.length) return;
@@ -519,7 +702,7 @@
       exportedAt: new Date().toISOString(),
       timezone: (function () { try { return Intl.DateTimeFormat().resolvedOptions().timeZone; } catch (e) { return null; } })(),
       storage: 'tarayıcı',
-      notes: 'status = kelimenin son cevabı (kırmızı=öğrenemedim; yeşil ise toplam yeşil > toplam kırmızı → öğrendim, değilse kısmen). Aynı kelime birden çok bölümde geçiyorsa sayaçlar kelime başına toplanır, byDeck bölüm kırılımını verir. events[].ms = kart gösterildikten cevaba kadar geçen süre. events[].extraShown = cevap verilirken kartta Tatoeba ek cümlesi görünüyordu (yalnızca daha önce kırmızı basılmış kelimelerde gösterilir).',
+      notes: 'status = kelimenin son cevabı (kırmızı=öğrenemedim; yeşil ise toplam yeşil > toplam kırmızı → öğrendim, değilse kısmen). Aynı kelime birden çok bölümde geçiyorsa sayaçlar kelime başına toplanır, byDeck bölüm kırılımını verir. events[].ms = kart gösterildikten cevaba kadar geçen süre. events[].extraShown = cevap verilirken kartta Tatoeba ek cümlesi görünüyordu (yalnızca daha önce kırmızı basılmış kelimelerde gösterilir). events[].weight = 3: öğrenilmiş (yeşil) kelime unutulup kırmızıya basıldı, kırmızı sayaçlarına 3 olarak eklendi; summary.redPresses basış sayısıdır, words[].red ve decks[].redPresses ağırlıklı toplamdır.',
       summary: {
         words: WORDS.size, cards: CARD.size, learned: tot.g, partial: tot.y, notLearned: tot.r, new: tot.n,
         greenPresses: evs.filter(function (e) { return e.res; }).length,
@@ -535,7 +718,9 @@
       words: words,
       events: evs.map(function (ev) {
         var slash = ev.ck.indexOf('/'), gk = ev.ck.slice(slash + 1), d = deckById(liveDeckId(ev.ck.slice(0, slash), gk)), bar = gk.indexOf('|');
-        return { at: iso(ev.t), deck: d ? d.title : ev.ck.slice(0, slash), word: gk.slice(0, bar), reading: gk.slice(bar + 1), result: ev.res ? 'green' : 'red', ms: ev.ms, extraShown: !!ev.x };
+        var o = { at: iso(ev.t), deck: d ? d.title : ev.ck.slice(0, slash), word: gk.slice(0, bar), reading: gk.slice(bar + 1), result: ev.res ? 'green' : 'red', ms: ev.ms, extraShown: !!ev.x };
+        if (ev.w > 1) o.weight = ev.w;
+        return o;
       }),
       furiganaFixes: FIXES
     };
