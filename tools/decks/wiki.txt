@@ -1,0 +1,443 @@
+// Japonca Vikipedi'de 2026 Ekim ayında en çok okunan 10 madde (pageviews.wmcloud.org topviews; Ana Sayfa ve Özel:Ara hariç).
+// Cümleler maddelerden olduğu gibi alındı (özet niteliğindeki cümleler seçildi, metin değiştirilmedi). Kaynak: ja.wikipedia.org, CC BY-SA 4.0.
+@ wiki Vikipedi
+// 1. 簗和生
+1 簗{やな} 和生{かずお}（やな かずお、1979年{ねん}〈昭和{しょうわ}54年{ねん}〉4月{がつ}22日{にち} - ）は、日本{にほん}の政治家{せいじか}。
+= Yana Kazuo (22 Nisan 1979 (Shōwa 54) - ), Japon bir siyasetçi-dir.
++ 昭和|しょうわ|Shōwa dönemi (1926–1989)
++ 日本|にほん|Japonya
++ 政治家|せいじか|siyasetçi, politikacı
+2 自由民主党{じゆうみんしゅとう}所属{しょぞく}の衆議院{しゅうぎいん}議員{ぎいん}（6期{き}）。
+= Liberal Demokrat Parti-ye bağlı Temsilciler Meclis-i üye-si (6 dönem).
++ 自由民主党|じゆうみんしゅとう|Liberal Demokrat Parti (LDP)
++ 所属|しょぞく|bağlı olma, mensubiyet
++ 衆議院|しゅうぎいん|Temsilciler Meclisi (alt meclis)
++ 議員|ぎいん|milletvekili, meclis üyesi
++ 期|き|dönem
+3 同年{どうねん}9月{がつ}17日{にち}に発足{ほっそく}した第{だい}2次{じ}高市{たかいち}改造{かいぞう}内閣{ないかく}において、簗{やな}は農林水産{のうりんすいさん}大臣{だいじん}として初{はつ}入閣{にゅうかく}した。
+= Aynı yıl-ın 17 Eylül-ün-de kur-ul-an 2. Takaichi değişiklik kabine-si-nde, Yana Tarım, Ormancılık ve Balıkçılık Bakan-ı olarak ilk kez kabine-ye gir-di.
++ 同年|どうねん|aynı yıl
++ 発足|ほっそく|kurulma, faaliyete başlama
++ 改造|かいぞう|yeniden yapılandırma; (kabine) değişikliği
++ 内閣|ないかく|kabine, hükümet
++ 農林水産|のうりんすいさん|tarım, ormancılık ve balıkçılık
++ 大臣|だいじん|bakan
++ 初|はつ|ilk
++ 入閣|にゅうかく|kabineye girme, bakan olma
+4 入閣{にゅうかく}から約{やく}1か月{げつ}後{ご}の10月{がつ}14日{か}夜方{よるがた}、簗{やな}は首相{しゅしょう}官邸{かんてい}を訪{おとず}れて高市{たかいち}首相{しゅしょう}に辞表{じひょう}を提出{ていしゅつ}し、同日{どうじつ}受理{じゅり}された。
+= Kabine-ye gir-iş-in-den yaklaşık 1 ay sonra, 14 Ekim akşam-ı, Yana Başbakanlık Konut-u-nu ziyaret ed-ip Başbakan Takaichi-ye istifa dilekçe-si-ni sun-du ve dilekçe aynı gün kabul ed-il-di.
++ 約|やく|yaklaşık
++ 首相|しゅしょう|başbakan
++ 官邸|かんてい|resmî konut (首相官邸: Başbakanlık Konutu)
++ 訪れる|おとずれる|ziyaret etmek|訪れ
++ 辞表|じひょう|istifa dilekçesi
++ 提出|ていしゅつ|sunma, teslim etme
++ 同日|どうじつ|aynı gün
++ 受理|じゅり|(dilekçe, başvuru) kabul etme
+5 農水{のうすい}大臣{だいじん}としての在任{ざいにん}期間{きかん}は28日間{にちかん}で、2012年{ねん}の自民党{じみんとう}の政権{せいけん}復帰{ふっき}以降{いこう}では最短{さいたん}の在任{ざいにん}期間{きかん}であった。
+= Tarım Bakan-ı olarak görev süre-si 28 gün olup, 2012-de LDP-nin iktidar-a dön-üş-ün-den bu yana en kısa görev süre-si-ydi.
++ 在任|ざいにん|görevde bulunma
++ 期間|きかん|süre, dönem
++ 自民党|じみんとう|LDP (Liberal Demokrat Parti'nin kısaltması)
++ 政権|せいけん|iktidar, hükümet
++ 復帰|ふっき|geri dönüş
++ 以降|いこう|…den beri, …den sonra
++ 最短|さいたん|en kısa
+6 後任{こうにん}の農林水産{のうりんすいさん}大臣{だいじん}には翌{よく}15日{にち}付{づけ}で武部新{たけべあらた}が任命{にんめい}された。
+= Halef Tarım Bakan-lığ-ı-na ertesi gün, 15'i tarih-iyle Takebe Arata ata-n-dı.
++ 後任|こうにん|halef, yerine gelen kişi
++ 翌|よく|ertesi
++ 付|づけ|…tarihli, …tarihiyle
++ 任命|にんめい|atama, tayin
+// 2. 宇野千代
+7 宇野{うの} 千代{ちよ}（うの ちよ、1897年{ねん}〈明治{めいじ}30年{ねん}〉11月{がつ}28日{にち} - 1996年{ねん}〈平成{へいせい}8年{ねん}〉6月{がつ}10日{か}）は、大正{たいしょう}・昭和{しょうわ}・平成{へいせい}に駆{か}けて活躍{かつやく}した日本{にほん}の小説家{しょうせつか}、随筆家{ずいひつか}。
+= Uno Chiyo (28 Kasım 1897 (Meiji 30) - 10 Haziran 1996 (Heisei 8)), Taishō, Shōwa ve Heisei dönem-ler-i boyunca etkin ol-an Japon bir romancı ve deneme yazar-ı-dır.
++ 明治|めいじ|Meiji dönemi (1868–1912)
++ 平成|へいせい|Heisei dönemi (1989–2019)
++ 大正|たいしょう|Taishō dönemi (1912–1926)
++ 駆ける|かける|koşmak (burada: …boyunca, かけて)|駆け
++ 活躍|かつやく|etkin olma, başarıyla faaliyet gösterme
++ 小説家|しょうせつか|romancı
++ 随筆家|ずいひつか|deneme yazarı
+8 作家{さっか}の尾崎{おざき}士郎{しろう}、北原{きたはら}武夫{たけお}、梶井{かじい}基次郎{もとじろう}、画家{がか}の東郷{とうごう}青児{せいじ}など、多{おお}くの著名人{ちょめいじん}との恋愛{れんあい}や結婚{けっこん}遍歴{へんれき}を持{も}ち、その波乱{はらん}に富{と}んだ生涯{しょうがい}は様々{さまざま}な作品{さくひん}の中{なか}で描{えが}かれている。
+= Yazar Ozaki Shirō, Kitahara Takeo, Kajii Motojirō, ressam Tōgō Seiji gibi bir-çok ünlü kişi-yle aşk ve evlilik serüven-ler-i ol-muş olup, o çalkantı-lı hayat-ı çeşitli eser-ler-de anlat-ıl-mış-tır.
++ 作家|さっか|yazar
++ 画家|がか|ressam
++ 多く|おおく|birçok, çok sayıda|多く
++ 著名人|ちょめいじん|ünlü kişi
++ 恋愛|れんあい|aşk, romantik ilişki
++ 結婚|けっこん|evlilik
++ 遍歴|へんれき|(art arda) yaşanan serüvenler, geçmiş
++ 波乱|はらん|çalkantı, inişli çıkışlı olaylar
++ 富む|とむ|…ile dolu olmak, zengin olmak|富ん
++ 生涯|しょうがい|ömür, hayat boyu
++ 様々|さまざま|çeşitli, türlü
++ 作品|さくひん|eser
++ 描く|えがく|betimlemek, anlatmak; çizmek|描か
+9 1936年{ねん}（昭和{しょうわ}11年{ねん}）6月{がつ}、「スタイル社{しゃ}」を創業{そうぎょう}し、日本{にほん}初{はつ}のファッション専門誌{せんもんし}『スタイル』を創刊{そうかん}。
+= 1936 (Shōwa 11) Haziran-ı-nda "Style Şirket-i"-ni kur-up, Japonya-nın ilk moda dergi-si "Style"-ı yayın-a başla-t-tı.
++ 社|しゃ|şirket
++ 創業|そうぎょう|(şirket) kurma
++ 専門誌|せんもんし|uzmanlık dergisi
++ 創刊|そうかん|(dergi, gazete) yayına başlatma
+10 1983年{ねん}（昭和{しょうわ}58年{ねん}）に発表{はっぴょう}した自伝的{じでんてき}小説{しょうせつ}『生{い}きて行{ゆ}く私{わたし}』は100万部{まんぶ}を超{こ}えるベストセラーになり、晩年{ばんねん}の千代{ちよ}の代名詞{だいめいし}となった。
+= 1983-te (Shōwa 58) yayımla-dığ-ı otobiyografik roman "Yaşayıp Giden Ben" 1 milyon kopya-yı aş-an bir çok satan ol-up, Chiyo-nun son yıl-lar-ı-nın simge-si hal-i-ne gel-di.
++ 発表|はっぴょう|yayımlama, duyurma
++ 自伝的|じでんてき|otobiyografik
++ 小説|しょうせつ|roman
++ 生きる|いきる|yaşamak|生き
++ 万部|まんぶ|on bin kopya (100万部: 1 milyon kopya)
++ 超える|こえる|aşmak, geçmek|超える
++ 晩年|ばんねん|ömrün son yılları
++ 代名詞|だいめいし|zamir; (bir şeyin) simgesi, eş anlamlısı
+11 1996年{ねん}（平成{へいせい}8年{ねん}）6月{がつ}10日{か}、急性{きゅうせい}肺炎{はいえん}のため港区{みなとく}の虎{とら}の門{もん}病院{びょういん}で死去{しきょ}。
+= 10 Haziran 1996 (Heisei 8), akut zatürre yüzün-den Minato ilçe-si-nde-ki Toranomon Hastane-si-nde vefat et-ti.
++ 急性|きゅうせい|akut, ani gelişen
++ 肺炎|はいえん|zatürre
++ 区|く|ilçe (şehir içi)
++ 病院|びょういん|hastane
++ 死去|しきょ|vefat, ölüm
+// 3. 福原遥
+12 福原{ふくはら} 遥{はるか}（ふくはら はるか、1998年{ねん}〈平成{へいせい}10年{ねん}〉8月{がつ}28日{にち} - ）は、日本{にほん}の女優{じょゆう}、声優{せいゆう}、歌手{かしゅ}、タレント、ファッションモデル、元{もと}子役{こやく}。
+= Fukuhara Haruka (28 Ağustos 1998 (Heisei 10) - ), Japon bir aktris, seslendirme sanatçı-sı, şarkıcı, televizyon kişiliğ-i, manken ve eski çocuk oyuncu-dur.
++ 女優|じょゆう|kadın oyuncu, aktris
++ 声優|せいゆう|seslendirme sanatçısı
++ 歌手|かしゅ|şarkıcı
++ 元|もと|eski, önceki
++ 子役|こやく|çocuk oyuncu
+13 夫{おっと}はサッカー選手{せんしゅ}の久保{くぼ}建英{たけふさ}。
+= Koca-sı futbolcu Kubo Takefusa-dır.
++ 夫|おっと|koca, (erkek) eş
++ 選手|せんしゅ|sporcu, oyuncu
+14 子役{こやく}時代{じだい}の2009年{ねん}から2013年{ねん}までNHKで放送{ほうそう}された料理{りょうり}アニメ『クッキンアイドル アイ!マイ!まいん!』で、主人公{しゅじんこう}の柊{ひいらぎ}まいんを演{えん}じて以来{いらい}、まいんちゃんの愛称{あいしょう}で親{した}しまれる。
+= Çocuk oyunculuk dönem-i-nde 2009-dan 2013-e kadar NHK-de yayınla-n-an yemek anime-si "Cookin' Idol Ai! Mai! Main!"-de baş karakter Hiiragi Main-i canlandır-dığ-ın-dan beri "Main-chan" lakab-ı-yla sev-il-ir.
++ 時代|じだい|dönem, çağ
++ 放送|ほうそう|yayın
++ 料理|りょうり|yemek, mutfak
++ 主人公|しゅじんこう|baş karakter, kahraman
++ 演じる|えんじる|(rol) oynamak, canlandırmak|演じ
++ 以来|いらい|…den beri
++ 愛称|あいしょう|lakap, sevgi adı
++ 親しむ|したしむ|yakınlık duymak (親しまれる: sevilmek)|親しま
+15 2022年度{ねんど}下期{しもき}のNHK連続{れんぞく}テレビ小説{しょうせつ}『舞{ま}いあがれ!』ヒロイン岩倉{いわくら}舞{まい}役{やく}のオーディションで、2,545人{にん}の中{なか}から選{えら}ばれる。
+= 2022 yıl-ı-nın ikinci yarı-sı-nda-ki NHK sabah dizi-si "Maiagare!"-nin kadın kahraman-ı Iwakura Mai rol-ü-nün seçme-ler-i-nde 2.545 kişi arasın-dan seç-il-di.
++ 年度|ねんど|mali yıl, (iş/öğretim) yılı
++ 下期|しもき|yılın ikinci yarısı
++ 連続|れんぞく|art arda, dizi (連続テレビ小説: NHK sabah dizisi)
++ 役|やく|rol
++ 選ぶ|えらぶ|seçmek|選ば
+16 2026年{ねん}10月{がつ}2日{か}、サッカー選手{せんしゅ}の久保{くぼ}建英{たけふさ}との結婚{けっこん}を双方{そうほう}のSNSにて発表{はっぴょう}した。
+= 2 Ekim 2026-da futbolcu Kubo Takefusa ile evlen-diğ-i-ni iki taraf-ın sosyal medya-sı-nda duyur-du.
++ 結婚|けっこん|evlilik
++ 双方|そうほう|her iki taraf
++ 発表|はっぴょう|duyurma, açıklama
+// 4. 硤合憲三
+17 硤合{そあい} 憲三{けんそう}（そあい けんそう、1950年{ねん}〈昭和{しょうわ}25年{ねん}〉5月{がつ}3日{か} - ）は、日本{にほん}の有機{ゆうき}化学者{かがくしゃ}、東京{とうきょう}理科{りか}大学{だいがく}栄誉{えいよ}教授{きょうじゅ}。
+= Soai Kensō (3 Mayıs 1950 (Shōwa 25) - ), Japon bir organik kimyacı ve Tokyo Bilim Üniversite-si onur profesör-ü-dür.
++ 有機|ゆうき|organik
++ 化学者|かがくしゃ|kimyacı
++ 理科|りか|fen bilimleri
++ 大学|だいがく|üniversite
++ 栄誉|えいよ|onur, şeref
++ 教授|きょうじゅ|profesör
+18 「不斉{ふせい}有機{ゆうき}合成{ごうせい}における非線形{ひせんけい}効果{こうか}および自己{じこ}触媒{しょくばい}作用{さよう}の発見{はっけん}」で、アンリ・カガンとともに2026年{ねん}のノーベル化学賞{かがくしょう}を受賞{じゅしょう}。
+= "Asimetrik organik sentez-de doğrusal olmayan etki ve otokataliz-in keşf-i" ile, Henri Kagan ile birlikte 2026 Nobel Kimya Ödül-ü-nü kazan-dı.
++ 不斉|ふせい|asimetrik (kiral)
++ 合成|ごうせい|sentez
++ 非線形|ひせんけい|doğrusal olmayan
++ 効果|こうか|etki
++ 自己|じこ|kendi, öz
++ 触媒|しょくばい|katalizör
++ 作用|さよう|etki, işlev
++ 発見|はっけん|keşif
++ 化学賞|かがくしょう|kimya ödülü
++ 受賞|じゅしょう|ödül alma
+19 広島県{ひろしまけん}安芸郡{あきぐん}府中町{ふちゅうちょう}出身{しゅっしん}。
+= Hiroshima il-i, Aki ilçe-si, Fuchū kasaba-sı doğumlu.
++ 県|けん|il (Japonya'da)
++ 郡|ぐん|ilçe (kırsal)
++ 町|ちょう|kasaba
++ 出身|しゅっしん|…doğumlu, …lı (memleket)
+20 「根源的{こんげんてき}なことにもともと興味{きょうみ}があった」といい、生命{せいめい}の起源{きげん}には若{わか}い頃{ころ}から関心{かんしん}を抱{いだ}いていた。
+= "Temel şey-ler-e zaten başından beri ilgi-m var-dı" di-yor; hayat-ın köken-i-ne genç-liğ-in-den beri ilgi duy-uyor-du.
++ 根源的|こんげんてき|temel, köklü
++ 興味|きょうみ|ilgi, merak
++ 生命|せいめい|yaşam, hayat
++ 起源|きげん|köken, kaynak
++ 若い|わかい|genç|若い
++ 頃|ころ|zaman, sıralar
++ 関心|かんしん|ilgi
++ 抱く|いだく|(duygu) beslemek, taşımak|抱い
+21 1974年{ねん}（昭和{しょうわ}49年{ねん}）に東京{とうきょう}大学{だいがく}理学部{りがくぶ}化学科{かがくか}を卒業{そつぎょう}した。
+= 1974-te (Shōwa 49) Tokyo Üniversite-si Fen Fakülte-si Kimya Bölüm-ü-nden mezun ol-du.
++ 理学部|りがくぶ|fen fakültesi
++ 化学科|かがくか|kimya bölümü
++ 卒業|そつぎょう|mezun olma
+22 この性質{せいしつ}は、「なぜ地球{ちきゅう}上{じょう}の生物{せいぶつ}の体{からだ}をつくる分子{ぶんし}は、ほぼ一貫{いっかん}して一方{いっぽう}の鏡像{きょうぞう}異性体{いせいたい}に偏{かたよ}っているのか」というホモキラリティーの起源{きげん}問題{もんだい}を考{かんが}える上{うえ}で注目{ちゅうもく}されている。
+= Bu özellik, "Dünya üzerinde-ki canlı-lar-ın beden-i-ni oluştur-an molekül-ler neden neredeyse istisnasız iki ayna görüntüsü izomer-i-nden biri-ne yönel-miş-tir?" şeklinde-ki homokiralite-nin köken-i sorun-u-nu düşün-mek açısından dikkat çek-iyor.
++ 性質|せいしつ|özellik, nitelik
++ 地球|ちきゅう|Dünya, yerküre
++ 生物|せいぶつ|canlı
++ 体|からだ|vücut, beden
++ 分子|ぶんし|molekül
++ 一貫|いっかん|baştan sona tutarlılık (一貫して: istisnasız, sürekli)
++ 一方|いっぽう|bir taraf, biri
++ 鏡像|きょうぞう|ayna görüntüsü
++ 異性体|いせいたい|izomer
++ 偏る|かたよる|bir yana kaymak, dengesiz olmak|偏っ
++ 問題|もんだい|sorun, problem
++ 考える|かんがえる|düşünmek|考える
++ 注目|ちゅうもく|dikkat, ilgi (注目される: dikkat çekmek)
+// 5. 石橋静河
+23 石橋{いしばし} 静河{しずか}（いしばし しずか、1994年{ねん}〈平成{へいせい}6年{ねん}〉7月{がつ}8日{か} - ）は、日本{にほん}の女優{じょゆう}、ダンサー。
+= Ishibashi Shizuka (8 Temmuz 1994 (Heisei 6) - ), Japon bir aktris ve dansçı-dır.
++ 女優|じょゆう|kadın oyuncu, aktris
+24 俳優{はいゆう}の石橋{いしばし}凌{りょう}と原田{はらだ}美枝子{みえこ}の次女{じじょ}で、吉祥寺{きちじょうじ}に生{う}まれ育{そだ}つ。
+= Oyuncu Ishibashi Ryō ile Harada Mieko-nun ikinci kız-ı olup, Kichijōji-de doğ-up büyü-dü.
++ 俳優|はいゆう|oyuncu, aktör
++ 次女|じじょ|ikinci kız çocuk
++ 生まれる|うまれる|doğmak|生まれ
++ 育つ|そだつ|büyümek, yetişmek|育つ
+25 4歳{さい}からクラシックバレエを始{はじ}め、中学{ちゅうがく}2年{ねん}になってからは、本格的{ほんかくてき}にバレエを学{まな}ぶために横浜{よこはま}のバレエ教室{きょうしつ}に通{かよ}う。
+= 4 yaşın-dan itibaren klasik bale-ye başla-yıp, ortaokul 2. sınıf-a geç-tik-ten sonra da ciddi olarak bale öğren-mek için Yokohama-da-ki bir bale kurs-u-na git-ti.
++ 歳|さい|yaş
++ 始める|はじめる|başlamak|始め
++ 中学|ちゅうがく|ortaokul
++ 本格的|ほんかくてき|ciddi, gerçek anlamda
++ 学ぶ|まなぶ|öğrenmek|学ぶ
++ 教室|きょうしつ|sınıf; kurs
++ 通う|かよう|(düzenli) gidip gelmek|通う
+26 15歳{さい}からアメリカ・ボストン、および、カナダ・カルガリーのバレエスクールに留学{りゅうがく}し、2013年{ねん}に帰国{きこく}。
+= 15 yaşın-dan itibaren ABD-de Boston ve Kanada-da Calgary-de-ki bale okul-lar-ı-nda eğitim gör-üp, 2013-te ülke-si-ne dön-dü.
++ 留学|りゅうがく|yurt dışında eğitim
++ 帰国|きこく|ülkeye dönüş
+27 2026年度{ねんど}後期{こうき}の連続{れんぞく}テレビ小説{しょうせつ}『ブラッサム』で主演{しゅえん}。
+= 2026 yıl-ı-nın ikinci yarı-sı-nda-ki NHK sabah dizi-si "Blossom"-da başrol-de.
++ 後期|こうき|ikinci yarı, son dönem
++ 主演|しゅえん|başrol oynama
+28 作家{さっか}の宇野{うの}千代{ちよ}をモデルにした主人公{しゅじんこう}・葉野{はの}珠{たま}を演{えん}じる。
+= Yazar Uno Chiyo-yu model al-an baş karakter Hano Tama-yı canlandır-ıyor.
++ 作家|さっか|yazar
++ 主人公|しゅじんこう|baş karakter, kahraman
++ 演じる|えんじる|(rol) oynamak, canlandırmak|演じる
+// 6. 工藤公康
+29 工藤{くどう} 公康{きみやす}（くどう きみやす、1963年{ねん}5月{がつ}5日{か} - ）は、愛知県{あいちけん}名古屋市{なごやし}天白区{てんぱくく}（出生{しゅっしょう}当時{とうじ}は昭和区{しょうわく}）出身{しゅっしん}。
+= Kudō Kimiyasu (5 Mayıs 1963 - ), Aichi il-i Nagoya şehr-i Tenpaku ilçe-si (doğ-duğ-u sıra-da Shōwa ilçe-si) doğumlu-dur.
++ 市|し|şehir
++ 出生|しゅっしょう|doğum
++ 当時|とうじ|o zaman, o sıralar
++ 出身|しゅっしん|…doğumlu, …lı (memleket)
+30 引退{いんたい}後{ご}は2015年{ねん}から2021年{ねん}まで福岡{ふくおか}ソフトバンクホークス監督{かんとく}を務{つと}め、パ・リーグ優勝{ゆうしょう}を3回{かい}、日本{にほん}シリーズ優勝{ゆうしょう}を5回{かい}達成{たっせい}、2027年{ねん}から中日{ちゅうにち}で監督{かんとく}を務{つと}める。
+= Emeklilik-ten sonra 2015-ten 2021-e kadar Fukuoka SoftBank Hawks-ın teknik direktör-lüğ-ü-nü yap-ıp Pasifik Lig şampiyonluğ-u-nu 3 kez, Japan Series şampiyonluğ-u-nu 5 kez kazan-dı; 2027-den itibaren Chunichi-de teknik direktör-lük yap-acak.
++ 引退|いんたい|emeklilik, (spordan) çekilme
++ 監督|かんとく|teknik direktör, menajer; yönetmen
++ 務める|つとめる|(görev) üstlenmek, yapmak|務め
++ 優勝|ゆうしょう|şampiyonluk
++ 回|かい|kez, defa
++ 達成|たっせい|başarma, gerçekleştirme
+31 愛称{あいしょう}は「カリメロ」。
+= Lakab-ı "Calimero".
++ 愛称|あいしょう|lakap, sevgi adı
+32 2026年{ねん}10月{がつ}15日{にち}、同{どう}シーズンで退任{たいにん}した井上{いのうえ}一樹{かずき}の後任{こうにん}として2027年{ねん}より中日{ちゅうにち}ドラゴンズの監督{かんとく}に就任{しゅうにん}する事{こと}が発表{はっぴょう}され、同日{どうじつ}に就任{しゅうにん}会見{かいけん}が行{おこな}われた。
+= 15 Ekim 2026-da, aynı sezon görev-den ayrıl-an Inoue Kazuki-nin halef-i olarak 2027-den itibaren Chunichi Dragons-ın teknik direktör-ü ol-acağ-ı açıkla-n-dı ve aynı gün göreve başlama basın toplantı-sı yap-ıl-dı.
++ 同|どう|aynı
++ 退任|たいにん|görevden ayrılma
++ 後任|こうにん|halef, yerine gelen kişi
++ 就任|しゅうにん|göreve gelme, atanma
++ 会見|かいけん|basın toplantısı, görüşme
++ 行う|おこなう|yapmak, düzenlemek|行わ
+33 就任{しゅうにん}会見{かいけん}では「また、強{つよ}いドラゴンズに戻{もど}す」と意気込{いきご}みを語{かた}った。
+= Göreve başlama basın toplantı-sı-nda "Dragons-ı yine güçlü hal-i-ne geri getir-eceğ-im" diye azm-i-ni anlat-tı.
++ 強い|つよい|güçlü|強い
++ 戻す|もどす|geri getirmek, eski haline döndürmek|戻す
++ 意気込み|いきごみ|azim, şevk, heves
++ 語る|かたる|anlatmak, söylemek|語っ
+// 7. VIVANT
+34 『VIVANT』（ヴィヴァン）は、2023年{ねん}7月{がつ}16日{にち}から9月{がつ}17日{にち}まで、TBSテレビ系{けい}「日曜{にちよう}劇場{げきじょう}」枠{わく}で放送{ほうそう}されたテレビドラマ。
+= "VIVANT", 16 Temmuz-dan 17 Eylül 2023-e kadar TBS televizyon ağ-ı-nın "Pazar Tiyatro-su" kuşağ-ı-nda yayınla-n-an bir televizyon dizi-si-dir.
++ 系|けい|(yayın) ağı, grup, sistem
++ 日曜|にちよう|pazar (günü)
++ 劇場|げきじょう|tiyatro
++ 枠|わく|çerçeve; (yayın) kuşağı
++ 放送|ほうそう|yayın
+35 主演{しゅえん}は堺{さかい}雅人{まさと}。
+= Başrol-de Sakai Masato var.
++ 主演|しゅえん|başrol oynama
+36 2026年{ねん}7月{がつ}26日{にち}から11月{がつ}8日{か}に同{どう}枠{わく}で続編{ぞくへん}（第{だい}2シーズン）が放送{ほうそう}された。
+= 26 Temmuz-dan 8 Kasım 2026-ya kadar aynı kuşak-ta devam-ı (2. sezon) yayınla-n-dı.
++ 続編|ぞくへん|devam (dizisi, filmi)
++ 第|だい|…ıncı (sıra öneki)
+37 本作{ほんさく}は、初回{しょかい}放送{ほうそう}まであらすじや役柄{やくがら}を一切{いっさい}明{あ}かさない手法{しゅほう}が取{と}られた。
+= Bu yapım-da, ilk bölüm yayın-ı-na kadar konu-yu ve rol-ler-i hiç açıkla-ma-ma yöntem-i benimse-n-di.
++ 本作|ほんさく|bu eser, bu yapım
++ 初回|しょかい|ilk bölüm, ilk sefer
++ 役柄|やくがら|rol, rolün niteliği
++ 一切|いっさい|hiç, asla (olumsuzla)
++ 明かす|あかす|açığa vurmak, açıklamak|明かさ
++ 手法|しゅほう|yöntem, teknik
++ 取る|とる|almak; (yöntem) benimsemek|取ら
+38 なお、モンゴルでのロケは2か月{げつ}半{はん}に及{およ}んだ。
+= Ayrıca Moğolistan-da-ki dış çekim-ler iki buçuk ay-ı bul-du.
++ 半|はん|yarım, buçuk
++ 及ぶ|およぶ|ulaşmak, varmak|及ん
+39 乃木{のぎ}憂助{ゆうすけ}は、大企業{だいきぎょう}・丸菱{まるびし}商事{しょうじ}のエネルギー開発{かいはつ}事業部{じぎょうぶ}2課長{かちょう}であり、臆病{おくびょう}で冴{さ}えない主人格{しゅじんかく}・憂助{ゆうすけ}と、荒{あら}っぽく豪胆{ごうたん}な第二{だいに}人格{じんかく}・Fを宿{やど}す多重{たじゅう}人格者{じんかくしゃ}である。
+= Nogi Yūsuke, büyük şirket Marubishi Ticaret-in Enerji Geliştirme Bölüm-ü 2. Şube müdür-ü olup, korkak ve sönük ana kişiliğ-i Yūsuke ile kaba ve gözü pek ikinci kişiliğ-i F-yi içinde taşı-yan çoklu kişilik sahib-i biri-dir.
++ 大企業|だいきぎょう|büyük şirket
++ 商事|しょうじ|ticaret (şirketi)
++ 開発|かいはつ|geliştirme
++ 事業部|じぎょうぶ|iş birimi, bölüm
++ 課長|かちょう|şube müdürü
++ 臆病|おくびょう|korkak, ürkek
++ 冴える|さえる|parlak olmak (冴えない: sönük, vasat)|冴え
++ 人格|じんかく|kişilik
++ 荒っぽい|あらっぽい|kaba, sert|荒っぽく
++ 豪胆|ごうたん|gözü pek, cesur
++ 宿す|やどす|barındırmak, içinde taşımak|宿す
++ 多重|たじゅう|çoklu, katmanlı
+40 11月{がつ}8日{か}に放送{ほうそう}された第{だい}2シーズン最終話{さいしゅうわ}（第{だい}24話{わ}）のラストで、劇場版{げきじょうばん}が12月{がつ}4日{か}に公開{こうかい}されることが発表{はっぴょう}された。
+= 8 Kasım-da yayınla-n-an 2. sezon-un son bölüm-ü-nün (24. bölüm) son-un-da, sinema film-i-nin 4 Aralık-ta vizyon-a gir-eceğ-i açıkla-n-dı.
++ 最終話|さいしゅうわ|son bölüm
++ 話|わ|bölüm (sayaç)
++ 劇場版|げきじょうばん|sinema versiyonu
++ 公開|こうかい|vizyona girme, kamuya açma
+// 8. 土田大
+41 土田{つちだ} 大{ひろし}（つちだ ひろし、1972年{ねん}〈昭和{しょうわ}47年{ねん}〉2月{がつ}8日{か} - 2026年{ねん}〈令和{れいわ}8年{ねん}〉10月{がつ}11日{にち}）は、日本{にほん}の俳優{はいゆう}、声優{せいゆう}。
+= Tsuchida Hiroshi (8 Şubat 1972 (Shōwa 47) - 11 Ekim 2026 (Reiwa 8)), Japon bir oyuncu ve seslendirme sanatçı-sı-ydı.
++ 令和|れいわ|Reiwa dönemi (2019–)
++ 俳優|はいゆう|oyuncu, aktör
++ 声優|せいゆう|seslendirme sanatçısı
+42 小学校{しょうがっこう}時代{じだい}は学芸会{がくげいかい}に参加{さんか}しており、当時{とうじ}の文集{ぶんしゅう}には「なりたいものは役者{やくしゃ}」と書{か}かれていた。
+= İlkokul yıl-lar-ı-nda okul gösteri-ler-i-ne katıl-ıyor-du ve o zaman-ki sınıf yazı derleme-si-nde "Olmak iste-diğ-im şey oyuncu" diye yaz-ıl-mış-tı.
++ 小学校|しょうがっこう|ilkokul
++ 学芸会|がくげいかい|okul gösterisi, müsamere
++ 参加|さんか|katılma
++ 文集|ぶんしゅう|yazı derlemesi
++ 役者|やくしゃ|oyuncu, aktör
++ 書く|かく|yazmak|書か
+43 1994年{ねん}、スーパー戦隊{せんたい}シリーズ『忍者{にんじゃ}戦隊{せんたい}カクレンジャー』でサイゾウ / ニンジャブルー役{やく}として役者{やくしゃ}デビュー。
+= 1994-te Super Sentai seri-si "Ninja Sentai Kakuranger"-da Saizō / Ninja Blue rol-ü-yle oyunculuğ-a başla-dı.
++ 戦隊|せんたい|tim, birlik
++ 忍者|にんじゃ|ninja
++ 役|やく|rol
+44 1990年代{ねんだい}末{まつ}から声優{せいゆう}とナレーターをメインに活動{かつどう}していた。
+= 1990-lar-ın son-un-dan itibaren ağırlıklı olarak seslendirme sanatçı-sı ve anlatıcı olarak çalış-ıyor-du.
++ 年代|ねんだい|on yıllık dönem (1990年代: 1990'lar)
++ 末|まつ|son, sonu
++ 活動|かつどう|faaliyet, çalışma
+45 2026年{ねん}10月{がつ}11日{にち}、心不全{しんふぜん}のため死去{しきょ}。
+= 11 Ekim 2026-da kalp yetmezliğ-i nedeni-yle vefat et-ti.
++ 心不全|しんふぜん|kalp yetmezliği
++ 死去|しきょ|vefat, ölüm
+46 訃報{ふほう}は同月{どうげつ}20日{か}に所属{しょぞく}事務所{じむしょ}より公表{こうひょう}された。
+= Ölüm haber-i aynı ay-ın 20'si-nde bağlı ol-duğ-u ajans tarafından kamuoyu-na duyur-ul-du.
++ 訃報|ふほう|ölüm haberi
++ 同月|どうげつ|aynı ay
++ 所属|しょぞく|bağlı olma, mensubiyet
++ 事務所|じむしょ|ofis, ajans
++ 公表|こうひょう|kamuoyuna açıklama
+// 9. 松井秀喜
+47 松井{まつい} 秀喜{ひでき}（まつい ひでき、1974年{ねん}〈昭和{しょうわ}49年{ねん}〉6月{がつ}12日{にち} - ）は、石川県{いしかわけん}能美郡{のみぐん}根上町{ねあがりまち}（現{げん}：能美市{のみし}）出身{しゅっしん}の元{もと}プロ野球{やきゅう}選手{せんしゅ}（外野手{がいやしゅ}、右投{みぎなげ}左打{ひだりうち}）。
+= Matsui Hideki (12 Haziran 1974 (Shōwa 49) - ), Ishikawa il-i Nomi ilçe-si Neagari kasaba-sı (bugün: Nomi şehr-i) doğumlu eski profesyonel beyzbol oyuncu-su (dış saha oyuncu-su, sağ el-le at-ar, sol el-le vur-ur).
++ 現|げん|şimdiki, bugünkü
++ 野球|やきゅう|beyzbol
++ 選手|せんしゅ|sporcu, oyuncu
++ 外野手|がいやしゅ|dış saha oyuncusu
+48 愛称{あいしょう}は「ゴジラ」。
+= Lakab-ı "Godzilla".
++ 愛称|あいしょう|lakap, sevgi adı
+49 1990年代{ねんだい}から2000年代{ねんだい}の球界{きゅうかい}を代表{だいひょう}する打者{だしゃ}で、日本{にほん}プロ野球{やきゅう}（NPB）では読売{よみうり}ジャイアンツ、メジャーリーグベースボール（MLB）ではニューヨーク・ヤンキースなどで活躍{かつやく}した。
+= 1990-lar-dan 2000-ler-e beyzbol dünya-sı-nı temsil ed-en bir vurucu olup, Japon Profesyonel Beyzbol-u-nda (NPB) Yomiuri Giants-ta, Major League Baseball-da (MLB) New York Yankees gibi takım-lar-da başarı-yla oyna-dı.
++ 球界|きゅうかい|beyzbol dünyası
++ 代表|だいひょう|temsil etme; temsilci
++ 打者|だしゃ|vurucu (beyzbol)
++ 活躍|かつやく|etkin olma, başarıyla faaliyet gösterme
+50 ヤンキース時代{じだい}の2009年{ねん}には、アジア人{じん}初{はつ}となるワールドシリーズMVPを獲得{かくとく}。
+= Yankees dönem-i-nde-ki 2009-da Asyalı-lar arasında bir ilk ol-an World Series MVP ödül-ü-nü kazan-dı.
++ 時代|じだい|dönem, çağ
++ 人|じん|…lı (milliyet)
++ 獲得|かくとく|kazanma, elde etme
+51 2013年{ねん}には国民{こくみん}栄誉賞{えいよしょう}を受賞{じゅしょう}した。
+= 2013-te Ulusal Onur Ödül-ü-nü al-dı.
++ 国民|こくみん|halk, ulus
++ 栄誉賞|えいよしょう|onur ödülü
++ 受賞|じゅしょう|ödül alma
+52 2026年{ねん}（令和{れいわ}8年{ねん}）10月{がつ}23日{にち}、2027年{ねん}より巨人{きょじん}の第{だい}21代{だい}監督{かんとく}に就任{しゅうにん}することが報{ほう}じられ、同日{どうじつ}午後{ごご}にオーナーの山口{やまぐち}寿一{としかず}とともに就任{しゅうにん}会見{かいけん}を行{おこな}った。
+= 23 Ekim 2026 (Reiwa 8) tarih-in-de 2027-den itibaren Giants-ın 21. teknik direktör-ü ol-acağ-ı haber ver-il-di ve aynı gün öğleden sonra kulüp sahib-i Yamaguchi Toshikazu ile birlikte göreve başlama basın toplantı-sı düzenle-di.
++ 巨人|きょじん|dev; Yomiuri Giants (takım)
++ 代|だい|kuşak, sıra (第21代: 21.)
++ 就任|しゅうにん|göreve gelme, atanma
++ 報じる|ほうじる|haber vermek, bildirmek|報じ
++ 午後|ごご|öğleden sonra
++ 会見|かいけん|basın toplantısı, görüşme
+53 2002年{ねん}オフの退団{たいだん}以来{いらい}、24年{ねん}ぶりの古巣{ふるす}復帰{ふっき}となった。
+= 2002 sezon arası-nda takım-dan ayrıl-ış-ı-ndan beri, 24 yıl sonra eski yuva-sı-na dön-üş ol-du.
++ 退団|たいだん|takımdan ayrılma
++ 以来|いらい|…den beri
++ 古巣|ふるす|eski yuva; eski takım, eski iş yeri
++ 復帰|ふっき|geri dönüş
+// 10. 山形一家3人殺傷事件
+54 山形{やまがた}一家{いっか}3人{にん}殺傷{さっしょう}事件{じけん}（やまがたいっか3にんさっしょうじけん）とは、2006年{ねん}（平成{へいせい}18年{ねん}）5月{がつ}7日{か}に山形県{やまがたけん}西置賜郡{にしおきたまぐん}飯豊町{いいでまち}のカメラ店{てん}で起{お}こった一家{いっか}3人{にん}殺傷{さっしょう}事件{じけん}である。
+= Yamagata aile-de 3 kişi-yi öldürme ve yaralama olay-ı, 7 Mayıs 2006 (Heisei 18) tarih-in-de Yamagata il-i Nishiokitama ilçe-si Iide kasaba-sı-nda-ki bir fotoğraf makine-si dükkân-ı-nda yaşa-n-an, bir aile-den 3 kişi-nin öldür-ül-düğ-ü ya da yarala-n-dığ-ı olay-dır.
++ 一家|いっか|aile, hane
++ 殺傷|さっしょう|öldürme ve yaralama
++ 事件|じけん|olay, vaka
++ 店|てん|dükkân, mağaza
++ 起こる|おこる|meydana gelmek, olmak|起こっ
+55 被害者{ひがいしゃ}の一人{ひとり}の行動{こうどう}に怨{うら}みを抱{いだ}いた末{すえ}の犯行{はんこう}であったが、その内容{ないよう}が加害者{かがいしゃ}が被害者{ひがいしゃ}の一人{ひとり}に性的{せいてき}暴行{ぼうこう}を受{う}けていたというものであったため、様々{さまざま}な疑問{ぎもん}が呈{てい}された。
+= Kurban-lar-dan biri-nin davranış-ı-na kin besle-me-nin son-u-nda işle-n-en bir suç-tu; ancak bu kin-in içeriğ-i, fail-in kurban-lar-dan biri tarafından cinsel saldırı-ya uğra-mış ol-ma-sı olduğu için, çeşitli soru işaret-ler-i ortaya kon-du.
++ 被害者|ひがいしゃ|kurban, mağdur
++ 一人|ひとり|bir kişi, biri
++ 行動|こうどう|davranış, eylem
++ 怨み|うらみ|kin, garaz|怨み
++ 抱く|いだく|(duygu) beslemek, taşımak|抱い
++ 末|すえ|son (…た末: …nın sonunda)
++ 犯行|はんこう|suç (eylemi)
++ 内容|ないよう|içerik
++ 加害者|かがいしゃ|fail, saldırgan
++ 性的|せいてき|cinsel
++ 暴行|ぼうこう|saldırı, şiddet
++ 受ける|うける|uğramak, almak|受け
++ 疑問|ぎもん|soru, şüphe
++ 呈する|ていする|ortaya koymak, sunmak|呈さ
+56 父親{ちちおや}（当時{とうじ}60歳{さい}）と長男{ちょうなん}（当時{とうじ}27歳{さい}）が死亡{しぼう}し、母親{ははおや}（当時{とうじ}54歳{さい}）も脳挫傷{のうざしょう}の重傷{じゅうしょう}を負{お}った。
+= Baba (o sıra-da 60 yaşında) ve büyük oğul (o sıra-da 27 yaşında) öl-dü, anne (o sıra-da 54 yaşında) de beyin ezilme-si-yle ağır yara-lan-dı.
++ 父親|ちちおや|baba
++ 当時|とうじ|o zaman, o sıralar
++ 長男|ちょうなん|en büyük oğul
++ 死亡|しぼう|ölüm, ölme
++ 母親|ははおや|anne
++ 脳挫傷|のうざしょう|beyin ezilmesi (kontüzyon)
++ 重傷|じゅうしょう|ağır yara
++ 負う|おう|(yara, sorumluluk) almak, yüklenmek|負っ
+57 犯人{はんにん}の男{おとこ}の一家{いっか}と長男{ちょうなん}の一家{いっか}は遠縁{とおえん}の親戚{しんせき}同士{どうし}であり男{おとこ}と長男{ちょうなん}は幼馴染{おさななじみ}であった。
+= Fail adam-ın aile-si ile büyük oğl-un aile-si uzak akraba-ydı ve adam ile büyük oğul çocukluk arkadaş-ı-ydı.
++ 犯人|はんにん|suçlu, fail
++ 男|おとこ|adam, erkek
++ 遠縁|とおえん|uzak akrabalık
++ 親戚|しんせき|akraba
++ 同士|どうし|birbiriyle (aynı türden olanlar)
++ 幼馴染|おさななじみ|çocukluk arkadaşı
+58 5月{がつ}23日{にち}、山形{やまがた}地方{ちほう}裁判所{さいばんしょ}（金子{かねこ}武志{たけし}裁判長{さいばんちょう}）はかつて性的{せいてき}暴行{ぼうこう}を受{う}けた事{こと}などを考慮{こうりょ}すると更生{こうせい}の余地{よち}が全{まった}く無{な}いとは言{い}えないとして、死刑{しけい}の求刑{きゅうけい}に対{たい}し減軽{げんけい}された無期{むき}懲役{ちょうえき}の一審{いっしん}判決{はんけつ}を下{くだ}した。
+= 23 Mayıs-ta Yamagata Bölge Mahkeme-si (Başkan Hâkim Kaneko Takeshi), geçmiş-te cinsel saldırı-ya uğra-mış ol-ma-sı gibi şey-ler göz önün-e al-ın-ınca ıslah ol-ma imkân-ı-nın hiç yok de-n-e-me-yeceğ-i gerekçe-si-yle, idam talep-i-ne karşı hafiflet-il-miş müebbet hapis şeklinde ilk derece karar-ı-nı ver-di.
++ 地方裁判所|ちほうさいばんしょ|bölge (asliye) mahkemesi
++ 裁判長|さいばんちょう|mahkeme başkanı
++ 考慮|こうりょ|göz önüne alma
++ 更生|こうせい|ıslah olma, yeniden topluma kazanma
++ 余地|よち|imkân, pay
++ 全く|まったく|hiç, tamamen|全く
++ 死刑|しけい|idam cezası
++ 求刑|きゅうけい|(savcının) ceza talebi
++ 減軽|げんけい|(cezayı) hafifletme
++ 無期懲役|むきちょうえき|müebbet hapis
++ 一審|いっしん|ilk derece yargılama
++ 判決|はんけつ|karar, hüküm
++ 下す|くだす|(karar) vermek|下し
+59 検察{けんさつ}側{がわ}は上告{じょうこく}を断念{だんねん}していたため被告人{ひこくにん}の無期{むき}懲役{ちょうえき}が確定{かくてい}した。
+= Savcılık taraf-ı temyiz-den vazgeç-miş ol-duğ-u için sanığ-ın müebbet hapis ceza-sı kesinleş-ti.
++ 検察|けんさつ|savcılık
++ 側|がわ|taraf
++ 上告|じょうこく|(Yüksek Mahkeme'ye) temyiz başvurusu
++ 断念|だんねん|vazgeçme
++ 被告人|ひこくにん|sanık
++ 無期懲役|むきちょうえき|müebbet hapis
++ 確定|かくてい|kesinleşme
