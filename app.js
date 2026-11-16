@@ -5,6 +5,22 @@
   var FIXES = ["1.8 九: きゅう→く", "2.11 人: にん→じん", "7.16 人: にん→じん", "9.8 人: にん→じん", "60.7 人: にん→じん", "60.10 人: にん→じん", "6.4 来: く→きた", "51.11 日: ひ→び", "51.15 日: ひ→び", "57.6 日: ひ→び", "60.19 日: ひ→び", "55.4 訳: わけ→やく", "5.5 一: いち→ひと", "5.12 間: あいだ→ま", "8.11 入: はい→い", "10.12 止: と→ど", "51.8 頃: ころ→ごろ", "57.6 頃: ころ→ごろ", "4.2 何も: なん→なに", "4.12 何も: なん→なに", "6.2 何か: なん→なに", "54.6 何も: なん→なに", "54.9 何が: なん→なに", "60.19 何も: なん→なに"];
   var EXTRA = window.EXTRA_DATA;
 
+  // Tatoeba destesi: data/extra.js'teki ek cümleler; her cümlede o cümlenin eklendiği kelime kart olur (durumu kelimeyle ortak)
+  var TATO = { id: 'tato', title: 'Tatoeba', sents: [], words: [] };
+  (function () {
+    var mean = {};
+    DECKS.forEach(function (d) { d.words.forEach(function (x) { var k = x[0] + '|' + x[1]; if (!(k in mean)) mean[k] = x[2]; }); });
+    Object.keys(EXTRA).forEach(function (gk) {
+      if (!(gk in mean)) return;
+      var e = EXTRA[gk], bar = gk.indexOf('|'), i = TATO.sents.length;
+      TATO.sents.push({ n: i + 1, g: e.g, t: e.t, tid: e.id });
+      TATO.words.push([gk.slice(0, bar), gk.slice(bar + 1), mean[gk], [[i, e.h[0], e.h[1]]]]);
+    });
+    DECKS = DECKS.concat([TATO]);
+  })();
+  // kilide girmeyen, her zaman açık desteler
+  var FREE = ['tato', 'ono'];
+
   // ---------- model ----------
   var WORDS = new Map(); // "word|reading" -> {w, r, m, decks:[]}
   var CARD = new Map();  // "deck/word|reading" -> card
@@ -34,7 +50,7 @@
   });
   // kilit sırası: ana listede yukarıdan aşağı, klasörün içindekiler kendi sırasıyla
   var ORDER = [];
-  HOME.forEach(function (x) { ORDER = ORDER.concat(x.folder ? x.decks : [x]); });
+  HOME.forEach(function (x) { if (FREE.indexOf(x.id) < 0) ORDER = ORDER.concat(x.folder ? x.decks : [x]); });
 
   // tüm cümleler: aynı metin birden çok destede geçiyorsa tek satır; gks = cümlede geçen kartların kelimeleri
   function plainOf(g) { return g.map(function (x) { return typeof x === 'string' ? x : x[0]; }).join(''); }
@@ -318,7 +334,7 @@
   }
   function storageNote() {
     if (!store.ready) return 'İlerleme yükleniyor…';
-    return 'Her basış bu tarayıcıda saklanıyor. Başka cihaza taşımak için burada JSON indir, orada JSON yükle; aynı basışlar iki kez sayılmaz. Kart durumu kelimenin son cevabıdır, bir kelime birden çok bölümde geçiyorsa durumu hepsinde ortaktır. Öğrenilmiş (yeşil) bir kelimeye ✗ basarsan ' + FORGOT_W + ' kırmızı sayılır. Kilit açıkken Ortak tekrar, Tüm kelimeler ve Tüm cümleler hep açıktır.';
+    return 'Her basış bu tarayıcıda saklanıyor. Başka cihaza taşımak için burada JSON indir, orada JSON yükle; aynı basışlar iki kez sayılmaz. Kart durumu kelimenin son cevabıdır, bir kelime birden çok bölümde geçiyorsa durumu hepsinde ortaktır. Öğrenilmiş (yeşil) bir kelimeye ✗ basarsan ' + FORGOT_W + ' kırmızı sayılır. Kilit açıkken Ortak tekrar, オノマトペ, Tatoeba, Tüm kelimeler ve Tüm cümleler hep açıktır.';
   }
   function deckById(id) { if (id === 'all') return ALL; for (var i = 0; i < DECKS.length; i++) if (DECKS[i].id === id) return DECKS[i]; return null; }
 
@@ -361,6 +377,8 @@
     var d = view.deck, c = deckCounts(d);
     var inFolder = GRAMMAR.indexOf(d) >= 0;
     var due = d.cards.filter(function (card) { return status(card.gk) !== 'g'; });
+    // fukushū: daha önce en az bir kez basılmış (yeşil, sarı, kırmızı) bütün kelimeler
+    var seen = d.cards.filter(function (card) { return status(card.gk) !== 'n'; });
     var h = '<div class="wrap">';
     h += '<button class="back" id="back">← ' + (inFolder ? esc(FOLDER.title) : 'Bölümler') + '</button>';
     h += '<div class="deckhead"><h1>' + esc(d.title) + '</h1><span class="muted tnum">' + d.cards.length + ' kart · ' + (d.id === 'all' ? DECKS.length + ' desteden' : d.sents.length + ' cümle') + '</span>' + (d.p ? '<span class="pat">' + esc(d.p) + '</span>' : '') + '</div>';
@@ -369,7 +387,8 @@
     h += '<div class="actions">' +
       '<button class="btn primary" id="study-due"' + (due.length ? '' : ' disabled') + '>Çalış · ' + due.length + ' kart</button>' +
       '<button class="btn" id="study-all">Hepsini çalış · ' + d.cards.length + '</button>' +
-      (c.r ? '<button class="btn" id="study-red">Sadece kırmızılar · ' + c.r + '</button>' : '') + '</div>';
+      (c.r ? '<button class="btn" id="study-red">Sadece kırmızılar · ' + c.r + '</button>' : '') +
+      (d.id === 'all' ? '<button class="btn" id="study-rev"' + (seen.length ? '' : ' disabled') + ' title="Şimdiye kadar çalıştığın bütün kelimeler: yeşil, sarı ve kırmızı · karışık">復習 Fukushū · ' + seen.length + '</button>' : '') + '</div>';
     h += '<p class="sub" style="margin:-.6rem 0 1.2rem">Her oturum en fazla ' + ROUND_MAX + ' kart; bitince ana ekrana dönersin.</p>';
     h += '<ul class="words">';
     // Tüm kelimeler listesi: en çok ✗ alandan aşağı doğru (eşitler kendi sırasında)
@@ -389,6 +408,8 @@
     document.getElementById('study-all').addEventListener('click', function () { startRound(d, d.cards.slice()); });
     var red = document.getElementById('study-red');
     if (red) red.addEventListener('click', function () { startRound(d, d.cards.filter(function (x) { return status(x.gk) === 'r'; })); });
+    var rev = document.getElementById('study-rev');
+    if (rev) rev.addEventListener('click', function () { startRound(d, shuffle(seen.slice())); });
   }
 
   // ---------- tüm cümleler ----------
@@ -506,13 +527,15 @@
   var EX_OPEN = 5;
   function exsHTML(card) {
     var list = [];
-    [card.deck.id].concat(WORDS.get(card.gk).decks.filter(function (id) { return id !== card.deck.id; })).forEach(function (id) {
+    // Tatoeba cümlesi başka destelerde ayrı "Ek örnek" kutusunda (yalnızca kırmızı basılmışsa) çıkar, burada tekrar edilmez
+    [card.deck.id].concat(WORDS.get(card.gk).decks.filter(function (id) { return id !== card.deck.id && id !== TATO.id; })).forEach(function (id) {
       var c = CARD.get(id + '/' + card.gk);
       c.occ.forEach(function (oc) { list.push({ d: c.deck, oc: oc }); });
     });
     var one = function (x) {
       var s = x.d.sents[x.oc[0]];
-      return '<div class="ex"><div class="no">' + esc(x.d.title) + ' · ' + s.n + '. cümle' + (x.d === card.deck ? '' : ' · diğer deste') + '</div><p class="ja" lang="ja">' + sentenceHTML(s.g, x.oc[1], x.oc[2], true) + '</p><p class="tr">' + esc(s.t) + '</p></div>';
+      return '<div class="ex"><div class="no">' + esc(x.d.title) + ' · ' + s.n + '. cümle' + (x.d === card.deck ? '' : ' · diğer deste') +
+        (s.tid ? ' · <a href="https://tatoeba.org/tr/sentences/show/' + encodeURIComponent(s.tid) + '" target="_blank" rel="noopener">#' + esc(s.tid) + '</a>' : '') + '</div><p class="ja" lang="ja">' + sentenceHTML(s.g, x.oc[1], x.oc[2], true) + '</p><p class="tr">' + esc(s.t) + '</p></div>';
     };
     var h = '<div class="exs">' + (list.length > 1 ? '<div class="exn">' + list.length + ' cümlede geçiyor</div>' : '');
     h += list.slice(0, EX_OPEN).map(one).join('');
@@ -541,7 +564,7 @@
     if (v.flipped) {
       h += exsHTML(card);
       var st = stats.get(card.gk), ex = EXTRA[card.gk];
-      v.extraShown = !!(ex && st && st.r > 0);
+      v.extraShown = !!(ex && st && st.r > 0) && d !== TATO;
       if (v.extraShown) {
         h += '<div class="extra"><div class="no"><span>Ek örnek · daha önce kırmızı bastığın için</span>' +
           '<a href="https://tatoeba.org/tr/sentences/show/' + encodeURIComponent(ex.id) + '" target="_blank" rel="noopener">Tatoeba #' + esc(ex.id) + '</a></div>' +

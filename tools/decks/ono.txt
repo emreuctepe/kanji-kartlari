@@ -1,0 +1,227 @@
+// Onomatopeler (擬音語・擬態語): mevcut destelerdeki ve Tatoeba ek cümlelerindeki örnekler.
+// Cümleler ve çevirileri kaynaklarından aynen alındı; tools/decks/ono.txt elle düzenlenebilir.
+@ ono オノマトペ
+// 第7回 16
+1 会議{かいぎ}の時{とき}でも日本{にほん}人{じん}はいつもニコニコ笑{わら}っているばかりで、本心{ほんしん}が全{まった}く分{わ}からない。
+= Toplantı sırasın-da bile Japon-lar her zaman sırıt-ıp dur-up, gerçek niyet-i hiç anla-ş-ıl-ma-z.
++ ニコニコ|にこにこ|güler yüzle, gülümseyerek|ニコニコ
+// 第56回 1
+2 うちの家{いえ}は線路{せんろ}のすぐそばにあり、電車{でんしゃ}が通{とお}るたびに振動{しんどう}で窓{まど}や戸{と}がガタガタいう。
+= Bizim ev rayın hemen yan-ın-da olup, tren geç-tik-çe titreşim-le pencere ve kapı takır takır ed-er.
++ ガタガタ|がたがた|takır takır, tangır tangır (sarsılma sesi)|ガタガタ
+// 第66回 5
+3 子供{こども}の頃{ころ}は先生{せんせい}から成績表{せいせきひょう}をもらう時{とき}はいつもどきどきした。
+= Çocuk-ken öğretmen-den karne al-ır-ken hep yüreğ-im hop hop ed-er-di.
++ どきどき|どきどき|kalbi küt küt atmak, heyecanlanmak|どきどき
+// 2年文法 5 27
+4 あの人{ひと}のように英語{えいご}をペラペラ話{はな}せたらいいのに。
+= O kişi gibi İngilizce-yi akıcı-ca konuş-abil-se-m keşke.
++ ペラペラ|ぺらぺら|su gibi, akıcı (konuşmak)|ペラペラ
+// 第17回 15
+5 大使館{たいしかん}のレセプションなどで外務{がいむ}大臣{だいじん}とは度々{たびたび}会{あ}っているが、今{いま}までゆっくり話{はなし}をする機会{きかい}がなかった。今度{こんど}インタビューに行{い}くことになって、大変{たいへん}楽{たの}しみにしています。
+= Büyükelçilik-in resepsiyon-lar-ı gibi yer-ler-de dışişleri bakan-ı-yla sık sık karşılaş-ıyor-um ama, şimdiye kadar rahatça konuş-ma fırsat-ı ol-ma-dı. Bu sefer röportaj-a gid-ecek ol-du-m, dört gözle bekl-iyor-um.
++ ゆっくり|ゆっくり|yavaş yavaş; acele etmeden, rahat rahat|ゆっくり
+// 2.sınıf diğer 109
+6 車{くるま}がゆっくり前進{ぜんしん}する。
+= Araba yavaşça ileri gid-er.
++ ゆっくり|ゆっくり|yavaş yavaş; acele etmeden, rahat rahat|ゆっくり
+// 第18回 6
+7 眠{ねむ}かったが、苦{にが}いコーヒーを飲{の}んだので、頭{あたま}がはっきりとした。
+= Uykum var-dı ama, acı kahve iç-tiğ-im için kafa-m açıl-dı.
++ はっきり|はっきり|açıkça, net, belirgin|はっきり
+// 2年文法 5 59
+8 地方{ちほう}に行{い}けば行{い}く（ほど）、地域{ちいき}ごとの文化{ぶんか}や習慣{しゅうかん}の違{ちが}いがはっきり見{み}えてくる。
+= Taşra-ya git-tik-çe, bölge-den bölge-ye kültür ve gelenek fark-lar-ı açıkça gör-ün-ür.
++ はっきり|はっきり|açıkça, net, belirgin|はっきり
+// 2年文法 6 28
+9 彼{かれ}の話{はなし}は長{なが}いうえ、要点{ようてん}がはっきりしないから、聞{き}いている人{ひと}は疲{つか}れる。
+= Onun konuşma-sı uzun ol-ma-sı-nın üstüne, ana fikr-i belli ol-ma-dığ-ı için, dinle-yen-ler yorul-ur.
++ はっきり|はっきり|açıkça, net, belirgin|はっきり
+// 第15回 6
+10 この2、3日{にち}の暖{あたた}かさで雪{ゆき}がすっかり解{と}けてしまった。
+= Bu iki üç gün-ün sıcaklığ-ı-yla kar tamamen eri-yip git-ti.
++ すっかり|すっかり|tamamen, büsbütün|すっかり
+// 第58回 14
+11 彼{かれ}は今{いま}新{あたら}しいガールフレンドに夢中{むちゅう}になっていて、勉強{べんきょう}のことはすっかり忘{わす}れている。
+= O şimdi yeni kız arkadaş-ın-a kapıl-mış ol-up, ders-i tamamen unut-muş.
++ すっかり|すっかり|tamamen, büsbütün|すっかり
+// 2年文法 6 9
+12 友達{ともだち}に誘{さそ}われて、山登{やまのぼ}りをしているうちに、私{わたし}もすっかり山{やま}が好{す}きになった。
+= Arkadaş-ım-dan davet ed-il-ip, dağ yürüyüş-ü yap-ar-ken, ben de dağ-ı tamamen sev-er ol-du-m.
++ すっかり|すっかり|tamamen, büsbütün|すっかり
+// 第13回 5
+13 軽{かる}く言{い}った冗談{じょうだん}を彼女{かのじょ}はいつも本気{ほんき}に受{う}け取{と}ってしまうので、うっかり冗談{じょうだん}も言{い}えない。
+= Hafif-çe söyle-diğ-im şaka-yı o (kadın) her zaman ciddi-ye al-ıyor, bu yüzden dikkatsiz-ce şaka bile yap-a-mı-yor-um.
++ うっかり|うっかり|dikkatsizce, farkında olmadan|うっかり
+// 第19回 2
+14 彼{かれ}は入学{にゅうがく}試験{しけん}に失敗{しっぱい}しても平気{へいき}な顔{かお}をしているが、実{じつ}はとてもがっかりしている。
+= O, giriş sınav-ın-da başarısız ol-sa da umursamaz bir yüz ifade-si takın-ıyor ama, aslında çok hayal kırıklığ-ı-na uğra-mış.
++ がっかり|がっかり|hayal kırıklığına uğramış, morali bozuk|がっかり
+// Tatoeba #159956
+15 私{わたし}はその知{し}らせを聞{き}いて非常{ひじょう}にがっかりした。
+= O haber-i duy-unca son derece hayal kırıklığ-ı-na uğra-dı-m.
++ がっかり|がっかり|hayal kırıklığına uğramış, morali bozuk|がっかり
+// 第54回 12
+16 人{ひと}から受{う}けた恩{おん}を忘{わす}れると、恩{おん}知{し}らずと言{い}われてしまいます。受{う}けた恩{おん}は忘{わす}れずに、いつか恩人{おんじん}に恩返{おんがえ}しをしようという気持{きも}ちをしっかりと持{も}っていなければなりません。
+= İnsan-dan al-ın-an iyilik-i unut-unca, nankör de-n-ip kal-ır-sın. Al-ın-an iyilik-i unut-ma-yıp, bir gün iyilik-sever-e karşılık ver-eyim diye his-i sağlam tut-mak zorunda-sın.
++ しっかり|しっかり|sıkıca, sağlam; adamakıllı|しっかり
+// 第59回 11
+17 この問題{もんだい}にはいろいろな側面{そくめん}がありそうなので、じっくり検討{けんとう}したほうがよさそうだ。
+= Bu sorun-da çeşit çeşit yan ol-ur gibi ol-duğ-u için, iyi-ce incele-mek iyi gibi.
++ じっくり|じっくり|etraflıca, acele etmeden|じっくり
+// Tatoeba #216161
+18 じっくりあせらずに治{なお}すことが大切{たいせつ}です。
+= Acele et-me-den, sabır-la tedavi et-mek önemli-dir.
++ じっくり|じっくり|etraflıca, acele etmeden|じっくり
+// 2.sınıf diğer 168
+19 二人{ふたり}の呼吸{こきゅう}がぴったり合{あ}っている。
+= İkisi-nin uyum-u tam yerinde.
++ ぴったり|ぴったり|tam (uymak), cuk oturmak|ぴったり
+// Tatoeba #222974
+20 このワンピースは、君{きみ}の雰囲気{ふんいき}にぴったりだね。
+= Bu elbise sen-in havan-a tam uy-uyor.
++ ぴったり|ぴったり|tam (uymak), cuk oturmak|ぴったり
+// 第53回 7
+21 隣{となり}のうちは、木造{もくぞう}の家{いえ}を作{つく}るらしく、材木{ざいもく}がトラックでどんどん運{はこ}ばれてきた。
+= Komşu ev, ahşap ev yap-acak gibi, kereste kamyon-la gitgide taşı-n-ıp gel-di.
++ どんどん|どんどん|hızla, durmadan, gitgide|どんどん
+// 第65回 1
+22 この辺{あた}りはついこの間{あいだ}まで畑{はたけ}だったが、この2、3年{ねん}のうちにどんどん家{いえ}が建{た}ってきた。
+= Bu civar daha geçen-lerde tarla-ydı ama, bu iki üç yıl için-de hızla ev-ler dik-il-di.
++ どんどん|どんどん|hızla, durmadan, gitgide|どんどん
+// 第17回 3
+23 久{ひさ}しぶりにのんびりしようと思{おも}って温泉{おんせん}に行{い}った。宿{やど}に着{つ}くとさっそくひと風呂{ふろ}浴{あ}びた。
+= Uzun zaman sonra kafa dinle-yeyim diye düşün-üp kaplıca-ya git-ti-m. Han-a var-ınca hemen bir banyo yap-tı-m.
++ のんびり|のんびり|kafa dinleyerek, rahat rahat|のんびり
+// 第64回 18
+24 隣{となり}の夫婦{ふうふ}は対照{たいしょう}的{てき}で、ご主人{しゅじん}は気{き}が短{みじか}くて怒{おこ}りっぽく、奥{おく}さんは気{き}が長{なが}くてのんびりしている。
+= Komşu-nun karı-koca-sı birbir-i-ne zıt, bey sabırsız ve çabuk sinirlen-en biri, hanım sabırlı ve rahat.
++ のんびり|のんびり|kafa dinleyerek, rahat rahat|のんびり
+// Tatoeba #146854
+25 少{すこ}しのんびりしたほうがいいですよ。
+= Biraz rahat-la-san iyi ol-ur.
++ のんびり|のんびり|kafa dinleyerek, rahat rahat|のんびり
+// 第8回 7
+26 立{た}ち話{ばなし}ではきちんとした相談{そうだん}ができないので、話{はな}し合{あ}いの時間{じかん}を持{も}って、みんなで話{はな}し合{あ}いましょう。
+= Ayakta konuş-ma-da düzgün danış-ma yap-ıl-a-ma-dığ-ı için, görüş-me zaman-ı-nı tut-up, herkes-le konuş-up an-laş-alım.
++ きちんと|きちんと|düzgünce, doğru dürüst|きちんと
+// 第17回 18
+27 この問題{もんだい}は重要{じゅうよう}な問題{もんだい}なのできちんとした話{はな}し合{あ}いの場{ば}を設{もう}けましょう。
+= Bu mesele önemli bir mesele ol-duğ-u için düzgün bir görüşme ortam-ı oluştur-alım.
++ きちんと|きちんと|düzgünce, doğru dürüst|きちんと
+// 第14回 16
+28 やっとちゃんとした会社{かいしゃ}に入{はい}ることができて、収入{しゅうにゅう}も安定{あんてい}した。
+= Sonunda düzgün bir şirket-e gir-ebil-di-m ve gelir-im de istikrar-a kavuş-tu.
++ ちゃんと|ちゃんと|gerektiği gibi, doğru dürüst|ちゃんと
+// 敬語練習 82
+29 アレックス：実{じつ}は時間{じかん}をうかがったとき、11時{じ}を1時{じ}と聞{き}き間違{まちが}えてしまったんです。ちゃんと確認{かくにん}すべきだったのですが……。申{もう}し訳{わけ}ありませんでした。
+= Alex: Aslında saat-i sor-duğ-um-da (alçakgönüllü), 11-i 1 diye yanlış duy-up kal-dı-m. Düzgünce teyit et-meli-ydi-m ama… Özür dile-r-im.
++ ちゃんと|ちゃんと|gerektiği gibi, doğru dürüst|ちゃんと
+// 第66回 3
+30 彼{かれ}は学生{がくせい}時代{じだい}は抜群{ばつぐん}の成績{せいせき}だったが、会社{かいしゃ}に入{はい}ってからはパッとしない。
+= O öğrenci-lik dönem-i-nde olağanüstü not-lar-a sahip-ti ama, şirket-e gir-dik-ten sonra pek parla-ya-ma-dı.
++ パッと|ぱっと|birden, bir anda; (パッとしない) sönük, göze çarpmayan|パッと
+// Tatoeba #229296
+31 いかだでその川{かわ}を下{くだ}ったときはハラハラした。
+= Sal-la o nehr-i aşağı in-erken heyecan-dan yüreğ-im ağz-ım-a gel-di.
++ ハラハラ|はらはら|yüreği ağzında, endişeyle|ハラハラ
+// Tatoeba #1046154
+32 他{ほか}の皆{みな}がいなくなってから、その辺{へん}をしばらくブラブラして話{はな}さないか？
+= Diğer herkes git-tik-ten sonra, bir süre ora-da takıl-ıp konuş-sak mı?
++ ブラブラ|ぶらぶら|aylak aylak, amaçsızca gezinerek|ブラブラ
+// Tatoeba #119502
+33 彼{かれ}が部屋{へや}を出{で}ていったとたんみんなどっと吹{ふ}き出{だ}した。
+= O oda-dan çık-ar çık-maz herkes kahkaha-yı bas-tı.
++ どっと|どっと|birden hep birlikte (gülmek, akın etmek)|どっと
+// Tatoeba #10587360
+34 隣{となり}の赤{あか}ちゃん、よちよち歩{ある}きし始{はじ}めたよ。
+= Komşu-nun bebeğ-i tıpış tıpış yürü-me-ye başla-dı.
++ よちよち|よちよち|paytak paytak (bebek yürüyüşü)|よちよち
+// Tatoeba #2242857
+35 畑{はたけ}の中{なか}にくねくねと道{みち}が走{はし}っていた。
+= Tarla-lar-ın ara-sın-dan yol kıvrıla kıvrıla uzan-ıyor-du.
++ くねくね|くねくね|kıvrıla kıvrıla, yılan gibi|くねくね
+// Tatoeba #1131289
+36 その疲{つか}れている少年{しょうねん}はぐっすり眠{ねむ}っている。
+= O yorgun çocuk mışıl mışıl uyu-yor.
++ ぐっすり|ぐっすり|mışıl mışıl, deliksiz (uyumak)|ぐっすり
+// Tatoeba #1031887
+37 さっきから何{なに}を二人{ふたり}でこそこそやってるの？
+= Az önce-den beri iki-niz gizli gizli ne yap-ıyor-sunuz?
++ こそこそ|こそこそ|gizli gizli, sinsi sinsi|こそこそ
+// Tatoeba #199738
+38 トラックは砂{すな}を地面{じめん}にどさっと落{おと}した。
+= Kamyon kum-u yer-e boşalt-tı.
++ どさっと|どさっと|güm diye (ağır bir şey düşerken)|どさっと
+// Tatoeba #2751760
+39 そんなじろじろ見{み}つめないでください。
+= Lütfen öyle dik dik bak-ma-yın.
++ じろじろ|じろじろ|dik dik, süzerek (bakmak)|じろじろ
+// Tatoeba #94476
+40 彼女{かのじょ}の言{い}うことはそっくり本心{ほんしん}からとは言{い}えない。
+= Onun (kadın) söyle-dik-ler-i tamamen içten değil.
++ そっくり|そっくり|tıpatıp benzer; olduğu gibi, tamamen|そっくり
+// Tatoeba #10996863
+41 中学{ちゅうがく}のときの担任{たんにん}にそっくりだ。
+= Ortaokul-daki sınıf öğretmen-im-e tıpatıp benz-iyor.
++ そっくり|そっくり|tıpatıp benzer; olduğu gibi, tamamen|そっくり
+// Tatoeba #10037429
+42 駅前{えきまえ}で、昔{むかし}の友達{ともだち}にばったり会{あ}ったんだ。
+= İstasyon ön-ün-de, eski bir arkadaş-ım-a rastla-dı-m.
++ ばったり|ばったり|tesadüfen, ansızın (karşılaşmak)|ばったり
+// Tatoeba #10029042
+43 鼻{はな}がムズムズして、くしゃみが止{と}まらないの。
+= Burn-um kaşın-ıyor, hapşırık-lar-ım dur-mu-yor.
++ ムズムズ|むずむず|kaşınmak, gıdıklanmak (burun vb.)|ムズムズ
+// Tatoeba #211027
+44 その建物{たてもの}は内外{ないがい}ともぼろぼろになっている。
+= O bina içi-yle dışı-yla harabe hâl-de.
++ ぼろぼろ|ぼろぼろ|lime lime, harap, perişan|ぼろぼろ
+// Tatoeba #160745
+45 私{わたし}はゴルフのやり方{かた}はさっぱりわからない。
+= Golf-un nasıl oyna-n-dığ-ı-nı hiç bil-mi-yor-um.
++ さっぱり|さっぱり|(olumsuzla) hiç, katiyen; ferah, temiz|さっぱり
+// Tatoeba #11490210
+46 ちゃちゃっと軽{かる}く食{た}べてから仕事{しごと}に戻{もど}ろう。
+= Hızlı-ca hafif bir şey ye-yip iş-e dön-elim.
++ ちゃちゃっと|ちゃちゃっと|çabucak, şıp diye|ちゃちゃっと
+// Tatoeba #10568424
+47 初{はじ}めはさ、家{いえ}の仕事{しごと}を継{つ}ぐ気{き}はさらさらなかったんだ。
+= Başta, aile iş-i-ni devral-ma-ya hiç niyet-im yok-tu.
++ さらさら|さらさら|şırıl şırıl, hışır hışır; (olumsuzla) hiç|さらさら
+// Tatoeba #146932
+48 小川{おがわ}がさらさらと流{なが}れる音{おと}が聞{き}こえる。
+= Dere-nin şırıl şırıl ak-an ses-i duy-ul-uyor.
++ さらさら|さらさら|şırıl şırıl, hışır hışır; (olumsuzla) hiç|さらさら
+// Tatoeba #80119
+49 木{こ}の葉{は}のサラサラという音{おと}が聞{き}こえた。
+= Yaprak-lar-ın hışırtı-sı-nı duy-du-m.
++ さらさら|さらさら|şırıl şırıl, hışır hışır; (olumsuzla) hiç|サラサラ
+// Tatoeba #125478
+50 庭園{ていえん}の周{まわ}りに、ぐるりと高{たか}いへいが立{た}っている。
+= Bahçe-nin etraf-ı-nı yüksek bir duvar çevir-iyor.
++ ぐるりと|ぐるりと|çepeçevre, etrafını dolanarak|ぐるりと
+// Tatoeba #10017712
+51 お前{まえ}をゴタゴタに巻{ま}き込{こ}みたくないんだ。
+= Seni bu karmaşa-ya bulaştır-mak iste-mi-yor-um.
++ ゴタゴタ|ごたごた|karışıklık, kargaşa, dert|ゴタゴタ
+// Tatoeba #3559190
+52 たまに訳{わけ}もなくイライラすることってない？
+= Ara sıra sebep-siz yere sinirlen-diğ-in ol-maz mı?
++ イライラ|いらいら|sinirli, gergin, sabırsız|イライラ
+// Tatoeba #97463
+53 彼{かれ}らは夏{なつ}のじめじめした気候{きこう}に慣{な}れている。
+= Onlar yaz-ın nemli iklim-i-ne alışkın.
++ じめじめ|じめじめ|nemli, rutubetli, yapış yapış|じめじめ
+// Tatoeba #1057273
+54 しゃっくりがちっとも止{と}まらないんだよ。
+= Hıçkırık-lar-ım bir türlü dur-mu-yor.
++ しゃっくり|しゃっくり|hıçkırık|しゃっくり
+// Tatoeba #13146634
+55 夏{なつ}の太陽{たいよう}が照{て}りつけ、海{うみ}の水面{すいめん}がきらきらと光{ひか}っていた。
+= Yaz güneş-i yak-ıp kavur-uyor, deniz-in yüzey-i ışıl ışıl parlı-yor-du.
++ きらきら|きらきら|pırıl pırıl, ışıl ışıl|きらきら
+// Tatoeba #126829
+56 地面{じめん}が日{ひ}に焼{や}けて、からからに乾{かわ}いて固{かた}くなった。
+= Toprak güneş-te kavrul-up kupkuru ve sert ol-du.
++ からから|からから|kupkuru, kurumuş|からから
