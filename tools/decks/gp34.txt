@@ -1,0 +1,150 @@
+// 練習問題：～らしい・～ことにする・～ことになる (練習.pdf s.135–138)
+@ gp34 2年文法 34 | らしい・ことにする・ことになる
+1 来年{らいねん}、日本{にほん}へ留学{りゅうがく}する（ことにした）。
+= Gelecek yıl, Japonya-ya öğrenim-e git-me-ye karar ver-di-m.
++ 来年|らいねん|gelecek yıl
++ 日本|にほん|Japonya
++ 留学|りゅうがく|yurt dışında öğrenim
++ ことにする|ことにする|…meye karar vermek (kendi kararı)|ことにし
+2 田中{たなか}先生{せんせい}は来月{らいげつ}、大学{だいがく}を辞{や}める（らしい）。
+= Tanaka Hoca gelecek ay, üniversite-den ayrıl-acak-mış.
++ 田中|たなか|Tanaka (soyadı)
++ 先生|せんせい|hoca
++ 来月|らいげつ|gelecek ay
++ 大学|だいがく|üniversite
++ 辞める|やめる|(işten) ayrılmak
++ らしい|らしい|…mış, …gibi (duyuma dayalı)
+3 健康{けんこう}のために、毎朝{まいあさ}30分{ぷん}歩{ある}く（ことにしている）。
+= Sağlığ-ım için, her sabah 30 dakika yürü-me-yi alışkanlık edin-di-m.
++ 健康|けんこう|sağlık
++ 毎朝|まいあさ|her sabah
++ 分|ふん|dakika|分
++ 歩く|あるく|yürümek
+4 来週{らいしゅう}の会議{かいぎ}はオンラインで行{おこな}う（ことになった）。
+= Gelecek hafta-ki toplantı-nın çevrim içi yap-ıl-ma-sı-na karar ver-il-di.
++ 来週|らいしゅう|gelecek hafta
++ 会議|かいぎ|toplantı
++ 行う|おこなう|yapmak
++ ことになる|ことになる|…meye karar verilmek, …durumu oluşmak|ことにな
+5 明日{あした}は雪{ゆき}が降{ふ}る（らしい）。
+= Yarın kar yağ-acak-mış.
++ 明日|あした|yarın
++ 雪|ゆき|kar
++ 降る|ふる|yağmak
+6 研究発表{けんきゅうはっぴょう}の前{まえ}に、もう一度{いちど}資料{しりょう}を確認{かくにん}する（ことにした）。
+= Araştırma sunum-u-ndan önce, bir kez daha belge-ler-i kontrol et-me-ye karar ver-di-m.
++ 研究|けんきゅう|araştırma
++ 発表|はっぴょう|sunum
++ 前|まえ|önce
++ 一度|いちど|bir kez
++ 資料|しりょう|belge
++ 確認|かくにん|kontrol
+7 この大学{だいがく}では、学生{がくせい}は図書館{としょかん}の資料{しりょう}を自由{じゆう}に利用{りよう}できる（ことになっている）。
+= Bu üniversite-de, öğrenci-ler kütüphane-nin kaynak-lar-ı-nı serbest-çe kullan-abil-ir (kural böyle).
++ 学生|がくせい|öğrenci
++ 図書館|としょかん|kütüphane
++ 自由|じゆう|serbest
++ 利用|りよう|kullanım
+8 彼{かれ}は日本{にほん}の大学院{だいがくいん}に進学{しんがく}する（らしい）。
+= O Japonya-da lisansüstü-ye geç-ecek-miş.
++ 彼|かれ|o (erkek)
++ 大学院|だいがくいん|lisansüstü okul
++ 進学|しんがく|üst okula geçme
+9 今年{ことし}は海外調査{かいがいちょうさ}を行{おこな}わない（ことになった）。
+= Bu yıl yurt dışı saha çalışma-sı yap-ıl-ma-ma-sı-na karar ver-il-di.
++ 今年|ことし|bu yıl
++ 海外|かいがい|yurt dışı
++ 調査|ちょうさ|araştırma, saha çalışması
+10 毎日{まいにち}、日本語{にほんご}の新聞{しんぶん}を読{よ}む（ことにしている）。
+= Her gün, Japonca gazete oku-ma-yı alışkanlık edin-di-m.
++ 毎日|まいにち|her gün
++ 日本語|にほんご|Japonca
++ 新聞|しんぶん|gazete
++ 読む|よむ|okumak
+11 友達{ともだち}から聞{き}いた話{はなし}によると、田中{たなか}さんは来月{らいげつ}結婚{けっこん}する（らしい）。
+= Arkadaş-ım-dan duy-duğ-um-a göre, Tanaka gelecek ay evlen-ecek-miş.
++ 友達|ともだち|arkadaş
++ 聞く|きく|duymak|聞い
++ 話|はなし|söz, haber
++ 結婚|けっこん|evlilik
+12 来年{らいねん}から新{あたら}しい研究{けんきゅう}プロジェクトに参加{さんか}する（ことにした）。
+= Gelecek yıl-dan itibaren yeni bir araştırma proje-si-ne katıl-ma-ya karar ver-di-m.
++ 新しい|あたらしい|yeni
++ 参加|さんか|katılma
+13 研究室{けんきゅうしつ}では、毎週{まいしゅう}金曜日{きんようび}に研究報告{けんきゅうほうこく}を行{おこな}う（ことになっている）。
+= Araştırma oda-sı-nda, her hafta Cuma günü araştırma rapor-u sun-ul-ur (kural böyle).
++ 研究室|けんきゅうしつ|araştırma odası, laboratuvar
++ 毎週|まいしゅう|her hafta
++ 金曜日|きんようび|cuma
++ 報告|ほうこく|rapor
+14 最近{さいきん}、運動不足{うんどうぶそく}なので、毎朝{まいあさ}ジョギングする（ことにした）。
+= Son zaman-lar-da hareketsiz-im, o yüzden her sabah koşu yap-ma-ya karar ver-di-m.
++ 最近|さいきん|son zamanlarda
++ 運動不足|うんどうぶそく|hareketsizlik
+15 天気予報{てんきよほう}によると、週末{しゅうまつ}は雨{あめ}になる（らしい）。
+= Hava tahmin-i-ne göre, hafta sonu yağmur yağ-acak-mış.
++ 天気予報|てんきよほう|hava tahmini
++ 週末|しゅうまつ|hafta sonu
++ 雨|あめ|yağmur
+16 大学{だいがく}の方針{ほうしん}が変更{へんこう}され、来年度{らいねんど}から新{あたら}しいカリキュラムを導入{どうにゅう}する（ことになった）。
+= Üniversite-nin politika-sı değiş-ti ve gelecek akademik yıl-dan itibaren yeni müfredat-a geçil-me-si-ne karar ver-il-di.
++ 方針|ほうしん|politika
++ 変更|へんこう|değişiklik
++ 来年度|らいねんど|gelecek (mali/akademik) yıl
++ 導入|どうにゅう|uygulamaya koyma
+17 私{わたし}は研究資料{けんきゅうしりょう}を読{よ}むとき、重要{じゅうよう}な部分{ぶぶん}をノートに書{か}く（ことにしている）。
+= Ben araştırma belge-ler-i-ni oku-r-ken, önemli kısım-lar-ı defter-e yaz-ma-yı alışkanlık edin-di-m.
++ 私|わたし|ben
++ 重要|じゅうよう|önemli
++ 部分|ぶぶん|kısım
++ 書く|かく|yazmak
+18 山田{やまだ}さんは来月{らいげつ}から大阪支店{おおさかしてん}で働{はたら}く（ことになった）。
+= Yamada-nın gelecek ay-dan itibaren Osaka şube-si-nde çalış-ma-sı-na karar ver-il-di.
++ 山田|やまだ|Yamada (soyadı)
++ 大阪|おおさか|Osaka
++ 支店|してん|şube
++ 働く|はたらく|çalışmak
+19 「健康{けんこう}のために、今日{きょう}から甘{あま}い物{もの}を食{た}べない（ことにした）。」
+= “Sağlığ-ım için, bugün-den itibaren tatlı şey-ler ye-me-me-ye karar ver-di-m.”
++ 今日|きょう|bugün
++ 甘い|あまい|tatlı
++ 物|もの|şey
++ 食べる|たべる|yemek|食べ
+20 大学{だいがく}では、試験中{しけんちゅう}に辞書{じしょ}を使{つか}ってはいけない（ことになっている）。
+= Üniversite-de, sınav sırasında sözlük kullan-mak yasak (kural böyle).
++ 試験中|しけんちゅう|sınav sırasında
++ 辞書|じしょ|sözlük
++ 使う|つかう|kullanmak|使っ
+21 来年度{らいねんど}から授業{じゅぎょう}の開始時間{かいしじかん}が変更{へんこう}され、午前{ごぜん}9時{じ}から始{はじ}まる（ことになった）。
+= Gelecek akademik yıl-dan itibaren ders-ler-in başlama saat-i değiş-ti ve sabah 9-da başla-ma-sı-na karar ver-il-di.
++ 授業|じゅぎょう|ders
++ 開始|かいし|başlangıç
++ 時間|じかん|saat
++ 午前|ごぜん|öğleden önce, sabah
++ 時|じ|saat
++ 始まる|はじまる|başlamak
+22 まだ正式{せいしき}な発表{はっぴょう}はないが、来年{らいねん}からこの制度{せいど}が廃止{はいし}される（らしい）。
+= Henüz resmî bir açıklama yok ama, gelecek yıl-dan itibaren bu sistem kaldır-ıl-acak-mış.
++ 正式|せいしき|resmî
++ 制度|せいど|sistem
++ 廃止|はいし|kaldırma
+23 研究計画{けんきゅうけいかく}について何度{なんど}も考{かんが}えた結果{けっか}、今年{ことし}は国内{こくない}の資料{しりょう}を中心{ちゅうしん}に調査{ちょうさ}する（ことにした）。
+= Araştırma plan-ı hakkında defalarca düşün-me-nin sonuc-u-nda, bu yıl yurt içi belge-ler ağırlıklı araştırma yap-ma-ya karar ver-di-m.
++ 計画|けいかく|plan
++ 何度も|なんども|defalarca
++ 考える|かんがえる|düşünmek|考え
++ 結果|けっか|sonuç
++ 国内|こくない|yurt içi
++ 中心|ちゅうしん|merkez, ağırlık
+24 大学{だいがく}の規則{きそく}では、学生{がくせい}が研究室{けんきゅうしつ}を使用{しよう}するときは、使用後{しようご}に必{かなら}ず電気{でんき}を消{け}す（ことになっている）。
+= Üniversite-nin kural-lar-ı-na göre, öğrenci-ler araştırma oda-sı-nı kullan-dık-lar-ında, kullan-dık-tan sonra mutlaka ışık-ları kapat-malı-dır.
++ 規則|きそく|kural
++ 使用|しよう|kullanım
++ 後|ご|sonra|後
++ 必ず|かならず|mutlaka
++ 電気|でんき|ışık, elektrik
++ 消す|けす|kapatmak, söndürmek
+25 先生{せんせい}から聞{き}いたところでは、来月{らいげつ}から海外{かいがい}の研究者{けんきゅうしゃ}がこの大学{だいがく}に滞在{たいざい}する（らしい）。
+= Hoca-m-dan duy-duğ-um-a göre, gelecek ay-dan itibaren yurt dışı-ndan bir araştırmacı bu üniversite-de kal-acak-mış.
++ 研究者|けんきゅうしゃ|araştırmacı
++ 滞在|たいざい|kalma, konaklama

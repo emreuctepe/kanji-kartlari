@@ -1,0 +1,176 @@
+// 練習問題：～に違いない・～向けに・～のもとで (練習.pdf s.106–109)
+@ gp26 2年文法 26 | に違いない・向けに・のもとで
+1 窓{まど}が全部{ぜんぶ}閉{し}まっている。もう誰{だれ}もいない（に違{ちが}いない）。
+= Pencere-ler-in hepsi kapalı. Artık kimse yok-tur kesin.
++ 窓|まど|pencere
++ 全部|ぜんぶ|hepsi
++ 閉まる|しまる|kapanmak|閉まっ
++ 誰も|だれも|hiç kimse
++ に違いない|にちがいない|kesinlikle …dir, …olsa gerek|違いない
+2 この教材{きょうざい}は、日本語{にほんご}を初{はじ}めて勉強{べんきょう}する学生{がくせい}（向{む}けに）作{つく}られた。
+= Bu ders materyal-i, Japonca-yı ilk kez öğren-en öğrenci-ler için hazırla-n-dı.
++ 教材|きょうざい|ders materyali
++ 日本語|にほんご|Japonca
++ 初めて|はじめて|ilk kez
++ 勉強|べんきょう|ders çalışma
++ 学生|がくせい|öğrenci
++ 向けに|むけに|…için, …e yönelik|向けに
++ 作る|つくる|yapmak, hazırlamak|作られ
+3 私{わたし}は大学時代{だいがくじだい}、指導教授{しどうきょうじゅ}（のもとで）日本近代史{にほんきんだいし}を研究{けんきゅう}していた。
+= Ben üniversite yıl-lar-ım-da, danışman hoca-m-ın gözetim-i-nde Japon modern tarih-i araştır-ıyor-du-m.
++ 私|わたし|ben
++ 大学時代|だいがくじだい|üniversite yılları
++ 指導教授|しどうきょうじゅ|danışman profesör
++ のもとで|のもとで|…in gözetiminde, …altında
++ 近代史|きんだいし|modern tarih
++ 研究|けんきゅう|araştırma
+4 あの店{みせ}はいつも客{きゃく}が多{おお}いから、料理{りょうり}がおいしい（に違{ちが}いない）。
+= O dükkân-ın her zaman müşteri-si çok, yemek-ler-i kesin lezzetli-dir.
++ 店|みせ|dükkân, restoran
++ 客|きゃく|müşteri
++ 多い|おおい|çok
++ 料理|りょうり|yemek
+5 高齢者{こうれいしゃ}（向{む}けに）、文字{もじ}を大{おお}きくした案内{あんない}を作成{さくせい}した。
+= Yaşlı-lar için, harf-ler-i büyüt-ül-müş bir bilgilendirme hazırla-dı-k.
++ 高齢者|こうれいしゃ|yaşlı
++ 文字|もじ|harf, yazı
++ 大きい|おおきい|büyük|大きく
++ 案内|あんない|bilgilendirme, rehber
++ 作成|さくせい|hazırlama, oluşturma
+6 厳{きび}しい経済状況{けいざいじょうきょう}（のもとで）、多{おお}くの企業{きぎょう}が新{あたら}しい事業{じぎょう}を始{はじ}めた。
+= Zor ekonomik koşul-lar altında, birçok şirket yeni iş-ler-e başla-dı.
++ 厳しい|きびしい|zor, sert
++ 経済|けいざい|ekonomi
++ 状況|じょうきょう|durum
++ 多く|おおく|çok, birçok
++ 企業|きぎょう|şirket
++ 新しい|あたらしい|yeni
++ 事業|じぎょう|iş, girişim
++ 始める|はじめる|başlamak|始め
+7 彼{かれ}は約束{やくそく}の時間{じかん}になっても来{こ}ない。何{なに}か事故{じこ}に遭{あ}った（に違{ちが}いない）。
+= O randevu saat-i gel-diğ-i halde gel-mi-yor. Kesin bir kaza-ya uğra-mış-tır.
++ 彼|かれ|o (erkek)
++ 約束|やくそく|randevu
++ 時間|じかん|saat
++ 来る|くる|gelmek|来
++ 事故|じこ|kaza
++ 遭う|あう|(kazaya) uğramak|遭っ
+8 この講座{こうざ}は、大学院生{だいがくいんせい}（向{む}けに）専門的{せんもんてき}な内容{ないよう}になっている。
+= Bu kurs, lisansüstü öğrenci-ler-e yönelik uzmanlık içerik-li.
++ 講座|こうざ|kurs
++ 大学院生|だいがくいんせい|lisansüstü öğrenci
++ 専門的|せんもんてき|uzmanlık düzeyinde
++ 内容|ないよう|içerik
+9 優{すぐ}れた研究者{けんきゅうしゃ}（のもと）で、多{おお}くの学生{がくせい}が研究方法{けんきゅうほうほう}を学{まな}んだ。
+= Üstün bir araştırmacı-nın gözetim-i-nde, çok öğrenci araştırma yöntem-ler-i-ni öğren-di.
++ 優れる|すぐれる|üstün olmak|優れ
++ 研究者|けんきゅうしゃ|araştırmacı
++ 方法|ほうほう|yöntem
++ 学ぶ|まなぶ|öğrenmek|学ん
+10 彼女{かのじょ}は毎日{まいにち}夜遅{よるおそ}くまで研究{けんきゅう}している。かなり努力{どりょく}している（に違{ちが}いない）。
+= O (kadın) her gün gece geç saat-e kadar araştır-ıyor. Epey çaba göster-iyor ol-sa gerek.
++ 彼女|かのじょ|o (kadın)
++ 毎日|まいにち|her gün
++ 夜遅く|よるおそく|gece geç saatte
++ 努力|どりょく|çaba
+11 この映画{えいが}は、主{おも}に若{わか}い世代{せだい}（向{む}けに）制作{せいさく}された作品{さくひん}である。
+= Bu film, esas olarak genç kuşak için yap-ıl-mış bir eser-dir.
++ 映画|えいが|film
++ 主に|おもに|esas olarak
++ 若い|わかい|genç
++ 世代|せだい|kuşak
++ 制作|せいさく|yapım
++ 作品|さくひん|eser
+12 彼{かれ}は10年間{ねんかん}日本{にほん}で研究{けんきゅう}していたので、日本{にほん}の社会{しゃかい}について詳{くわ}しい（に違{ちが}いない）。
+= O 10 yıl Japonya-da araştırma yap-tığ-ı için, Japon toplum-u hakkında kesin bilgili-dir.
++ 年間|ねんかん|… yıl (süresince)
++ 日本|にほん|Japonya
++ 社会|しゃかい|toplum
++ 詳しい|くわしい|bilgili
+13 学生{がくせい}たちは有名{ゆうめい}な教授{きょうじゅ}（のもと）で研究{けんきゅう}を進{すす}めている。
+= Öğrenci-ler ünlü bir profesör-ün gözetim-i-nde araştırma-lar-ı-nı ilerlet-iyor.
++ 有名|ゆうめい|ünlü
++ 教授|きょうじゅ|profesör
++ 進める|すすめる|ilerletmek|進め
+14 このウェブサイトは外国人観光客{がいこくじんかんこうきゃく}（向{む}けに）多言語{たげんご}で情報{じょうほう}を提供{ていきょう}している。
+= Bu web sitesi yabancı turist-ler için birden çok dil-de bilgi sun-uyor.
++ 外国人|がいこくじん|yabancı
++ 観光客|かんこうきゃく|turist
++ 多言語|たげんご|çok dilli
++ 情報|じょうほう|bilgi
++ 提供|ていきょう|sunma, sağlama
+15 電車{でんしゃ}が30分{ぷん}も遅{おく}れている。何{なに}かトラブルがあった（に違{ちが}いない）。
+= Tren 30 dakika gecik-iyor. Kesin bir sorun çık-mış-tır.
++ 電車|でんしゃ|tren
++ 分|ふん|dakika|分
++ 遅れる|おくれる|gecikmek|遅れ
+16 戦後{せんご}、多{おお}くの研究者{けんきゅうしゃ}が民主主義{みんしゅしゅぎ}という新{あたら}しい価値観{かちかん}（のもとで）社会{しゃかい}を分析{ぶんせき}した。
+= Savaş sonrası, birçok araştırmacı demokrasi denen yeni değer-ler altında toplum-u analiz et-ti.
++ 戦後|せんご|savaş sonrası
++ 民主主義|みんしゅしゅぎ|demokrasi
++ 価値観|かちかん|değer yargıları
++ 分析|ぶんせき|analiz
+17 この説明書{せつめいしょ}は専門家{せんもんか}（向{む}けに）書{か}かれているため、初心者{しょしんしゃ}には少{すこ}し難{むずか}しい。
+= Bu kullanım kılavuz-u uzman-lar için yaz-ıl-dığ-ı için, yeni başlayan-lar-a biraz zor.
++ 説明書|せつめいしょ|kullanım kılavuzu
++ 専門家|せんもんか|uzman
++ 書く|かく|yazmak|書かれ
++ 初心者|しょしんしゃ|yeni başlayan, acemi
++ 少し|すこし|biraz
++ 難しい|むずかしい|zor
+18 彼{かれ}は毎日{まいにち}欠{か}かさず練習{れんしゅう}している。大会{たいかい}でも良{よ}い成績{せいせき}を出{だ}す（に違{ちが}いない）。
+= O her gün aksat-ma-dan antrenman yap-ıyor. Turnuva-da da kesin iyi bir derece al-ır.
++ 欠かす|かかす|aksatmak|欠かさ
++ 練習|れんしゅう|antrenman, pratik
++ 大会|たいかい|turnuva, yarışma
++ 良い|よい|iyi
++ 成績|せいせき|derece, sonuç
++ 出す|だす|çıkarmak, elde etmek
+19 長年{ながねん}、師匠{ししょう}（のもと）で伝統的{でんとうてき}な技術{ぎじゅつ}を学{まな}んできた。
+= Uzun yıl-lar, usta-m-ın yanı-nda geleneksel teknik-ler-i öğren-di-m.
++ 長年|ながねん|uzun yıllar
++ 師匠|ししょう|usta, hoca
++ 伝統的|でんとうてき|geleneksel
++ 技術|ぎじゅつ|teknik, beceri
+20 このパンフレットは日本{にほん}を初{はじ}めて訪{おとず}れる人{ひと}（向{む}けに）作{つく}られている。
+= Bu broşür Japonya-yı ilk kez ziyaret ed-en-ler için hazırla-n-mış.
++ 訪れる|おとずれる|ziyaret etmek
++ 人|ひと|kişi
+21 これほど多{おお}くの専門家{せんもんか}が同{おな}じ結論{けつろん}を出{だ}しているのだから、この調査結果{ちょうさけっか}は信頼{しんらい}できる（に違{ちが}いない）。
+= Bu kadar çok uzman aynı sonuc-a var-dığ-ı-na göre, bu araştırma sonuç-lar-ı-na kesin güven-il-ebil-ir.
++ 同じ|おなじ|aynı
++ 結論|けつろん|sonuç, karar
++ 調査|ちょうさ|araştırma
++ 結果|けっか|sonuç
++ 信頼|しんらい|güven
+22 その大学{だいがく}では、外国人留学生{がいこくじんりゅうがくせい}（向{む}けに）日本語{にほんご}の論文指導{ろんぶんしどう}プログラムが実施{じっし}されている。
+= O üniversite-de, yabancı öğrenci-ler için Japonca tez danışmanlığ-ı program-ı uygula-n-ıyor.
++ 大学|だいがく|üniversite
++ 留学生|りゅうがくせい|yabancı öğrenci
++ 論文|ろんぶん|tez, makale
++ 指導|しどう|rehberlik, danışmanlık
++ 実施|じっし|uygulama
+23 この地域{ちいき}では、長年{ながねん}にわたって地域住民{ちいきじゅうみん}と行政{ぎょうせい}の協力{きょうりょく}（のもとで）さまざまな活動{かつどう}が行{おこな}われてきた。
+= Bu bölge-de, uzun yıl-lar boyunca yöre sakin-ler-i ile yönetim-in iş birliğ-i altında çeşitli faaliyet-ler yürüt-ül-dü.
++ 地域|ちいき|bölge
++ 住民|じゅうみん|sakin
++ 行政|ぎょうせい|yönetim, idare
++ 協力|きょうりょく|iş birliği
++ 活動|かつどう|faaliyet
++ 行う|おこなう|yapmak|行われ
+24 彼{かれ}の研究発表{けんきゅうはっぴょう}には具体的{ぐたいてき}な資料{しりょう}が数多{かずおお}く使{つか}われていた。かなり綿密{めんみつ}に準備{じゅんび}した（に違{ちが}いない）。
+= O-nun araştırma sunum-u-nda somut belge-ler çok sayıda kullan-ıl-mış-tı. Epey titiz-ce hazırlan-mış ol-sa gerek.
++ 発表|はっぴょう|sunum
++ 具体的|ぐたいてき|somut
++ 資料|しりょう|belge
++ 数多く|かずおおく|çok sayıda
++ 使う|つかう|kullanmak|使われ
++ 綿密|めんみつ|titiz, ayrıntılı
++ 準備|じゅんび|hazırlık
+25 この制度{せいど}は、特定{とくてい}の世代{せだい}だけ（に限{かぎ}らず）すべての年齢層{ねんれいそう}が利用{りよう}できるよう設計{せっけい}されている。
+= Bu sistem, sadece belirli bir kuşak değil bütün yaş grup-lar-ı-nın kullan-abil-eceğ-i şekil-de tasarla-n-mış.
++ 制度|せいど|sistem
++ 特定|とくてい|belirli
++ 年齢層|ねんれいそう|yaş grubu
++ 利用|りよう|kullanım
++ 設計|せっけい|tasarım

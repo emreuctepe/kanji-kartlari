@@ -1,0 +1,154 @@
+// 総合練習 51–75 (練習.pdf s.147–151)
+@ gp37 2年文法 総合 3 | 総合練習 51–75
+51 そんなことは言{い}う（までもない）。
+= Öyle bir şey-i söyle-me-ye bile gerek yok.
++ 言う|いう|söylemek
++ までもない|までもない|…meye bile gerek yok
+52 この問題{もんだい}については、これ以上{いじょう}説明{せつめい}する（までもない）。
+= Bu sorun hakkında, daha fazla açıkla-ma-ya gerek yok.
++ 問題|もんだい|sorun
++ 以上|いじょう|…den fazla
++ 説明|せつめい|açıklama
+53 この計画{けいかく}が失敗{しっぱい}すれ（ば）、これまでの努力{どりょく}が無駄{むだ}になってしまう。
+= Bu plan başarısız ol-ur-sa, şimdiye kadar-ki çaba-lar boşa gid-er.
++ 計画|けいかく|plan
++ 失敗|しっぱい|başarısızlık
++ 努力|どりょく|çaba
++ 無駄|むだ|boşa
+54 あの先生{せんせい}の名前{なまえ}、何{なん}（だっけ）？
+= O hoca-nın ad-ı ne-ydi?
++ 先生|せんせい|öğretmen, hoca
++ 名前|なまえ|ad
++ っけ|っけ|…mıydı? (hatırlamaya çalışma)
+55 この結果{けっか}から判断{はんだん}すると、彼{かれ}がこの分野{ぶんや}の専門家{せんもんか}である（に違{ちが}いない）。
+= Bu sonuç-tan yargı-la-nırsa, o-nun bu alan-ın uzman-ı ol-duğ-u kesin.
++ 結果|けっか|sonuç
++ 判断|はんだん|yargı, karar
++ 彼|かれ|o (erkek)
++ 分野|ぶんや|alan
++ 専門家|せんもんか|uzman
++ に違いない|にちがいない|kesinlikle …dir|違いない
+56 この教材{きょうざい}は外国人留学生{がいこくじんりゅうがくせい}（向{む}けに）作{つく}られている。
+= Bu ders materyal-i yabancı öğrenci-ler için hazırla-n-mış.
++ 教材|きょうざい|ders materyali
++ 外国人|がいこくじん|yabancı
++ 留学生|りゅうがくせい|yabancı öğrenci
++ 向けに|むけに|…için, …e yönelik|向けに
++ 作る|つくる|hazırlamak|作られ
+57 この本{ほん}は初心者{しょしんしゃ}（向{む}き）だが、専門家{せんもんか}には少{すこ}し物足{ものた}りないかもしれない。
+= Bu kitap yeni başlayan-lar-a uygun ama, uzman-lar-a biraz yetersiz gel-ebil-ir.
++ 本|ほん|kitap
++ 初心者|しょしんしゃ|yeni başlayan
++ 向き|むき|…e uygun
++ 少し|すこし|biraz
++ 物足りない|ものたりない|yetersiz, tatmin etmeyen
+58 彼{かれ}は有名{ゆうめい}な教授{きょうじゅ}である一方{いっぽう}で、研究室{けんきゅうしつ}では非常{ひじょう}に厳{きび}しい。
+= O ünlü bir profesör, öte yandan araştırma oda-sı-nda son derece sert.
++ 有名|ゆうめい|ünlü
++ 教授|きょうじゅ|profesör
++ 一方で|いっぽうで|öte yandan, …ırken|一方で
++ 研究室|けんきゅうしつ|araştırma odası
++ 非常に|ひじょうに|son derece
++ 厳しい|きびしい|sert, katı
+59 厳{きび}しい環境{かんきょう}（のもとで）研究{けんきゅう}を続{つづ}けてきた。
+= Zor koşul-lar altında araştırma-yı sürdür-dü-m.
++ 環境|かんきょう|ortam, koşullar
++ のもとで|のもとで|…altında, …gözetiminde
++ 研究|けんきゅう|araştırma
++ 続ける|つづける|sürdürmek|続け
+60 一度{いちど}この仕事{しごと}を引{ひ}き受{う}けた（からには）、最後{さいご}まで責任{せきにん}を持{も}つべきだ。
+= Madem bu iş-i bir kez üstlen-di-n, son-a kadar sorumluluk taşı-malı-sın.
++ 一度|いちど|bir kez
++ 仕事|しごと|iş
++ 引き受ける|ひきうける|üstlenmek|引き受け
++ からには|からには|madem …
++ 最後|さいご|son
++ 責任|せきにん|sorumluluk
++ 持つ|もつ|taşımak
+61 この地域{ちいき}では人口{じんこう}が減少{げんしょう}する（一方{いっぽう}だ）。
+= Bu bölge-de nüfus durmadan azal-ıyor.
++ 地域|ちいき|bölge
++ 人口|じんこう|nüfus
++ 減少|げんしょう|azalma
++ 一方だ|いっぽうだ|durmadan …yor|一方だ
+62 この仕事{しごと}は大変{たいへん}な（反面{はんめん}）、やりがいもある。
+= Bu iş zor, öte yandan tatmin edici de.
++ 大変|たいへん|zor, zahmetli
++ 反面|はんめん|öte yandan
++ やりがい|やりがい|tatmin, yapmaya değerlik
+63 この仕事{しごと}は自由{じゆう}である（一方{いっぽう}で）、責任{せきにん}も大{おお}きい。
+= Bu iş serbest, öte yandan sorumluluğ-u da büyük.
++ 自由|じゆう|serbest, özgür
++ 大きい|おおきい|büyük
+64 大学{だいがく}の方針{ほうしん}（に沿{そ}って）研究計画{けんきゅうけいかく}を作成{さくせい}した。
+= Üniversite-nin politika-sı-na uygun olarak araştırma plan-ı hazırla-dı-m.
++ 大学|だいがく|üniversite
++ 方針|ほうしん|politika
++ に沿って|にそって|…e uygun olarak|沿って
++ 作成|さくせい|hazırlama
+65 その展示会{てんじかい}は3日間{みっかかん}（にわたって）開催{かいさい}された。
+= O sergi 3 gün boyunca düzenle-n-di.
++ 展示会|てんじかい|sergi
++ 日間|かかん|… gün (süresince)|日間
++ にわたって|にわたって|… boyunca
++ 開催|かいさい|düzenleme
+66 若手研究者{わかてけんきゅうしゃ}（を中心{ちゅうしん}に）活発{かっぱつ}な議論{ぎろん}が行{おこな}われた。
+= Genç araştırmacı-lar başta olmak üzere canlı tartışma-lar yap-ıl-dı.
++ 若手|わかて|genç (kuşak)
++ 研究者|けんきゅうしゃ|araştırmacı
++ を中心に|をちゅうしんに|…merkezli, …başta olmak üzere|中心に
++ 活発|かっぱつ|canlı
++ 議論|ぎろん|tartışma
++ 行う|おこなう|yapmak|行われ
+67 この研究{けんきゅう}では、インタビュー（を通{つう}じて）資料{しりょう}を収集{しゅうしゅう}した。
+= Bu araştırma-da, röportaj-lar aracılığı-yla veri toplan-dı.
++ を通じて|をつうじて|…aracılığıyla|通じて
++ 資料|しりょう|belge, veri
++ 収集|しゅうしゅう|toplama
+68 今度{こんど}（こそ）試験{しけん}に合格{ごうかく}したい。
+= Bu sefer mutlaka sınav-ı geç-mek isti-yor-um.
++ 今度|こんど|bu sefer
++ こそ|こそ|mutlaka bu (vurgu)
++ 試験|しけん|sınav
++ 合格|ごうかく|sınavı geçme
+69 予想{よそう}（に反{はん}する）結果{けっか}になり、関係者{かんけいしゃ}は驚{おどろ}いた。
+= Beklenti-ye aykırı bir sonuç çık-tı ve ilgili-ler şaşır-dı.
++ 予想|よそう|beklenti
++ に反する|にはんする|…e aykırı|反する
++ 関係者|かんけいしゃ|ilgili kişiler
++ 驚く|おどろく|şaşırmak|驚い
+70 彼{かれ}は周囲{しゅうい}の批判{ひはん}を（ものともせずに）、研究{けんきゅう}を続{つづ}けた。
+= O çevre-si-nin eleştiri-ler-i-ne aldırmadan, araştırma-sı-nı sürdür-dü.
++ 周囲|しゅうい|çevre
++ 批判|ひはん|eleştiri
++ をものともせずに|をものともせずに|…e aldırmadan|ものともせずに
+71 時代{じだい}の変化{へんか}（とともに）、人々{ひとびと}の価値観{かちかん}も変化{へんか}してきた。
+= Çağ-ın değişim-i-yle birlikte, insan-lar-ın değer yargı-lar-ı da değiş-ti.
++ 時代|じだい|çağ
++ 変化|へんか|değişim
++ とともに|とともに|…ile birlikte
++ 人々|ひとびと|insanlar
++ 価値観|かちかん|değer yargıları
+72 彼{かれ}は家族{かぞく}（とともに）日本{にほん}へ移住{いじゅう}した。
+= O aile-si-yle birlikte Japonya-ya göç et-ti.
++ 家族|かぞく|aile
++ 日本|にほん|Japonya
++ 移住|いじゅう|göç, yerleşme
+73 彼{かれ}は研究者{けんきゅうしゃ}である（とともに）、教育者{きょういくしゃ}としても活動{かつどう}している。
+= O araştırmacı ol-ma-nın yanı sıra, eğitimci olarak da çalış-ıyor.
++ 教育者|きょういくしゃ|eğitimci
++ 活動|かつどう|faaliyet
+74 知識{ちしき}がなかった（ばかりに）、重要{じゅうよう}な機会{きかい}を逃{のが}してしまった。
+= Sırf bilgi-m ol-ma-dığ-ı için, önemli bir fırsat-ı kaçır-dı-m.
++ 知識|ちしき|bilgi
++ ばかりに|ばかりに|sırf …dığı için
++ 重要|じゅうよう|önemli
++ 機会|きかい|fırsat
++ 逃す|のがす|kaçırmak|逃し
+75 もう少{すこ}し早{はや}く出発{しゅっぱつ}していれば、事故{じこ}に巻{ま}き込{こ}まれる（ところだった）。
+= Biraz daha erken yola çık-mış ol-sa-ydı-m, az kalsın kaza-ya karış-ıyor-du-m.
++ 早い|はやい|erken|早く
++ 出発|しゅっぱつ|yola çıkma
++ 事故|じこ|kaza
++ 巻き込む|まきこむ|karıştırmak, sürüklemek|巻き込まれる
++ ところだった|ところだった|az kalsın …ıyordu

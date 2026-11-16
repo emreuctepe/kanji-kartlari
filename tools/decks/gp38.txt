@@ -1,0 +1,174 @@
+// 総合練習 76–100 (練習.pdf s.151–155)
+@ gp38 2年文法 総合 4 | 総合練習 76–100
+76 大学{だいがく}の方針{ほうしん}に従{したが}って、研究計画{けんきゅうけいかく}を変更{へんこう}する（ことになった）。
+= Üniversite-nin politika-sı-na uy-arak, araştırma plan-ı-nın değiştir-il-me-si-ne karar ver-il-di.
++ 大学|だいがく|üniversite
++ 方針|ほうしん|politika
++ 従う|したがう|uymak|従っ
++ 研究|けんきゅう|araştırma
++ 計画|けいかく|plan
++ 変更|へんこう|değişiklik
++ ことになる|ことになる|…meye karar verilmek|ことにな
+77 健康{けんこう}のために、夜遅{よるおそ}くまで仕事{しごと}をしない（ことにしている）。
+= Sağlığ-ım için, gece geç saat-e kadar çalış-ma-ma-yı alışkanlık edin-di-m.
++ 健康|けんこう|sağlık
++ 夜遅く|よるおそく|gece geç saatte
++ 仕事|しごと|iş
++ ことにする|ことにする|…meye karar vermek|ことにし
+78 大学{だいがく}の規則{きそく}では、授業中{じゅぎょうちゅう}は携帯電話{けいたいでんわ}を使用{しよう}してはいけない（ことになっている）。
+= Üniversite-nin kural-lar-ı-na göre, ders sırasında cep telefon-u kullan-mak yasak.
++ 規則|きそく|kural
++ 授業中|じゅぎょうちゅう|ders sırasında
++ 携帯電話|けいたいでんわ|cep telefonu
++ 使用|しよう|kullanım
+79 天気予報{てんきよほう}によると、明日{あした}はかなり寒{さむ}くなる（らしい）。
+= Hava tahmin-i-ne göre, yarın epey soğuk ol-acak-mış.
++ 天気予報|てんきよほう|hava tahmini
++ 明日|あした|yarın
++ 寒い|さむい|soğuk|寒く
++ らしい|らしい|…mış (duyum)
+80 何度{なんど}も話{はな}し合{あ}った結果{けっか}、今回{こんかい}はこの方法{ほうほう}を採用{さいよう}する（ことにした）。
+= Defalarca görüş-me-nin sonuc-u-nda, bu sefer bu yöntem-i benimse-me-ye karar ver-di-k.
++ 何度も|なんども|defalarca
++ 話し合う|はなしあう|görüşmek|話し合っ
++ 結果|けっか|sonuç
++ 今回|こんかい|bu sefer
++ 方法|ほうほう|yöntem
++ 採用|さいよう|benimseme
+81 「国体{こくたい}」（とは）、国家{こっか}の基本的{きほんてき}なあり方{かた}を意味{いみ}する概念{がいねん}である。
+= “Kokutai”, devlet-in temel yapı-sı anlam-ı-na gel-en bir kavram-dır.
++ 国体|こくたい|kokutai, ulusal yapı
++ とは|とは|… (tanım: …dır)
++ 国家|こっか|devlet
++ 基本的|きほんてき|temel
++ 意味|いみ|anlam
++ 概念|がいねん|kavram
+82 近代日本{きんだいにほん}の政治思想史{せいじしそうし}（において）、天皇制{てんのうせい}は重要{じゅうよう}な研究対象{けんきゅうたいしょう}である。
+= Modern Japonya-nın siyasi düşünce tarih-i-nde, imparatorluk sistem-i önemli bir araştırma konu-su-dur.
++ 近代|きんだい|modern çağ
++ 政治|せいじ|siyaset
++ 思想史|しそうし|düşünce tarihi
++ において|において|…de, …alanında
++ 天皇制|てんのうせい|imparatorluk sistemi
++ 重要|じゅうよう|önemli
++ 対象|たいしょう|konu, hedef
+83 研究費{けんきゅうひ}が不足{ふそく}しているため、計画{けいかく}を変更{へんこう}せ（ざるを得{え}ない）。
+= Araştırma bütçe-si yetersiz ol-duğ-u için, plan-ı değiştir-mek zorunda-yız.
++ 研究費|けんきゅうひ|araştırma bütçesi
++ 不足|ふそく|yetersizlik
++ ざるを得ない|ざるをえない|…mek zorunda kalmak|ざるを得
+84 こんな不正確{ふせいかく}な資料{しりょう}をそのまま使用{しよう}する（ものか）。
+= Böyle yanlış belge-ler-i olduğu gibi kullan-ır mı-yım hiç.
++ 不正確|ふせいかく|yanlış, hatalı
++ 資料|しりょう|belge
++ ものか|ものか|asla …mam
+85 費用{ひよう}（はともかく）、研究期間{けんきゅうきかん}が長{なが}すぎることが問題{もんだい}である。
+= Masraf bir yana, araştırma süre-si-nin çok uzun ol-ma-sı sorun-dur.
++ 費用|ひよう|masraf
++ はともかく|はともかく|… bir yana
++ 期間|きかん|süre, dönem
++ 長い|ながい|uzun|長
++ 問題|もんだい|sorun
+86 研究者{けんきゅうしゃ}である（かぎりは）、自分{じぶん}の発言{はつげん}には責任{せきにん}を持{も}つべきだ。
+= Araştırmacı ol-duk-ça, kendi söz-ler-in-in sorumluluğ-u-nu taşı-malı-sın.
++ 研究者|けんきゅうしゃ|araştırmacı
++ かぎりは|かぎりは|…dıkça, …dığı sürece
++ 自分|じぶん|kendi
++ 発言|はつげん|söz, beyan
++ 責任|せきにん|sorumluluk
++ 持つ|もつ|taşımak
+87 彼{かれ}は忙{いそが}しい（にもかかわらず）、毎日{まいにち}少{すこ}しずつ資料{しりょう}を読{よ}んでいる。
+= O meşgul ol-ma-sı-na rağmen, her gün azar azar belge oku-yor.
++ 彼|かれ|o (erkek)
++ 忙しい|いそがしい|meşgul
++ にもかかわらず|にもかかわらず|…e rağmen
++ 毎日|まいにち|her gün
++ 少し|すこし|biraz
++ 読む|よむ|okumak|読ん
+88 有名{ゆうめい}な研究者{けんきゅうしゃ}（だからといって）、すべての意見{いけん}が正{ただ}しいとは限{かぎ}らない。
+= Ünlü bir araştırmacı diye, bütün görüş-ler-i doğru ol-acak değil.
++ 有名|ゆうめい|ünlü
++ からといって|からといって|…diye
++ 意見|いけん|görüş
++ 正しい|ただしい|doğru
++ とは限らない|とはかぎらない|her zaman …değildir|限らない
+89 彼{かれ}は学生{がくせい}（のくせに）、教授{きょうじゅ}に対{たい}して失礼{しつれい}な態度{たいど}を取{と}った。
+= O öğrenci ol-duğ-u halde, profesör-e karşı kaba davran-dı.
++ 学生|がくせい|öğrenci
++ くせに|くせに|…dığı halde (kınama)
++ 教授|きょうじゅ|profesör
++ 対する|たいする|…e karşı|対し
++ 失礼|しつれい|kaba
++ 態度|たいど|tavır
++ 取る|とる|almak (tavır)|取っ
+90 この制度{せいど}は国籍{こくせき}（にかかわらず）利用{りよう}できる。
+= Bu sistem uyruk-a bakılmaksızın kullan-ıl-abil-ir.
++ 制度|せいど|sistem
++ 国籍|こくせき|uyruk
++ にかかわらず|にかかわらず|…e bakılmaksızın
++ 利用|りよう|kullanım
+91 その作品{さくひん}には、作者{さくしゃ}の平和{へいわ}への願{ねが}い（が込{こ}められているの）が感{かん}じられる。
+= O eser-de, yazar-ın barış-a dair dilek-ler-i-nin kat-ıl-mış ol-duğ-u hissed-il-iyor.
++ 作品|さくひん|eser
++ 作者|さくしゃ|yazar, yaratıcı
++ 平和|へいわ|barış
++ 願い|ねがい|dilek
++ 込める|こめる|katmak (duygu)|込められ
++ 感じる|かんじる|hissetmek|感じられる
+92 今日{きょう}は仕事{しごと}が多{おお}すぎて、疲{つか}れて（たまらない）。
+= Bugün iş çok fazla, yorgunluk-tan dur-a-mı-yor-um.
++ 今日|きょう|bugün
++ 多い|おおい|çok|多
++ 疲れる|つかれる|yorulmak|疲れ
++ てたまらない|てたまらない|dayanılmaz derecede …|たまらない
+93 彼{かれ}は若{わか}い（わりに）、非常{ひじょう}に落{お}ち着{つ}いている。
+= O genç ol-ma-sı-na göre, son derece sakin.
++ 若い|わかい|genç
++ わりに|わりに|…e göre
++ 非常に|ひじょうに|son derece
++ 落ち着く|おちつく|sakin olmak|落ち着い
+94 この地域{ちいき}の調査{ちょうさ}は東京{とうきょう}（を中心{ちゅうしん}に）全国{ぜんこく}の都市{とし}で行{おこな}われた。
+= Bu bölge araştırma-sı Tokyo merkezli olarak ülke genelinde-ki şehir-ler-de yap-ıl-dı.
++ 地域|ちいき|bölge
++ 調査|ちょうさ|araştırma
++ 東京|とうきょう|Tokyo
++ を中心に|をちゅうしんに|…merkezli|中心に
++ 全国|ぜんこく|bütün ülke
++ 都市|とし|şehir
++ 行う|おこなう|yapmak|行われ
+95 その研究{けんきゅう}は、日本{にほん}のみ（ならず）東{ひがし}アジア全体{ぜんたい}の政治思想{せいじしそう}を扱{あつか}っている。
+= O araştırma, sadece Japonya-nın değil bütün Doğu Asya-nın siyasi düşünce-si-ni ele alı-yor.
++ 日本|にほん|Japonya
++ のみならず|のみならず|sadece …değil|ならず
++ 東|ひがし|doğu
++ 全体|ぜんたい|bütün
++ 思想|しそう|düşünce
++ 扱う|あつかう|ele almak|扱っ
+96 彼{かれ}は何度{なんど}失敗{しっぱい}しても、研究{けんきゅう}を諦{あきら}める（ものか）と言{い}っている。
+= O kaç kez başarısız ol-sa da, araştırma-dan asla vazgeç-me-m di-yor.
++ 何度|なんど|kaç kez
++ 失敗|しっぱい|başarısızlık
++ 諦める|あきらめる|vazgeçmek
++ 言う|いう|söylemek|言っ
+97 この研究{けんきゅう}を完成{かんせい}させる（にあたって）、さらに資料{しりょう}を収集{しゅうしゅう}する必要{ひつよう}がある。
+= Bu araştırma-yı tamamla-r-ken, daha fazla belge topla-mak gerek.
++ 完成|かんせい|tamamlama
++ にあたって|にあたって|…ırken, …aşamasında
++ 収集|しゅうしゅう|toplama
++ 必要|ひつよう|gerekli
+98 彼女{かのじょ}は卒業後{そつぎょうご}、日本{にほん}で研究{けんきゅう}する（ことになった）。
+= O (kadın) mezuniyet-ten sonra, Japonya-da araştırma yap-acak (öyle karar-laş-tı).
++ 彼女|かのじょ|o (kadın)
++ 卒業|そつぎょう|mezuniyet
++ 後|ご|sonra|後
+99 自分{じぶん}で決{き}めた以上{いじょう}、最後{さいご}まで責任{せきにん}を持{も}って研究{けんきゅう}する（ことにした）。
+= Kendi-m karar ver-diğ-im-e göre, son-a kadar sorumluluk-la araştır-ma-ya karar ver-di-m.
++ 決める|きめる|karar vermek|決め
++ 以上|いじょう|…dığına göre
++ 最後|さいご|son
+100 長年{ながねん}の研究{けんきゅう}（の末{すえ}に）、彼{かれ}はついに新{あたら}しい資料{しりょう}を発見{はっけん}した。
+= Uzun yıl-lar-ın araştırma-sı-nın sonu-nda, o nihayet yeni belge-ler keşfet-ti.
++ 長年|ながねん|uzun yıllar
++ 末に|すえに|…sonunda|末に
++ 新しい|あたらしい|yeni
++ 発見|はっけん|keşif

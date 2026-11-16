@@ -1,0 +1,158 @@
+// 練習問題：～にわたって・～を中心に・～を通じて (練習.pdf s.118–120)
+@ gp29 2年文法 29 | にわたって・を中心に・を通じて
+1 この調査{ちょうさ}は、5年間{ねんかん}（にわたって）行{おこな}われた。
+= Bu araştırma, 5 yıl boyunca yap-ıl-dı.
++ 調査|ちょうさ|araştırma, inceleme
++ 年間|ねんかん|… yıl (süresince)
++ にわたって|にわたって|… boyunca, …e yayılarak
++ 行う|おこなう|yapmak|行われ
+2 今回{こんかい}の研究{けんきゅう}では、若者{わかもの}（を中心{ちゅうしん}に）アンケートを実施{じっし}した。
+= Bu sefer-ki araştırma-da, genç-ler ağırlıklı anket uygula-dı-k.
++ 今回|こんかい|bu sefer
++ 研究|けんきゅう|araştırma
++ 若者|わかもの|genç
++ を中心に|をちゅうしんに|…ağırlıklı, …merkezli|中心に
++ 実施|じっし|uygulama
+3 インターネット（を通{つう}じて）世界中{せかいじゅう}の情報{じょうほう}を簡単{かんたん}に得{え}ることができる。
+= İnternet aracılığı-yla bütün dünya-dan bilgi-yi kolay-ca edin-ebil-ir-iz.
++ を通じて|をつうじて|…aracılığıyla; … boyunca|通じて
++ 世界中|せかいじゅう|bütün dünya
++ 情報|じょうほう|bilgi
++ 簡単|かんたん|kolay
++ 得る|える|edinmek
+4 大雨{おおあめ}の影響{えいきょう}は、東日本{ひがしにほん}の広{ひろ}い地域{ちいき}（にわたって）及{およ}んだ。
+= Şiddetli yağmur-un etki-si, Doğu Japonya-nın geniş bir bölge-si-ne yayıl-dı.
++ 大雨|おおあめ|şiddetli yağmur
++ 影響|えいきょう|etki
++ 東日本|ひがしにほん|Doğu Japonya
++ 広い|ひろい|geniş
++ 地域|ちいき|bölge
++ 及ぶ|およぶ|ulaşmak, yayılmak|及ん
+5 この講演会{こうえんかい}では、日本近代史{にほんきんだいし}（を中心{ちゅうしん}に）さまざまな問題{もんだい}について議論{ぎろん}した。
+= Bu konferans-ta, Japon modern tarih-i merkezli çeşitli sorun-lar tartış-ıl-dı.
++ 講演会|こうえんかい|konferans
++ 近代史|きんだいし|modern tarih
++ 問題|もんだい|sorun
++ 議論|ぎろん|tartışma
+6 留学生活{りゅうがくせいかつ}（を通{つう}じて）、日本{にほん}の文化{ぶんか}について深{ふか}く理解{りかい}するようになった。
+= Yurt dışı öğrenim yaşam-ı boyunca, Japon kültür-ü-nü derin-den anla-r ol-du-m.
++ 留学|りゅうがく|yurt dışında öğrenim
++ 生活|せいかつ|yaşam
++ 日本|にほん|Japonya
++ 文化|ぶんか|kültür
++ 深い|ふかい|derin|深く
++ 理解|りかい|anlama
+7 この地域{ちいき}では、3日間{みっかかん}（にわたって）強{つよ}い雨{あめ}が降{ふ}り続{つづ}いた。
+= Bu bölge-de, 3 gün boyunca şiddetli yağmur yağ-ma-ya devam et-ti.
++ 日間|かかん|… gün (süresince)|日間
++ 強い|つよい|güçlü, şiddetli
++ 雨|あめ|yağmur
++ 降り続く|ふりつづく|yağmaya devam etmek|降り続い
+8 東京{とうきょう}（を中心{ちゅうしん}に）大規模{だいきぼ}な国際会議{こくさいかいぎ}が開催{かいさい}された。
+= Tokyo merkezli büyük ölçek-li bir uluslararası konferans düzenle-n-di.
++ 東京|とうきょう|Tokyo
++ 大規模|だいきぼ|büyük ölçekli
++ 国際|こくさい|uluslararası
++ 会議|かいぎ|konferans, toplantı
++ 開催|かいさい|düzenleme
+9 先生{せんせい}の紹介{しょうかい}（を通{つう}じて）、その研究者{けんきゅうしゃ}と知{し}り合{あ}うことができた。
+= Hoca-m-ın tanıştır-ma-sı aracılığı-yla, o araştırmacı-yla tanış-abil-di-m.
++ 先生|せんせい|öğretmen, hoca
++ 紹介|しょうかい|tanıştırma
++ 研究者|けんきゅうしゃ|araştırmacı
++ 知り合う|しりあう|tanışmak
+10 このプロジェクトは、全国{ぜんこく}の大学{だいがく}（を中心{ちゅうしん}に）実施{じっし}された。
+= Bu proje, ülke genelinde-ki üniversite-ler merkezli yürüt-ül-dü.
++ 全国|ぜんこく|bütün ülke
++ 大学|だいがく|üniversite
+11 その台風{たいふう}による被害{ひがい}は、九州全域{きゅうしゅうぜんいき}（にわたって）広{ひろ}がった。
+= O tayfun-un yol aç-tığ-ı hasar, Kyūshū-nun bütün-ü-ne yayıl-dı.
++ 台風|たいふう|tayfun
++ 被害|ひがい|hasar
++ 九州|きゅうしゅう|Kyūshū
++ 全域|ぜんいき|bütün bölge
++ 広がる|ひろがる|yayılmak|広がっ
+12 このイベントは、大学生{だいがくせい}（を中心{ちゅうしん}に）若{わか}い世代{せだい}に人気{にんき}がある。
+= Bu etkinlik, üniversite öğrenci-ler-i başta olmak üzere genç kuşak arasında popüler.
++ 大学生|だいがくせい|üniversite öğrencisi
++ 若い|わかい|genç
++ 世代|せだい|kuşak
++ 人気|にんき|popülerlik
+13 SNS（を通{つう}じて）海外{かいがい}の研究者{けんきゅうしゃ}とも簡単{かんたん}に情報交換{じょうほうこうかん}ができるようになった。
+= Sosyal medya aracılığı-yla yurt dışı-ndaki araştırmacı-lar-la da kolay-ca bilgi alışveriş-i yap-ıl-abil-ir ol-du.
++ 海外|かいがい|yurt dışı
++ 交換|こうかん|alışveriş, değiş tokuş
+14 その研究者{けんきゅうしゃ}は、20年以上{ねんいじょう}（にわたって）日本{にほん}の近代史{きんだいし}を研究{けんきゅう}している。
+= O araştırmacı, 20 yıl-ı aşkın süre-dir Japonya-nın modern tarih-i-ni araştır-ıyor.
++ 年|ねん|yıl
++ 以上|いじょう|…den fazla
+15 この研究{けんきゅう}では、地方都市{ちほうとし}（を中心{ちゅうしん}に）地域社会{ちいきしゃかい}の変化{へんか}を分析{ぶんせき}した。
+= Bu araştırma-da, taşra şehir-ler-i merkezli yerel toplum-un değişim-i analiz ed-il-di.
++ 地方|ちほう|taşra
++ 都市|とし|şehir
++ 社会|しゃかい|toplum
++ 変化|へんか|değişim
++ 分析|ぶんせき|analiz
+16 ボランティア活動{かつどう}（を通{つう}じて）、さまざまな人{ひと}と出会{であ}い、多{おお}くのことを学{まな}んだ。
+= Gönüllü faaliyet-ler aracılığı-yla, çeşitli insan-lar-la tanış-ıp, çok şey öğren-di-m.
++ 活動|かつどう|faaliyet
++ 人|ひと|insan
++ 出会う|であう|karşılaşmak, tanışmak|出会い
++ 多く|おおく|çok
++ 学ぶ|まなぶ|öğrenmek|学ん
+17 その問題{もんだい}については、3回{かい}（にわたって）話{はな}し合{あ}いが行{おこな}われた。
+= O sorun hakkında, 3 kez-e yay-ıl-an görüşme-ler yap-ıl-dı.
++ 回|かい|… kez
++ 話し合い|はなしあい|görüşme
+18 この番組{ばんぐみ}は、子{こ}ども（を中心{ちゅうしん}に）家族全員{かぞくぜんいん}が楽{たの}しめる内容{ないよう}になっている。
+= Bu program, çocuk-lar başta olmak üzere bütün aile-nin keyif al-abil-eceğ-i bir içerik-te.
++ 番組|ばんぐみ|(TV) program
++ 子ども|こども|çocuk
++ 家族|かぞく|aile
++ 全員|ぜんいん|herkes, bütün üyeler
++ 楽しむ|たのしむ|keyif almak|楽しめる
++ 内容|ないよう|içerik
+19 大学{だいがく}のオンラインシステム（を通{つう}じて）学生{がくせい}に必要{ひつよう}な情報{じょうほう}を提供{ていきょう}している。
+= Üniversite-nin çevrim içi sistem-i aracılığı-yla öğrenci-ler-e gerekli bilgi-ler sağla-n-ıyor.
++ 学生|がくせい|öğrenci
++ 必要|ひつよう|gerekli
++ 提供|ていきょう|sağlama
+20 その研究{けんきゅう}では、江戸時代{えどじだい}から明治時代{めいじじだい}までの変化{へんか}（を中心{ちゅうしん}に）政治思想{せいじしそう}を考察{こうさつ}した。
+= O araştırma-da, Edo dönem-i-nden Meiji dönem-i-ne kadar-ki değişim merkezli siyasi düşünce incele-n-di.
++ 江戸時代|えどじだい|Edo dönemi
++ 明治時代|めいじじだい|Meiji dönemi
++ 政治|せいじ|siyaset
++ 思想|しそう|düşünce, ideoloji
++ 考察|こうさつ|inceleme, irdeleme
+21 この調査{ちょうさ}は、全国{ぜんこく}の大学生{だいがくせい}を対象{たいしょう}として、2年間{ねんかん}（にわたって）実施{じっし}された。
+= Bu araştırma, ülke genelinde-ki üniversite öğrenci-ler-i-ni hedef al-arak, 2 yıl boyunca yürüt-ül-dü.
++ 対象|たいしょう|hedef, kapsam
+22 本研究{ほんけんきゅう}では、新聞{しんぶん}や雑誌{ざっし}などの一次資料{いちじしりょう}（を通{つう}じて）、当時{とうじ}の社会{しゃかい}における女性観{じょせいかん}の変化{へんか}を検討{けんとう}する。
+= Bu araştırma-da, gazete ve dergi gibi birincil kaynak-lar aracılığı-yla, o dönem-in toplum-u-nda-ki kadın-a bakış-ın değişim-i incele-n-ir.
++ 本|ほん|bu, söz konusu
++ 新聞|しんぶん|gazete
++ 雑誌|ざっし|dergi
++ 一次資料|いちじしりょう|birincil kaynak
++ 当時|とうじ|o dönem
++ 女性観|じょせいかん|kadına bakış
++ 検討|けんとう|inceleme
+23 この地域{ちいき}では、高齢者{こうれいしゃ}（を中心{ちゅうしん}に）地域住民{ちいきじゅうみん}による文化活動{ぶんかかつどう}が盛{さか}んに行{おこな}われている。
+= Bu bölge-de, yaşlı-lar başta olmak üzere yöre sakin-ler-i tarafından kültürel faaliyet-ler canlı bir şekil-de yürüt-ül-üyor.
++ 高齢者|こうれいしゃ|yaşlı
++ 住民|じゅうみん|sakin
++ 盛ん|さかん|canlı, yaygın
+24 日本{にほん}での研究活動{けんきゅうかつどう}（を通{つう}じて）、異{こと}なる研究方法{けんきゅうほうほう}や考{かんが}え方{かた}に触{ふ}れる機会{きかい}を得{え}た。
+= Japonya-da-ki araştırma faaliyet-ler-im aracılığı-yla, farklı araştırma yöntem-ler-i ve düşünce tarz-lar-ı-yla tanış-ma fırsat-ı bul-du-m.
++ 異なる|ことなる|farklı olmak
++ 方法|ほうほう|yöntem
++ 考え方|かんがえかた|düşünce tarzı
++ 触れる|ふれる|temas etmek, tanışmak
++ 機会|きかい|fırsat
+25 この問題{もんだい}は一{ひと}つの大学{だいがく}だけに限{かぎ}られず、全国{ぜんこく}（にわたって）教育機関{きょういくきかん}に共通{きょうつう}する課題{かだい}として議論{ぎろん}されている。
+= Bu sorun tek bir üniversite-yle sınırlı kal-ma-yıp, bütün ülke-de eğitim kurum-lar-ı-nın ortak sorun-u olarak tartış-ıl-ıyor.
++ 一つ|ひとつ|bir (tane)
++ 限る|かぎる|sınırlamak|限られ
++ 教育|きょういく|eğitim
++ 機関|きかん|kurum
++ 共通|きょうつう|ortak
++ 課題|かだい|sorun, mesele

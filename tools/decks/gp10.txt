@@ -1,0 +1,162 @@
+// 練習問題：～とたん（に）・～しかない・～がち (練習.pdf s.41–44)
+@ gp10 2年文法 10 | とたん・しかない・がち
+1 駅{えき}に着{つ}いた（とたん）、電車{でんしゃ}がちょうど出発{しゅっぱつ}してしまった。
+= İstasyon-a var-dığ-ım an, tren tam da kalk-ıp git-ti.
++ 駅|えき|istasyon
++ 着く|つく|varmak|着い
++ とたん|とたん|…r …mez, tam …dığı anda
++ 電車|でんしゃ|tren
++ 出発|しゅっぱつ|hareket, kalkış
+2 この仕事{しごと}は今日中{きょうじゅう}に終{お}わらせる（しかない）。
+= Bu iş-i bugün için-de bitir-mek-ten başka çare yok.
++ 仕事|しごと|iş
++ 今日中|きょうじゅう|bugün içinde
++ 終わらせる|おわらせる|bitirmek
+3 最近{さいきん}、忙{いそが}しくて運動不足{うんどうぶそく}に（なりがち）だ。
+= Son zaman-lar-da, meşgul ol-up hareketsiz kal-ma-ya meyilli-yim.
++ 最近|さいきん|son zamanlarda
++ 忙しい|いそがしい|meşgul, yoğun|忙し
++ 運動不足|うんどうぶそく|hareketsizlik, egzersiz eksikliği
++ がち|がち|…meye meyilli, sık sık …en
+4 窓{まど}を開{あ}けた（とたん）、冷{つめ}たい風{かぜ}が部屋{へや}に入{はい}ってきた。
+= Pencere-yi aç-ar aç-maz, soğuk rüzgâr oda-ya gir-di.
++ 窓|まど|pencere
++ 開ける|あける|açmak|開け
++ 冷たい|つめたい|soğuk
++ 風|かぜ|rüzgâr
++ 部屋|へや|oda
++ 入る|はいる|girmek|入っ
+5 財布{さいふ}を家{いえ}に忘{わす}れてしまったので、今日{きょう}は友達{ともだち}に借{か}りる（しかない）。
+= Cüzdan-ı-mı ev-de unut-tuğ-um için, bugün arkadaş-ım-dan ödünç al-mak-tan başka çare yok.
++ 財布|さいふ|cüzdan
++ 家|いえ|ev
++ 忘れる|わすれる|unutmak|忘れ
++ 今日|きょう|bugün
++ 友達|ともだち|arkadaş
++ 借りる|かりる|ödünç almak
+6 一人暮{ひとりぐ}らしを始{はじ}めると、どうしても生活{せいかつ}が不規則{ふきそく}になり（がちだ）。
+= Tek başına yaşa-ma-ya başla-yınca, ister istemez yaşam düzensiz ol-ma-ya meyilli-dir.
++ 一人暮らし|ひとりぐらし|tek başına yaşama
++ 始める|はじめる|başlamak|始める
++ 生活|せいかつ|yaşam, hayat
++ 不規則|ふきそく|düzensiz
+7 彼{かれ}は大学{だいがく}を卒業{そつぎょう}した（とたん）、海外{かいがい}へ行{い}ってしまった。
+= O üniversite-den mezun ol-ur ol-maz, yurt dışı-na gid-iver-di.
++ 彼|かれ|o (erkek)
++ 大学|だいがく|üniversite
++ 卒業|そつぎょう|mezuniyet
++ 海外|かいがい|yurt dışı
++ 行く|いく|gitmek|行っ
+8 この店{みせ}には水{みず}とパン（しか）残{のこ}っていない。
+= Bu dükkân-da su ve ekmek-ten başka bir şey kal-ma-dı.
++ 店|みせ|dükkân, mağaza
++ 水|みず|su
++ 残る|のこる|kalmak|残っ
+9 最近{さいきん}、彼女{かのじょ}は仕事{しごと}を休{やす}み（がち）なので、少{すこ}し心配{しんぱい}している。
+= Son zaman-lar-da, o (kadın) sık sık iş-e gel-me-diğ-i için, biraz endişe-len-iyor-um.
++ 彼女|かのじょ|o (kadın)
++ 休む|やすむ|dinlenmek; (işe/okula) gelmemek|休み
++ 少し|すこし|biraz
++ 心配|しんぱい|endişe, kaygı
+10 これ以上{いじょう}待{ま}っても状況{じょうきょう}は変{か}わらないだろう。今{いま}はできることをする（しかない）。
+= Daha fazla bekle-sek de durum değiş-me-z herhâlde. Şimdi yap-abil-eceğ-imiz şey-i yap-mak-tan başka çare yok.
++ 以上|いじょう|…den fazla, daha
++ 待つ|まつ|beklemek|待っ
++ 状況|じょうきょう|durum
++ 変わる|かわる|değişmek|変わら
++ 今|いま|şimdi
+11 玄関{げんかん}のドアを開{あ}けた（とたん）、大{おお}きな犬{いぬ}が飛{と}び出{だ}してきた。
+= Giriş-in kapı-sı-nı aç-ar aç-maz, büyük bir köpek fırla-yıp çık-tı.
++ 玄関|げんかん|giriş, antre
++ 大きな|おおきな|büyük
++ 犬|いぬ|köpek
++ 飛び出す|とびだす|fırlamak, dışarı atılmak|飛び出し
+12 この問題{もんだい}を解決{かいけつ}するためには、もう一度{いちど}最初{さいしょ}からやり直{なお}す（しかない）。
+= Bu sorun-u çöz-mek için, bir kez daha baştan yeniden yap-mak-tan başka çare yok.
++ 問題|もんだい|sorun, problem
++ 解決|かいけつ|çözüm
++ 一度|いちど|bir kez
++ 最初|さいしょ|ilk, baş
++ やり直す|やりなおす|yeniden yapmak
+13 長時間{ちょうじかん}パソコンを使{つか}っていると、目{め}が疲{つか}れ（がち）になる。
+= Uzun süre bilgisayar kullan-ınca, göz-ler çabuk yorul-ur.
++ 長時間|ちょうじかん|uzun süre
++ 使う|つかう|kullanmak|使っ
++ 目|め|göz
++ 疲れる|つかれる|yorulmak|疲れ
+14 旅行{りょこう}から帰{かえ}ってきた（とたん）、また仕事{しごと}の電話{でんわ}がかかってきた。
+= Seyahat-ten dön-er dön-mez, yine iş telefon-u gel-di.
++ 旅行|りょこう|seyahat, gezi
++ 帰る|かえる|dönmek (eve)|帰っ
++ 電話|でんわ|telefon
+15 冷蔵庫{れいぞうこ}には卵{たまご}と牛乳{ぎゅうにゅう}（しか）ない。何{なに}か買{か}ってこよう。
+= Buzdolabı-nda yumurta ve süt-ten başka bir şey yok. Bir şey-ler al-ıp gel-eyim.
++ 冷蔵庫|れいぞうこ|buzdolabı
++ 卵|たまご|yumurta
++ 牛乳|ぎゅうにゅう|süt
++ 何か|なにか|bir şey
++ 買う|かう|satın almak|買っ
+16 最近{さいきん}、父{ちち}は体調{たいちょう}があまりよくなく、病院{びょういん}に行{い}き（がち）だ。
+= Son zaman-lar-da, baba-m-ın sağlık durum-u pek iyi değil, sık sık hastane-ye gid-iyor.
++ 父|ちち|(benim) babam
++ 体調|たいちょう|sağlık durumu, kondisyon
++ 病院|びょういん|hastane
+17 彼{かれ}は会社{かいしゃ}を辞{や}めた（とたん）、急{きゅう}に海外{かいがい}へ引{ひ}っ越{こ}した。
+= O şirket-ten ayrıl-ır ayrıl-maz, birden yurt dışı-na taşın-dı.
++ 会社|かいしゃ|şirket
++ 辞める|やめる|(işten) ayrılmak, bırakmak|辞め
++ 急に|きゅうに|aniden, birden
++ 引っ越す|ひっこす|taşınmak|引っ越し
+18 もう終電{しゅうでん}が出{で}てしまったので、タクシーで帰{かえ}る（しかない）。
+= Son tren artık git-tiğ-i için, taksi-yle dön-mek-ten başka çare yok.
++ 終電|しゅうでん|son tren
++ 出る|でる|çıkmak; (tren) kalkmak|出
+19 仕事{しごと}が忙{いそが}しい時期{じき}は、どうしても家族{かぞく}との時間{じかん}が少{すく}なくなり（がちだ）。
+= İş-in yoğun ol-duğ-u dönem-ler-de, ister istemez aile-yle geçen zaman azal-ma-ya meyilli-dir.
++ 時期|じき|dönem, zaman
++ 家族|かぞく|aile
++ 時間|じかん|zaman, süre
++ 少ない|すくない|az|少な
+20 そのニュースを聞{き}いた（とたん）、彼{かれ}は急{きゅう}に立{た}ち上{あ}がって部屋{へや}を出{で}ていった。
+= O haber-i duy-ar duy-maz, o birden ayağa kalk-ıp oda-dan çık-ıp git-ti.
++ 聞く|きく|duymak, dinlemek|聞い
++ 立ち上がる|たちあがる|ayağa kalkmak|立ち上がっ
+21 最近{さいきん}はオンラインで何{なん}でもできるようになったが、人{ひと}と直接{ちょくせつ}会{あ}って話{はな}す機会{きかい}は減{へ}り（がちだ）。
+= Son zaman-lar-da çevrim içi her şey yap-ıl-abil-ir ol-du ama, insan-lar-la doğrudan buluş-up konuş-ma fırsat-ı azal-ma-ya meyilli.
++ 人|ひと|insan, kişi
++ 直接|ちょくせつ|doğrudan
++ 会う|あう|buluşmak, görüşmek|会っ
++ 話す|はなす|konuşmak|話す
++ 機会|きかい|fırsat
++ 減る|へる|azalmak|減り
+22 「明日{あした}の会議{かいぎ}、予定{よてい}どおり行{おこな}われるかな。」「まだ正式{せいしき}な連絡{れんらく}がないから、今{いま}は担当者{たんとうしゃ}からの連絡{れんらく}を待{ま}つ（しかない）ね。」
+= “Yarın-ki toplantı, plan-a uygun yap-ıl-acak mı acaba?” “Henüz resmî bir haber yok, şimdi sorumlu kişi-den haber bekle-mek-ten başka çare yok.”
++ 明日|あした|yarın
++ 会議|かいぎ|toplantı
++ 予定|よてい|plan, program
++ 行う|おこなう|yapmak, düzenlemek|行われる
++ 正式|せいしき|resmî
++ 連絡|れんらく|haber, iletişim
++ 担当者|たんとうしゃ|sorumlu kişi, yetkili
+23 忙{いそが}しい毎日{まいにち}が続{つづ}くと、食事{しょくじ}の時間{じかん}が不規則{ふきそく}になり、野菜{やさい}も不足{ふそく}し（がちだ）。しかし、健康{けんこう}のためには、できるだけバランスのよい食事{しょくじ}を取{と}ることが大切{たいせつ}だ。
+= Yoğun gün-ler sür-ünce, yemek saat-ler-i düzensiz ol-ur, sebze de eksik kal-ma-ya meyilli-dir. Ama, sağlık için, mümkün olduğunca dengeli yemek ye-mek önemli-dir.
++ 毎日|まいにち|her gün
++ 続く|つづく|sürmek, devam etmek
++ 食事|しょくじ|yemek
++ 野菜|やさい|sebze
++ 不足|ふそく|eksiklik, yetersizlik
++ 健康|けんこう|sağlık
++ 取る|とる|almak|取る
++ 大切|たいせつ|önemli
+24 「昨日{きのう}、どうしてあんなに早{はや}く帰{かえ}ったの？」「仕事{しごと}が終{お}わって会社{かいしゃ}を出{で}た（とたん）、急{きゅう}に熱{ねつ}が出{で}てきたんだ。」
+= “Dün, neden o kadar erken dön-dü-n?” “İş bit-ip şirket-ten çık-ar çık-maz, birden ateş-im çık-tı.”
++ 昨日|きのう|dün
++ 早い|はやい|erken|早
++ 終わる|おわる|bitmek|終わっ
++ 熱|ねつ|ateş (vücut)
+25 「このままでは締{し}め切{き}りに間{ま}に合{あ}わないよ。」「そうだね。時間{じかん}もないし、今日{きょう}は徹夜{てつや}してでも完成{かんせい}させる（しかない）。」
+= “Böyle gid-er-se son tarih-e yetiş-e-me-yeceğ-iz.” “Evet. Zaman da yok, bugün sabah-a kadar uyu-ma-dan bile tamamla-mak-tan başka çare yok.”
++ 締め切り|しめきり|son teslim tarihi
++ 間に合う|まにあう|yetişmek|間に合わ
++ 徹夜|てつや|sabahlama, gece hiç uyumama
++ 完成|かんせい|tamamlama

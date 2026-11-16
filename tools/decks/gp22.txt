@@ -1,0 +1,174 @@
+// 練習問題：～もの・～ものがある・～際（に） (練習.pdf s.90–93)
+@ gp22 2年文法 22 | もの・ものがある・際に
+1 「どうして昨日{きのう}の集{あつ}まりに来{こ}なかったの？」「仕事{しごと}が終{お}わらなかったんだ（もの）。」
+= “Dün-kü toplantı-ya neden gel-me-di-n?” “Çünkü iş-im bit-me-di ki.”
++ 昨日|きのう|dün
++ 集まり|あつまり|toplantı, buluşma
++ 来る|くる|gelmek|来
++ 仕事|しごと|iş
++ 終わる|おわる|bitmek|終わら
++ もの|もの|çünkü …ki (gerekçe, konuşma dili)
+2 この研究{けんきゅう}には、これまでとは異{こと}なる視点{してん}を提示{ていじ}する（もの）がある。
+= Bu araştırma-da, şimdiye kadar-ki-ler-den farklı bir bakış açı-sı sun-an bir yan var.
++ 研究|けんきゅう|araştırma
++ 異なる|ことなる|farklı olmak
++ 視点|してん|bakış açısı
++ 提示|ていじ|sunma, ortaya koyma
++ ものがある|ものがある|…bir yanı var, gerçekten …|もの
+3 図書館{としょかん}を利用{りよう}する（際{さい}）は、学生証{がくせいしょう}を提示{ていじ}してください。
+= Kütüphane-yi kullan-ır-ken, öğrenci kimliğ-i-ni göster-in lütfen.
++ 図書館|としょかん|kütüphane
++ 利用|りよう|kullanım
++ 際|さい|…ırken, …dığında (resmî)
++ 学生証|がくせいしょう|öğrenci kimliği
+4 彼女{かのじょ}の作品{さくひん}には、読{よ}む人{ひと}の心{こころ}を強{つよ}く引{ひ}きつける（もの）がある。
+= O-nun eser-ler-i-nde, oku-yan-ın yüreğ-i-ni güçlü bir şekilde çek-en bir şey var.
++ 彼女|かのじょ|o (kadın)
++ 作品|さくひん|eser
++ 読む|よむ|okumak
++ 心|こころ|kalp, gönül
++ 強い|つよい|güçlü|強く
++ 引きつける|ひきつける|çekmek, cezbetmek
+5 「そんなに遅{おそ}くまで何{なに}をしていたの？」「明日{あした}の発表{はっぴょう}の準備{じゅんび}をしていたんだ（もの）。」
+= “O kadar geç saat-e kadar ne yapı-yor-du-n?” “Çünkü yarın-ki sunum-un hazırlığ-ı-nı yapı-yor-du-m ki.”
++ 遅い|おそい|geç|遅く
++ 明日|あした|yarın
++ 発表|はっぴょう|sunum
++ 準備|じゅんび|hazırlık
+6 申請書{しんせいしょ}を提出{ていしゅつ}する（際{さい}に）、記入漏{きにゅうも}れがないか確認{かくにん}してください。
+= Başvuru form-u-nu teslim ed-er-ken, doldur-ul-ma-mış yer ol-up ol-ma-dığ-ı-nı kontrol ed-in lütfen.
++ 申請書|しんせいしょ|başvuru formu
++ 提出|ていしゅつ|teslim
++ 記入漏れ|きにゅうもれ|doldurulmamış yer, eksik bilgi
++ 確認|かくにん|kontrol
+7 この小説{しょうせつ}には、単{たん}なる恋愛小説{れんあいしょうせつ}では終{お}わらない深{ふか}さという（もの）がある。
+= Bu roman-da, sıradan bir aşk roman-ı-yla kal-ma-yan bir derinlik var.
++ 小説|しょうせつ|roman
++ 単なる|たんなる|sıradan, basit
++ 恋愛|れんあい|aşk
++ 深さ|ふかさ|derinlik
+8 「どうして彼{かれ}に何{なに}も言{い}わなかったの？」「本人{ほんにん}が困{こま}っているようには見{み}えなかったんだ（もの）。」
+= “O-na neden hiçbir şey söyle-me-di-n?” “Çünkü kendi-si zor durum-da gibi görün-mü-yor-du ki.”
++ 彼|かれ|o (erkek)
++ 言う|いう|söylemek|言わ
++ 本人|ほんにん|kişinin kendisi
++ 困る|こまる|zor durumda kalmak|困っ
++ 見える|みえる|görünmek|見え
+9 日本{にほん}で調査{ちょうさ}を行{おこな}う（際{さい}）は、事前{じぜん}に研究機関{けんきゅうきかん}へ連絡{れんらく}しておく必要{ひつよう}がある。
+= Japonya-da araştırma yap-ar-ken, önceden araştırma kurum-u-na haber ver-mek gerek.
++ 日本|にほん|Japonya
++ 調査|ちょうさ|araştırma, inceleme
++ 行う|おこなう|yapmak
++ 事前|じぜん|önceden
++ 機関|きかん|kurum, kuruluş
++ 連絡|れんらく|haber
++ 必要|ひつよう|gerekli
+10 この歴史的資料{れきしてきしりょう}には、当時{とうじ}の社会状況{しゃかいじょうきょう}を理解{りかい}するうえで重要{じゅうよう}な（もの）がある。
+= Bu tarihî belge-de, o dönem-in toplumsal durum-u-nu anla-mak açı-sın-dan önemli bir şey var.
++ 歴史的|れきしてき|tarihî
++ 資料|しりょう|belge
++ 当時|とうじ|o zaman, o dönem
++ 社会|しゃかい|toplum
++ 状況|じょうきょう|durum
++ 理解|りかい|anlama
++ 重要|じゅうよう|önemli
+11 「どうして約束{やくそく}の時間{じかん}に遅{おく}れたの？」「電車{でんしゃ}が急{きゅう}に止{と}まったんだ（もの）。」
+= “Randevu saat-i-ne neden geç kal-dı-n?” “Çünkü tren aniden dur-du ki.”
++ 約束|やくそく|randevu, söz
++ 時間|じかん|saat
++ 遅れる|おくれる|geç kalmak|遅れ
++ 電車|でんしゃ|tren
++ 急に|きゅうに|aniden
++ 止まる|とまる|durmak|止まっ
+12 この作家{さっか}の作品{さくひん}には、時代{じだい}を超{こ}えて読者{どくしゃ}を魅了{みりょう}する（ものがある）。
+= Bu yazar-ın eser-ler-i-nde, çağ-lar-ı aş-arak okur-lar-ı büyüle-yen bir şey var.
++ 作家|さっか|yazar
++ 時代|じだい|çağ, dönem
++ 超える|こえる|aşmak|超え
++ 読者|どくしゃ|okur
++ 魅了|みりょう|büyüleme
+13 資料{しりょう}を閲覧{えつらん}する（際{さい}に）は、係員{かかりいん}の指示{しじ}に従{したが}ってください。
+= Belge-ler-i incele-r-ken, görevli-nin talimat-lar-ı-na uy-un lütfen.
++ 閲覧|えつらん|okuma, inceleme (belge)
++ 係員|かかりいん|görevli
++ 指示|しじ|talimat
++ 従う|したがう|uymak|従っ
+14 「どうしてそんなに早{はや}く帰{かえ}るの？」「明日{あした}の朝{あさ}が早{はや}いんだ（もの）。」
+= “Neden o kadar erken dön-üyor-sun?” “Çünkü yarın sabah erken kalk-acağ-ım ki.”
++ 早い|はやい|erken|早
++ 帰る|かえる|dönmek
++ 朝|あさ|sabah
+15 この写真{しゃしん}には、当時{とうじ}の人々{ひとびと}の生活{せいかつ}を身近{みぢか}に感{かん}じさせる（ものがある）。
+= Bu fotoğraf-ta, o dönem-in insan-lar-ı-nın yaşam-ı-nı yakın-dan hisset-tir-en bir şey var.
++ 写真|しゃしん|fotoğraf
++ 人々|ひとびと|insanlar
++ 生活|せいかつ|yaşam
++ 身近|みぢか|yakın, tanıdık
++ 感じる|かんじる|hissetmek|感じさせる
+16 研究発表{けんきゅうはっぴょう}を行{おこな}う（際{さい}に）、専門用語{せんもんようご}の意味{いみ}を事前{じぜん}に確認{かくにん}しておいたほうがよい。
+= Araştırma sunum-u yap-ar-ken, teknik terim-ler-in anlam-ı-nı önceden kontrol et-mek iyi ol-ur.
++ 専門用語|せんもんようご|teknik terim
++ 意味|いみ|anlam
+17 彼{かれ}の説明{せつめい}には、聞{き}いている人{ひと}を納得{なっとく}させる（ものがある）。
+= O-nun açıklama-sı-nda, dinleyen-ler-i ikna ed-en bir şey var.
++ 説明|せつめい|açıklama
++ 聞く|きく|dinlemek|聞い
++ 人|ひと|kişi
++ 納得|なっとく|ikna olma
+18 「どうしてそんな大変{たいへん}な仕事{しごと}を引{ひ}き受{う}けたの？」「困{こま}っている友人{ゆうじん}を放{ほう}っておけなかったんだ（もの）。」
+= “Neden o kadar zor bir iş-i üstlen-di-n?” “Çünkü zor durum-da-ki arkadaş-ım-ı kendi hal-i-ne bırak-a-ma-dı-m ki.”
++ 大変|たいへん|zor, zahmetli
++ 引き受ける|ひきうける|üstlenmek|引き受け
++ 友人|ゆうじん|arkadaş
++ 放っておく|ほうっておく|kendi haline bırakmak|放っておけ
+19 海外{かいがい}へ出発{しゅっぱつ}する（際{さい}）は、もう一度{いちど}持{も}ち物{もの}を確認{かくにん}しておこう。
+= Yurt dışı-na yola çık-ar-ken, bir kez daha eşya-lar-ı kontrol ed-elim.
++ 海外|かいがい|yurt dışı
++ 出発|しゅっぱつ|yola çıkma
++ 一度|いちど|bir kez
++ 持ち物|もちもの|eşya
+20 この研究方法{けんきゅうほうほう}には、今後{こんご}さらに検討{けんとう}する価値{かち}があると感{かん}じさせる（ものがある）。
+= Bu araştırma yöntem-i-nde, bundan sonra daha da incele-n-me-ye değer ol-duğ-u-nu hisset-tir-en bir şey var.
++ 方法|ほうほう|yöntem
++ 今後|こんご|bundan sonra
++ 検討|けんとう|inceleme
++ 価値|かち|değer
+21 「どうして誰{だれ}にも相談{そうだん}しなかったの？」「周{まわ}りに迷惑{めいわく}をかけたくなかったんだ（もの）。」
+= “Neden kimse-ye danış-ma-dı-n?” “Çünkü etraf-ım-dakiler-e zahmet ver-mek iste-me-di-m ki.”
++ 誰|だれ|kim
++ 相談|そうだん|danışma
++ 周り|まわり|çevre, etraf
++ 迷惑|めいわく|zahmet, rahatsızlık
+22 この映画{えいが}には、単{たん}に過去{かこ}の出来事{できごと}を描{えが}いているだけではなく、現在{げんざい}の社会{しゃかい}についても考{かんが}えさせる（ものがある）。
+= Bu film-de, sadece geçmiş-teki olay-lar-ı anlat-mak değil, günümüz toplum-u hakkında da düşün-dür-en bir şey var.
++ 映画|えいが|film
++ 単に|たんに|sadece
++ 過去|かこ|geçmiş
++ 出来事|できごと|olay
++ 描く|えがく|betimlemek, anlatmak|描い
++ 現在|げんざい|şimdi, günümüz
++ 考える|かんがえる|düşünmek|考えさせる
+23 研究資料{けんきゅうしりょう}を外部{がいぶ}に持{も}ち出{だ}す（際{さい}に）は、必{かなら}ず担当者{たんとうしゃ}の許可{きょか}を得{え}る必要{ひつよう}がある。
+= Araştırma belge-ler-i-ni dışarı çıkar-ır-ken, mutlaka sorumlu kişi-nin izn-i-ni al-mak gerek.
++ 外部|がいぶ|dışarı, dış
++ 持ち出す|もちだす|dışarı çıkarmak
++ 必ず|かならず|mutlaka
++ 担当者|たんとうしゃ|sorumlu kişi
++ 許可|きょか|izin
++ 得る|える|almak, elde etmek
+24 「日本語{にほんご}が上手{じょうず}ですね」と言{い}われると、うれしい反面{はんめん}、まだ勉強中{べんきょうちゅう}なんだ（もの）と思{おも}うこともある。
+= “Japonca-n çok iyi” de-n-ince, sevin-ir-im ama öte yandan, “çünkü hâlâ öğren-iyor-um ki” diye düşün-düğ-üm de ol-ur.
++ 日本語|にほんご|Japonca
++ 上手|じょうず|iyi, usta
++ 反面|はんめん|öte yandan
++ 勉強中|べんきょうちゅう|öğrenme aşamasında
++ 思う|おもう|düşünmek
+25 この研究{けんきゅう}は、従来{じゅうらい}の研究{けんきゅう}では十分{じゅうぶん}に扱{あつか}われてこなかった問題{もんだい}を取{と}り上{あ}げており、今後{こんご}の研究{けんきゅう}にも影響{えいきょう}を与{あた}える（ものがある）。
+= Bu araştırma, şimdiye kadar-ki araştırma-lar-da yeterince ele al-ın-ma-mış bir sorun-u ele al-ıyor ve bundan sonra-ki araştırma-lar-ı da etkile-yecek bir yan-ı var.
++ 従来|じゅうらい|şimdiye kadarki, geleneksel
++ 十分|じゅうぶん|yeterince
++ 扱う|あつかう|ele almak|扱われ
++ 問題|もんだい|sorun
++ 取り上げる|とりあげる|ele almak|取り上げ
++ 影響|えいきょう|etki
++ 与える|あたえる|vermek

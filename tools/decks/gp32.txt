@@ -1,0 +1,172 @@
+// 練習問題：～において・～とは・～ざるを得ない (練習.pdf s.127–130)
+@ gp32 2年文法 32 | において・とは・ざるを得ない
+1 日本{にほん}の近代史{きんだいし}（において）、明治維新{めいじいしん}は非常{ひじょう}に重要{じゅうよう}な出来事{できごと}である。
+= Japonya-nın modern tarih-i-nde, Meiji Restorasyon-u son derece önemli bir olay-dır.
++ 日本|にほん|Japonya
++ 近代史|きんだいし|modern tarih
++ において|において|…de, …alanında (resmî)
++ 明治維新|めいじいしん|Meiji Restorasyonu
++ 非常に|ひじょうに|son derece
++ 重要|じゅうよう|önemli
++ 出来事|できごと|olay
+2 「国体{こくたい}」（とは）、日本{にほん}の国家{こっか}の基本的{きほんてき}なあり方{かた}を表{あらわ}す概念{がいねん}である。
+= “Kokutai”, Japon devlet-i-nin temel yapı-sı-nı ifade ed-en bir kavram-dır.
++ 国体|こくたい|kokutai, ulusal yapı
++ とは|とは|… (ise/denen şey), …nedir (tanım)
++ 国家|こっか|devlet
++ 基本的|きほんてき|temel
++ あり方|ありかた|yapı, olması gereken biçim|方
++ 表す|あらわす|ifade etmek
++ 概念|がいねん|kavram
+3 予定{よてい}していた資料{しりょう}が利用{りよう}できなかったため、研究計画{けんきゅうけいかく}を変更{へんこう}せ（ざるを得{え}なかった）。
+= Planla-dığ-ım belge-ler kullan-ıl-a-ma-dığ-ı için, araştırma plan-ı-nı değiştir-mek zorunda kal-dı-m.
++ 予定|よてい|plan
++ 資料|しりょう|belge
++ 利用|りよう|kullanım
++ 研究|けんきゅう|araştırma
++ 計画|けいかく|plan
++ 変更|へんこう|değişiklik
++ ざるを得ない|ざるをえない|…mek zorunda kalmak|ざるを得
+4 教育{きょういく}（において）、学生{がくせい}と教師{きょうし}の信頼関係{しんらいかんけい}は重要{じゅうよう}である。
+= Eğitim-de, öğrenci ile öğretmen arasında-ki güven ilişki-si önemli-dir.
++ 教育|きょういく|eğitim
++ 学生|がくせい|öğrenci
++ 教師|きょうし|öğretmen
++ 信頼関係|しんらいかんけい|güven ilişkisi
+5 「近代化{きんだいか}」（とは）、単{たん}に外国{がいこく}の制度{せいど}を取{と}り入{い}れることではない。
+= “Modernleşme”, sadece yabancı ülke-ler-in sistem-ler-i-ni benimse-mek değil-dir.
++ 近代化|きんだいか|modernleşme
++ 単に|たんに|sadece
++ 外国|がいこく|yabancı ülke
++ 制度|せいど|sistem
++ 取り入れる|とりいれる|benimsemek, almak
+6 大雨{おおあめ}のため、予定{よてい}していた調査{ちょうさ}を中止{ちゅうし}せ（ざるを得{え}なかった）。
+= Şiddetli yağmur yüzün-den, planla-dığ-ımız araştırma-yı iptal et-mek zorunda kal-dı-k.
++ 大雨|おおあめ|şiddetli yağmur
++ 調査|ちょうさ|araştırma, saha çalışması
++ 中止|ちゅうし|iptal
+7 日本社会{にほんしゃかい}（における）家族{かぞく}の役割{やくわり}について研究{けんきゅう}している。
+= Japon toplum-u-nda-ki aile-nin rol-ü hakkında araştırma yap-ıyor-um.
++ 社会|しゃかい|toplum
++ における|における|…deki (isimden önce)
++ 家族|かぞく|aile
++ 役割|やくわり|rol
+8 「文化{ぶんか}」（とは）、具体的{ぐたいてき}には何{なに}を意味{いみ}するのだろうか。
+= “Kültür”, somut olarak ne anlam-a gel-ir acaba?
++ 文化|ぶんか|kültür
++ 具体的|ぐたいてき|somut
++ 意味|いみ|anlam
+9 重要{じゅうよう}な資料{しりょう}なので、時間{じかん}がかかっても最後{さいご}まで確認{かくにん}せ（ざるを得{え}ない）。
+= Önemli belge-ler ol-duğ-u için, zaman al-sa da son-a kadar kontrol et-mek zorunda-yım.
++ 時間|じかん|zaman
++ 最後|さいご|son
++ 確認|かくにん|kontrol
+10 国際関係{こくさいかんけい}（において）、歴史的背景{れきしてきはいけい}を理解{りかい}することが重要{じゅうよう}である。
+= Uluslararası ilişki-ler-de, tarihî arka plan-ı anla-mak önemli-dir.
++ 国際関係|こくさいかんけい|uluslararası ilişkiler
++ 歴史的|れきしてき|tarihî
++ 背景|はいけい|arka plan
++ 理解|りかい|anlama
+11 現代{げんだい}の日本社会{にほんしゃかい}（において）、少子高齢化{しょうしこうれいか}は重要{じゅうよう}な問題{もんだい}の一{ひと}つである。
+= Günümüz Japon toplum-u-nda, doğum oran-ı düşüş-ü ve toplum-un yaşlan-ma-sı önemli sorun-lar-dan biri-dir.
++ 現代|げんだい|günümüz
++ 少子高齢化|しょうしこうれいか|düşük doğum oranı ve yaşlanan nüfus
++ 問題|もんだい|sorun
++ 一つ|ひとつ|bir (tane)
+12 「ナショナリズム」（とは）、国家{こっか}や民族{みんぞく}への帰属意識{きぞくいしき}を重視{じゅうし}する考{かんが}え方{かた}である。
+= “Milliyetçilik”, devlet-e ve ulus-a aidiyet bilinc-i-ni önemse-yen bir düşünce tarz-ı-dır.
++ 民族|みんぞく|ulus, etnik grup
++ 帰属意識|きぞくいしき|aidiyet bilinci
++ 重視|じゅうし|önemseme
++ 考え方|かんがえかた|düşünce tarzı
+13 研究費{けんきゅうひ}が不足{ふそく}しているため、今年{ことし}は海外調査{かいがいちょうさ}を延期{えんき}せ（ざるを得{え}ない）。
+= Araştırma bütçe-si yetersiz ol-duğ-u için, bu yıl yurt dışı saha çalışma-sı-nı erte-le-mek zorunda-yım.
++ 研究費|けんきゅうひ|araştırma bütçesi
++ 不足|ふそく|yetersizlik
++ 今年|ことし|bu yıl
++ 海外|かいがい|yurt dışı
++ 延期|えんき|erteleme
+14 日本{にほん}の教育制度{きょういくせいど}（において）、戦後{せんご}に大{おお}きな変化{へんか}が見{み}られた。
+= Japonya-nın eğitim sistem-i-nde, savaş sonrası büyük değişim-ler görül-dü.
++ 戦後|せんご|savaş sonrası
++ 大きな|おおきな|büyük
++ 変化|へんか|değişim
++ 見る|みる|görmek|見られ
+15 「社会{しゃかい}」と（は）、人々{ひとびと}が共同生活{きょうどうせいかつ}を営{いとな}む集団{しゅうだん}を意味{いみ}する。
+= “Toplum”, insan-lar-ın ortak yaşam sür-dür-düğ-ü topluluk anlam-ı-na gel-ir.
++ 人々|ひとびと|insanlar
++ 共同生活|きょうどうせいかつ|ortak yaşam
++ 営む|いとなむ|sürdürmek, yürütmek
++ 集団|しゅうだん|grup, topluluk
+16 予想以上{よそういじょう}に多{おお}くの問題{もんだい}が見{み}つかったので、計画{けいかく}を見直{みなお}さ（ざるを得{え}ない）。
+= Beklenen-den fazla sorun bul-un-duğ-u için, plan-ı gözden geçir-mek zorunda-yız.
++ 予想|よそう|tahmin, beklenti
++ 以上|いじょう|…den fazla
++ 多く|おおく|çok
++ 見つかる|みつかる|bulunmak|見つかっ
++ 見直す|みなおす|gözden geçirmek|見直さ
+17 日本{にほん}の政治思想史{せいじしそうし}（において）、天皇{てんのう}の存在{そんざい}は重要{じゅうよう}な研究{けんきゅう}テーマである。
+= Japonya-nın siyasi düşünce tarih-i-nde, imparator-un varlığ-ı önemli bir araştırma konu-su-dur.
++ 政治|せいじ|siyaset
++ 思想史|しそうし|düşünce tarihi
++ 天皇|てんのう|(Japon) imparator
++ 存在|そんざい|varlık
+18 「国家{こっか}」（とは）、単{たん}なる政治的{せいじてき}な組織{そしき}ではなく、歴史{れきし}や文化{ぶんか}とも深{ふか}く関係{かんけい}している。
+= “Devlet”, sadece siyasi bir örgüt değil, tarih ve kültür-le de derin-den ilişki-li-dir.
++ 単なる|たんなる|sıradan, basit
++ 政治的|せいじてき|siyasi
++ 組織|そしき|örgüt, kuruluş
++ 歴史|れきし|tarih
++ 深い|ふかい|derin|深く
++ 関係|かんけい|ilişki
+19 予定{よてい}していた飛行機{ひこうき}が欠航{けっこう}になったため、別{べつ}の便{びん}を予約{よやく}せ（ざるを得{え}なかった）。
+= Planla-dığ-ım uçuş iptal ol-duğ-u için, başka bir uçuş-a rezervasyon yap-mak zorunda kal-dı-m.
++ 飛行機|ひこうき|uçak
++ 欠航|けっこう|(uçuş/sefer) iptali
++ 別|べつ|başka
++ 便|びん|sefer, uçuş
++ 予約|よやく|rezervasyon
+20 学術研究{がくじゅつけんきゅう}（において）、一次資料{いちじしりょう}を正確{せいかく}に読{よ}むことが非常{ひじょう}に重要{じゅうよう}である。
+= Akademik araştırma-da, birincil kaynak-lar-ı doğru oku-mak son derece önemli-dir.
++ 学術|がくじゅつ|akademik, bilim
++ 一次資料|いちじしりょう|birincil kaynak
++ 正確|せいかく|doğru, kesin
++ 読む|よむ|okumak
+21 資料{しりょう}の保存状態{ほぞんじょうたい}が悪{わる}く、内容{ないよう}を完全{かんぜん}に確認{かくにん}することができなかった。そのため、研究対象{けんきゅうたいしょう}を一部{いちぶ}変更{へんこう}せ（ざるを得{え}なかった）。
+= Belge-ler-in saklanma durum-u kötü-ydü ve içerik tamamen kontrol ed-il-e-me-di. Bu yüzden, araştırma konu-su-nun bir kısm-ı-nı değiştir-mek zorunda kal-dı-m.
++ 保存|ほぞん|saklama
++ 状態|じょうたい|durum
++ 悪い|わるい|kötü|悪く
++ 内容|ないよう|içerik
++ 完全|かんぜん|tam, eksiksiz
++ 対象|たいしょう|konu, hedef
++ 一部|いちぶ|bir kısım
+22 「国民国家{こくみんこっか}」（とは）、近代{きんだい}以降{いこう}に形成{けいせい}された政治的{せいじてき}・社会的{しゃかいてき}な枠組{わくぐ}みの一{ひと}つである。
+= “Ulus devlet”, modern çağ-dan sonra oluş-an siyasi ve toplumsal çerçeve-ler-den biri-dir.
++ 国民国家|こくみんこっか|ulus devlet
++ 近代|きんだい|modern çağ
++ 以降|いこう|…den sonra
++ 形成|けいせい|oluşum
++ 社会的|しゃかいてき|toplumsal
++ 枠組み|わくぐみ|çerçeve
+23 近代日本{きんだいにほん}の政治思想{せいじしそう}を理解{りかい}する（にあたって）、当時{とうじ}の社会状況{しゃかいじょうきょう}や国際情勢{こくさいじょうせい}も考慮{こうりょ}する必要{ひつよう}がある。
+= Modern Japonya-nın siyasi düşünce-si-ni anla-r-ken, o dönem-in toplumsal durum-u-nu ve uluslararası koşul-lar-ı da göz önüne al-mak gerek.
++ 思想|しそう|düşünce
++ にあたって|にあたって|…ırken, …aşamasında
++ 当時|とうじ|o dönem
++ 状況|じょうきょう|durum
++ 国際情勢|こくさいじょうせい|uluslararası durum
++ 考慮|こうりょ|göz önüne alma
++ 必要|ひつよう|gerekli
+24 本人{ほんにん}は研究{けんきゅう}を続{つづ}けたかったが、大学{だいがく}の規定{きてい}により、研究計画{けんきゅうけいかく}を変更{へんこう}せ（ざるを得{え}なかった）。
+= Kendi-si araştırma-yı sürdür-mek ist-iyor-du ama, üniversite-nin yönetmeliğ-i yüzün-den, araştırma plan-ı-nı değiştir-mek zorunda kal-dı.
++ 本人|ほんにん|kişinin kendisi
++ 続ける|つづける|sürdürmek|続け
++ 大学|だいがく|üniversite
++ 規定|きてい|yönetmelik, kural
+25 「近代化{きんだいか}」（とは）、西洋{せいよう}の制度{せいど}や文化{ぶんか}をそのまま受{う}け入{い}れることだと考{かんが}えるのは適切{てきせつ}ではない。
+= “Modernleşme”-yi, Batı-nın sistem ve kültür-ü-nü olduğu gibi kabul et-mek diye düşün-mek doğru değil.
++ 西洋|せいよう|Batı
++ 受け入れる|うけいれる|kabul etmek
++ 考える|かんがえる|düşünmek
++ 適切|てきせつ|uygun, yerinde

@@ -1,0 +1,153 @@
+// 練習問題：～ものを・～ところを・～をきっかけに (練習.pdf s.98–101)
+@ gp24 2年文法 24 | ものを・ところを・をきっかけに
+1 分{わ}からないことがあったら、先生{せんせい}に聞{き}けばいい（ものを）。
+= Anla-ma-dığ-ın bir şey var-sa, öğretmen-e sor-san ol-urdu ya (neden sormadın).
++ 分かる|わかる|anlamak|分から
++ 先生|せんせい|öğretmen
++ 聞く|きく|sormak|聞け
++ ものを|ものを|…sa olurdu ya (sitem, pişmanlık)
+2 海外留学{かいがいりゅうがく}（をきっかけに）、日本語{にほんご}を本格的{ほんかくてき}に勉強{べんきょう}するようになった。
+= Yurt dışı-nda öğrenim vesile-si-yle, Japonca-yı ciddi ciddi çalış-ma-ya başla-dı-m.
++ 海外|かいがい|yurt dışı
++ 留学|りゅうがく|yurt dışında öğrenim
++ をきっかけに|をきっかけに|…vesilesiyle, …den sonra başlayarak
++ 日本語|にほんご|Japonca
++ 本格的|ほんかくてき|ciddi, gerçek anlamda
++ 勉強|べんきょう|ders çalışma
+3 お忙{いそが}しい（ところを）、わざわざお時間{じかん}をいただき、ありがとうございます。
+= Meşgul ol-duğ-unuz halde, zahmet edip zaman ayır-dığ-ınız için teşekkür ed-er-im.
++ 忙しい|いそがしい|meşgul
++ ところを|ところを|…dığı halde/sırada (rahatsız ederek)
++ 時間|じかん|zaman
+4 もっと早{はや}く専門家{せんもんか}に相談{そうだん}すればよかった（ものを）。
+= Daha erken uzman-a danış-sa-m ol-urdu oysa.
++ 早い|はやい|erken|早く
++ 専門家|せんもんか|uzman
++ 相談|そうだん|danışma
+5 ある講演会{こうえんかい}への参加{さんか}（をきっかけに）、日本{にほん}の近代史{きんだいし}に関心{かんしん}を持{も}つようになった。
+= Bir konferans-a katıl-ma-m vesile-si-yle, Japonya-nın modern tarih-i-ne ilgi duy-ma-ya başla-dı-m.
++ 講演会|こうえんかい|konferans
++ 参加|さんか|katılma
++ 日本|にほん|Japonya
++ 近代史|きんだいし|modern tarih
++ 関心|かんしん|ilgi
++ 持つ|もつ|sahip olmak, duymak
+6 彼{かれ}は寝{ね}ている（ところを）、家族{かぞく}に起{お}こされてしまった。
+= O uyu-yor-ken, aile-si tarafından uyandır-ıl-dı.
++ 彼|かれ|o (erkek)
++ 寝る|ねる|uyumak|寝
++ 家族|かぞく|aile
++ 起こす|おこす|uyandırmak|起こされ
+7 そんなに困{こま}っていたなら、最初{さいしょ}から相談{そうだん}してくれればよかった（ものを）。
+= O kadar zor durum-da-ydı-y-san, baştan bana danış-sa-n ol-urdu ya.
++ 困る|こまる|zor durumda olmak|困っ
++ 最初|さいしょ|baş, ilk
+8 一冊{いっさつ}の本{ほん}との出会{であ}い（をきっかけに）、研究者{けんきゅうしゃ}を目指{めざ}すようになった。
+= Bir kitap-la karşılaş-ma-m vesile-si-yle, araştırmacı ol-ma-yı hedefle-me-ye başla-dı-m.
++ 一冊|いっさつ|bir cilt, bir kitap
++ 本|ほん|kitap
++ 出会い|であい|karşılaşma, tanışma
++ 研究者|けんきゅうしゃ|araştırmacı
++ 目指す|めざす|hedeflemek
+9 お急{いそ}ぎの（ところを）、長時間{ちょうじかん}お待{ま}たせしてしまい、申{もう}し訳{わけ}ありません。
+= Acele-niz var-ken, uzun süre bekle-t-tiğ-im için özür dile-r-im.
++ 急ぐ|いそぐ|acele etmek|急ぎ
++ 長時間|ちょうじかん|uzun süre
++ 待たせる|またせる|bekletmek|待たせ
++ 申し訳ない|もうしわけない|özür dilerim|申し訳
+10 彼女{かのじょ}はもう少{すこ}し慎重{しんちょう}に確認{かくにん}すればよかった（ものを）、十分{じゅうぶん}に確認{かくにん}しないまま提出{ていしゅつ}してしまった。
+= O (kadın) biraz daha dikkatli kontrol et-se ol-urdu oysa, yeterince kontrol et-me-den teslim ed-iver-di.
++ 彼女|かのじょ|o (kadın)
++ 少し|すこし|biraz
++ 慎重|しんちょう|dikkatli, temkinli
++ 確認|かくにん|kontrol
++ 十分|じゅうぶん|yeterince
++ 提出|ていしゅつ|teslim
+11 「そんなに悩{なや}んでいたなら、どうして早{はや}く相談{そうだん}しなかったの？」「本当{ほんとう}に、もっと早{はや}く話{はな}せばよかった（ものを）。」
+= “O kadar dertli-y-di-y-sen, neden erken danış-ma-dı-n?” “Gerçekten, daha erken konuş-sa-m ol-urdu.”
++ 悩む|なやむ|dertlenmek|悩ん
++ 本当|ほんとう|gerçek
++ 話す|はなす|konuşmak|話せ
+12 日本{にほん}への留学{りゅうがく}（をきっかけに）、日本文学{にほんぶんがく}に興味{きょうみ}を持{も}つようになった。
+= Japonya-ya öğrenim için git-me-m vesile-si-yle, Japon edebiyat-ı-na ilgi duy-ma-ya başla-dı-m.
++ 文学|ぶんがく|edebiyat
++ 興味|きょうみ|ilgi
+13 お忙{いそが}しい（ところを）、このような会議{かいぎ}にご出席{しゅっせき}いただき、ありがとうございます。
+= Meşgul ol-duğ-unuz halde, böyle bir toplantı-ya katıl-dığ-ınız için teşekkür ed-er-iz.
++ 会議|かいぎ|toplantı
++ 出席|しゅっせき|katılma
+14 彼{かれ}はもう少{すこ}し計画{けいかく}を立{た}ててから始{はじ}めればよかった（ものを）、何{なん}の準備{じゅんび}もせずに始{はじ}めてしまった。
+= O biraz daha plan yap-tık-tan sonra başla-sa ol-urdu oysa, hiçbir hazırlık yap-ma-dan başla-yıver-di.
++ 計画|けいかく|plan
++ 立てる|たてる|kurmak, yapmak (plan)|立て
++ 始める|はじめる|başlamak|始め
++ 準備|じゅんび|hazırlık
+15 ある研究者{けんきゅうしゃ}との出会{であ}い（をきっかけに）、現在{げんざい}の研究{けんきゅう}テーマに取{と}り組{く}むようになった。
+= Bir araştırmacı-yla tanış-ma-m vesile-si-yle, şimdi-ki araştırma konu-m üzerin-de çalış-ma-ya başla-dı-m.
++ 現在|げんざい|şimdiki, şu an
++ 研究|けんきゅう|araştırma
++ 取り組む|とりくむ|üzerinde çalışmak, uğraşmak
+16 帰宅{きたく}しようとしている（ところを）、突然{とつぜん}、上司{じょうし}から仕事{しごと}を頼{たの}まれた。
+= Eve dön-mek üzere-yken, aniden amir-im-den iş ist-en-di.
++ 帰宅|きたく|eve dönme
++ 突然|とつぜん|aniden
++ 上司|じょうし|amir, üst
++ 仕事|しごと|iş
++ 頼む|たのむ|rica etmek, istemek|頼まれ
+17 分{わ}からないなら、無理{むり}に自分{じぶん}で判断{はんだん}しないで聞{き}けばいい（ものを）。
+= Anla-mı-yor-san, zorla kendi başı-na karar ver-me-den sor-san ol-ur ya.
++ 無理|むり|zorla, zorlama
++ 自分|じぶん|kendi
++ 判断|はんだん|karar
+18 その事故{じこ}（をきっかけに）、会社{かいしゃ}は安全管理{あんぜんかんり}の方法{ほうほう}を大幅{おおはば}に見直{みなお}した。
+= O kaza vesile-si-yle, şirket güvenlik yönetim-i yöntem-ler-i-ni büyük ölçüde gözden geçir-di.
++ 事故|じこ|kaza
++ 会社|かいしゃ|şirket
++ 安全|あんぜん|güvenlik
++ 管理|かんり|yönetim
++ 方法|ほうほう|yöntem
++ 大幅|おおはば|büyük ölçüde
++ 見直す|みなおす|gözden geçirmek|見直し
+19 お休{やす}みの（ところを）失礼{しつれい}いたします。少{すこ}し確認{かくにん}したいことがございます。
+= Dinlen-iyor-ken rahatsız ed-iyor-um. Biraz kontrol et-mek iste-diğ-im bir şey var.
++ 休み|やすみ|dinlenme, tatil
++ 失礼|しつれい|rahatsız etme, kabalık
+20 彼女{かのじょ}はもっと早{はや}く病院{びょういん}へ行{い}けばよかった（ものを）、我慢{がまん}して仕事{しごと}を続{つづ}けていた。
+= O (kadın) daha erken hastane-ye git-se ol-urdu oysa, katlan-ıp iş-i-ni sürdür-üyor-du.
++ 病院|びょういん|hastane
++ 行く|いく|gitmek|行け
++ 我慢|がまん|katlanma, sabretme
++ 続ける|つづける|sürdürmek|続け
+21 研究者{けんきゅうしゃ}との交流{こうりゅう}（をきっかけに）、それまで関心{かんしん}のなかった社会史{しゃかいし}についても研究{けんきゅう}してみたいと思{おも}うようになった。
+= Araştırmacı-lar-la etkileşim vesile-si-yle, o zamana kadar ilgi-m ol-ma-yan sosyal tarih-i de araştır-ıp gör-mek iste-me-ye başla-dı-m.
++ 交流|こうりゅう|etkileşim, alışveriş
++ 社会史|しゃかいし|sosyal tarih
++ 思う|おもう|düşünmek|思う
+22 「忙{いそが}しいなら、最初{さいしょ}から断{ことわ}ればよかった（ものを）、無理{むり}に引{ひ}き受{う}けてしまった。」
+= “Meşgul-sen, baştan reddet-se-n ol-urdu oysa, zorla üstlen-iver-di-n.”
++ 断る|ことわる|reddetmek|断れ
++ 引き受ける|ひきうける|üstlenmek|引き受け
+23 発表{はっぴょう}の準備{じゅんび}をしている（ところ）を、突然{とつぜん}、別{べつ}の仕事{しごと}を頼{たの}まれてしまい、予定{よてい}を変更{へんこう}せざるを得{え}なかった。
+= Sunum hazırlığ-ı-nı yap-ıyor-ken, aniden başka bir iş ist-en-di ve plan-ı-mı değiştir-mek zorunda kal-dı-m.
++ 発表|はっぴょう|sunum
++ 別|べつ|başka
++ 予定|よてい|plan
++ 変更|へんこう|değişiklik
++ ざるを得ない|ざるをえない|…mek zorunda kalmak|ざるを得
+24 一人{ひとり}の学生{がくせい}から寄{よ}せられた質問{しつもん}（をきっかけに）、授業全体{じゅぎょうぜんたい}でその問題{もんだい}について議論{ぎろん}することになった。
+= Bir öğrenci-den gel-en soru vesile-si-yle, bütün sınıf o sorun hakkında tartış-ma-ya karar ver-di.
++ 一人|ひとり|bir kişi
++ 学生|がくせい|öğrenci
++ 寄せる|よせる|iletmek, göndermek|寄せられ
++ 質問|しつもん|soru
++ 授業|じゅぎょう|ders
++ 全体|ぜんたい|bütün
++ 議論|ぎろん|tartışma
+25 もう少{すこ}し冷静{れいせい}に考{かんが}えれば避{さ}けられた（ものを）、感情的{かんじょうてき}になってしまい、取{と}り返{かえ}しのつかない発言{はつげん}をしてしまった。
+= Biraz daha sakin düşün-se-ydi-m önle-n-ebil-ir-di oysa, duygusal-laş-ıp telafi-si ol-ma-yan bir söz söyle-yiver-di-m.
++ 冷静|れいせい|sakin
++ 考える|かんがえる|düşünmek|考えれ
++ 避ける|さける|kaçınmak, önlemek|避けられ
++ 感情的|かんじょうてき|duygusal
++ 取り返し|とりかえし|telafi, geri alma
++ 発言|はつげん|söz, beyan

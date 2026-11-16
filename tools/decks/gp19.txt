@@ -1,0 +1,148 @@
+// 練習問題：～にかかわらず・～にもかかわらず・～のみならず (練習.pdf s.78–81)
+@ gp19 2年文法 19 | にかかわらず・にもかかわらず・のみならず
+1 年齢{ねんれい}（にかかわらず）、このイベントには誰{だれ}でも参加{さんか}できます。
+= Yaş-a bakılmaksızın, bu etkinliğ-e herkes katıl-abil-ir.
++ 年齢|ねんれい|yaş
++ にかかわらず|にかかわらず|…e bakılmaksızın, …fark etmez
++ 誰でも|だれでも|herkes
++ 参加|さんか|katılma
+2 雨{あめ}が降{ふ}っている（にもかかわらず）、多{おお}くの観光客{かんこうきゃく}が訪{おとず}れた。
+= Yağmur yağ-ıyor ol-ma-sı-na rağmen, çok turist gel-di.
++ 雨|あめ|yağmur
++ 降る|ふる|yağmak|降っ
++ にもかかわらず|にもかかわらず|…e rağmen
++ 多く|おおく|çok
++ 観光客|かんこうきゃく|turist
++ 訪れる|おとずれる|ziyaret etmek|訪れ
+3 この研究{けんきゅう}は日本{にほん}（のみならず）、海外{かいがい}でも高{たか}く評価{ひょうか}されている。
+= Bu araştırma sadece Japonya-da değil, yurt dışı-nda da yüksek değerlendir-il-iyor.
++ 研究|けんきゅう|araştırma
++ 日本|にほん|Japonya
++ のみならず|のみならず|sadece …değil, …de
++ 海外|かいがい|yurt dışı
++ 高い|たかい|yüksek|高く
++ 評価|ひょうか|değerlendirme
+4 経験{けいけん}の有無{うむ}（にかかわらず）、応募{おうぼ}することができます。
+= Deneyim-in ol-up ol-ma-ma-sı-na bakılmaksızın, başvur-abil-ir-siniz.
++ 経験|けいけん|deneyim
++ 有無|うむ|var olup olmaması
++ 応募|おうぼ|başvuru
+5 一生懸命{いっしょうけんめい}勉強{べんきょう}した（にもかかわらず）、試験{しけん}に合格{ごうかく}できなかった。
+= Var gücü-m-le çalış-ma-m-a rağmen, sınav-ı geç-e-me-di-m.
++ 一生懸命|いっしょうけんめい|var gücüyle
++ 勉強|べんきょう|ders çalışma
++ 試験|しけん|sınav
++ 合格|ごうかく|sınavı geçme
+6 彼{かれ}は日本語{にほんご}（のみならず）、中国語{ちゅうごくご}と英語{えいご}も話{はな}すことができる。
+= O sadece Japonca değil, Çince ve İngilizce de konuş-abil-ir.
++ 彼|かれ|o (erkek)
++ 日本語|にほんご|Japonca
++ 中国語|ちゅうごくご|Çince
++ 英語|えいご|İngilizce
++ 話す|はなす|konuşmak
+7 結果{けっか}（にかかわらず）、最後{さいご}まで研究{けんきゅう}を続{つづ}けるつもりだ。
+= Sonuç ne ol-ur-sa ol-sun, son-a kadar araştırma-yı sürdür-me-yi düşün-üyor-um.
++ 結果|けっか|sonuç
++ 最後|さいご|son
++ 続ける|つづける|sürdürmek
+8 この問題{もんだい}は若者{わかもの}（のみならず）、高齢者{こうれいしゃ}にも関係{かんけい}している。
+= Bu sorun sadece genç-ler-i değil, yaşlı-lar-ı da ilgilendir-iyor.
++ 問題|もんだい|sorun
++ 若者|わかもの|genç
++ 高齢者|こうれいしゃ|yaşlı
++ 関係|かんけい|ilgi, ilişki
+9 彼{かれ}は病気{びょうき}である（にもかかわらず）、最後{さいご}まで仕事{しごと}を続{つづ}けた。
+= O hasta ol-ma-sı-na rağmen, son-a kadar iş-i sürdür-dü.
++ 病気|びょうき|hastalık, hasta
++ 仕事|しごと|iş
+10 参加{さんか}するかどうか（にかかわらず）、金曜日{きんようび}までに返事{へんじ}をしてください。
+= Katıl-ıp katıl-ma-ma-n-a bakılmaksızın, Cuma-ya kadar cevap ver-in lütfen.
++ 金曜日|きんようび|cuma
++ 返事|へんじ|cevap
+11 この制度{せいど}は国籍{こくせき}（にかかわらず）利用{りよう}することができます。
+= Bu sistem-i uyruk-a bakılmaksızın kullan-abil-ir-siniz.
++ 制度|せいど|sistem
++ 国籍|こくせき|uyruk
++ 利用|りよう|kullanım
+12 悪天候{あくてんこう}（にもかかわらず）、予定{よてい}どおりイベントが開催{かいさい}された。
+= Kötü hava-ya rağmen, plan-a uygun etkinlik düzenle-n-di.
++ 悪天候|あくてんこう|kötü hava
++ 予定|よてい|plan
++ 開催|かいさい|düzenleme, yapılma
+13 この大学{だいがく}では、教育{きょういく}（のみならず）、研究{けんきゅう}にも力{ちから}を入{い}れている。
+= Bu üniversite-de, sadece eğitim-e değil, araştırma-ya da ağırlık ver-il-iyor.
++ 大学|だいがく|üniversite
++ 教育|きょういく|eğitim
++ 力を入れる|ちからをいれる|önem vermek, ağırlık vermek|力を入れ
+14 彼{かれ}は十分{じゅうぶん}に準備{じゅんび}した（にもかかわらず）、発表{はっぴょう}では多{おお}くのミスをしてしまった。
+= O yeterince hazırlan-ma-sı-na rağmen, sunum-da çok hata yap-tı.
++ 十分|じゅうぶん|yeterince
++ 準備|じゅんび|hazırlık
++ 発表|はっぴょう|sunum
+15 この奨学金{しょうがくきん}は年齢{ねんれい}（にかかわらず）、誰{だれ}でも応募{おうぼ}できます。
+= Bu burs-a yaş-a bakılmaksızın, herkes başvur-abil-ir.
++ 奨学金|しょうがくきん|burs
+16 日本{にほん}（のみならず）、韓国{かんこく}や中国{ちゅうごく}でも少子化{しょうしか}が大{おお}きな社会問題{しゃかいもんだい}になっている。
+= Sadece Japonya-da değil, Kore ve Çin-de de doğum oran-ı düşüş-ü büyük bir toplumsal sorun ol-uyor.
++ 韓国|かんこく|Güney Kore
++ 中国|ちゅうごく|Çin
++ 少子化|しょうしか|doğum oranının düşmesi
++ 大きな|おおきな|büyük
++ 社会|しゃかい|toplum
+17 彼{かれ}は高齢{こうれい}である（にもかかわらず）、毎日{まいにち}新{あたら}しい研究{けんきゅう}を続{つづ}けている。
+= O yaşlı ol-ma-sı-na rağmen, her gün yeni araştırma-lar-ı sürdür-üyor.
++ 高齢|こうれい|ileri yaş, yaşlı
++ 毎日|まいにち|her gün
++ 新しい|あたらしい|yeni
+18 この問題{もんだい}は専門家{せんもんか}（のみならず）、一般{いっぱん}の人々{ひとびと}にも関係{かんけい}している。
+= Bu sorun sadece uzman-lar-ı değil, sıradan insan-lar-ı da ilgilendir-iyor.
++ 専門家|せんもんか|uzman
++ 一般|いっぱん|genel, sıradan
++ 人々|ひとびと|insanlar
+19 経験{けいけん}（にかかわらず）、この仕事{しごと}に応募{おうぼ}することができます。
+= Deneyim-e bakılmaksızın, bu iş-e başvur-abil-ir-siniz.
+20 彼女{かのじょ}は日本語{にほんご}が上手{じょうず}である（のみならず）、日本{にほん}の歴史{れきし}や文化{ぶんか}についても詳{くわ}しい。
+= O (kadın) sadece Japonca-da iyi değil, Japonya-nın tarih ve kültür-ü hakkında da bilgili.
++ 彼女|かのじょ|o (kadın)
++ 上手|じょうず|usta, iyi
++ 歴史|れきし|tarih
++ 文化|ぶんか|kültür
++ 詳しい|くわしい|bilgili, ayrıntılı
+21 この研究{けんきゅう}は日本{にほん}の近代史{きんだいし}（のみならず）、東{ひがし}アジアの国際関係{こくさいかんけい}を考{かんが}える上{うえ}でも重要{じゅうよう}な意味{いみ}を持{も}っている。
+= Bu araştırma sadece Japonya-nın modern tarih-i için değil, Doğu Asya-nın uluslararası ilişki-ler-i-ni düşün-me-de de önemli bir anlam taşı-yor.
++ 近代史|きんだいし|modern tarih
++ 東|ひがし|doğu
++ 国際関係|こくさいかんけい|uluslararası ilişkiler
++ 考える|かんがえる|düşünmek
++ 上で|うえで|…mede, …açısından|上で
++ 重要|じゅうよう|önemli
++ 意味|いみ|anlam
++ 持つ|もつ|taşımak, sahip olmak|持っ
+22 十分{じゅうぶん}な研究実績{けんきゅうじっせき}がある（にもかかわらず）、その研究者{けんきゅうしゃ}は今回{こんかい}の助成金{じょせいきん}に採択{さいたく}されなかった。
+= Yeterli araştırma birikim-i ol-ma-sı-na rağmen, o araştırmacı bu sefer-ki destek fon-u-na seç-il-me-di.
++ 実績|じっせき|başarı geçmişi, birikim
++ 研究者|けんきゅうしゃ|araştırmacı
++ 今回|こんかい|bu sefer
++ 助成金|じょせいきん|hibe, destek fonu
++ 採択|さいたく|kabul edilme, seçilme
+23 この制度{せいど}では、専門分野{せんもんぶんや}（のみならず）、所属大学{しょぞくだいがく}や研究歴{けんきゅうれき}の違{ちが}いも問題{もんだい}とされない。
+= Bu sistem-de, sadece uzmanlık alan-ı değil, bağlı ol-un-an üniversite ve araştırma geçmiş-i farkı da sorun ed-il-mez.
++ 専門分野|せんもんぶんや|uzmanlık alanı
++ 所属|しょぞく|bağlılık, mensubiyet
++ 研究歴|けんきゅうれき|araştırma geçmişi
++ 違い|ちがい|fark
+24 この問題{もんだい}は一{ひと}つの国{くに}だけの問題{もんだい}ではない。日本{にほん}（のみならず）、中国{ちゅうごく}、韓国{かんこく}、欧米諸国{おうべいしょこく}でも議論{ぎろん}されている。
+= Bu sorun tek bir ülke-nin sorun-u değil. Sadece Japonya-da değil, Çin, Kore ve Batı ülke-ler-i-nde de tartış-ıl-ıyor.
++ 一つ|ひとつ|bir (tane)
++ 国|くに|ülke
++ 欧米|おうべい|Avrupa ve Amerika, Batı
++ 諸国|しょこく|ülkeler
++ 議論|ぎろん|tartışma
+25 この研究{けんきゅう}は歴史学{れきしがく}（のみならず）、政治学{せいじがく}や社会学{しゃかいがく}の観点{かんてん}からも検討{けんとう}する必要{ひつよう}がある。
+= Bu araştırma-yı sadece tarih bilimi değil, siyaset bilimi ve sosyoloji açı-sın-dan da incele-mek gerek.
++ 歴史学|れきしがく|tarih bilimi
++ 政治学|せいじがく|siyaset bilimi
++ 社会学|しゃかいがく|sosyoloji
++ 観点|かんてん|bakış açısı
++ 検討|けんとう|inceleme
++ 必要|ひつよう|gerekli

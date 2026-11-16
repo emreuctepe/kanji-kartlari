@@ -1,0 +1,163 @@
+// 練習問題：～そばから・～わりに・～に過ぎない (練習.pdf s.94–97)
+@ gp23 2年文法 23 | そばから・わりに・に過ぎない
+1 部屋{へや}を片付{かたづ}ける（そばから）、弟{おとうと}がまたおもちゃを床{ゆか}に広{ひろ}げてしまう。
+= Oda-yı topla-dık-ça hemen, küçük kardeş-im yine oyuncak-lar-ı yer-e saç-ıyor.
++ 部屋|へや|oda
++ 片付ける|かたづける|toplamak, toparlamak
++ そばから|そばから|…ır …maz hemen (tekrar tekrar)
++ 弟|おとうと|küçük erkek kardeş
++ 床|ゆか|yer, zemin
++ 広げる|ひろげる|yaymak, saçmak|広げ
+2 彼{かれ}はまだ大学生{だいがくせい}である（に過{す}ぎ）ないが、研究者{けんきゅうしゃ}としてすでに高{たか}く評価{ひょうか}されている。
+= O henüz sadece bir üniversite öğrenci-si ama, araştırmacı olarak şimdiden yüksek değerlendir-il-iyor.
++ 彼|かれ|o (erkek)
++ 大学生|だいがくせい|üniversite öğrencisi
++ に過ぎない|にすぎない|…den ibaret, sadece …|過ぎ
++ 研究者|けんきゅうしゃ|araştırmacı
++ 高い|たかい|yüksek|高く
++ 評価|ひょうか|değerlendirme
+3 このホテルは駅{えき}から近{ちか}い（わりに）、部屋{へや}があまり広{ひろ}くない。
+= Bu otel istasyon-a yakın ol-ma-sı-na göre, oda-lar pek geniş değil.
++ 駅|えき|istasyon
++ 近い|ちかい|yakın
++ わりに|わりに|…e göre, …e kıyasla (beklenenden farklı)
++ 広い|ひろい|geniş|広く
+4 これは単{たん}なる一時的{いちじてき}な現象{げんしょう}（に）過{す}ぎない。
+= Bu sadece geçici bir olgu-dan ibaret.
++ 単なる|たんなる|sıradan, basit
++ 一時的|いちじてき|geçici
++ 現象|げんしょう|olgu, fenomen
+5 覚{おぼ}えた（そばから）忘{わす}れてしまうので、なかなか語彙{ごい}が増{ふ}えない。
+= Ezberle-r ezberle-mez unut-tuğ-um için, kelime hazne-m bir türlü art-mı-yor.
++ 覚える|おぼえる|ezberlemek, öğrenmek|覚え
++ 忘れる|わすれる|unutmak|忘れ
++ 語彙|ごい|kelime hazinesi
++ 増える|ふえる|artmak|増え
+6 この仕事{しごと}は見{み}た目{め}が簡単{かんたん}な（わりに）、実際{じっさい}にやってみるとかなり難{むずか}しい。
+= Bu iş görünüş-te kolay ol-ma-sı-na göre, gerçekten yap-ıp gör-ünce epey zor.
++ 仕事|しごと|iş
++ 見た目|みため|görünüş
++ 簡単|かんたん|kolay
++ 実際|じっさい|gerçekte
++ 難しい|むずかしい|zor
+7 彼{かれ}の意見{いけん}は、あくまで個人的{こじんてき}な考{かんが}え（に）過{す}ぎない。
+= O-nun görüş-ü, sadece kişisel bir düşünce-den ibaret.
++ 意見|いけん|görüş
++ 個人的|こじんてき|kişisel
++ 考え|かんがえ|düşünce
+8 洗濯物{せんたくもの}をたたむ（そばから）、また別{べつ}の洗濯物{せんたくもの}が増{ふ}えていく。
+= Çamaşır-lar-ı katla-r katla-maz, yine başka çamaşır-lar birik-iyor.
++ 洗濯物|せんたくもの|çamaşır
++ 別|べつ|başka, ayrı
+9 彼女{かのじょ}は日本{にほん}に長{なが}く住{す}んでいた（わりに）、日本{にほん}の歴史{れきし}についてはあまり詳{くわ}しくない。
+= O (kadın) Japonya-da uzun süre yaşa-mış ol-ma-sı-na göre, Japonya-nın tarih-i hakkında pek bilgili değil.
++ 彼女|かのじょ|o (kadın)
++ 日本|にほん|Japonya
++ 長い|ながい|uzun|長く
++ 住む|すむ|yaşamak|住ん
++ 歴史|れきし|tarih
++ 詳しい|くわしい|bilgili|詳しく
+10 今回{こんかい}の調査結果{ちょうさけっか}は、今後{こんご}の研究{けんきゅう}の出発点{しゅっぱつてん}（に）過{す}ぎない。
+= Bu sefer-ki araştırma sonuç-lar-ı, bundan sonra-ki araştırma-lar-ın sadece başlangıç nokta-sı.
++ 今回|こんかい|bu sefer
++ 調査|ちょうさ|araştırma, inceleme
++ 結果|けっか|sonuç
++ 今後|こんご|bundan sonra
++ 研究|けんきゅう|araştırma
++ 出発点|しゅっぱつてん|başlangıç noktası
+11 資料{しりょう}を整理{せいり}する（そばから）、学生{がくせい}たちが次々{つぎつぎ}に新{あたら}しい資料{しりょう}を持{も}ってくるので、なかなか作業{さぎょう}が終{お}わらない。
+= Belge-ler-i düzenle-r düzenle-mez, öğrenci-ler art arda yeni belge-ler getir-diğ-i için, iş bir türlü bit-mi-yor.
++ 資料|しりょう|belge
++ 整理|せいり|düzenleme
++ 学生|がくせい|öğrenci
++ 次々に|つぎつぎに|art arda|次々に
++ 新しい|あたらしい|yeni
++ 持つ|もつ|tutmak, taşımak|持っ
++ 作業|さぎょう|iş, çalışma
++ 終わる|おわる|bitmek|終わら
+12 このレストランは料金{りょうきん}が安{やす}い（わりに）、料理{りょうり}の質{しつ}はかなり高{たか}い。
+= Bu restoran-ın fiyat-lar-ı ucuz ol-ma-sı-na göre, yemek-ler-in kalite-si epey yüksek.
++ 料金|りょうきん|ücret, fiyat
++ 安い|やすい|ucuz
++ 料理|りょうり|yemek
++ 質|しつ|kalite
+13 彼{かれ}の発言{はつげん}は、あくまで個人的{こじんてき}な見解{けんかい}（に過{す}ぎない）。
+= O-nun söyle-dik-ler-i, sadece kişisel bir görüş-ten ibaret.
++ 発言|はつげん|söz, beyan
++ 見解|けんかい|görüş, kanaat
+14 この問題{もんだい}は簡単{かんたん}そうに見{み}える（わりに）、実際{じっさい}にはかなり複雑{ふくざつ}だ。
+= Bu sorun kolay görün-me-si-ne göre, aslında epey karmaşık.
++ 問題|もんだい|sorun
++ 見える|みえる|görünmek
++ 複雑|ふくざつ|karmaşık
+15 新{あたら}しい単語{たんご}を覚{おぼ}える（そばから）忘{わす}れてしまうので、何度{なんど}も復習{ふくしゅう}する必要{ひつよう}がある。
+= Yeni kelime-ler-i ezberle-r ezberle-mez unut-tuğ-um için, defalarca tekrar et-mem gerek.
++ 単語|たんご|kelime
++ 何度も|なんども|defalarca
++ 復習|ふくしゅう|tekrar
++ 必要|ひつよう|gerekli
+16 彼{かれ}はまだ経験{けいけん}が浅{あさ}い（わりに）、仕事{しごと}に対{たい}する責任感{せきにんかん}は非常{ひじょう}に強{つよ}い。
+= O-nun deneyim-i henüz az ol-ma-sı-na göre, iş-e karşı sorumluluk duygu-su son derece güçlü.
++ 経験|けいけん|deneyim
++ 浅い|あさい|sığ; (deneyim) az
++ 対する|たいする|…e karşı
++ 責任感|せきにんかん|sorumluluk duygusu
++ 非常に|ひじょうに|son derece
++ 強い|つよい|güçlü
+17 今回{こんかい}の成功{せいこう}は、長{なが}い努力{どりょく}の結果{けっか}ではあるが、最終的{さいしゅうてき}には一{ひと}つの通過点{つうかてん}（に過{す}ぎない）。
+= Bu sefer-ki başarı, uzun bir çaba-nın sonuc-u ama, sonuç olarak sadece bir ara durak.
++ 成功|せいこう|başarı
++ 努力|どりょく|çaba
++ 最終的|さいしゅうてき|nihai olarak
++ 一つ|ひとつ|bir (tane)
++ 通過点|つうかてん|ara durak, geçiş noktası
+18 掃除{そうじ}した（そばから）、猫{ねこ}がカーペットを汚{よご}してしまった。
+= Temizle-r temizle-mez, kedi halı-yı kirlet-ti.
++ 掃除|そうじ|temizlik
++ 猫|ねこ|kedi
++ 汚す|よごす|kirletmek|汚し
+19 彼{かれ}は年齢{ねんれい}の（わりに）、非常{ひじょう}に幅広{はばひろ}い知識{ちしき}を持{も}っている。
+= O yaş-ı-na göre, son derece geniş bir bilgi-ye sahip.
++ 年齢|ねんれい|yaş
++ 幅広い|はばひろい|geniş, kapsamlı
++ 知識|ちしき|bilgi
+20 この数字{すうじ}は現在{げんざい}の状況{じょうきょう}を示{しめ}す一{ひと}つの目安{めやす}（に過{す}ぎず）、絶対的{ぜったいてき}な基準{きじゅん}ではない。
+= Bu rakam şimdi-ki durum-u göster-en sadece bir ölçü, mutlak bir ölçüt değil.
++ 数字|すうじ|rakam, sayı
++ 現在|げんざい|şimdi
++ 状況|じょうきょう|durum
++ 示す|しめす|göstermek
++ 目安|めやす|ölçü, kabaca gösterge
++ 絶対的|ぜったいてき|mutlak
++ 基準|きじゅん|ölçüt
+21 いくら注意{ちゅうい}しても、彼{かれ}は注意{ちゅうい}された（そばから）同{おな}じ間違{まちが}いを繰{く}り返{かえ}してしまう。
+= Ne kadar uyar-sam da, o uyar-ıl-ır uyar-ıl-maz aynı hata-yı tekrarla-yıp duruyor.
++ 注意|ちゅうい|uyarı, dikkat
++ 同じ|おなじ|aynı
++ 間違い|まちがい|hata
++ 繰り返す|くりかえす|tekrarlamak|繰り返し
+22 この研究{けんきゅう}はまだ試験的{しけんてき}な段階{だんかい}にあり、現時点{げんじてん}では一{ひと}つの可能性{かのうせい}を示{しめ}した（に過{す}ぎない）。
+= Bu araştırma henüz deneme aşama-sı-nda, şu an-da sadece bir ihtimal göster-miş durumda.
++ 試験的|しけんてき|deneme niteliğinde
++ 段階|だんかい|aşama
++ 現時点|げんじてん|şu an
++ 可能性|かのうせい|ihtimal
+23 彼{かれ}は日本{にほん}に十年{じゅうねん}以上{いじょう}住{す}んでいる（わりに）、日本{にほん}の政治制度{せいじせいど}についてはほとんど知{し}らない。
+= O Japonya-da on yıl-dan fazla-dır yaşa-ma-sı-na göre, Japonya-nın siyasi sistem-i hakkında neredeyse hiçbir şey bil-mi-yor.
++ 十年|じゅうねん|on yıl
++ 以上|いじょう|…den fazla
++ 政治|せいじ|siyaset
++ 制度|せいど|sistem
++ 知る|しる|bilmek|知ら
+24 研究計画{けんきゅうけいかく}を修正{しゅうせい}する（そばから）、新{あら}たな問題点{もんだいてん}が見{み}つかり、また修正{しゅうせい}しなければならなくなった。
+= Araştırma plan-ı-nı düzelt-ir düzelt-mez, yeni sorun-lu nokta-lar bul-un-du ve yine düzelt-mek zorunda kal-dı-m.
++ 計画|けいかく|plan
++ 修正|しゅうせい|düzeltme
++ 新た|あらた|yeni
++ 問題点|もんだいてん|sorunlu nokta
++ 見つかる|みつかる|bulunmak|見つかり
+25 今回{こんかい}の調査{ちょうさ}で明{あき}らかになったのは問題{もんだい}の一側面{いちそくめん}（に過{す}ぎず）、今後{こんご}さらに検討{けんとう}する必要{ひつよう}がある。
+= Bu sefer-ki araştırma-da açığ-a çık-an, sorun-un sadece bir yön-ü, bundan sonra daha da incele-mek gerek.
++ 明らか|あきらか|açık, belli
++ 一側面|いちそくめん|bir yön, bir yüz
++ 検討|けんとう|inceleme

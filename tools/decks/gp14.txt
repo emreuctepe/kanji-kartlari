@@ -1,0 +1,158 @@
+// 練習問題：～さえ・～あまり・～あげく (練習.pdf s.58–61)
+@ gp14 2年文法 14 | さえ・あまり・あげく
+1 忙{いそが}しくて、昼{ひる}ご飯{はん}を食{た}べる時間{じかん}（さえ）なかった。
+= Meşgul-düm, öğle yemeğ-i ye-yecek zaman bile yok-tu.
++ 忙しい|いそがしい|meşgul, yoğun|忙し
++ 昼ご飯|ひるごはん|öğle yemeği|昼ご飯
++ 食べる|たべる|yemek
++ 時間|じかん|zaman
++ さえ|さえ|bile; …yeter ki (…さえ…ば)
+2 試験{しけん}の結果{けっか}が心配{しんぱい}な（あまり）、一晩中{ひとばんじゅう}眠{ねむ}れなかった。
+= Sınav-ın sonuc-u-ndan o kadar endişe-len-di-m ki, bütün gece uyu-ya-ma-dı-m.
++ 試験|しけん|sınav
++ 結果|けっか|sonuç
++ 心配|しんぱい|endişe
++ あまり|あまり|aşırı …den, o kadar …ki
++ 一晩中|ひとばんじゅう|bütün gece
++ 眠る|ねむる|uyumak|眠れ
+3 何時間{なんじかん}も話{はな}し合{あ}った（あげく）、結局{けっきょく}何{なに}も決{き}まらなかった。
+= Saat-ler-ce görüş-tük-ten sonra sonunda, hiçbir şey-e karar ver-il-e-me-di.
++ 何時間|なんじかん|saatlerce, kaç saat
++ 話し合う|はなしあう|görüşmek, tartışmak|話し合っ
++ あげく|あげく|(uzun uğraştan) sonunda (çoğu kötü sonuç)
++ 結局|けっきょく|sonunda
++ 決まる|きまる|kararlaşmak|決まら
+4 彼{かれ}は自分{じぶん}の名前{なまえ}（さえ）書{か}けない。
+= O kendi ad-ı-nı bile yaz-a-ma-z.
++ 彼|かれ|o (erkek)
++ 自分|じぶん|kendi
++ 名前|なまえ|ad, isim
++ 書く|かく|yazmak|書け
+5 あまりの緊張{きんちょう}の（あまり）、何{なに}を話{はな}せばいいのか分{わ}からなくなった。
+= Aşırı heyecan-dan, ne konuş-sam iyi ol-acağ-ı-nı bil-e-mez ol-du-m.
++ 緊張|きんちょう|gerginlik, heyecan
++ 話す|はなす|konuşmak|話せ
++ 分かる|わかる|anlamak, bilmek|分から
+6 何度{なんど}も考{かんが}えた（あげく）、その仕事{しごと}を引{ひ}き受{う}けることにした。
+= Defalarca düşün-dük-ten sonra sonunda, o iş-i üstlen-me-ye karar ver-di-m.
++ 何度も|なんども|defalarca
++ 考える|かんがえる|düşünmek|考え
++ 仕事|しごと|iş
++ 引き受ける|ひきうける|üstlenmek
+7 健康{けんこう}（さえ）あれば、どんなことにも挑戦{ちょうせん}できる。
+= Sağlık ol-sun yeter, her şey-e meydan oku-yabil-ir-im.
++ 健康|けんこう|sağlık
++ 挑戦|ちょうせん|meydan okuma, deneme
+8 彼女{かのじょ}は嬉{うれ}しさの（あまり）、泣{な}き出{だ}してしまった。
+= O (kadın) sevinç-ten, ağla-ma-ya başla-yıver-di.
++ 彼女|かのじょ|o (kadın)
++ 嬉しさ|うれしさ|sevinç, mutluluk
++ 泣き出す|なきだす|ağlamaya başlamak|泣き出し
+9 彼{かれ}は財布{さいふ}を家{いえ}に忘{わす}れたうえ、スマートフォン（さえ）持{も}っていなかった。
+= O cüzdan-ı-nı ev-de unut-tu-ğu yetmez gibi, akıllı telefon-u bile yanı-nda değil-di.
++ 財布|さいふ|cüzdan
++ 家|いえ|ev
++ 忘れる|わすれる|unutmak|忘れ
++ 持つ|もつ|tutmak, yanında olmak|持っ
+10 長{なが}い間{あいだ}迷{まよ}った（あげく）、大学院{だいがくいん}へ進学{しんがく}することを決{き}めた。
+= Uzun süre tereddüt et-tik-ten sonra sonunda, yüksek lisans-a geç-me-ye karar ver-di-m.
++ 長い|ながい|uzun
++ 間|あいだ|süre, ara
++ 迷う|まよう|tereddüt etmek, kararsız kalmak|迷っ
++ 大学院|だいがくいん|lisansüstü okul
++ 進学|しんがく|üst okula geçme
++ 決める|きめる|karar vermek|決め
+11 彼{かれ}は忙{いそが}しさの（あまり）、友達{ともだち}に連絡{れんらく}することさえ忘{わす}れていた。
+= O yoğunluk-tan, arkadaş-lar-ı-na haber ver-me-yi bile unut-muş-tu.
++ 忙しさ|いそがしさ|meşguliyet, yoğunluk
++ 友達|ともだち|arkadaş
++ 連絡|れんらく|haber verme, iletişim
+12 この問題{もんだい}は専門家{せんもんか}（さえ）解決{かいけつ}するのが難{むずか}しい。
+= Bu sorun-u uzman-lar bile çöz-mek-te zorlan-ır.
++ 問題|もんだい|sorun
++ 専門家|せんもんか|uzman
++ 解決|かいけつ|çözüm
++ 難しい|むずかしい|zor
+13 何度{なんど}も失敗{しっぱい}した（あげく）、彼{かれ}はついにその研究{けんきゅう}をあきらめた。
+= Defalarca başarısız ol-duk-tan sonra sonunda, o nihayet o araştırma-dan vazgeç-ti.
++ 失敗|しっぱい|başarısızlık
++ 研究|けんきゅう|araştırma
+14 驚{おどろ}きの（あまり）、しばらく何{なに}も言{い}えなかった。
+= Şaşkınlık-tan, bir süre hiçbir şey söyle-ye-me-di-m.
++ 驚き|おどろき|şaşkınlık
++ 言う|いう|söylemek|言え
+15 あと一日{いちにち}（さえ）あれば、この仕事{しごと}を完成{かんせい}させることができる。
+= Bir gün daha ol-sa yeter, bu iş-i tamamla-yabil-ir-im.
++ 一日|いちにち|bir gün
++ 完成|かんせい|tamamlama
+16 長時間{ちょうじかん}にわたって議論{ぎろん}した（あげく）、両者{りょうしゃ}は合意{ごうい}に達{たっ}しなかった。
+= Uzun süre boyunca tartış-tık-tan sonra sonunda, iki taraf uzlaşma-ya var-a-ma-dı.
++ 長時間|ちょうじかん|uzun süre
++ 議論|ぎろん|tartışma
++ 両者|りょうしゃ|iki taraf
++ 合意|ごうい|uzlaşma, anlaşma
++ 達する|たっする|ulaşmak, varmak|達し
+17 彼{かれ}は疲労{ひろう}の（あまり）、電車{でんしゃ}の中{なか}で立{た}ったまま眠{ねむ}ってしまった。
+= O yorgunluk-tan, tren-in için-de ayakta dur-duğ-u yerde uyu-yakal-dı.
++ 疲労|ひろう|yorgunluk
++ 電車|でんしゃ|tren
++ 中|なか|iç
++ 立つ|たつ|ayakta durmak|立っ
+18 日本語{にほんご}を勉強{べんきょう}する時間{じかん}（さえ）あれば、毎日{まいにち}もっと練習{れんしゅう}したい。
+= Japonca çalış-acak zaman ol-sa yeter, her gün daha çok pratik yap-mak ist-er-im.
++ 日本語|にほんご|Japonca
++ 勉強|べんきょう|ders çalışma
++ 毎日|まいにち|her gün
++ 練習|れんしゅう|alıştırma, pratik
+19 彼女{かのじょ}は緊張{きんちょう}の（あまり）、簡単{かんたん}な質問{しつもん}にも答{こた}えられなかった。
+= O (kadın) heyecan-dan, basit soru-lar-a bile cevap ver-e-me-di.
++ 簡単|かんたん|basit, kolay
++ 質問|しつもん|soru
++ 答える|こたえる|cevap vermek|答えられ
+20 何度{なんど}も転職{てんしょく}を考{かんが}えた（あげく）、結局{けっきょく}、今{いま}の会社{かいしゃ}に残{のこ}ることにした。
+= Defalarca iş değiştir-me-yi düşün-dük-ten sonra, sonunda şimdi-ki şirket-te kal-ma-ya karar ver-di-m.
++ 転職|てんしょく|iş değiştirme
++ 今|いま|şimdi
++ 会社|かいしゃ|şirket
++ 残る|のこる|kalmak
+21 最近{さいきん}はインターネットで多{おお}くの情報{じょうほう}を得{え}られるようになったが、専門家{せんもんか}（さえ）判断{はんだん}に迷{まよ}うような複雑{ふくざつ}な問題{もんだい}も少{すく}なくない。
+= Son zaman-lar-da internet-ten çok bilgi edin-il-ebil-ir ol-du ama, uzman-lar-ın bile karar ver-mek-te tereddüt et-tiğ-i karmaşık sorun-lar da az değil.
++ 最近|さいきん|son zamanlarda
++ 多く|おおく|çok, birçok
++ 情報|じょうほう|bilgi
++ 得る|える|elde etmek|得られる
++ 判断|はんだん|karar, yargı
++ 複雑|ふくざつ|karmaşık
++ 少ない|すくない|az|少なく
+22 彼{かれ}は将来{しょうらい}について悩{なや}んだ（あげく）、最終的{さいしゅうてき}に海外{かいがい}で働{はたら}くことを決{き}めた。
+= O gelecek-i hakkında uzun uzun düşün-üp kafa yor-duk-tan sonra, sonunda yurt dışı-nda çalış-ma-ya karar ver-di.
++ 将来|しょうらい|gelecek
++ 悩む|なやむ|dert edinmek, kafa yormak|悩ん
++ 最終的|さいしゅうてき|nihai, sonunda
++ 海外|かいがい|yurt dışı
++ 働く|はたらく|çalışmak
+23 そのニュースを聞{き}いた彼女{かのじょ}は、あまりの喜{よろこ}びの（あまり）、言葉{ことば}を失{うしな}った。
+= O haber-i duy-an o (kadın), aşırı sevinç-ten, dil-i tutul-du.
++ 聞く|きく|duymak|聞い
++ 喜び|よろこび|sevinç
++ 言葉|ことば|söz, kelime
++ 失う|うしなう|kaybetmek|失っ
+24 「そんなに難{むずか}しい試験{しけん}、本当{ほんとう}に合格{ごうかく}できるの？」「毎日{まいにち}少{すこ}しずつでも勉強{べんきょう}する時間{じかん}（さえ）あれば、可能性{かのうせい}はあると思{おも}う。」
+= “O kadar zor bir sınav-ı, gerçekten geç-ebil-ir mi-sin?” “Her gün azar azar da ol-sa çalış-acak zaman ol-sun yeter, ihtimal var diye düşün-üyor-um.”
++ 本当|ほんとう|gerçek
++ 合格|ごうかく|sınavı geçme
++ 少し|すこし|biraz
++ 可能性|かのうせい|ihtimal
++ 思う|おもう|düşünmek
+25 新{あたら}しい制度{せいど}について関係者{かんけいしゃ}が何度{なんど}も協議{きょうぎ}を重{かさ}ねた（あげく）、意見{いけん}の対立{たいりつ}が解消{かいしょう}されず、導入{どうにゅう}は延期{えんき}されることになった。
+= Yeni sistem hakkında ilgili-ler defalarca görüşme yap-tık-tan sonra, görüş ayrılığ-ı giderile-me-di ve uygulama-ya geçiş ertelen-di.
++ 新しい|あたらしい|yeni
++ 制度|せいど|sistem
++ 関係者|かんけいしゃ|ilgili kişiler
++ 協議|きょうぎ|görüşme, müzakere
++ 重ねる|かさねる|üst üste yapmak, tekrarlamak|重ね
++ 意見|いけん|görüş
++ 対立|たいりつ|çatışma, ayrılık
++ 解消|かいしょう|giderme, çözülme
++ 導入|どうにゅう|uygulamaya koyma
++ 延期|えんき|erteleme

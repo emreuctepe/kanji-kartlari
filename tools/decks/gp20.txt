@@ -1,0 +1,179 @@
+// 練習問題：～に応えて・～から見ると・～まみれ (練習.pdf s.82–85)
+@ gp20 2年文法 20 | に応えて・から見ると・まみれ
+1 利用者{りようしゃ}からの要望{ようぼう}に（応{こた}えて）、駅{えき}の案内表示{あんないひょうじ}が改善{かいぜん}された。
+= Kullanıcı-lar-ın istek-ler-i-ne karşılık olarak, istasyon-un yönlendirme tabela-lar-ı iyileştir-il-di.
++ 利用者|りようしゃ|kullanıcı
++ 要望|ようぼう|istek, talep
++ に応えて|にこたえて|…e karşılık olarak, …e cevaben|応えて
++ 駅|えき|istasyon
++ 案内|あんない|rehberlik, yönlendirme
++ 表示|ひょうじ|gösterge, tabela
++ 改善|かいぜん|iyileştirme
+2 多{おお}くの学生{がくせい}の期待{きたい}に（応{こた}えて）、大学{だいがく}は新{あたら}しい奨学金制度{しょうがくきんせいど}を設{もう}けた。
+= Çok öğrenci-nin beklenti-si-ne karşılık olarak, üniversite yeni bir burs sistem-i kur-du.
++ 多く|おおく|çok
++ 学生|がくせい|öğrenci
++ 期待|きたい|beklenti
++ 大学|だいがく|üniversite
++ 新しい|あたらしい|yeni
++ 奨学金|しょうがくきん|burs
++ 制度|せいど|sistem
++ 設ける|もうける|kurmak, oluşturmak|設け
+3 彼{かれ}の表情{ひょうじょう}から（見{み}ると）、試験{しけん}の結果{けっか}にはあまり自信{じしん}がないようだ。
+= Yüz ifade-si-ne bakılırsa, sınav sonuc-u-ndan pek emin değil gibi.
++ 彼|かれ|o (erkek)
++ 表情|ひょうじょう|yüz ifadesi
++ から見ると|からみると|…e bakılırsa, …açısından|見ると
++ 試験|しけん|sınav
++ 結果|けっか|sonuç
++ 自信|じしん|özgüven, emin olma
+4 外国人{がいこくじん}の立場{たちば}から（見{み}ると）、この制度{せいど}は少{すこ}し分{わ}かりにくいかもしれない。
+= Yabancı-lar-ın konum-u-ndan bakınca, bu sistem biraz anlaşılması zor ol-abil-ir.
++ 外国人|がいこくじん|yabancı
++ 立場|たちば|konum, bakış
++ 少し|すこし|biraz
++ 分かりにくい|わかりにくい|anlaşılması zor
+5 長時間{ちょうじかん}の作業{さぎょう}を終{お}えた作業員{さぎょういん}たちは、汗{あせ}（まみれ）になっていた。
+= Uzun süre-li çalışma-yı bitir-en işçi-ler, ter-e bula-n-mış-tı.
++ 長時間|ちょうじかん|uzun süre
++ 作業|さぎょう|çalışma, iş
++ 終える|おえる|bitirmek|終え
++ 作業員|さぎょういん|işçi
++ 汗|あせ|ter
++ まみれ|まみれ|…e bulanmış, …içinde
+6 事故{じこ}の後{あと}、道路{どうろ}には油{あぶら}（まみれ）の部品{ぶひん}が散{ち}らばっていた。
+= Kaza-dan sonra, yol-da yağ-a bula-n-mış parça-lar dağıl-mış-tı.
++ 事故|じこ|kaza
++ 後|あと|sonra
++ 道路|どうろ|yol
++ 油|あぶら|yağ
++ 部品|ぶひん|parça
++ 散らばる|ちらばる|dağılmak, saçılmak|散らばっ
+7 消費者{しょうひしゃ}のニーズに（応{こた}えて）、メーカーは商品{しょうひん}のデザインを変更{へんこう}した。
+= Tüketici-ler-in ihtiyaç-lar-ı-na karşılık olarak, üretici ürün-ün tasarım-ı-nı değiştir-di.
++ 消費者|しょうひしゃ|tüketici
++ 商品|しょうひん|ürün
++ 変更|へんこう|değişiklik
+8 彼{かれ}のこれまでの実績{じっせき}から（見{み}ると）、今回{こんかい}のプロジェクトを任{まか}せても問題{もんだい}ないだろう。
+= O-nun şimdiye kadar-ki başarı-lar-ı-na bakılırsa, bu sefer-ki proje-yi ona emanet et-sek de sorun ol-ma-z herhâlde.
++ 実績|じっせき|başarı geçmişi
++ 今回|こんかい|bu sefer
++ 任せる|まかせる|emanet etmek, bırakmak|任せ
++ 問題|もんだい|sorun
+9 子供{こども}たちは公園{こうえん}で一日中{いちにちじゅう}遊{あそ}んで、服{ふく}が泥{どろ}（まみれ）になって帰{かえ}ってきた。
+= Çocuk-lar park-ta bütün gün oyna-yıp, kıyafet-ler-i çamur-a bula-n-mış halde dön-dü.
++ 子供|こども|çocuk
++ 公園|こうえん|park
++ 一日中|いちにちじゅう|bütün gün
++ 遊ぶ|あそぶ|oynamak|遊ん
++ 服|ふく|kıyafet
++ 泥|どろ|çamur
++ 帰る|かえる|dönmek|帰っ
+10 住民{じゅうみん}の声{こえ}に（応{こた}えて）、市{し}は駅前{えきまえ}の再開発計画{さいかいはつけいかく}を見直{みなお}すことにした。
+= Sakin-ler-in ses-i-ne karşılık olarak, belediye istasyon önü-nün kentsel dönüşüm plan-ı-nı yeniden gözden geçir-me-ye karar ver-di.
++ 住民|じゅうみん|sakin, halk
++ 声|こえ|ses
++ 市|し|şehir, belediye
++ 駅前|えきまえ|istasyon önü
++ 再開発|さいかいはつ|kentsel dönüşüm
++ 計画|けいかく|plan
++ 見直す|みなおす|yeniden gözden geçirmek
+11 学生{がくせい}たちの強{つよ}い要望{ようぼう}（に応{こた}えて）、大学{だいがく}は図書館{としょかん}の開館時間{かいかんじかん}を延長{えんちょう}した。
+= Öğrenci-ler-in güçlü talep-ler-i-ne karşılık olarak, üniversite kütüphane-nin açık kalma saat-ler-i-ni uzat-tı.
++ 強い|つよい|güçlü
++ 図書館|としょかん|kütüphane
++ 開館|かいかん|açılış, açık olma
++ 時間|じかん|saat, süre
++ 延長|えんちょう|uzatma
+12 彼女{かのじょ}の話{はな}し方{かた}や服装{ふくそう}（から見{み}ると）、かなり経験{けいけん}のある人{ひと}だと思{おも}われる。
+= O-nun konuşma tarz-ı-na ve giyim-i-ne bakılırsa, epey deneyim-li biri ol-duğ-u düşün-ül-ür.
++ 彼女|かのじょ|o (kadın)
++ 話し方|はなしかた|konuşma tarzı
++ 服装|ふくそう|giyim, kılık
++ 経験|けいけん|deneyim
++ 人|ひと|kişi
++ 思う|おもう|düşünmek|思われる
+13 工事現場{こうじげんば}から帰{かえ}ってきた父{ちち}は、服{ふく}も靴{くつ}も泥{どろ}（まみれ）だった。
+= İnşaat alan-ı-ndan dön-en baba-m-ın kıyafet-i de ayakkabı-sı da çamur içinde-ydi.
++ 工事|こうじ|inşaat, yapım işi
++ 現場|げんば|alan, sahne
++ 父|ちち|(benim) babam
++ 靴|くつ|ayakkabı
+14 消費者{しょうひしゃ}の期待{きたい}（に応{こた}えて）、この会社{かいしゃ}は新{あたら}しいサービスを開始{かいし}した。
+= Tüketici-ler-in beklenti-si-ne karşılık olarak, bu şirket yeni bir hizmet başlat-tı.
++ 会社|かいしゃ|şirket
++ 開始|かいし|başlatma
+15 この地域{ちいき}の人口{じんこう}や経済状況{けいざいじょうきょう}（から見{み}ると）、今後{こんご}さらに発展{はってん}する可能性{かのうせい}がある。
+= Bu bölge-nin nüfus-u-na ve ekonomik durum-u-na bakılırsa, bundan sonra daha da gelişme ihtimal-i var.
++ 地域|ちいき|bölge
++ 人口|じんこう|nüfus
++ 経済|けいざい|ekonomi
++ 状況|じょうきょう|durum
++ 今後|こんご|bundan sonra
++ 発展|はってん|gelişme
++ 可能性|かのうせい|ihtimal
+16 長年{ながねん}の借金{しゃっきん}（まみれ）の生活{せいかつ}から、ようやく抜{ぬ}け出{だ}すことができた。
+= Uzun yıl-lar süren borç içinde-ki yaşam-dan, nihayet kurtul-abil-di-m.
++ 長年|ながねん|uzun yıllar
++ 借金|しゃっきん|borç
++ 生活|せいかつ|yaşam
++ 抜け出す|ぬけだす|kurtulmak, sıyrılmak
+17 利用者{りようしゃ}の声{こえ}（に応{こた}えて）、大学{だいがく}はオンラインでの申請制度{しんせいせいど}を導入{どうにゅう}した。
+= Kullanıcı-lar-ın ses-i-ne karşılık olarak, üniversite çevrim içi başvuru sistem-i-ni getir-di.
++ 申請|しんせい|başvuru
++ 導入|どうにゅう|uygulamaya koyma
+18 彼{かれ}の成績{せいせき}（から見{み}ると）、今回{こんかい}の試験{しけん}に合格{ごうかく}する可能性{かのうせい}はかなり高{たか}い。
+= O-nun not-lar-ı-na bakılırsa, bu sefer-ki sınav-ı geç-me ihtimal-i epey yüksek.
++ 成績|せいせき|not, başarı
++ 合格|ごうかく|sınavı geçme
++ 高い|たかい|yüksek
+19 事故現場{じこげんば}では、血{ち}（まみれ）の衣服{いふく}を着{き}た男性{だんせい}が発見{はっけん}された。
+= Kaza yer-i-nde, kan-a bula-n-mış giysi-ler giy-en bir erkek bul-un-du.
++ 血|ち|kan
++ 衣服|いふく|giysi
++ 着る|きる|giymek|着
++ 男性|だんせい|erkek
++ 発見|はっけん|bulma, keşif
+20 市民{しみん}から寄{よ}せられた意見{いけん}（に応{こた}えて）、市役所{しやくしょ}は公園{こうえん}の設備{せつび}を改善{かいぜん}した。
+= Vatandaş-lar-dan gel-en görüş-ler-e karşılık olarak, belediye park-ın donanım-ı-nı iyileştir-di.
++ 市民|しみん|vatandaş, şehir halkı
++ 寄せる|よせる|göndermek, iletmek|寄せられ
++ 意見|いけん|görüş
++ 市役所|しやくしょ|belediye
++ 設備|せつび|donanım, tesis
+21 彼{かれ}のこれまでの研究成果{けんきゅうせいか}（から見{み}ると）、今回{こんかい}の発表{はっぴょう}も非常{ひじょう}に興味深{きょうみぶか}い内容{ないよう}になるだろう。
+= O-nun şimdiye kadar-ki araştırma sonuç-lar-ı-na bakılırsa, bu sefer-ki sunum da son derece ilginç bir içerik-te ol-ur herhâlde.
++ 研究|けんきゅう|araştırma
++ 成果|せいか|sonuç, başarı
++ 発表|はっぴょう|sunum
++ 非常に|ひじょうに|son derece
++ 興味深い|きょうみぶかい|ilginç
++ 内容|ないよう|içerik
+22 消費者{しょうひしゃ}からの厳{きび}しい批判{ひはん}（に応{こた}えて）、メーカーは製品{せいひん}の安全基準{あんぜんきじゅん}を見直{みなお}すことにした。
+= Tüketici-ler-den gel-en sert eleştiri-ler-e karşılık olarak, üretici ürün-ün güvenlik standart-lar-ı-nı yeniden gözden geçir-me-ye karar ver-di.
++ 厳しい|きびしい|sert, katı
++ 批判|ひはん|eleştiri
++ 製品|せいひん|ürün, mamul
++ 安全|あんぜん|güvenlik
++ 基準|きじゅん|standart, ölçüt
+23 彼{かれ}は事故{じこ}に巻{ま}き込{こ}まれたにもかかわらず、自分{じぶん}で歩{ある}いて病院{びょういん}まで行{い}った。服{ふく}は血{ち}（まみれ）だったが、意識{いしき}ははっきりしていた。
+= O kaza-ya karış-ma-sı-na rağmen, kendi-si yürü-yerek hastane-ye kadar git-ti. Kıyafet-i kan içinde-ydi ama, bilinc-i yerinde-ydi.
++ 巻き込む|まきこむ|karıştırmak, sürüklemek|巻き込まれ
++ 自分|じぶん|kendi
++ 歩く|あるく|yürümek|歩い
++ 病院|びょういん|hastane
++ 意識|いしき|bilinç
+24 日本人{にほんじん}の私{わたし}（から見{み}ると）、この料理{りょうり}はそれほど辛{から}くないが、辛{から}い物{もの}が苦手{にがて}な人{ひと}にはかなり刺激{しげき}が強{つよ}いかもしれない。
+= Japon ol-an ben-im açı-m-dan, bu yemek o kadar acı değil ama, acı şey-ler-i sev-me-yen insan-lar için epey sert ol-abil-ir.
++ 日本人|にほんじん|Japon
++ 私|わたし|ben
++ 料理|りょうり|yemek
++ 辛い|からい|acı (tat)|辛く
++ 物|もの|şey
++ 苦手|にがて|sevmediği, zayıf olduğu
++ 刺激|しげき|uyarıcı etki, sertlik
+25 市民{しみん}の「もっと安全{あんぜん}な道路{どうろ}にしてほしい」という声{こえ}（に応{こた}えて）、市{し}は通学路{つうがくろ}の整備{せいび}を進{すす}めることにした。
+= Vatandaş-lar-ın “yol-lar daha güvenli ol-sun” ses-i-ne karşılık olarak, belediye okul yol-lar-ı-nın düzenleme-si-ni ilerlet-me-ye karar ver-di.
++ 通学路|つうがくろ|okul yolu
++ 整備|せいび|düzenleme, bakım
++ 進める|すすめる|ilerletmek

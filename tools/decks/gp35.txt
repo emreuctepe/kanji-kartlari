@@ -1,0 +1,163 @@
+// 総合練習 1–25 (練習.pdf s.139–143)
+@ gp35 2年文法 総合 1 | 総合練習 1–25
+1 長年{ながねん}努力{どりょく}してきた（おかげで）、研究成果{けんきゅうせいか}を国際学会{こくさいがっかい}で発表{はっぴょう}することができた。
+= Uzun yıl-lar çaba göster-diğ-im sayesin-de, araştırma sonuç-lar-ı-mı uluslararası kongre-de sun-abil-di-m.
++ 長年|ながねん|uzun yıllar
++ 努力|どりょく|çaba
++ おかげで|おかげで|sayesinde
++ 研究|けんきゅう|araştırma
++ 成果|せいか|sonuç, başarı
++ 国際|こくさい|uluslararası
++ 学会|がっかい|bilimsel kongre
++ 発表|はっぴょう|sunum
+2 彼{かれ}は経験{けいけん}が豊富{ほうふ}だが、研究者{けんきゅうしゃ}（として）はまだ若{わか}い。
+= O-nun deneyim-i zengin ama, araştırmacı olarak henüz genç.
++ 彼|かれ|o (erkek)
++ 経験|けいけん|deneyim
++ 豊富|ほうふ|zengin, bol
++ 研究者|けんきゅうしゃ|araştırmacı
++ として|として|…olarak
++ 若い|わかい|genç
+3 この問題{もんだい}（に関{かん}して）、専門家{せんもんか}の意見{いけん}を聞{き}く必要{ひつよう}がある。
+= Bu sorun hakkında, uzman-lar-ın görüş-ü-nü al-mak gerek.
++ 問題|もんだい|sorun
++ に関して|にかんして|…hakkında|関して
++ 専門家|せんもんか|uzman
++ 意見|いけん|görüş
++ 聞く|きく|sormak, dinlemek
++ 必要|ひつよう|gerekli
+4 以前{いぜん}の研究{けんきゅう}（に比{くら}べて）、今回{こんかい}の調査{ちょうさ}では対象地域{たいしょうちいき}を広{ひろ}げた。
+= Önceki araştırma-ya kıyasla, bu sefer-ki inceleme-de hedef bölge-yi genişlet-ti-k.
++ 以前|いぜん|önce, eskiden
++ に比べて|にくらべて|…e kıyasla|比べて
++ 今回|こんかい|bu sefer
++ 調査|ちょうさ|inceleme, araştırma
++ 対象|たいしょう|hedef, kapsam
++ 地域|ちいき|bölge
++ 広げる|ひろげる|genişletmek|広げ
+5 参加者{さんかしゃ}の年齢{ねんれい}（に応{おう}じて）、講義内容{こうぎないよう}を変更{へんこう}する予定{よてい}だ。
+= Katılımcı-lar-ın yaş-ı-na göre, ders içeriğ-i-ni değiştir-me-yi planlı-yor-uz.
++ 参加者|さんかしゃ|katılımcı
++ 年齢|ねんれい|yaş
++ に応じて|におうじて|…e göre, …e uygun olarak|応じて
++ 講義|こうぎ|ders, ders anlatımı
++ 内容|ないよう|içerik
++ 変更|へんこう|değişiklik
++ 予定|よてい|plan
+6 学生{がくせい}（をはじめ）教師{きょうし}からも多{おお}くの意見{いけん}が寄{よ}せられた。
+= Öğrenci-ler başta olmak üzere öğretmen-ler-den de çok görüş gel-di.
++ 学生|がくせい|öğrenci
++ をはじめ|をはじめ|…başta olmak üzere
++ 教師|きょうし|öğretmen
++ 多く|おおく|çok
++ 寄せる|よせる|iletmek|寄せられ
+7 この地域{ちいき}では、江戸時代{えどじだい}（から）多{おお}くの歴史資料{れきししりょう}が残{のこ}されている。
+= Bu bölge-de, Edo dönem-i-nden kalma çok sayıda tarihî belge korun-uyor.
++ 江戸時代|えどじだい|Edo dönemi
++ 歴史|れきし|tarih
++ 資料|しりょう|belge
++ 残す|のこす|bırakmak, korumak|残され
+8 説明書{せつめいしょ}に書{か}いてある（とおり）に操作{そうさ}してください。
+= Kullanım kılavuz-u-nda yaz-dığ-ı gibi kullan-ın lütfen.
++ 説明書|せつめいしょ|kullanım kılavuzu
++ 書く|かく|yazmak|書い
++ とおり|とおり|…dığı gibi
++ 操作|そうさ|kullanma, işletme
+9 彼{かれ}は一晩{ひとばん}（にわたって）論文{ろんぶん}を書{か}き続{つづ}けた。
+= O bütün bir gece boyunca tez-i-ni yaz-ma-ya devam et-ti.
++ 一晩|ひとばん|bir gece
++ にわたって|にわたって|… boyunca
++ 論文|ろんぶん|tez, makale
++ 書き続ける|かきつづける|yazmaya devam etmek|書き続け
+10 日本{にほん}に住{す}んでいる（うちに）、日本{にほん}の文化{ぶんか}についてもっと理解{りかい}したい。
+= Japonya-da yaşı-yor-ken, Japon kültür-ü-nü daha çok anla-mak isti-yor-um.
++ 日本|にほん|Japonya
++ 住む|すむ|yaşamak|住ん
++ うちに|うちに|…iken, …dığı sürece (fırsat varken)
++ 文化|ぶんか|kültür
++ 理解|りかい|anlama
+11 専門家{せんもんか}（から見{み}ると）、その説明{せつめい}には問題{もんだい}がある。
+= Uzman-lar açı-sın-dan bakınca, o açıklama-da sorun var.
++ から見ると|からみると|…açısından bakınca|見ると
++ 説明|せつめい|açıklama
+12 彼{かれ}は知識{ちしき}が豊富{ほうふ}な（うえに）、説明{せつめい}も非常{ひじょう}に分{わ}かりやすい。
+= O-nun bilgi-si zengin, üstelik açıklama-lar-ı da son derece anlaşılır.
++ 知識|ちしき|bilgi
++ うえに|うえに|üstelik, …dığı gibi
++ 非常に|ひじょうに|son derece
++ 分かりやすい|わかりやすい|anlaşılır
+13 大学{だいがく}卒業{そつぎょう}（以来{いらい}）、海外{かいがい}で研究{けんきゅう}を続{つづ}けている。
+= Üniversite-den mezun ol-duğ-um-dan beri, yurt dışı-nda araştırma-ya devam ed-iyor-um.
++ 大学|だいがく|üniversite
++ 卒業|そつぎょう|mezuniyet
++ 以来|いらい|…den beri
++ 海外|かいがい|yurt dışı
++ 続ける|つづける|sürdürmek|続け
+14 春{はる}（から）夏{なつ}にかけて、多{おお}くの観光客{かんこうきゃく}がこの地域{ちいき}を訪{おとず}れる。
+= İlkbahar-dan yaz-a kadar-ki dönem-de, çok turist bu bölge-yi ziyaret ed-er.
++ 春|はる|ilkbahar
++ 夏|なつ|yaz
++ にかけて|にかけて|…e kadar (dönem boyunca)
++ 観光客|かんこうきゃく|turist
++ 訪れる|おとずれる|ziyaret etmek
+15 彼{かれ}の机{つくえ}の上{うえ}は本{ほん}（だらけ）だ。
+= O-nun masa-sı-nın üst-ü kitap dolu.
++ 机|つくえ|masa
++ 上|うえ|üst
++ 本|ほん|kitap
++ だらけ|だらけ|…dolu, …ile kaplı
+16 （たとえ）反対{はんたい}されても、私{わたし}はこの研究{けんきゅう}を続{つづ}けるつもりだ。
+= Karşı çık-ıl-sa bile, ben bu araştırma-yı sürdür-me-yi düşün-üyor-um.
++ たとえ|たとえ|…se bile
++ 反対|はんたい|karşı çıkma
++ 私|わたし|ben
+17 読{よ}み（かけ）の本{ほん}を机{つくえ}の上{うえ}に置{お}いたまま出{で}かけてしまった。
+= Yarı-da bırak-tığ-ım kitab-ı masa-nın üst-ü-nde bırak-ıp dışarı çık-tı-m.
++ 読む|よむ|okumak|読み
++ かけ|かけ|yarım kalmış, …mekte olan
++ 置く|おく|koymak|置い
++ 出かける|でかける|dışarı çıkmak|出かけ
+18 この問題{もんだい}については、私{わたし}には判断{はんだん}し（がたい）。
+= Bu sorun hakkında, ben-im karar ver-me-m güç.
++ 判断|はんだん|karar, yargı
++ がたい|がたい|…mesi güç
+19 最近{さいきん}、少{すこ}し疲{つか}れ（気味{ぎみ}）なので、今日{きょう}は早{はや}く寝{ね}ることにした。
+= Son zaman-lar-da biraz yorgun-um, bugün erken yat-ma-ya karar ver-di-m.
++ 最近|さいきん|son zamanlarda
++ 少し|すこし|biraz
++ 疲れる|つかれる|yorulmak|疲れ
++ 気味|ぎみ|biraz …, …e eğilimli
++ 今日|きょう|bugün
++ 早い|はやい|erken|早く
++ 寝る|ねる|uyumak, yatmak
+20 彼{かれ}は何{なに}を言{い}われても気{き}にしない性格{せいかく}だ。
+= O ne söyle-n-se de aldırma-yan bir karakter-dir.
++ 言う|いう|söylemek|言われ
++ 気にする|きにする|aldırmak, kafaya takmak|気にし
++ 性格|せいかく|karakter
+21 研究発表{けんきゅうはっぴょう}の（際{さい}）、必要{ひつよう}な資料{しりょう}をすべて準備{じゅんび}しておいた。
+= Araştırma sunum-u sırasında (kullanmak üzere), gerekli belge-ler-in hepsi-ni önceden hazırla-dı-m.
++ 際|さい|…ırken, …sırasında
++ 準備|じゅんび|hazırlık
+22 この薬{くすり}を飲{の}む（際{さい}に）、必{かなら}ず説明書{せつめいしょ}を確認{かくにん}してください。
+= Bu ilac-ı iç-er-ken, mutlaka kullanım kılavuz-u-nu kontrol ed-in.
++ 薬|くすり|ilaç
++ 飲む|のむ|içmek
++ 必ず|かならず|mutlaka
++ 確認|かくにん|kontrol
+23 何度{なんど}注意{ちゅうい}しても、彼{かれ}は注意{ちゅうい}した（そばから）同{おな}じミスをする。
+= Kaç kez uyar-sam da, o uyar-ır uyar-maz aynı hata-yı yap-ıyor.
++ 何度|なんど|kaç kez
++ 注意|ちゅうい|uyarı
++ そばから|そばから|…ır …maz hemen
++ 同じ|おなじ|aynı
+24 この結果{けっか}から、彼{かれ}が犯人{はんにん}である（に違{ちが}いない）。
+= Bu sonuç-tan, o-nun suçlu ol-duğ-u kesin.
++ 結果|けっか|sonuç
++ 犯人|はんにん|suçlu
++ に違いない|にちがいない|kesinlikle …dir|違いない
+25 日本語{にほんご}が話{はな}せない（からといって）、日本{にほん}で研究{けんきゅう}できないわけではない。
+= Japonca konuş-a-mı-yor diye, Japonya-da araştırma yap-a-ma-z değil.
++ 日本語|にほんご|Japonca
++ 話す|はなす|konuşmak|話せ
++ からといって|からといって|…diye

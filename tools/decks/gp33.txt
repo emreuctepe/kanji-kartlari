@@ -1,0 +1,141 @@
+// 練習問題：～ものか・～ともかく・～かぎりは (練習.pdf s.131–134)
+@ gp33 2年文法 33 | ものか・ともかく・かぎりは
+1 こんなに高{たか}い店{みせ}には、もう二度{にど}と行{い}く（ものか）。
+= Bu kadar pahalı bir dükkân-a, bir daha asla git-me-m.
++ 高い|たかい|pahalı
++ 店|みせ|dükkân
++ 二度と|にどと|bir daha asla|二度と
++ 行く|いく|gitmek
++ ものか|ものか|asla …mam, …r mıyım hiç
+2 結果{けっか}（はともかく）、まず最後{さいご}まで努力{どりょく}してみることが大切{たいせつ}だ。
+= Sonuç bir yana, önce son-a kadar çaba göster-ip gör-mek önemli.
++ 結果|けっか|sonuç
++ はともかく|はともかく|… bir yana, …i bırakalım
++ 最後|さいご|son
++ 努力|どりょく|çaba
++ 大切|たいせつ|önemli
+3 学生{がくせい}である（かぎりは）、勉強{べんきょう}を続{つづ}けなければならない。
+= Öğrenci ol-duk-ça, ders çalış-ma-ya devam et-mek zorunda-sın.
++ 学生|がくせい|öğrenci
++ かぎりは|かぎりは|…dıkça, …dığı sürece
++ 勉強|べんきょう|ders çalışma
++ 続ける|つづける|sürdürmek|続け
+4 あんなにひどいことを言{い}われて、彼{かれ}を許{ゆる}せる（ものか）。
+= O kadar kötü şey-ler söyle-n-dik-ten sonra, o-nu affed-ebil-ir mi-yim hiç.
++ 言う|いう|söylemek|言われ
++ 彼|かれ|o (erkek)
++ 許す|ゆるす|affetmek, izin vermek|許せる
+5 費用{ひよう}（はともかく）、この方法{ほうほう}なら短時間{たんじかん}で調査{ちょうさ}を終{お}えることができる。
+= Masraf bir yana, bu yöntem-le kısa süre-de araştırma-yı bitir-ebil-ir-iz.
++ 費用|ひよう|masraf
++ 方法|ほうほう|yöntem
++ 短時間|たんじかん|kısa süre
++ 調査|ちょうさ|araştırma
++ 終える|おえる|bitirmek
+6 日本{にほん}に住{す}んでいる（かぎりは）、日本{にほん}の法律{ほうりつ}を守{まも}る必要{ひつよう}がある。
+= Japonya-da yaşa-dık-ça, Japonya-nın yasa-lar-ı-na uy-mak gerek.
++ 日本|にほん|Japonya
++ 住む|すむ|yaşamak|住ん
++ 法律|ほうりつ|yasa
++ 守る|まもる|uymak, korumak
++ 必要|ひつよう|gerekli
+7 彼{かれ}が約束{やくそく}を破{やぶ}る（ものか）。彼{かれ}はそんな人{ひと}ではない。
+= O söz-ü-nü bozar mı hiç. O öyle biri değil.
++ 約束|やくそく|söz
++ 破る|やぶる|bozmak, çiğnemek
++ 人|ひと|kişi
+8 成功{せいこう}するかどうか（はともかく）、一度{いちど}挑戦{ちょうせん}してみる価値{かち}はある。
+= Başarılı ol-up ol-ma-mak bir yana, bir kez dene-yip gör-me-ye değer.
++ 成功|せいこう|başarı
++ 一度|いちど|bir kez
++ 挑戦|ちょうせん|deneme
++ 価値|かち|değer
+9 研究者{けんきゅうしゃ}である（かぎりは）、資料{しりょう}の信頼性{しんらいせい}を確認{かくにん}する必要{ひつよう}がある。
+= Araştırmacı ol-duk-ça, belge-ler-in güvenilirliğ-i-ni kontrol et-mek gerek.
++ 研究者|けんきゅうしゃ|araştırmacı
++ 資料|しりょう|belge
++ 信頼性|しんらいせい|güvenilirlik
++ 確認|かくにん|kontrol
+10 こんな失礼{しつれい}な態度{たいど}を二度{にど}と許{ゆる}す（ものか）。
+= Böyle kaba bir tavr-ı bir daha asla affet-me-m.
++ 失礼|しつれい|kaba
++ 態度|たいど|tavır
+11 彼{かれ}の説明{せつめい}が正{ただ}しいかどうか（はともかく）、まず事実{じじつ}を確認{かくにん}する必要{ひつよう}がある。
+= O-nun açıklama-sı-nın doğru ol-up ol-ma-dığ-ı bir yana, önce gerçek-ler-i kontrol et-mek gerek.
++ 説明|せつめい|açıklama
++ 正しい|ただしい|doğru
++ 事実|じじつ|gerçek
+12 こんな難{むずか}しい研究{けんきゅう}を一人{ひとり}で完成{かんせい}させられる（ものか）。
+= Bu kadar zor bir araştırma-yı tek başına tamamla-yabil-ir mi-yim hiç.
++ 難しい|むずかしい|zor
++ 研究|けんきゅう|araştırma
++ 一人|ひとり|tek başına
++ 完成|かんせい|tamamlama
+13 この大学{だいがく}の学生{がくせい}である（かぎりは）、大学{だいがく}の規則{きそく}を守{まも}らなければならない。
+= Bu üniversite-nin öğrenci-si ol-duk-ça, üniversite-nin kural-lar-ı-na uy-mak zorunda-sın.
++ 大学|だいがく|üniversite
++ 規則|きそく|kural
+14 結果{けっか}（はともかく）、この研究{けんきゅう}に取{と}り組{く}んだ経験{けいけん}は無駄{むだ}ではない。
+= Sonuç bir yana, bu araştırma üzerin-de çalış-ma deneyim-i boşa değil.
++ 取り組む|とりくむ|üzerinde çalışmak|取り組ん
++ 経験|けいけん|deneyim
++ 無駄|むだ|boşa, israf
+15 あの人{ひと}がそんな無責任{むせきにん}なことを言{い}う（ものか）。
+= O kişi öyle sorumsuz bir şey söyler mi hiç.
++ 無責任|むせきにん|sorumsuz
+16 日本語{にほんご}が上手{じょうず}かどうか（はともかく）、日本語{にほんご}で発表{はっぴょう}する経験{けいけん}は大切{たいせつ}だ。
+= Japonca-n iyi ol-up ol-ma-ma-sı bir yana, Japonca sunum yap-ma deneyim-i önemli.
++ 日本語|にほんご|Japonca
++ 上手|じょうず|iyi, usta
++ 発表|はっぴょう|sunum
+17 この仕事{しごと}を引{ひ}き受{う}けた（かぎりは）、最後{さいご}まで責任{せきにん}を持{も}ってやりたい。
+= Madem bu iş-i üstlen-di-m, son-a kadar sorumluluk-la yap-mak isti-yor-um.
++ 仕事|しごと|iş
++ 引き受ける|ひきうける|üstlenmek|引き受け
++ 責任|せきにん|sorumluluk
++ 持つ|もつ|taşımak|持っ
+18 こんな不公平{ふこうへい}な制度{せいど}を誰{だれ}が受{う}け入{い}れる（ものか）。
+= Böyle adaletsiz bir sistem-i kim kabul ed-er ki.
++ 不公平|ふこうへい|adaletsiz
++ 制度|せいど|sistem
++ 誰|だれ|kim
++ 受け入れる|うけいれる|kabul etmek
+19 方法{ほうほう}（はともかく）、研究{けんきゅう}の目的{もくてき}を明確{めいかく}にすることが先{さき}だ。
+= Yöntem bir yana, önce araştırma-nın amac-ı-nı netleştir-mek gerek.
++ 目的|もくてき|amaç
++ 明確|めいかく|net, açık
++ 先|さき|önce, öncelik
+20 研究{けんきゅう}を続{つづ}ける（かぎりは）、新{あたら}しい資料{しりょう}を探{さが}し続{つづ}けなければならない。
+= Araştırma-yı sürdür-dük-çe, yeni belge-ler ara-ma-ya devam et-mek zorunda-yım.
++ 新しい|あたらしい|yeni
++ 探す|さがす|aramak|探し
+21 研究方法{けんきゅうほうほう}についてはいろいろな意見{いけん}があるが、その違{ちが}い（はともかく）、一次資料{いちじしりょう}を正確{せいかく}に読{よ}むことは重要{じゅうよう}である。
+= Araştırma yöntem-ler-i hakkında çeşitli görüş-ler var ama, o fark-lar bir yana, birincil kaynak-lar-ı doğru oku-mak önemli-dir.
++ 意見|いけん|görüş
++ 違い|ちがい|fark
++ 一次資料|いちじしりょう|birincil kaynak
++ 正確|せいかく|doğru
++ 読む|よむ|okumak
++ 重要|じゅうよう|önemli
+22 一度{いちど}引{ひ}き受{う}けた仕事{しごと}を途中{とちゅう}で投{な}げ出{だ}す（ものか）。最後{さいご}まで責任{せきにん}を持{も}ってやるつもりだ。
+= Bir kez üstlen-diğ-im iş-i yarı yol-da bırak-ır mı-yım hiç. Son-a kadar sorumluluk-la yap-ma-yı düşün-üyor-um.
++ 途中|とちゅう|yarı yol
++ 投げ出す|なげだす|bırakıp vazgeçmek
+23 大学院生{だいがくいんせい}である（かぎりは）、自分{じぶん}の研究{けんきゅう}テーマについて常{つね}に考{かんが}え、資料{しりょう}を読{よ}み続{つづ}ける必要{ひつよう}がある。
+= Lisansüstü öğrenci ol-duk-ça, kendi araştırma konu-n hakkında sürekli düşün-üp, belge oku-ma-ya devam et-mek gerek.
++ 大学院生|だいがくいんせい|lisansüstü öğrenci
++ 自分|じぶん|kendi
++ 常に|つねに|sürekli
++ 考える|かんがえる|düşünmek|考え
+24 研究費{けんきゅうひ}の問題{もんだい}（はともかく）、現在{げんざい}の研究計画{けんきゅうけいかく}には時間的{じかんてき}な制約{せいやく}がある。
+= Araştırma bütçe-si sorun-u bir yana, şimdi-ki araştırma plan-ı-nda zaman kısıtlama-sı var.
++ 研究費|けんきゅうひ|araştırma bütçesi
++ 問題|もんだい|sorun
++ 現在|げんざい|şimdiki
++ 計画|けいかく|plan
++ 時間的|じかんてき|zaman açısından
++ 制約|せいやく|kısıtlama
+25 彼{かれ}は何度{なんど}失敗{しっぱい}しても、「もう研究{けんきゅう}をやめる（ものか）」と言{い}って、研究{けんきゅう}を続{つづ}けている。
+= O kaç kez başarısız ol-sa da, “araştırma-yı asla bırak-ma-m” diye-rek, araştırma-sı-nı sürdür-üyor.
++ 何度|なんど|kaç kez
++ 失敗|しっぱい|başarısızlık

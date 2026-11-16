@@ -1,0 +1,151 @@
+// 練習問題：～限らず・～どころではない・～に決まっている (練習.pdf s.66–69)
+@ gp16 2年文法 16 | に限らず・どころではない・に決まっている
+1 この問題{もんだい}は日本{にほん}に（限{かぎ}らず）、世界{せかい}の多{おお}くの国{くに}でも見{み}られる。
+= Bu sorun sadece Japonya-da değil, dünya-nın birçok ülke-si-nde de görül-ür.
++ 問題|もんだい|sorun
++ 日本|にほん|Japonya
++ に限らず|にかぎらず|sadece …değil, …de|限らず
++ 世界|せかい|dünya
++ 多く|おおく|çok, birçok
++ 国|くに|ülke
++ 見る|みる|görmek|見られる
+2 明日{あした}は大切{たいせつ}な試験{しけん}があるので、今日{きょう}は遊{あそ}んでいる（どころではない）。
+= Yarın önemli bir sınav-ım var, bugün eğlen-ecek durum-da değil-im.
++ 明日|あした|yarın
++ 大切|たいせつ|önemli
++ 試験|しけん|sınav
++ 今日|きょう|bugün
++ 遊ぶ|あそぶ|eğlenmek, oynamak|遊ん
++ どころではない|どころではない|…ecek durumda değil, …ı bırak
+3 あの人{ひと}がそんな簡単{かんたん}なことを知{し}らない（わけがない）。
+= O kişi-nin öyle basit bir şey-i bil-me-me-si imkânsız.
++ 人|ひと|kişi
++ 簡単|かんたん|basit, kolay
++ 知る|しる|bilmek|知ら
+4 このイベントは学生{がくせい}に（限{かぎ}らず）、一般{いっぱん}の人{ひと}も参加{さんか}できる。
+= Bu etkinliğ-e sadece öğrenci-ler değil, genel halk da katıl-abil-ir.
++ 学生|がくせい|öğrenci
++ 一般|いっぱん|genel, sıradan
++ 参加|さんか|katılma
+5 仕事{しごと}が山{やま}のように残{のこ}っていて、映画{えいが}を見{み}る（どころではない）。
+= İş dağ gibi birik-miş, film izle-yecek durum-da değil-im.
++ 仕事|しごと|iş
++ 山|やま|dağ
++ 残る|のこる|kalmak|残っ
++ 映画|えいが|film
+6 彼{かれ}が約束{やくそく}を忘{わす}れた？そんな（わけがない）。
+= O söz-ü-nü unut-tu mu? Öyle şey ol-a-maz.
++ 彼|かれ|o (erkek)
++ 約束|やくそく|söz, randevu
++ 忘れる|わすれる|unutmak|忘れ
+7 環境問題{かんきょうもんだい}は一{ひと}つの国{くに}に（限{かぎ}らず）、世界全体{せかいぜんたい}で考{かんが}える必要{ひつよう}がある。
+= Çevre sorun-lar-ı-nı tek bir ülke değil, bütün dünya olarak düşün-mek gerek.
++ 環境|かんきょう|çevre
++ 一つ|ひとつ|bir (tane)
++ 全体|ぜんたい|bütün, tamamı
++ 考える|かんがえる|düşünmek
++ 必要|ひつよう|gerekli
+8 こんなに夜遅{よるおそ}くまで電気{でんき}がついている。まだ誰{だれ}かいる（に決{き}まっている）。
+= Gece bu kadar geç saat-e kadar ışık açık. Kesin hâlâ biri var-dır.
++ 夜遅く|よるおそく|gece geç saatte
++ 電気|でんき|elektrik, ışık
++ 誰か|だれか|biri, birisi
++ に決まっている|にきまっている|kesinlikle …dir, …e kesin|決まっている
+9 事故{じこ}が起{お}きたばかりなので、今{いま}は原因{げんいん}を詳{くわ}しく調{しら}べる（どころではない）。
+= Kaza yeni ol-duğ-u için, şimdi sebeb-i ayrıntılı araştır-acak durum-da değil.
++ 事故|じこ|kaza
++ 起きる|おきる|olmak, meydana gelmek|起き
++ 今|いま|şimdi
++ 原因|げんいん|sebep
++ 詳しい|くわしい|ayrıntılı|詳しく
++ 調べる|しらべる|araştırmak
+10 このサービスは国内{こくない}に（限{かぎ}らず）、海外{かいがい}でも利用{りよう}できる。
+= Bu hizmet sadece yurt içi-nde değil, yurt dışı-nda da kullan-ıl-abil-ir.
++ 国内|こくない|yurt içi
++ 海外|かいがい|yurt dışı
++ 利用|りよう|kullanım
+11 最近{さいきん}は若者{わかもの}（に限{かぎ}らず）、高齢者{こうれいしゃ}の間{あいだ}でもスマートフォンの利用{りよう}が増{ふ}えている。
+= Son zaman-lar-da sadece genç-ler değil, yaşlı-lar arasında da akıllı telefon kullanım-ı art-ıyor.
++ 最近|さいきん|son zamanlarda
++ 若者|わかもの|genç
++ 高齢者|こうれいしゃ|yaşlı
++ 間|あいだ|arasında
++ 増える|ふえる|artmak|増え
+12 こんなに忙{いそが}しい時期{じき}に旅行{りょこう}に行{い}く（どころではない）。
+= Bu kadar yoğun bir dönem-de seyahat-e gid-ecek durum-da değil-im.
++ 忙しい|いそがしい|yoğun, meşgul
++ 時期|じき|dönem
++ 旅行|りょこう|seyahat
++ 行く|いく|gitmek
+13 彼{かれ}が犯人{はんにん}だなんて、そんなことは（あるわけがない）。
+= O-nun suçlu ol-ma-sı mı, öyle bir şey ol-a-maz.
++ 犯人|はんにん|suçlu, fail
+14 この問題{もんだい}は大学生{だいがくせい}（に限{かぎ}らず）、高校生{こうこうせい}にも関係{かんけい}がある。
+= Bu sorun sadece üniversite öğrenci-ler-i-ni değil, lise öğrenci-ler-i-ni de ilgilendir-ir.
++ 大学生|だいがくせい|üniversite öğrencisi
++ 高校生|こうこうせい|lise öğrencisi
++ 関係|かんけい|ilgi, ilişki
+15 外{そと}は大雪{おおゆき}だ。今日{きょう}は出{で}かける（どころではない）。
+= Dışarı-da yoğun kar var. Bugün dışarı çık-acak durum-da değil-iz.
++ 外|そと|dışarı
++ 大雪|おおゆき|yoğun kar
++ 出かける|でかける|dışarı çıkmak
+16 あのレストランはいつも客{きゃく}が多{おお}いから、今日{きょう}も混{こ}んでいる（に決{き}まっている）。
+= O restoran-ın her zaman müşteri-si çok, bugün de kesin kalabalık-tır.
++ 客|きゃく|müşteri, misafir
++ 多い|おおい|çok
++ 混む|こむ|kalabalık olmak|混ん
+17 日本{にほん}（に限{かぎ}らず）、韓国{かんこく}や中国{ちゅうごく}でも少子化{しょうしか}が社会問題{しゃかいもんだい}になっている。
+= Sadece Japonya değil, Kore ve Çin-de de doğum oran-ı düşüş-ü toplumsal sorun ol-uyor.
++ 韓国|かんこく|Güney Kore
++ 中国|ちゅうごく|Çin
++ 少子化|しょうしか|doğum oranının düşmesi
++ 社会|しゃかい|toplum
+18 仕事{しごと}が忙{いそが}しすぎて、昼{ひる}ご飯{はん}をゆっくり食{た}べる（どころではない）。
+= İş çok yoğun, öğle yemeğ-i-ni rahat-ça ye-yecek durum-da değil-im.
++ 昼ご飯|ひるごはん|öğle yemeği|昼ご飯
++ 食べる|たべる|yemek
+19 あんなに努力{どりょく}した彼{かれ}が試験{しけん}に合格{ごうかく}しない（わけがない）。
+= O kadar çaba göster-en o-nun sınav-ı geç-me-me-si imkânsız.
++ 努力|どりょく|çaba
++ 合格|ごうかく|sınavı geçme
+20 この問題{もんだい}は一部{いちぶ}の専門家{せんもんか}（に限{かぎ}らず）、社会全体{しゃかいぜんたい}で議論{ぎろん}する必要{ひつよう}がある。
+= Bu sorun-u sadece bazı uzman-lar değil, bütün toplum olarak tartış-mak gerek.
++ 一部|いちぶ|bir kısım, bazı
++ 専門家|せんもんか|uzman
++ 議論|ぎろん|tartışma
+21 社会{しゃかい}の高齢化{こうれいか}は日本{にほん}（に限{かぎ}らず）、多{おお}くの先進国{せんしんこく}が直面{ちょくめん}している問題{もんだい}である。
+= Toplum-un yaşlan-ma-sı sadece Japonya-nın değil, birçok gelişmiş ülke-nin karşı karşıya ol-duğ-u bir sorun-dur.
++ 高齢化|こうれいか|toplumun yaşlanması
++ 先進国|せんしんこく|gelişmiş ülke
++ 直面|ちょくめん|karşı karşıya kalma
+22 来週{らいしゅう}は卒業論文{そつぎょうろんぶん}の提出期限{ていしゅつきげん}だ。今{いま}の私{わたし}には、友達{ともだち}と遊{あそ}びに行{い}く（どころではない）。
+= Gelecek hafta bitirme tez-i-nin teslim tarih-i. Şimdi-ki ben-im için, arkadaş-lar-la gez-me-ye git-mek söz konusu değil.
++ 来週|らいしゅう|gelecek hafta
++ 卒業論文|そつぎょうろんぶん|bitirme tezi
++ 提出|ていしゅつ|teslim
++ 期限|きげん|son tarih, süre
++ 私|わたし|ben
++ 友達|ともだち|arkadaş
+23 彼{かれ}は何年{なんねん}もこの分野{ぶんや}を研究{けんきゅう}してきたのだから、この問題{もんだい}について何{なに}も知{し}らない（はずがない）。
+= O yıl-lar-ca bu alan-ı araştır-dığ-ı-na göre, bu sorun hakkında hiçbir şey bil-me-me-si ol-a-maz.
++ 何年も|なんねんも|yıllarca
++ 分野|ぶんや|alan
++ 研究|けんきゅう|araştırma
++ はずがない|はずがない|…olamaz, …mesi mümkün değil
+24 最近{さいきん}では、教育{きょういく}の問題{もんだい}は学校{がっこう}（に限{かぎ}らず）、家庭{かてい}や地域社会{ちいきしゃかい}の役割{やくわり}も重要{じゅうよう}だと考{かんが}えられている。
+= Son zaman-lar-da, eğitim sorun-u-nda sadece okul değil, aile ve yerel toplum-un rol-ü de önemli diye düşün-ül-üyor.
++ 教育|きょういく|eğitim
++ 学校|がっこう|okul
++ 家庭|かてい|aile, ev
++ 地域社会|ちいきしゃかい|yerel toplum
++ 役割|やくわり|rol, görev
++ 重要|じゅうよう|önemli
+25 「田中{たなか}さん、今日{きょう}の会議{かいぎ}に来{く}るかな。」「昨日{きのう}、必{かなら}ず参加{さんか}すると言{い}っていたから、来{く}る（に決{き}まっている）よ。」
+= “Tanaka, bugün-kü toplantı-ya gel-ir mi acaba?” “Dün, kesinlikle katıl-acağ-ı-nı söylü-yor-du, kesin gel-ir.”
++ 田中|たなか|Tanaka (soyadı)
++ 会議|かいぎ|toplantı
++ 来る|くる|gelmek
++ 昨日|きのう|dün
++ 必ず|かならず|kesinlikle
++ 言う|いう|söylemek|言っ

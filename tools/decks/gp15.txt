@@ -1,0 +1,162 @@
+// 練習問題：～末に・～べき・～に限る（～に限って） (練習.pdf s.62–65)
+@ gp15 2年文法 15 | 末に・べき・に限る
+1 家族{かぞく}と何度{なんど}も話{はな}し合{あ}った（末{すえ}に）、海外{かいがい}で働{はたら}くことを決{き}めた。
+= Aile-m-le defalarca görüş-tük-ten sonra sonunda, yurt dışı-nda çalış-ma-ya karar ver-di-m.
++ 家族|かぞく|aile
++ 何度も|なんども|defalarca
++ 話し合う|はなしあう|görüşmek, konuşmak|話し合っ
++ 末に|すえに|(uzun süre …)sonunda|末に
++ 海外|かいがい|yurt dışı
++ 働く|はたらく|çalışmak
++ 決める|きめる|karar vermek|決め
+2 人{ひと}の立場{たちば}を考{かんが}えてから、自分{じぶん}の意見{いけん}を言{い}う（べき）だ。
+= Karşı-n-daki-nin konum-u-nu düşün-dük-ten sonra, kendi görüş-ün-ü söyle-meli-sin.
++ 人|ひと|insan; başkası
++ 立場|たちば|konum, durum
++ 考える|かんがえる|düşünmek|考え
++ 自分|じぶん|kendi
++ 意見|いけん|görüş
++ 言う|いう|söylemek
++ べき|べき|…meli, …mesi gerekir
+3 疲{つか}れたときは、何{なに}も考{かんが}えずにゆっくり休{やす}む（に限{かぎ}る）。
+= Yorgun ol-duğ-un zaman, hiçbir şey düşün-me-den rahat-ça dinlen-mek-ten iyisi yok.
++ 疲れる|つかれる|yorulmak|疲れ
++ 休む|やすむ|dinlenmek
++ に限る|にかぎる|…mekten iyisi yoktur|限る
+4 急{いそ}いでいる日{ひ}に（限{かぎ}って）、電車{でんしゃ}が遅{おく}れる。
+= Tam da acele-m ol-an gün-ler-de, tren gecik-ir.
++ 急ぐ|いそぐ|acele etmek|急い
++ 日|ひ|gün
++ に限って|にかぎって|tam da …de (beklenmedik biçimde)|限って
++ 電車|でんしゃ|tren
++ 遅れる|おくれる|gecikmek|遅れる
+5 長年{ながねん}研究{けんきゅう}を続{つづ}けた（末{すえ}に）、ようやく新{あたら}しい方法{ほうほう}を発見{はっけん}した。
+= Uzun yıl-lar araştırma-yı sürdür-dük-ten sonra, nihayet yeni bir yöntem keşfet-ti.
++ 長年|ながねん|uzun yıllar
++ 研究|けんきゅう|araştırma
++ 続ける|つづける|sürdürmek|続け
++ 新しい|あたらしい|yeni
++ 方法|ほうほう|yöntem
++ 発見|はっけん|keşif
+6 約束{やくそく}した以上{いじょう}、最後{さいご}まで責任{せきにん}を持{も}つ（べきだ）。
+= Söz ver-diğ-in-e göre, son-a kadar sorumluluk taşı-malı-sın.
++ 約束|やくそく|söz
++ 以上|いじょう|…dığına göre
++ 最後|さいご|son
++ 責任|せきにん|sorumluluk
++ 持つ|もつ|taşımak, sahip olmak
+7 大事{だいじ}な試験{しけん}の日{ひ}に（限{かぎ}って）、朝寝坊{あさねぼう}してしまった。
+= Tam da önemli sınav gün-ü, sabah uyuya kal-dı-m.
++ 大事|だいじ|önemli
++ 試験|しけん|sınav
++ 朝寝坊|あさねぼう|sabah uyuya kalma
+8 彼{かれ}に（限{かぎ}って）、そんな無責任{むせきにん}なことをするはずがない。
+= O asla, öyle sorumsuz bir şey yap-ma-z.
++ 彼|かれ|o (erkek)
++ 無責任|むせきにん|sorumsuz
+9 何度{なんど}も失敗{しっぱい}した（末{すえ}に）、ついに目標{もくひょう}を達成{たっせい}することができた。
+= Defalarca başarısız ol-duk-tan sonra, sonunda hedef-im-e ulaş-abil-di-m.
++ 失敗|しっぱい|başarısızlık
++ 目標|もくひょう|hedef
++ 達成|たっせい|başarma, ulaşma
+10 健康{けんこう}のためには、無理{むり}をしない（に限{かぎ}る）。
+= Sağlık için, kendi-ni zorla-ma-mak-tan iyisi yok.
++ 健康|けんこう|sağlık
++ 無理|むり|zorlama, aşırılık
+11 長{なが}い時間{じかん}をかけて検討{けんとう}した（末{すえ}に）、新{あたら}しい計画{けいかく}を採用{さいよう}することにした。
+= Uzun zaman harca-yıp değerlendir-dik-ten sonra, yeni plan-ı benimse-me-ye karar ver-di-k.
++ 長い|ながい|uzun
++ 時間|じかん|zaman
++ 検討|けんとう|inceleme, değerlendirme
++ 計画|けいかく|plan
++ 採用|さいよう|benimseme; işe alma
+12 社会人{しゃかいじん}として、約束{やくそく}の時間{じかん}を守{まも}る（べきだ）。
+= Çalışan bir yetişkin olarak, randevu saat-i-ne uy-malı-sın.
++ 社会人|しゃかいじん|çalışan yetişkin, toplumun bir ferdi
++ 守る|まもる|uymak, korumak
+13 風邪{かぜ}をひいたときは、薬{くすり}を飲{の}むだけでなく、十分{じゅうぶん}に休{やす}む（に限{かぎ}る）。
+= Nezle ol-duğ-un zaman, sadece ilaç iç-mek değil, iyice dinlen-mek-ten iyisi yok.
++ 風邪|かぜ|soğuk algınlığı, nezle
++ 薬|くすり|ilaç
++ 飲む|のむ|içmek
++ 十分|じゅうぶん|yeterince, iyice
+14 なぜか私{わたし}が急{いそ}いでいるとき（に限{かぎ}って）、信号{しんごう}が赤{あか}になる。
+= Nedense tam ben acele et-tiğ-im zaman, trafik ışığ-ı kırmızı-ya döner.
++ 私|わたし|ben
++ 信号|しんごう|trafik ışığı
++ 赤|あか|kırmızı
+15 何年{なんねん}も努力{どりょく}した（末{すえ}に）、ついに夢{ゆめ}を実現{じつげん}することができた。
+= Yıl-lar-ca çaba göster-dik-ten sonra, sonunda hayal-im-i gerçekleştir-ebil-di-m.
++ 何年も|なんねんも|yıllarca
++ 努力|どりょく|çaba
++ 夢|ゆめ|rüya, hayal
++ 実現|じつげん|gerçekleştirme
+16 この問題{もんだい}は、感情的{かんじょうてき}に判断{はんだん}するのではなく、冷静{れいせい}に考{かんが}える（べき）だ。
+= Bu sorun-da, duygusal karar ver-mek yerine, sakin-ce düşün-mek gerek.
++ 問題|もんだい|sorun
++ 感情的|かんじょうてき|duygusal
++ 判断|はんだん|karar, yargı
++ 冷静|れいせい|sakin, soğukkanlı
+17 「今日{きょう}は疲{つか}れたね。」「うん。こんな日{ひ}は家{いえ}でゆっくりする（に限{かぎ}る）よ。」
+= “Bugün yorul-du-k, değil mi?” “Evet. Böyle gün-ler-de ev-de dinlen-mek-ten iyisi yok.”
++ 今日|きょう|bugün
++ 家|いえ|ev
+18 何度{なんど}も話{はな}し合{あ}った（末{すえ}に）、両者{りょうしゃ}は最終的{さいしゅうてき}に合意{ごうい}に達{たっ}した。
+= Defalarca görüş-tük-ten sonra, iki taraf sonunda uzlaşma-ya var-dı.
++ 両者|りょうしゃ|iki taraf
++ 最終的|さいしゅうてき|nihai olarak
++ 合意|ごうい|uzlaşma
++ 達する|たっする|ulaşmak|達し
+19 「田中{たなか}さんが資料{しりょう}をなくしたらしいよ。」「え？田中{たなか}さん（に限{かぎ}って）、そんな大事{だいじ}な資料{しりょう}をなくすはずがないよ。」
+= “Tanaka belge-ler-i kaybet-miş galiba.” “Ne? Tanaka asla, öyle önemli belge-ler-i kaybet-mez.”
++ 田中|たなか|Tanaka (soyadı)
++ 資料|しりょう|belge
+20 公共{こうきょう}の場所{ばしょ}では、他{ほか}の人{ひと}に迷惑{めいわく}をかけるような行動{こうどう}は慎{つつし}む（べきだ）。
+= Kamusal yer-ler-de, başka insan-lar-ı rahatsız ed-ecek davranış-lar-dan kaçın-malı-yız.
++ 公共|こうきょう|kamu, kamusal
++ 場所|ばしょ|yer
++ 他|ほか|başka
++ 迷惑|めいわく|rahatsızlık, zahmet
++ 行動|こうどう|davranış, eylem
++ 慎む|つつしむ|kaçınmak, sakınmak
+21 新{あたら}しい政策{せいさく}について専門家{せんもんか}や関係者{かんけいしゃ}が長期間{ちょうきかん}にわたって議論{ぎろん}を重{かさ}ねた（末{すえ}に）、最終的{さいしゅうてき}な方針{ほうしん}が決定{けってい}された。
+= Yeni politika hakkında uzman-lar ve ilgili-ler uzun süre boyunca tartış-tık-tan sonra, nihai yönelim kararlaştır-ıl-dı.
++ 政策|せいさく|politika
++ 専門家|せんもんか|uzman
++ 関係者|かんけいしゃ|ilgili kişiler
++ 長期間|ちょうきかん|uzun süre
++ 議論|ぎろん|tartışma
++ 重ねる|かさねる|tekrarlamak|重ね
++ 方針|ほうしん|yönelim, politika
++ 決定|けってい|karar
+22 研究者{けんきゅうしゃ}は、自分{じぶん}の主張{しゅちょう}に都合{つごう}のいい資料{しりょう}だけを取{と}り上{あ}げるのではなく、反対{はんたい}の意見{いけん}についても十分{じゅうぶん}に検討{けんとう}する（べき）だ。
+= Araştırmacı, kendi iddia-sı-na uygun düş-en kaynak-lar-ı ele al-mak yerine, karşı görüş-ler-i de iyice değerlendir-meli-dir.
++ 研究者|けんきゅうしゃ|araştırmacı
++ 主張|しゅちょう|iddia
++ 都合|つごう|uygunluk, işine gelme
++ 取り上げる|とりあげる|ele almak
++ 反対|はんたい|karşı, muhalefet
+23 「大事{だいじ}な発表{はっぴょう}があるのに、どうして昨日{きのう}寝{ね}なかったの？」「発表{はっぴょう}の準備{じゅんび}が終{お}わらなくて。でも、こんなときは早{はや}く寝{ね}る（に限{かぎ}る）ね。」
+= “Önemli sunum-un var-ken, dün neden uyu-ma-dı-n?” “Sunum hazırlığ-ı bit-me-di. Ama, böyle zaman-lar-da erken yat-mak-tan iyisi yok.”
++ 発表|はっぴょう|sunum
++ 昨日|きのう|dün
++ 寝る|ねる|uyumak|寝
++ 準備|じゅんび|hazırlık
++ 終わる|おわる|bitmek|終わら
++ 早い|はやい|erken|早く
+24 普段{ふだん}は忘{わす}れ物{もの}などしない彼女{かのじょ}が、なぜか重要{じゅうよう}な会議{かいぎ}の日{ひ}（に限{かぎ}って）、必要{ひつよう}な書類{しょるい}を家{いえ}に忘{わす}れてきた。
+= Normal-de hiç eşya unut-ma-yan o (kadın), nedense tam da önemli toplantı gün-ü, gerekli belge-ler-i ev-de unut-up gel-di.
++ 普段|ふだん|normalde, genellikle
++ 忘れ物|わすれもの|unutulan eşya
++ 彼女|かのじょ|o (kadın)
++ 重要|じゅうよう|önemli
++ 会議|かいぎ|toplantı
++ 必要|ひつよう|gerekli
++ 書類|しょるい|belge, evrak
++ 忘れる|わすれる|unutmak|忘れ
+25 この問題{もんだい}については、関係者{かんけいしゃ}が何度{なんど}も協議{きょうぎ}を重{かさ}ねた（末{すえ}に）、現時点{げんじてん}では結論{けつろん}を出{だ}さないことになった。
+= Bu sorun hakkında, ilgili-ler defalarca görüş-tük-ten sonra, şu aşama-da sonuç-a bağla-ma-ma karar-ı alın-dı.
++ 協議|きょうぎ|görüşme, müzakere
++ 現時点|げんじてん|şu an, şu aşama
++ 結論|けつろん|sonuç, karar
++ 出す|だす|çıkarmak, vermek|出さ

@@ -1,0 +1,1253 @@
+// Edebiyat bilimine giriş: ders okumaları. Cümleler kaynaklarından olduğu gibi alındı (başlıklar, eser listeleri, kaynakça ve İngilizce alıntı hariç).
+// 1–88: 「漱石も考えた」; 89–: 小野正嗣「文学を学ぶことの意味」(2011/6/17, 資料1).
+@ edeb Edebiyat bilimine giriş
+// ── 漱石も考えた ──
+1 文学{ぶんがく}とは何{なに}か、文学{ぶんがく}を学{まな}ぶことは役{やく}にたつのか。文学{ぶんがく}の研究{けんきゅう}を通{とお}して何{なに}を得{え}ることができるのか。そもそもなぜ文学{ぶんがく}を学{まな}ぶのか。
+= Edebiyat ne-dir, edebiyat öğren-mek işe yar-ar mı? Edebiyat araştırma-sı yoluyla ne elde ed-ebil-ir-iz? Hem zaten neden edebiyat öğren-ir-iz?
++ 文学|ぶんがく|edebiyat
++ 学ぶ|まなぶ|öğrenmek, tahsil etmek|学ぶ
++ 役にたつ|やくにたつ|işe yaramak, faydalı olmak|役にたつ
++ 研究|けんきゅう|araştırma, inceleme
++ 通す|とおす|geçirmek (…を通して: …yoluyla)|通して
++ 得る|える|elde etmek, kazanmak|得る
+2 これまで何度{なんど}か作品{さくひん}として登場{とうじょう}してきた漱石{そうせき}もまた、この問{と}いを考{かんが}え続{つづ}けた一人{ひとり}です。
+= Şimdiye kadar birkaç kez eser olarak karşı-mız-a çık-mış ol-an Sōseki de bu soru-yu düşün-meye devam et-miş biri-dir.
++ 何度|なんど|kaç kez (何度か: birkaç kez)
++ 作品|さくひん|eser, yapıt
++ 登場|とうじょう|sahneye çıkma, ortaya çıkma
++ 漱石|そうせき|(Natsume) Sōseki
++ 問い|とい|soru|問い
++ 考える|かんがえる|düşünmek|考え
++ 続ける|つづける|sürdürmek (fiil+続ける: …maya devam etmek)|続け
+3 夏目{なつめ}漱石{そうせき}は、若{わか}い頃{ころ}から漢文{かんぶん}に親{した}しみ、自分{じぶん}で漢詩{かんし}を作{つく}ることができました。
+= Natsume Sōseki genç yaş-ların-dan beri kanbun-a (klasik Çince metin) aşina-ydı ve kendi-si kanshi (Çince şiir) yaz-abil-iyor-du.
++ 若い|わかい|genç|若い
++ 頃|ころ|zaman, sıra (若い頃: gençken)
++ 漢文|かんぶん|kanbun, klasik Çince metin
++ 親しむ|したしむ|aşina olmak, yakınlık duymak|親しみ
++ 自分|じぶん|kendi, kendisi
++ 漢詩|かんし|kanshi, Çince yazılmış şiir
++ 作る|つくる|yapmak; (şiir) yazmak|作る
+4 友人{ゆうじん}の正岡{まさおか}子規{しき}から俳句{はいく}の手{て}ほどきを受{う}けていて、東洋{とうよう}の詩歌{しいか}や文学{ぶんがく}に造詣{ぞうけい}が深{ふか}い人{ひと}でした。
+= Arkadaş-ı Masaoka Shiki-den haiku-nun temel-ler-i-ni öğren-miş-ti ve Doğu şiir-i-ne ve edebiyat-ı-na derin vukufiyet-i ol-an biri-ydi.
++ 友人|ゆうじん|arkadaş, dost
++ 正岡子規|まさおかしき|Masaoka Shiki (haiku şairi)|正岡子規
++ 俳句|はいく|haiku
++ 手ほどき|てほどき|ilk eğitim, temel bilgileri öğretme
++ 受ける|うける|almak, görmek|受け
++ 東洋|とうよう|Doğu, Asya
++ 詩歌|しいか|şiir, şiirler
++ 造詣|ぞうけい|derin bilgi, vukufiyet (造詣が深い: …de derin bilgi sahibi)
++ 深い|ふかい|derin|深い
+5 加{くわ}えて、東京{とうきょう}帝国{ていこく}大学{だいがく}文科{ぶんか}大学{だいがく}では英文{えいぶん}学科{がっか}に所属{しょぞく}し、英語{えいご}と言{い}うことばと、そのことばを駆使{くし}しながら生{う}み出{だ}される英文学{えいぶんがく}に深{ふか}く触{ふ}れることになりました。
+= Buna ek olarak, Tokyo İmparatorluk Üniversite-si Edebiyat Fakülte-si-nde İngiliz Edebiyat-ı bölüm-ü-ne bağlı ol-du ve İngilizce de-n-en dil-e ve o dil-i ustalıkla kullan-arak ortaya kon-an İngiliz edebiyat-ı-na derinden temas et-ti.
++ 加える|くわえる|eklemek (加えて: ayrıca, buna ek olarak)|加えて
++ 帝国|ていこく|imparatorluk
++ 大学|だいがく|üniversite
++ 文科|ぶんか|edebiyat/beşeri bilimler bölümü
++ 学科|がっか|bölüm (üniversitede)
++ 所属|しょぞく|bağlı olma, mensubiyet
++ 英語|えいご|İngilizce
++ 駆使|くし|ustalıkla kullanma
++ 生み出す|うみだす|ortaya çıkarmak, üretmek|生み出さ
++ 英文学|えいぶんがく|İngiliz edebiyatı|英文学#2
++ 触れる|ふれる|dokunmak, temas etmek|触れる
+6 イギリス留学{りゅうがく}中{ちゅう}には英語{えいご}を学{まな}ぶ中{なか}で、当時{とうじ}のヨーロッパで流行{りゅうこう}していた心理学{しんりがく}や歴史{れきし}、精神{せいしん}分析学{ぶんせきがく}、社会学{しゃかいがく}、文化{ぶんか}人類学{じんるいがく}など、様々{さまざま}な学問{がくもん}に触{ふ}れ、多{おお}くの文献{ぶんけん}を読{よ}みあさっています。
+= İngiltere-de-ki öğrenim-i sırasında İngilizce öğren-ir-ken, o zaman-ki Avrupa-da moda ol-an psikoloji, tarih, psikanaliz, sosyoloji, kültürel antropoloji gibi çeşitli bilim dal-lar-ı-yla tanış-ıp pek çok kaynak-ı didik didik oku-muş-tur.
++ 留学|りゅうがく|yurt dışında öğrenim
++ 当時|とうじ|o zaman, o dönem
++ 流行|りゅうこう|moda, yaygınlık
++ 心理学|しんりがく|psikoloji
++ 歴史|れきし|tarih
++ 精神分析学|せいしんぶんせきがく|psikanaliz|精神分析学
++ 社会学|しゃかいがく|sosyoloji
++ 文化人類学|ぶんかじんるいがく|kültürel antropoloji|文化人類学
++ 様々|さまざま|çeşitli, türlü türlü
++ 学問|がくもん|bilim, ilim
++ 文献|ぶんけん|kaynak, literatür
++ 読みあさる|よみあさる|(kitap) didik didik okumak, okuyup durmak|読みあさって
+7 当然{とうぜん}の成{な}り行{ゆ}きとして、大学{だいがく}・大学院{だいがくいん}在学{ざいがく}中{ちゅう}に突{つ}き当{あ}たった「文学{ぶんがく}とは何{なに}か」「文学{ぶんがく}を学{まな}ぶ意味{いみ}とは何{なに}か」という問{と}いに真{ま}っ向{こう}から向{む}き会{あ}わざるを得{え}なかったのであろう。
+= Doğal bir gidişat olarak, üniversite ve lisansüstü öğrenim-i sırasında karşılaş-tığ-ı "Edebiyat ne-dir?" ve "Edebiyat öğren-me-nin anlam-ı ne-dir?" soru-lar-ı-yla doğrudan yüzleş-mek zorunda kal-mış ol-sa gerek.
++ 当然|とうぜん|doğal, elbette
++ 成り行き|なりゆき|gidişat, olayların seyri
++ 大学院|だいがくいん|lisansüstü (yüksek lisans/doktora)
++ 在学|ざいがく|öğrenci olarak okulda bulunma
++ 突き当たる|つきあたる|(soruna) çarpmak, karşılaşmak|突き当たった
++ 意味|いみ|anlam
++ 真っ向|まっこう|tam karşı (真っ向から: doğrudan, açıkça)
++ 向き合う|むきあう|yüz yüze gelmek, yüzleşmek|向き会わ
+8 漱石{そうせき}が切実{せつじつ}に文学{ぶんがく}の正体{しょうたい}を求{もと}め続{つづ}けた理由{りゆう}がもう一{ひと}つある。
+= Sōseki-nin edebiyat-ın gerçek mahiyet-i-ni içtenlikle ara-maya devam et-me-si-nin bir neden-i daha var.
++ 切実|せつじつ|içten, can yakıcı, ciddi
++ 正体|しょうたい|asıl kimlik, gerçek mahiyet
++ 求める|もとめる|aramak, istemek|求め
++ 理由|りゆう|neden, sebep
+9 先{さき}に触{ふ}れたように、「文学{ぶんがく}がことばによる芸術{げいじゅつ}全般{ぜんぱん}」を指{さ}すこととなり、最{もっと}も新{あたら}しい学問{がくもん}として認{みと}められはじめたのは20世紀{せいき}初頭{しょとう}、漱石{そうせき}がイギリスに留学{りゅうがく}したのは1900年{ねん}、19世紀{せいき}最後{さいご}の年{とし}でした。
+= Daha önce değin-diğ-imiz gibi "edebiyat"-ın "dil-le yapıl-an sanat-ın tümü"-nü ifade et-me-ye başla-yıp en yeni bilim dal-ı olarak kabul gör-me-ye başla-dığ-ı zaman 20. yüzyıl-ın başlar-ı-ydı; Sōseki-nin İngiltere-ye öğrenim için git-tiğ-i yıl ise 1900, yani 19. yüzyıl-ın son yıl-ı-ydı.
++ 先に|さきに|daha önce|先に
++ 芸術|げいじゅつ|sanat
++ 全般|ぜんぱん|tümü, genel
++ 指す|さす|işaret etmek, ifade etmek|指す
++ 最も|もっとも|en|最も
++ 新しい|あたらしい|yeni|新しい
++ 認める|みとめる|kabul etmek, tanımak|認められ
++ 世紀|せいき|yüzyıl
++ 初頭|しょとう|başı, başlangıcı
++ 最後|さいご|son
+10 漱石{そうせき}の生{い}きた時代{じだい}、「文学{ぶんがく}とは何{なに}か」という問{と}いは、新{あたら}しい概念{がいねん}が成立{せいりつ}した時代{じだい}にふさわしい、最新{さいしん}のテーマだったのです。
+= Sōseki-nin yaşa-dığ-ı dönem-de "Edebiyat ne-dir?" soru-su, yeni bir kavram-ın ortaya çık-tığ-ı bir dönem-e yakış-an, en güncel konu-ydu.
++ 生きる|いきる|yaşamak|生き
++ 時代|じだい|dönem, çağ
++ 概念|がいねん|kavram
++ 成立|せいりつ|oluşma, kurulma, ortaya çıkma
++ 最新|さいしん|en yeni, en güncel
+11 漱石{そうせき}は留学{りゅうがく}中{ちゅう}に膨大{ぼうだい}な数{かず}の文献{ぶんけん}を読{よ}み、ノートをとり、「文学{ぶんがく}とは何{なに}か」に向{む}き合{あ}い、考{かんが}え続{つづ}けます。
+= Sōseki yurt dışı öğrenim-i sırasında muazzam sayı-da kaynak oku-r, not al-ır, "Edebiyat ne-dir?" soru-su-yla yüzleş-ir ve düşün-me-yi sürdür-ür.
++ 膨大|ぼうだい|muazzam, devasa
++ 数|かず|sayı
+12 そして、その成果{せいか}は、帰国{きこく}後{ご}、東京{とうきょう}帝国{ていこく}大学{だいがく}文科{ぶんか}大学{だいがく}英文{えいぶん}学科{がっか}で、「英文学{えいぶんがく}講義{こうぎ}」として約{やく}2年間{ねんかん}講義{こうぎ}され、1907年{ねん}(明治{めいじ}40年{ねん})「文学論{ぶんがくろん}」として出版{しゅっぱん}されました。
+= Ve bu çalışma-nın sonuç-lar-ı, yurda dön-üş-ün-den sonra Tokyo İmparatorluk Üniversite-si Edebiyat Fakülte-si İngiliz Edebiyat-ı bölüm-ü-nde "İngiliz Edebiyat-ı Ders-ler-i" olarak yaklaşık 2 yıl ders olarak anlat-ıl-dı ve 1907-de (Meiji 40) "Bungakuron" (Edebiyat Kuram-ı) adı-yla yayımla-n-dı.
++ 成果|せいか|sonuç, ürün, kazanım
++ 帰国|きこく|yurda dönüş
++ 講義|こうぎ|ders, konferans
++ 約|やく|yaklaşık
++ 明治|めいじ|Meiji dönemi (1868–1912)
++ 文学論|ぶんがくろん|edebiyat kuramı; Sōseki'nin "Bungakuron" eseri
++ 出版|しゅっぱん|yayımlama
+13 「文学論{ぶんがくろん}」はまさに、「文学{ぶんがく}とは何{なに}か」（漱石{そうせき}のことばでは、文学{ぶんがく}とはいかなるものぞ）と言{い}う問{と}いから始{はじ}まります。
+= "Bungakuron" tam da "Edebiyat ne-dir?" (Sōseki-nin söz-ler-i-yle "edebiyat nasıl bir şey-dir?") soru-su-yla başla-r.
++ 始まる|はじまる|başlamak|始まり
+14 それを考{かんが}える際{さい}の一{ひと}つの方法{ほうほう}として、人類{じんるい}が古代{こだい}から蓄積{ちくせき}してきたLiterature＝文献{ぶんけん}を「神話{しんわ}」「叙事詩{じょじし}」「叙情詩{じょじょうし}」「小説{しょうせつ}」といったジャンル（種類{しゅるい}・様式{ようしき}）に振{ふ}り分{わ}け、研究{けんきゅう}するというものがあります。
+= Bunu düşün-ür-ken kullan-ıl-an yöntem-ler-den biri, insanlığ-ın eski çağ-lar-dan beri biriktir-diğ-i Literature = yazılı kaynak-lar-ı "mit", "destan", "lirik şiir", "roman" gibi tür-ler-e (çeşit, biçim) ayır-ıp incele-mek-tir.
++ 際|さい|…ırken, …dığı zaman
++ 方法|ほうほう|yöntem
++ 人類|じんるい|insanlık
++ 古代|こだい|eski çağ, antik dönem
++ 蓄積|ちくせき|biriktirme, birikim
++ 神話|しんわ|mit, mitoloji
++ 叙事詩|じょじし|destan, epik şiir
++ 叙情詩|じょじょうし|lirik şiir
++ 小説|しょうせつ|roman, öykü
++ 種類|しゅるい|tür, çeşit
++ 様式|ようしき|biçim, üslup
++ 振り分ける|ふりわける|ayırmak, dağıtmak, sınıflamak|振り分け
+15 けれども漱石{そうせき}はそうしませんでした。作品{さくひん}を読{よ}んだときに読者{どくしゃ}が感{かん}じるもの、つまり作品{さくひん}によって引{ひ}き起{お}こされる人間{にんげん}の情緒{じょうちょ}、読者{どくしゃ}の心理{しんり}状態{じょうたい}に着目{ちゃくもく}したのです。
+= Ama Sōseki öyle yap-ma-dı. Eser-i oku-duğ-u-muz-da okur-un hisset-tiğ-i şey-e, yani eser-in uyandır-dığ-ı insan duygu-lar-ı-na, okur-un ruh hal-i-ne dikkat-i-ni ver-di.
++ 読者|どくしゃ|okur
++ 感じる|かんじる|hissetmek|感じる
++ 引き起こす|ひきおこす|yol açmak, uyandırmak|引き起こさ
++ 人間|にんげん|insan
++ 情緒|じょうちょ|duygu, his
++ 心理|しんり|ruh hali, psikoloji
++ 状態|じょうたい|durum, hal
++ 着目|ちゃくもく|dikkat etme, odaklanma
+16 漱石{そうせき}は、面白{おもしろ}いとか、悲{かな}しいとか、楽{たの}しいとか、気味{きみ}が悪{わる}いとか、怖{こわ}いとか、落{お}ち着{つ}かないとか、ウザイとか、さまざまに感{かん}じること、そうした効果{こうか}・役割{やくわり}を持{も}つものこそが「文学{ぶんがく}」であると定義{ていぎ}しました。
+= Sōseki, ilginç, üzücü, eğlenceli, ürkütücü, korkutucu, huzursuz edici, sinir bozucu gibi çeşit çeşit hisset-tir-me, işte böyle bir etki ve işlev-e sahip ol-an şey-in "edebiyat" ol-duğ-u-nu tanımla-dı.
++ 面白い|おもしろい|ilginç, eğlenceli|面白い
++ 悲しい|かなしい|üzücü, hüzünlü|悲しい
++ 楽しい|たのしい|keyifli, eğlenceli|楽しい
++ 気味が悪い|きみがわるい|ürkütücü, tekinsiz|気味が悪い
++ 怖い|こわい|korkutucu|怖い
++ 落ち着く|おちつく|sakinleşmek (落ち着かない: huzursuz)|落ち着か
++ 効果|こうか|etki, etkinlik
++ 役割|やくわり|rol, işlev
++ 持つ|もつ|sahip olmak|持つ
++ 定義|ていぎ|tanım, tanımlama
+17 作品{さくひん}の種類{しゅるい}や形式{けいしき}によってではなく、人間{にんげん}の心理{しんり}に具体的{ぐたいてき}に働{はたら}きかけ作用{さよう}する「力{ちから}(ダイナミズム）」をもつものとして捉{とら}えていたことがわかります。
+= Eser-in tür-ü ya da biçim-i-ne göre değil, insan ruh-u-na somut olarak etki ed-en ve iş gör-en bir "güç (dinamizm)"-e sahip şey olarak kavra-dığ-ı anlaşıl-ır.
++ 形式|けいしき|biçim, form
++ 具体的|ぐたいてき|somut
++ 働きかける|はたらきかける|etki etmek, yönelmek|働きかけ
++ 作用|さよう|etki, işlev
++ 力|ちから|güç
++ 捉える|とらえる|kavramak, ele almak|捉えて
+18 漱石{そうせき}は、そうした効力{こうりょく}・役割{やくわり}の「もと(ネタ)を四{よっ}つに分類{ぶんるい}します。
+= Sōseki bu etki-nin ve işlev-in "kaynak-ı-nı (malzeme-si-ni)" dört-e ayır-ır.
++ 効力|こうりょく|etki, güç, tesir
++ 四つ|よっつ|dört (adet)|四つ
++ 分類|ぶんるい|sınıflandırma
+19 「感覚{かんかく}」‥見{み}たり触{さわ}ったりした感{かん}じや温度{おんど}や味覚{みかく}など感覚{かんかく}に関{かん}するもの
+= "Duyu": gör-üp dokun-unca ed-in-ilen his, sıcaklık, tat gibi duyu-lar-la ilgili şey-ler
++ 感覚|かんかく|duyu, his
++ 触る|さわる|dokunmak|触った
++ 感じ|かんじ|his, izlenim|感じ
++ 温度|おんど|sıcaklık
++ 味覚|みかく|tat alma duyusu
++ 関する|かんする|ilgili olmak (…に関する: …ile ilgili)|関する
+20 「人事{じんじ}」‥人間{にんげん}に関{かん}するあらゆる事柄{ことがら}、事件{じけん}、出来事{できごと}、そこから生{う}まれる感情{かんじょう}
+= "İnsan işleri": insan-la ilgili her tür mesele, olay, hadise ve bun-lar-dan doğ-an duygu-lar
++ 人事|じんじ|insan işleri, beşerî olaylar
++ 事柄|ことがら|mesele, husus
++ 事件|じけん|olay, vaka
++ 出来事|できごと|olay, hadise
++ 生まれる|うまれる|doğmak, ortaya çıkmak|生まれる
++ 感情|かんじょう|duygu
+21 「超自然{ちょうしぜん}」‥神{かみ}や仏{ほとけ}、鬼{おに}や妖精{ようせい}など、この4つのものでないもの、不思議{ふしぎ}なもの
+= "Doğaüstü": tanrı-lar, Buda-lar, iblis-ler, peri-ler gibi, bu 4 şey-e gir-me-yen, gizemli şey-ler
++ 超自然|ちょうしぜん|doğaüstü
++ 神|かみ|tanrı
++ 仏|ほとけ|Buda
++ 鬼|おに|iblis, oni
++ 妖精|ようせい|peri
++ 不思議|ふしぎ|gizemli, tuhaf
+22 「知識{ちしき}」‥公式{こうしき}や定理{ていり}、事典{じてん}や教科書{きょうかしょ}の記述{きじゅつ}、作者{さくしゃ}によってあらたに提供{ていきょう}される知識{ちしき}
+= "Bilgi": formül-ler, teorem-ler, ansiklopedi ve ders kitab-ı anlatım-lar-ı, yazar tarafından yeni-den sun-ul-an bilgi
++ 知識|ちしき|bilgi
++ 公式|こうしき|formül
++ 定理|ていり|teorem
++ 事典|じてん|ansiklopedi
++ 教科書|きょうかしょ|ders kitabı
++ 記述|きじゅつ|betimleme, anlatım, yazılı açıklama
++ 作者|さくしゃ|yazar (eserin)
++ 提供|ていきょう|sunma, sağlama
+23 さらに今度{こんど}は、作者{さくしゃ}と読者{どくしゃ}の双方{そうほう}に目配{めくば}りしつつ、そうした効力{こうりょく}を生{う}み出{だ}すために創作{そうさく}をする作者{さくしゃ}の側{がわ}はそのどのような仕掛{しか}けをこしらえているか、また読者{どくしゃ}の側{がわ}はどの様{よう}な気持{きも}ちの変化{へんか}を体験{たいけん}しながら作品{さくひん}を理解{りかい}するかをまとめています。
+= Ayrıca bu kez hem yazar-a hem okur-a göz kulak ol-arak, bu etki-yi ortaya çıkar-mak için yarat-an yazar tarafı-nın nasıl bir düzenek kur-duğ-u-nu, okur tarafı-nın da nasıl bir duygu değişim-i yaşa-yarak eser-i anla-dığ-ı-nı toparla-r.
++ 今度|こんど|bu sefer
++ 双方|そうほう|her iki taraf
++ 目配り|めくばり|göz kulak olma, dikkat etme
++ 創作|そうさく|yaratım, yaratıcı yazma
++ 側|がわ|taraf
++ 仕掛け|しかけ|düzenek, tertip, hile
++ 気持ち|きもち|duygu, his
++ 変化|へんか|değişim
++ 体験|たいけん|deneyim, yaşantı
++ 理解|りかい|anlama
+24 そして最終章{さいしゅうしょう}では、「文学{ぶんがく}」と「文化的{ぶんかてき}・社会的{しゃかいてき}・政治的{せいじてき}状況{じょうきょう}との関{かか}わり」について論{ろん}じています。
+= Ve son bölüm-de "edebiyat" ile "kültürel, toplumsal ve siyasal koşul-lar arasındaki ilişki"-yi tartış-ır.
++ 最終章|さいしゅうしょう|son bölüm
++ 文化的|ぶんかてき|kültürel
++ 社会的|しゃかいてき|toplumsal
++ 政治的|せいじてき|siyasal
++ 状況|じょうきょう|durum, koşullar
++ 関わり|かかわり|ilişki, ilgi
++ 論じる|ろんじる|tartışmak, ele almak|論じ
+25 人{ひと}は作品{さくひん}を読{よ}み終{お}わったとき、好{す}き、嫌{きら}い、むかつく、ビミョウなど、何{なん}らかの形{かたち}で自分{じぶん}にとっての価値{かち}を判断{はんだん}します。読書{どくしょ}以外{いがい}の場面{ばめん}でも同{おな}じです。
+= İnsan bir eser-i oku-yup bitir-diğ-in-de, sev-di-m, sev-me-di-m, sinir ol-du-m, ara-da kal-dı-m gibi bir şekil-de kendi-si için-deki değer-i-ni yargıla-r. Okuma dışındaki durum-lar-da da aynı-dır.
++ 読み終わる|よみおわる|okuyup bitirmek|読み終わった
++ 好き|すき|sevilen, hoşa giden
++ 嫌い|きらい|sevilmeyen, hoşa gitmeyen
++ 何らか|なんらか|bir şekilde, bir tür
++ 形|かたち|şekil, biçim
++ 価値|かち|değer
++ 判断|はんだん|yargı, karar verme
++ 読書|どくしょ|kitap okuma
++ 以外|いがい|…dışında
++ 場面|ばめん|sahne, durum
++ 同じ|おなじ|aynı|同じ
+26 買{か}い物{もの}に出{で}かけ、あれにしようか、それともこれにしようか、と悩{なや}んだときには、どちらが好{す}きか、自分{じぶん}に価値{かち}があるかをよくよく考{かんが}えて判断{はんだん}します。
+= Alışveriş-e çık-ıp "Şu-nu mu al-sa-m, yoksa bu-nu mu?" diye kararsız kal-dığ-ı-mız-da, hangi-si-ni daha çok sev-diğ-imiz-i, hangi-si-nin bizim için değer-i ol-duğ-u-nu iyice düşün-üp karar ver-ir-iz.
++ 買い物|かいもの|alışveriş
++ 出かける|でかける|dışarı çıkmak|出かけ
++ 悩む|なやむ|kafa yormak, kararsız kalmak, dertlenmek|悩んだ
+27 それは一見{いっけん}、個人的{こじんてき}な感覚{かんかく}であり、自分{じぶん}一人{ひとり}で決{き}めているように思{おも}われますが、実{じつ}は所属{しょぞく}している社会{しゃかい}の有{あ}り様{よう}や時代{じだい}の流{なが}れに常{つね}に左右{さゆう}されていると言{い}うのです。
+= Bu ilk bakış-ta kişisel bir his-miş ve tek başı-mız-a karar ver-iyor-muş-uz gibi görün-se de, aslında ait ol-duğ-u-muz toplum-un durum-u ve çağ-ın akış-ı tarafından sürekli etkilen-diğ-i söylen-ir.
++ 一見|いっけん|ilk bakışta
++ 個人的|こじんてき|kişisel
++ 決める|きめる|karar vermek|決め
++ 実は|じつは|aslında|実は
++ 社会|しゃかい|toplum
++ 有り様|ありよう|durum, hal, gerçek durum
++ 流れ|ながれ|akış|流れ
++ 常に|つねに|her zaman, sürekli|常に
++ 左右|さゆう|etkilemek, belirlemek (左右される: etkilenmek)
+28 漱石{そうせき}が「文学論{ぶんがくろん}」で、人{ひと}の好{この}みは、それぞれの背後{はいご}に存在{そんざい}する国籍{こくせき}・性別{せいべつ}・受{う}けた教育{きょういく}・宗教{しゅうきょう}・実{じつ}体験{たいけん}・読書{どくしょ}体験{たいけん}・生育{せいいく}した社会{しゃかい}の政治的{せいじてき}状況{じょうきょう}や家庭{かてい}環境{かんきょう}に由来{ゆらい}していると書{か}いているのも、理解{りかい}できることと思{おも}います。
+= Sōseki-nin "Bungakuron"-da insan-ın zevk-i-nin, her bir-i-nin arka plan-ı-nda bulun-an milliyet, cinsiyet, al-dığ-ı eğitim, din, gerçek yaşantı, okuma deneyim-i, büyü-düğ-ü toplum-un siyasal durum-u ve aile ortam-ı-ndan kaynaklan-dığ-ı-nı yaz-ma-sı da anlaşıl-ır bir şey-dir bence.
++ 好み|このみ|zevk, beğeni
++ 背後|はいご|arka plan, arka
++ 存在|そんざい|var olma, varlık
++ 国籍|こくせき|vatandaşlık, milliyet
++ 性別|せいべつ|cinsiyet
++ 教育|きょういく|eğitim
++ 宗教|しゅうきょう|din
++ 生育|せいいく|büyüme, yetişme
++ 家庭|かてい|aile, ev
++ 環境|かんきょう|çevre, ortam
++ 由来|ゆらい|kaynaklanma, köken
+29 漱石{そうせき}の凄{すご}いところは、「文学{ぶんがく}」には作者{さくしゃ}だけではだめで、その作品{さくひん}の価値{かち}を発見{はっけん}する「読者{どくしゃ}」が必要{ひつよう}である、と主張{しゅちょう}した点{てん}にあります。
+= Sōseki-nin müthiş yan-ı, "edebiyat" için yalnızca yazar-ın yet-me-diğ-i-ni, o eser-in değer-i-ni keşfed-en bir "okur"-un gerek-li ol-duğ-u-nu savun-muş ol-ma-sı-dır.
++ 凄い|すごい|müthiş, harika|凄い
++ 発見|はっけん|keşif, keşfetme
++ 必要|ひつよう|gerekli
++ 主張|しゅちょう|iddia, savunma
++ 点|てん|nokta, yön
+30 「文学{ぶんがく}は作者{さくしゃ}が作{つく}り出{だ}し、作者{さくしゃ}の主張{しゅちょう}したいことを集約{しゅうやく}したものである」と言{い}う当時{とうじ}の一般的{いっぱんてき}な考{かんが}え方{かた}にとらわれなかったからこそ、出{で}てきた考{かんが}え方{かた}です。
+= "Edebiyat-ı yazar yarat-ır ve o, yazar-ın savun-mak iste-diğ-i şey-ler-in özet-i-dir" diye-n o zaman-ki yaygın düşünce-ye kapıl-ma-dığ-ı için ortaya çık-ab-il-en bir düşünce-dir.
++ 作り出す|つくりだす|yaratmak, ortaya koymak|作り出し
++ 集約|しゅうやく|toplama, özetleme
++ 一般的|いっぱんてき|genel, yaygın
++ 考え方|かんがえかた|düşünce tarzı, görüş|考え方
++ 出る|でる|çıkmak|出て
+31 明治{めいじ}以降{いこう}、近代{きんだい}に入{はい}って昭和{しょうわ}40年{ねん}頃{ごろ}まで、文学{ぶんがく}研究{けんきゅう}では、「作品{さくひん}」ではなく「作者{さくしゃ}」の研究{けんきゅう}が主{しゅ}で、しかも作者{さくしゃ}の意図{いと}を探{さぐ}ることに集中{しゅうちゅう}した時代{じだい}がありました。
+= Meiji-den sonra, modern dönem-e gir-ip Shōwa 40 (1965) civar-ı-na kadar, edebiyat araştırma-lar-ı-nda "eser" değil "yazar" araştırma-sı ağır bas-ar-dı ve üstelik yazar-ın niyet-i-ni araştır-ma-ya yoğunlaş-ıl-an bir dönem ol-muş-tu.
++ 以降|いこう|…den sonra, …den beri
++ 近代|きんだい|modern çağ
++ 入る|はいる|girmek|入って
++ 昭和|しょうわ|Shōwa dönemi (1926–1989)
++ 主|しゅ|asıl, başlıca
++ 意図|いと|niyet, amaç
++ 探る|さぐる|araştırmak, kurcalamak|探る
++ 集中|しゅうちゅう|yoğunlaşma
+32 でも作者{さくしゃ}の意図{いと}したことなど、直接{ちょくせつ}聞{き}いてみなければ結局{けっきょく}はわかりません。
+= Ama yazar-ın amaçla-dığ-ı şey-ler-i, doğrudan sor-ma-dıkça sonuç olarak bil-e-me-yiz.
++ 直接|ちょくせつ|doğrudan
++ 聞く|きく|sormak; dinlemek|聞いて
++ 結局|けっきょく|sonuçta, eninde sonunda
+33 現在{げんざい}生{い}きている作者{さくしゃ}ならともかく、「万葉集{まんようしゅう}」の歌人{かじん}である柿本人麻呂{かきのもとのひとまろ}とか「源氏物語{げんじものがたり}」の紫式部{むらさきしきぶ}とか、私{わたし}たちは彼{かれ}らがどんな顔{かお}をしていたのかも、どのような性格{せいかく}だったのかも、想像{そうぞう}を膨{ふく}らませて楽{たの}しむことができても、実際{じっさい}に会{あ}って確{たし}かめる事{こと}は叶{かな}いません。
+= Hâlâ yaşa-yan bir yazar-ı geç-elim; "Man'yōshū"-nun şair-i Kakinomoto no Hitomaro ya da "Genji Monogatari"-nin yazar-ı Murasaki Shikibu gibi-ler-in nasıl bir yüz-e, nasıl bir karakter-e sahip ol-duk-lar-ı-nı hayal gücü-müz-ü işlet-ip zevk-le düşün-e-bil-sek de, gerçek-ten buluş-up doğrula-mamız mümkün değil.
++ 現在|げんざい|şimdi, günümüz
++ 万葉集|まんようしゅう|Man'yōshū (en eski Japon şiir derlemesi)
++ 歌人|かじん|şair (waka şairi)
++ 源氏物語|げんじものがたり|Genji Monogatari (Genji'nin Hikâyesi)
++ 顔|かお|yüz
++ 性格|せいかく|karakter, mizaç
++ 想像|そうぞう|hayal, hayal gücü
++ 膨らませる|ふくらませる|şişirmek; (hayali) genişletmek|膨らませ
++ 実際|じっさい|gerçekte, fiilen
++ 確かめる|たしかめる|doğrulamak, emin olmak|確かめる
++ 叶う|かなう|gerçekleşmek, mümkün olmak|叶い
+34 だとすると、たとえ作者{さくしゃ}の意図{いと}と言{い}うものはあったとしても、それは残{のこ}された作品{さくひん}から類推{るいすい}するしかないのです。そして作品{さくひん}が単独{たんどく}で私{わたし}たちに語{かた}りかけてくるものは確実{かくじつ}に存在{そんざい}します。
+= Öyle-yse, yazar-ın niyet-i diye bir şey ol-sa bile, bun-u ancak geride kal-an eser-den çıkarsa-yabil-ir-iz. Ve eser-in tek başı-na biz-e seslen-diğ-i şey-ler kesinlikle var-dır.
++ 残す|のこす|bırakmak, geride bırakmak|残さ
++ 類推|るいすい|çıkarsama, analoji
++ 単独|たんどく|tek başına
++ 語りかける|かたりかける|seslenmek, hitap etmek|語りかけて
++ 確実|かくじつ|kesin, kesinlikle
+35 作品{さくひん}をもっと理解{りかい}するために、背景{はいけい}をより詳{くわ}しく知{し}ろうと思{おも}えば作品{さくひん}が成立{せいりつ}した時代{じだい}背景{はいけい}や、歴史的{れきしてき}状況{じょうきょう}を調{しら}べることになります。
+= Eser-i daha iyi anla-mak için arka plan-ı daha ayrıntılı öğren-mek iste-r-se-k, eser-in ortaya çık-tığ-ı dönem-in arka plan-ı-nı ve tarihsel koşul-lar-ı-nı araştır-ır-ız.
++ 背景|はいけい|arka plan
++ 詳しい|くわしい|ayrıntılı|詳しく
++ 歴史的|れきしてき|tarihsel
++ 調べる|しらべる|araştırmak, incelemek|調べる
+36 漱石{そうせき}は、作者{さくしゃ}（発信者{はっしんしゃ}）が創作{そうさく}したものを、作者{さくしゃ}以外{いがい}の人間{にんげん}（受信者{じゅしんしゃ}＝読者{どくしゃ}）が「読{よ}む」ことによって、はじめて意味{いみ}が発見{はっけん}され、価値{かち}が生{う}まれると考{かんが}えました。
+= Sōseki, yazar-ın (gönderici-nin) yarat-tığ-ı şey-i, yazar dışındaki bir insan-ın (alıcı = okur-un) "oku-ma-sı"-yla ancak anlam-ın keşfed-il-ip değer-in doğ-acağ-ı-nı düşün-dü.
++ 発信者|はっしんしゃ|gönderici, verici
++ 受信者|じゅしんしゃ|alıcı
+37 つまり読者{どくしゃ}が「作品{さくひん}に関与{かんよ}する」「作品{さくひん}と関係{かんけい}する」ことによって、作品{さくひん}の価値{かち}と意味{いみ}が生{う}まれると言{い}うことです。
+= Yani okur "eser-e katıl-dığ-ın-da", "eser-le ilişki kur-duğ-un-da" eser-in değer-i ve anlam-ı doğ-ar demek-tir.
++ 関与|かんよ|katılım, müdahil olma
++ 関係|かんけい|ilişki
+38 詩{し}であれ、小説{しょうせつ}であれ、絵画{かいが}であれ、ただ描{か}かれただけで作者{さくしゃ}以外{いがい}の誰{だれ}の目{め}にも触{ふ}れなければ、描{か}いた本人{ほんにん}以外{いがい}にとっては意味{いみ}を持{も}ちません。
+= Şiir ol-sun, roman ol-sun, resim ol-sun, yalnızca yaz-ıl-ıp çiz-il-ip yazar dışında hiç kimse-nin göz-ü-ne değ-me-z-se, çiz-en kişi-nin kendi-si dışında kimse için anlam taşı-maz.
++ 詩|し|şiir
++ 絵画|かいが|resim, tablo
++ 描く|かく|çizmek, resmetmek|描か
++ 誰|だれ|kim (誰の目にも: hiç kimsenin gözüne)
++ 本人|ほんにん|kişinin kendisi
+39 このように、現在{げんざい}の専門家{せんもんか}の間{あいだ}では「読者論{どくしゃろん}」や「受容{じゅよう}理論{りろん}」という文学{ぶんがく}理論{りろん}として一般的{いっぱんてき}になっていますが、漱石{そうせき}が示{しめ}したことはまさにそれに先駆{さきが}けるものであったわけです。
+= Böylece, bugün uzman-lar arası-nda "okur kuram-ı" ya da "alımlama kuram-ı" adı-yla edebiyat kuram-ı olarak yaygınlaş-mış-tır; Sōseki-nin göster-diğ-i şey de tam da bun-a öncülük ed-en bir şey-di.
++ 専門家|せんもんか|uzman
++ 読者論|どくしゃろん|okur kuramı
++ 受容|じゅよう|alımlama, kabul
++ 理論|りろん|kuram, teori
++ 示す|しめす|göstermek|示し
++ 先駆ける|さきがける|öncülük etmek, önce gelmek|先駆ける
+40 書{か}くことを選{えら}ぶ、選{えら}ぶ作業{さぎょう}が「文学{ぶんがく}(フィクション)のはじまりで、ここでいう「フィクション」は、想像{そうぞう}の産物{さんぶつ}とか現実{げんじつ}でないという意味{いみ}では無{な}く、「物語化{ものがたりか}される」ということです。
+= Ne yaz-ılacağ-ı-nı seç-mek, seç-me iş-i "edebiyat-ın (kurmaca-nın)" başlangıc-ı-dır; burada "kurmaca", hayal ürün-ü ya da gerçek değil anlam-ı-nda değil, "öyküleştir-il-mek" demek-tir.
++ 選ぶ|えらぶ|seçmek|選ぶ
++ 作業|さぎょう|iş, çalışma
++ 産物|さんぶつ|ürün
++ 現実|げんじつ|gerçeklik, gerçek
++ 無い|ない|yok, değil|無く
++ 物語化|ものがたりか|öyküleştirme
+41 何{なに}を書{か}くかを選{えら}ぶという行為{こうい}は、その出来事{できごと}や心{こころ}の動{うご}きがささやかであっても、体験{たいけん}している自分{じぶん}とは別{べつ}の目{め}で自分{じぶん}の身{み}に起{お}こったことを見{み}る、つまり相対化{そうたいか}することです。
+= Ne yaz-acağ-ı-nı seç-me eylem-i, o olay ya da gönül hareket-i küçücük ol-sa bile, kendi başı-na gel-en-i yaşa-yan ben-den farklı bir göz-le gör-mek, yani görece-leştir-mek-tir.
++ 行為|こうい|eylem, davranış
++ 心|こころ|gönül, kalp, zihin
++ 動き|うごき|hareket, kıpırtı
++ 別|べつ|ayrı, başka
++ 身|み|beden, kişinin kendisi (身に起こる: başına gelmek)
++ 起こる|おこる|olmak, meydana gelmek|起こった
++ 相対化|そうたいか|görecelileştirme
+42 紙{かみ}に書{か}く日記{にっき}でもインターネットのブログでも、書{か}きたくない事{こと}は書{か}かないと言{い}う選択{せんたく}がなされた時{とき}から物語{ものがたり}になるのであります。
+= Kâğıt-a yaz-ıl-an günlük ol-sun, internet-teki blog ol-sun, yaz-mak iste-me-diğ-in şey-i yaz-ma-ma seçim-i yap-ıl-dığ-ı an-dan itibaren öykü-ye dönüş-ür.
++ 紙|かみ|kâğıt
++ 日記|にっき|günlük
++ 選択|せんたく|seçim
++ 物語|ものがたり|öykü, hikâye, anlatı
+43 文学{ぶんがく}が読者{どくしゃ}の心理{しんり}に果{は}たす努力{どりょく}・役割{やくわり}その力{ちから}は何{なに}によってどのように作{つく}られるのか、読者{どくしゃ}の内部{ないぶ}では何{なに}が起{お}こるのか、漱石{そうせき}の話{はなし}を聞{き}きながら具体的{ぐたいてき}に見{み}ていく。
+= Edebiyat-ın okur-un ruh-u üzerinde-ki çaba-sı, rol-ü, o güc-ü ne-yle ve nasıl oluş-ur, okur-un iç-i-nde ne olu-r; Sōseki-nin anlat-tık-lar-ı-nı dinle-yerek somut olarak bak-acağ-ız.
++ 果たす|はたす|yerine getirmek (役割を果たす: rol oynamak)|果たす
++ 努力|どりょく|çaba
++ 内部|ないぶ|iç, iç kısım
++ 話|はなし|söz, anlatılan
+44 1900年{ねん}（明治{めいじ}33年{ねん}）、当時{とうじ}の文部省{もんぶしょう}から英国{えいこく}留学{りゅうがく}を命{めい}じられた漱石{そうせき}は、約{やく}3年間{ねんかん}ロンドンに滞在{たいざい}します。
+= 1900-de (Meiji 33) o zaman-ki Eğitim Bakanlığ-ı tarafından İngiltere-ye öğrenim-e gönder-il-en Sōseki, yaklaşık 3 yıl Londra-da kal-ır.
++ 文部省|もんぶしょう|(eski) Eğitim Bakanlığı
++ 英国|えいこく|İngiltere, Birleşik Krallık
++ 命じる|めいじる|emretmek, görevlendirmek|命じられた
++ 滞在|たいざい|kalma, ikamet
+45 文学{ぶんがく}とは、人間{にんげん}の「心理{しんり}に具体的{ぐたいてき}に働{はたら}きかける作用{さよう}する力{ちから}（ダイナミズム）である」と捉{とら}えた漱石{そうせき}が、その地{ち}で、文学{ぶんがく}作品{さくひん}が果{は}たす効果{こうか}はどのようにして生{う}まれるのか、を考{かんが}えたのは自然{しぜん}の成{な}り行{ゆ}きだった。
+= Edebiyat-ı insan-ın "ruh-u-na somut olarak etki ed-en, iş gör-en bir güç (dinamizm)" olarak kavra-yan Sōseki-nin, ora-da edebiyat eser-ler-i-nin etki-si-nin nasıl doğ-duğ-u-nu düşün-me-si doğal bir gidişat-tı.
++ 地|ち|yer, toprak
++ 自然|しぜん|doğal; doğa
+46 その中{なか}で彼{かれ}は、現実{げんじつ}（real）であるということと、文学{ぶんがく}（フィクション)における本当{ほんとう}らしさ(verismilitude)）を区別{くべつ}しました。
+= Bu süreç-te o, gerçek (real) ol-mak ile edebiyat-ta (kurmaca-da) gerçeğe benzerlik (verisimilitude) arası-nda ayrım yap-tı.
++ 彼|かれ|o (erkek)
++ 本当らしさ|ほんとうらしさ|gerçeğe benzerlik, inandırıcılık|本当らしさ
++ 区別|くべつ|ayırt etme, ayrım
+47 「本当{ほんとう}らしさ」とは、よく考{かんが}えたら現実{げんじつ}には決{けっ}して起{お}こらない事{こと}であるにもかかわらず、読者{どくしゃ}が作品{さくひん}を読{よ}み進{すす}める中{なか}で、あり得{え}るかもしれない、と考{かんが}えてしまうことです。
+= "Gerçeğe benzerlik", iyice düşün-ül-ünce gerçek-te asla ol-ma-yacak bir şey ol-ma-sı-na rağmen, okur-un eser-i oku-dukça "ol-abil-ir belki" diye düşün-üver-me-si-dir.
++ 決して|けっして|asla, kesinlikle (olumsuzla)|決して
++ 読み進める|よみすすめる|okumayı sürdürmek|読み進める
++ あり得る|ありえる|mümkün olmak, olabilmek|あり得る
+48 この効果{こうか}を漱石{そうせき}は「幻惑{げんわく}」と呼{よ}んでいます。作者{さくしゃ}の仕掛{しか}けたトリック（ワナ)に惑{まど}わされるというわけです。
+= Sōseki bu etki-ye "büyülenme" (gen'waku) di-yor. Yani yazar-ın kur-duğ-u hile-ye (tuzağ-a) kan-ıp aldat-ıl-mak.
++ 幻惑|げんわく|büyülenme, göz boyanması
++ 呼ぶ|よぶ|adlandırmak, çağırmak|呼んで
++ 仕掛ける|しかける|kurmak (tuzak vb.)|仕掛けた
++ 惑わす|まどわす|aldatmak, şaşırtmak (惑わされる: aldatılmak)|惑わさ
+49 「文学論{ぶんがくろん}」第四篇{だいよんぺん}では、その「本当{ほんとう}らしさ」を伝{つた}えるための手段{しゅだん}について考{かんが}えています。
+= "Bungakuron"-un 4. kitab-ı-nda bu "gerçeğe benzerlik"-i aktar-mak için-deki araç-lar üzerine düşün-ül-ür.
++ 篇|へん|bölüm, kitap (第四篇: dördüncü kitap)|篇
++ 伝える|つたえる|aktarmak, iletmek|伝える
++ 手段|しゅだん|araç, yöntem
+50 「本当{ほんとう}らしさ」と言{い}う仕掛{しか}けを作{つく}るために、どんな文章{ぶんしょう}、表現{ひょうげん}方法{ほうほう}やテクニック（修辞{しゅうじ}）を使{つか}うかと言{い}うことです。中心軸{ちゅうしんじく}は、あくまでも読者{どくしゃ}心理{しんり}への働{はたら}きかけです。
+= Yani "gerçeğe benzerlik" düzeneğ-i-ni kur-mak için nasıl bir metin, ifade yöntem-i ve teknik (retorik) kullan-ıl-acağ-ı mesele-si. Merkez eksen-i ise her şey-den önce okur ruh-u-na etki et-mek-tir.
++ 文章|ぶんしょう|metin, yazı
++ 表現|ひょうげん|ifade, anlatım
++ 修辞|しゅうじ|retorik, söz sanatı
++ 使う|つかう|kullanmak|使う
++ 中心軸|ちゅうしんじく|merkez eksen
++ 働きかけ|はたらきかけ|etki etme, yönelme|働きかけ
+51 伝統的{でんとうてき}な修辞法{しゅうじほう}の分類{ぶんるい}だと「ことば」、「表現{ひょうげん}方法{ほうほう}」、「文体{ぶんたい}」…などと分{わ}けて考{かんが}えるのですが、漱石{そうせき}はその独自{どくじ}のやり方{かた}で組{く}み替{か}えて、二{ふた}つの比喩{ひゆ}と二{ふた}つの技法{ぎほう}に分類{ぶんるい}しました。
+= Geleneksel retorik sınıflandırma-sı-na göre "sözcük", "ifade yöntem-i", "üslup"… diye ayır-ıp düşün-ül-ür, ama Sōseki kendi-ne özgü yol-uyla bun-u yeni-den düzenle-yip iki tür eğretileme ve iki teknik olarak sınıflandır-dı.
++ 伝統的|でんとうてき|geleneksel
++ 修辞法|しゅうじほう|retorik, söz sanatları
++ 文体|ぶんたい|üslup, yazı tarzı
++ 分ける|わける|ayırmak, bölmek|分けて
++ 独自|どくじ|kendine özgü, özgün
++ やり方|やりかた|yol, yöntem|やり方
++ 組み替える|くみかえる|yeniden düzenlemek, değiştirmek|組み替えて
++ 比喩|ひゆ|eğretileme, benzetme, mecaz
++ 技法|ぎほう|teknik
+52 ① あるものを別{べつ}の何{なに}かに置{お}き換{か}えることによる比喩{ひゆ}
+= ① Bir şey-i başka bir şey-le yer değiştir-me-ye dayan-an mecaz
++ 置き換える|おきかえる|yerine koymak, yer değiştirmek|置き換える
+53 ② 連想{れんそう}を利用{りよう}してあるものを別{べつ}のものにつなげることによる比喩{ひゆ}
+= ② Çağrışım-dan yararlan-arak bir şey-i başka bir şey-e bağla-ma-ya dayan-an mecaz
++ 連想|れんそう|çağrışım
++ 利用|りよう|yararlanma, kullanma
+54 ③ 事実的{じじつてき}な描写{びょうしゃ}の技法{ぎほう}
+= ③ Olgusal betimleme teknik-i
++ 事実的|じじつてき|olgusal
++ 描写|びょうしゃ|betimleme, tasvir
+55 ④ 「語{かた}り」の技法{ぎほう}
+= ④ "Anlatı" teknik-i
++ 語り|かたり|anlatı, anlatım
+56 ここで注目{ちゅうもく}したいのは、④「語{かた}り」の技法{ぎほう}です。
+= Burada dikkat çek-mek iste-diğ-im, ④ "anlatı" teknik-i-dir.
++ 注目|ちゅうもく|dikkat, ilgi
+57 ここでの「語{かた}り」（ナラティブ・パースペクティブ)とは、「物語{ものがたり}がどの立場{たちば}から語{かた}られるか（見地{けんち}）」に焦点{しょうてん}を当{あ}て、「どのような人称{にんしょう}と視点{してん}を使{つか}ってその物語{ものがたり}が語{かた}られているか」を問題{もんだい}とするものです。
+= Buradaki "anlatı" (narrative perspective), "öykü-nün hangi konum-dan anlat-ıl-dığ-ı" (bakış açı-sı) üzerine odaklan-an ve "o öykü-nün hangi şahıs ve bakış açı-sı kullan-ıl-arak anlat-ıl-dığ-ı"-nı mesele edin-en bir şey-dir.
++ 立場|たちば|konum, tutum
++ 語る|かたる|anlatmak|語られる
++ 見地|けんち|görüş açısı
++ 焦点|しょうてん|odak (焦点を当てる: odaklanmak)
++ 当てる|あてる|yöneltmek, tutmak|当て
++ 人称|にんしょう|(dilbilgisinde) şahıs
++ 視点|してん|bakış açısı
++ 問題|もんだい|sorun, mesele
+58 「人称{にんしょう}」は、語{かた}り手{て}を誰{だれ}にするかです。「私{わたし}は」「僕{ぼく}は」「吾輩{わがはい}は」「余{よ}は」などであれば一人称{いちにんしょう}、「花子{はなこ}は」「ジョーは」「三四郎{さんしろう}は」「那美{なみ}は」などであれば三人称{さんにんしょう}による語{かた}りです。
+= "Şahıs", anlatıcı-yı kim yap-acağ-ın-dır. "Ben (watashi)", "ben (boku)", "ben (wagahai)", "ben (yo)" gibi-yse birinci şahıs; "Hanako", "Joe", "Sanshirō", "Nami" gibi-yse üçüncü şahıs-la anlatım-dır.
++ 語り手|かたりて|anlatıcı|語り手
++ 僕|ぼく|ben (erkek, samimi)
++ 吾輩|わがはい|ben (kibirli, eski üslup)
++ 余|よ|ben (eski, resmî)
++ 一人称|いちにんしょう|birinci şahıs
++ 三人称|さんにんしょう|üçüncü şahıs
+59 漱石{そうせき}は、近代{きんだい}小説{しょうせつ}の技法{ぎほう}を通{とお}しての「語{かた}り」の問題{もんだい}をかなり意識{いしき}していたようで、自分{じぶん}が書{か}くようになってからも「語{かた}り」に関{かん}する様々{さまざま}な技法{ぎほう}を試{こころ}みています。
+= Sōseki, modern roman teknik-ler-i aracılığıyla "anlatı" sorun-u-nun epeyce bilinc-i-nde ol-sa gerek; kendi-si yaz-ma-ya başla-dık-tan sonra da "anlatı"-yla ilgili çeşitli teknik-ler dene-miş-tir.
++ 意識|いしき|bilinç, farkında olma
++ 試みる|こころみる|denemek|試みて
+60 この「語{かた}り」の技法{ぎほう}は、映画{えいが}など、映像{えいぞう}の理論{りろん}と多{おお}くの部分{ぶぶん}で重{かさ}なっていますし、「視点{してん}」はいわばカメラです。
+= Bu "anlatı" teknik-i, sinema gibi görüntü kuram-lar-ı-yla pek çok nokta-da örtüş-ür; "bakış açı-sı" da adeta kamera-dır.
++ 映画|えいが|sinema, film
++ 映像|えいぞう|görüntü
++ 部分|ぶぶん|kısım, bölüm
++ 重なる|かさなる|üst üste gelmek, örtüşmek|重なって
+61 カメラ・アイをどこに設定{せってい}するのか、高{たか}さと方向{ほうこう}に限定{げんてい}するだけでも様々{さまざま}な方法{ほうほう}がある。
+= Kamera göz-ü-nü nereye yerleştir-eceğ-i, yalnızca yükseklik ve yön-le sınırla-sa-k bile çeşitli yöntem-ler var-dır.
++ 設定|せってい|ayarlama, yerleştirme
++ 高さ|たかさ|yükseklik|高さ
++ 方向|ほうこう|yön
++ 限定|げんてい|sınırlama
+62 どちらの方向{ほうこう}から撮{と}るか、そして、登場{とうじょう}人物{じんぶつ}と同{おな}じ目線{めせん}で撮{と}るのか、あるいは上{うえ}から、あるいは下{した}から、はたまた離{はな}れて撮{と}るか、それぞれ、できた作品{さくひん}は全{まった}く違{ちが}う見{み}え方{かた}（語{かた}られ方{かた}）になります。
+= Hangi yön-den çek-eceğ-in, ve karakter-le aynı göz hizası-ndan mı, yoksa yukarı-dan mı, aşağı-dan mı, ya da uzak-tan mı çek-eceğ-in-e göre, ortaya çık-an eser bambaşka bir görünüm (anlatım) kazan-ır.
++ 撮る|とる|(fotoğraf, film) çekmek|撮る
++ 登場人物|とうじょうじんぶつ|karakter, kişi (eserdeki)|登場人物
++ 目線|めせん|bakış, göz hizası
++ 離れる|はなれる|uzaklaşmak, ayrılmak|離れて
++ 全く|まったく|tamamen, bambaşka|全く
++ 違う|ちがう|farklı olmak|違う
++ 見え方|みえかた|görünüş biçimi|見え方
+63 そしてカメラは1台{だい}とは限{かぎ}りません。1カメである登場{とうじょう}人物{じんぶつ}Aの視線{しせん}で向{む}こうから歩{ある}いてくる人物{じんぶつ}Bを撮{と}る。長{なが}いショットで。近{ちか}づくごとにカメラも寄{よ}っていく。
+= Üstelik kamera tek bir tane ol-mak zorunda değil. 1 numara-lı kamera ol-an A karakter-i-nin bakış-ı-yla karşı-dan yürü-yerek gel-en B kişi-si-ni çek-er-iz. Uzun bir çekim-le. Yaklaş-tıkça kamera da yaklaş-ır.
++ 台|だい|(makine, araç için) sayma eki
++ 限る|かぎる|sınırlı olmak (…とは限らない: …olmak zorunda değil)|限り
++ 視線|しせん|bakış
++ 向こう|むこう|karşı taraf
++ 歩く|あるく|yürümek|歩いて
++ 人物|じんぶつ|kişi, şahıs
++ 長い|ながい|uzun|長い
++ 近づく|ちかづく|yaklaşmak|近づく
++ 寄る|よる|yanaşmak, yaklaşmak|寄って
+64 2人{ふたり}が声{こえ}を掛{か}け合{あ}う位{くらい}の距離{きょり}になったところで、2カメにかわり、上{うえ}から2人{ふたり}を撮{と}る、と言{い}うようなことがあります。
+= İki kişi birbiri-ne seslen-ebil-ecek kadar bir mesafe-ye gel-ince 2 numara-lı kamera-ya geç-il-ip iki-si yukarı-dan çek-il-ir, gibi şey-ler ol-ur.
++ 声|こえ|ses
++ 掛け合う|かけあう|karşılıklı (söz) atmak; seslenmek|掛け合う
++ 位|くらい|kadar, civarında
++ 距離|きょり|mesafe
+65 「語{かた}り」の技法{ぎほう}も同{おな}じなのです。
+= "Anlatı" teknik-i de aynı-dır.
+66 ある出来事{できごと}が当事者{とうじしゃ}自身{じしん}によって語{かた}られるか、あるいは当事者{とうじしゃ}以外{いがい}の視点{してん}からかたられるのか、また、偏{かたよ}った一方的{いっぽうてき}な立場{たちば}から語{かた}られるのか、あるいは客観的{きゃっかんてき}な立場{たちば}から語{かた}たるのかなど、まさに、「人称{にんしょう}と視点{してん}の組{く}み合{あ}わせ」によって、「語{かた}られ方{かた}」によって、一{ひと}つの出来事{できごと}からでも多様{たよう}な物語{ものがたり}が生{う}まれます。
+= Bir olay-ın bizzat ilgili kişi tarafından mı, yoksa ilgili kişi dışında bir bakış açı-sı-ndan mı anlat-ıl-dığ-ı; ya da taraflı, tek yönlü bir konum-dan mı, yoksa nesnel bir konum-dan mı anlat-ıl-dığ-ı gibi, tam da "şahıs ve bakış açı-sı birleşim-i"-ne, "anlat-ıl-ış biçim-i"-ne bağlı olarak, tek bir olay-dan bile çok çeşitli öykü-ler doğ-ar.
++ 当事者|とうじしゃ|ilgili kişi, olayın tarafı
++ 自身|じしん|kendisi, bizzat
++ 偏る|かたよる|taraflı olmak, bir yana kaymak|偏った
++ 一方的|いっぽうてき|tek taraflı
++ 客観的|きゃっかんてき|nesnel
++ 組み合わせ|くみあわせ|birleşim, kombinasyon|組み合わせ
++ 語られ方|かたられかた|anlatılış biçimi|語られ方
++ 多様|たよう|çeşitli, çok yönlü
+67 1903年{ねん}（明治{めいじ}36年{ねん})に帰国{きこく}した漱石{そうせき}は、東京{とうきょう}帝国{ていこく}大学{だいがく}と第一{だいいち}高等{こうとう}学校{がっこう}で教師{きょうし}として勤{つと}め始{はじ}めます。
+= 1903-te (Meiji 36) yurd-a dön-en Sōseki, Tokyo İmparatorluk Üniversite-si-nde ve Birinci Yüksek Okul-da öğretmen olarak çalış-ma-ya başla-r.
++ 高等学校|こうとうがっこう|lise; (eski sistemde) yüksek okul|高等学校
++ 教師|きょうし|öğretmen
++ 勤める|つとめる|(bir yerde) çalışmak, görev yapmak|勤め
+68 そして、それまで文学{ぶんがく}の研究{けんきゅう}を自分{じぶん}の仕事{しごと}としてきた漱石{そうせき}が、今度{こんど}は自{みずか}ら小説{しょうせつ}を書{か}くようになります。
+= Ve o zaman-a dek edebiyat araştırma-sı-nı kendi iş-i edin-miş ol-an Sōseki, bu kez kendi-si roman yaz-ma-ya başla-r.
++ 仕事|しごと|iş
++ 自ら|みずから|kendisi, bizzat|自ら
+69 友人{ゆうじん}である高浜{たかはま}虚子{きょし}とともに漱石{そうせき}は「山会{やまかい}」と言{い}う朗読会{ろうどくかい}に参加{さんか}していました「小説{しょうせつ}は、山{やま}がなくてはならない」ので山会{やまかい}です。
+= Sōseki arkadaş-ı Takahama Kyoshi ile birlikte "Yamakai" ad-lı bir okuma toplantı-sı-na katıl-ıyor-du; "roman-da bir doruk (yama) ol-mak zorunda" ol-duğ-u için ad-ı Yamakai-ydi.
++ 朗読会|ろうどくかい|sesli okuma toplantısı
++ 参加|さんか|katılım
++ 山|やま|dağ; (öyküde) doruk noktası|山#2
+70 その朗読会{ろうどくかい}で自作{じさく}の作品{さくひん}を読{よ}んだところ、メンバーに大{おお}いに受{う}けて、高浜{たかはま}虚子{きょし}の勧{すす}めもあり、1905年{ねん}（明治{めいじ}38年{ねん})1月{がつ}、彼{かれ}の主催{しゅさい}する雑誌{ざっし}「ホトトギス」に掲載{けいさい}することになりました。
+= O okuma toplantı-sı-nda kendi eser-i-ni oku-yunca üye-ler çok beğen-di ve Takahama Kyoshi-nin öneri-si-yle de, 1905 (Meiji 38) Ocak-ta onun yönet-tiğ-i "Hototogisu" dergi-si-nde yayımla-n-ma-sı-na karar ver-il-di.
++ 自作|じさく|kendi eseri
++ 大いに|おおいに|çok, büyük ölçüde|大いに
++ 受ける|うける|beğenilmek, tutulmak (espri, eser)|受けて
++ 勧め|すすめ|öneri, tavsiye
++ 主催|しゅさい|düzenleme, ev sahipliği
++ 雑誌|ざっし|dergi
++ 掲載|けいさい|yayımlama (gazete/dergide)
+71 それが「吾輩{わがはい}は猫{ねこ}である」（現在{げんざい}の第{だい}1章{しょう}部分{ぶぶん}）です。38歳{さい}でした。
+= O da "Ben Bir Kedi-yim" (bugün-kü 1. bölüm kısm-ı)-dir. 38 yaşında-ydı.
++ 猫|ねこ|kedi
++ 章|しょう|bölüm (kitapta)
++ 歳|さい|yaş
+72 一回{いっかい}読{よ}み切{き}りの予定{よてい}だったと言{い}いますから、これまで研究{けんきゅう}してきたことを具体的{ぐたいてき}に表{あらわ}す実験{じっけん}のようなものだったのかもしれません。けれどもそれがまたまた大{だい}好評{こうひょう}でした。
+= Tek seferlik bir parça ol-ması planlan-mış-tı deni-yor; belki de o zaman-a dek araştır-dık-lar-ı-nı somut olarak ifade ed-en bir deney gibi bir şey-di. Ama bu da yine büyük beğeni topla-dı.
++ 一回|いっかい|bir kez
++ 読み切り|よみきり|tek bölümlük (yazı), devamı olmayan|読み切り
++ 予定|よてい|plan, program
++ 表す|あらわす|ifade etmek, göstermek|表す
++ 実験|じっけん|deney
++ 好評|こうひょう|beğeni, olumlu eleştiri (大好評: büyük beğeni)
+73 求{もと}められるままに漱石{そうせき}は続編{ぞくへん}を書{か}き、そうしているうちに小説家{しょうせつか}として生{い}きていく道{みち}を探{さぐ}りながら一生{いっしょう}、書{か}き続{つづ}けることになります。
+= İsten-dikçe Sōseki devam-ı-nı yaz-dı ve bu arada romancı olarak yaşa-ma yol-u-nu ara-yarak ömür boyu yaz-ma-yı sürdür-dü.
++ 続編|ぞくへん|devam kitabı, devam bölümü
++ 小説家|しょうせつか|romancı
++ 道|みち|yol
++ 一生|いっしょう|ömür boyu
++ 書き続ける|かきつづける|yazmayı sürdürmek|書き続ける
+74 ちなみに、漱石{そうせき}が東京{とうきょう}帝国{ていこく}大学{だいがく}に勤務{きんむ}しながら書{か}いた作品{さくひん}は、「吾輩{わがはい}は猫{ねこ}である」をはじめ12作品{さくひん}です。その後{ご}、辞職{じしょく}して朝日{あさひ}新聞{しんぶん}に入社{にゅうしゃ}したのが1907年{ねん}（明治{めいじ}40年{ねん}）。
+= Bu arada, Sōseki-nin Tokyo İmparatorluk Üniversite-si-nde çalış-ır-ken yaz-dığ-ı eser-ler, "Ben Bir Kedi-yim" başta olmak üzere 12 eser-dir. Ondan sonra istifa ed-ip Asahi Gazete-si-ne gir-diğ-i yıl 1907 (Meiji 40).
++ 勤務|きんむ|görev, çalışma
++ 辞職|じしょく|istifa
++ 新聞|しんぶん|gazete
++ 入社|にゅうしゃ|şirkete girme
+75 亡{な}くなったのが1916年{ねん}（大正{たいしょう}5年{ねん}）ですが、この10年{ねん}足{た}らずの間{あいだ}に、約{やく}15のおもだった作品{さくひん}を描{か}き続{つづ}けました。
+= Öl-düğ-ü yıl 1916 (Taishō 5) ama bu 10 yıl-ı bul-ma-yan süre içinde yaklaşık 15 önemli eser yaz-ma-yı sürdür-dü.
++ 亡くなる|なくなる|vefat etmek|亡くなった
++ 大正|たいしょう|Taishō dönemi (1912–1926)
++ 足らず|たらず|…den az, …ı bulmayan|足らず
++ 間|あいだ|süre, arada
+76 最後{さいご}の「明暗{めいあん}」を執筆{しっぴつ}している途中{とちゅう}で、漱石{そうせき}は亡{な}くなります。ちょうど50歳{さい}でした。
+= Son eser-i "Meian"-ı yaz-ar-ken Sōseki vefat et-ti. Tam 50 yaşında-ydı.
++ 明暗|めいあん|aydınlık ve karanlık; Sōseki'nin "Meian" romanı
++ 執筆|しっぴつ|yazma (eser)
++ 途中|とちゅう|yarı yolda, sırasında
+77 この12作品{さくひん}についてどのような「語{かた}り」が採用{さいよう}されているかに着目{ちゃくもく}してみます。
+= Bu 12 eser-de nasıl bir "anlatı"-nın benimsen-diğ-i-ne bak-alım.
++ 採用|さいよう|benimseme, kullanma
+78 先{さき}の「語{かた}り」の技法{ぎほう}別{べつ}に分類{ぶんるい}すると、まぁなんと見事{みごと}に、順番{じゅんばん}通{どお}り4つに分類{ぶんるい}できるのです。
+= Az önce-ki "anlatı" teknik-ler-i-ne göre sınıflandır-ırsa-k, vay ne kadar güzel bir şekil-de, sıra-sı-yla 4-e ayrıl-ıyor.
++ 見事|みごと|harika, kusursuz
++ 順番|じゅんばん|sıra
++ 通り|どおり|…e göre, …olduğu gibi|通り
+79 第一期{だいいっき}…1人称{にんしょう}の「語{かた}り」の物語群{ものがたりぐん}
+= Birinci dönem… 1. şahıs "anlatı"-lı öykü-ler
++ 第一期|だいいっき|birinci dönem
++ 物語群|ものがたりぐん|öyküler grubu
+80 第二期{だいにき}…3人称{にんしょう}の「語{かた}り」の物語群{ものがたりぐん}
+= İkinci dönem… 3. şahıs "anlatı"-lı öykü-ler
+81 第三期{だいさんき}…複数{ふくすう}の視点{してん}による「語{かた}り」の物語群{ものがたりぐん}
+= Üçüncü dönem… birden çok bakış açı-sı-yla "anlatı"-lı öykü-ler
++ 複数|ふくすう|birden çok, çoğul
+82 第四期{だいよんき}…神様{かみさま}のような視点{してん}による「語{かた}り」の物語群{ものがたりぐん}
+= Dördüncü dönem… Tanrı gibi bir bakış açı-sı-yla "anlatı"-lı öykü-ler
++ 神様|かみさま|Tanrı
+83 漱石{そうせき}が「語{かた}り」の技法{ぎほう}を意識{いしき}していたことがよくわかります。まるで、「語{かた}り方{かた}」の実験{じっけん}を、生涯{しょうがい}を通{つう}じて進{すす}めていったかのようです。
+= Sōseki-nin "anlatı" teknik-ler-i-nin bilinc-i-nde ol-duğ-u açıkça anlaşıl-ıyor. Sanki "anlatma biçim-i" deney-i-ni ömr-ü boyunca sürdür-müş gibi.
++ 語り方|かたりかた|anlatma biçimi|語り方
++ 生涯|しょうがい|ömür, hayat boyu
++ 通じる|つうじる|boyunca (…を通じて)|通じて
++ 進める|すすめる|ilerletmek, sürdürmek|進めて
+84 第{だい}1期{き}の一人称{いちにんしょう}の「語{かた}り」の物語群{ものがたりぐん}では、作品{さくひん}中{ちゅう}の1人{ひとり}の人物{じんぶつ}（猫{ねこ}もいます）が「視点{してん}人物{じんぶつ}」と「語{かた}り手{て}」の双方{そうほう}を担{にな}う者{もの}として設定{せってい}されています。カメラは1台{だい}。その人物{じんぶつ}の目{め}がそのままカメラになります。
+= 1. dönem-in birinci şahıs "anlatı"-lı öykü-ler-i-nde, eser-deki bir kişi (kedi de var) hem "bakış açı-sı kişi-si" hem de "anlatıcı" rol-ü-nü üstlen-en kişi olarak kurgula-n-mış-tır. Kamera tek. O kişi-nin göz-ü doğrudan kamera ol-ur.
++ 期|き|dönem
++ 担う|になう|üstlenmek, taşımak|担う
++ 者|もの|kişi
+85 「視点{してん}人物{じんぶつ}」と「語{かた}り手{て}」が一致{いっち}する場合{ばあい}、物語{ものがたり}内{ない}の出来事{できごと}は全{すべ}て「視点{してん}人物{じんぶつ}」を通{とお}して語{かた}られます。
+= "Bakış açı-sı kişi-si" ile "anlatıcı" örtüş-tüğ-ü durum-da, öykü-deki olay-lar-ın hepsi "bakış açı-sı kişi-si" aracılığıyla anlat-ıl-ır.
++ 一致|いっち|örtüşme, uyuşma
++ 場合|ばあい|durum, hal
++ 全て|すべて|hepsi, tümü|全て
+86 読者{どくしゃ}は「語{かた}り手{て}」の見方{みかた}に完全{かんぜん}に左右{さゆう}されることを前提{ぜんてい}として読{よ}み進{すす}めることになります。
+= Okur, "anlatıcı"-nın bakış-ı tarafından tamamen yönlendiril-eceğ-i-ni ön kabul ed-erek oku-ma-yı sürdür-ür.
++ 見方|みかた|bakış, görüş
++ 完全|かんぜん|tam, eksiksiz
++ 前提|ぜんてい|ön koşul, varsayım
+87 手紙{てがみ}や日記{にっき}の形{かたち}で語{かた}られる場合{ばあい}も同{おな}じです。私{わたし}が書{か}く手紙{てがみ}は、私{わたし}の視点{してん}を通{とお}して書{か}かれています。
+= Mektup ya da günlük biçim-i-nde anlat-ıl-dığ-ı durum-da da aynı-dır. Benim yaz-dığ-ım mektup benim bakış açı-m-dan yaz-ıl-mış-tır.
++ 手紙|てがみ|mektup
+88 誰{だれ}に宛{あ}てた手紙{てがみ}だとしても、その誰{だれ}かに伝{つた}えたいこと、私{わたし}が書{か}きたいことしか書{か}きません。日記{にっき}もそうです。
+= Kim-e yaz-ıl-mış bir mektup ol-ur-sa ol-sun, yalnızca o kişi-ye aktar-mak iste-diğ-im-i, benim yaz-mak iste-diğ-im-i yaz-ar-ım. Günlük de öyle-dir.
++ 宛てる|あてる|(mektubu birine) göndermek, hitaben yazmak|宛てた
+// ── 文学を学ぶことの意味 ──
+89 文学{ぶんがく}は他者{たしゃ}への共感{きょうかん}を可能{かのう}にする有効{ゆうこう}な（最良{さいりょう}の）手段{しゅだん}である。
+= Edebiyat, öteki-ne empati kur-ma-yı mümkün kıl-an etkili (en iyi) araç-tır.
++ 他者|たしゃ|öteki, başkası
++ 共感|きょうかん|empati, duygudaşlık
++ 可能|かのう|mümkün
++ 有効|ゆうこう|etkili, geçerli
++ 最良|さいりょう|en iyi
+90 文学{ぶんがく}は世界{せかい}について知{し}るための有効{ゆうこう}な（最良{さいりょう}の）手段{しゅだん}である。
+= Edebiyat, dünya hakkında bilgi edin-mek için etkili (en iyi) araç-tır.
++ 世界|せかい|dünya
++ 知る|しる|bilmek, öğrenmek|知る
+91 文学{ぶんがく}は母語{ぼご}の感度{かんど}を高{たか}める有効{ゆうこう}な（最良{さいりょう}の）手段{しゅだん}である。
+= Edebiyat, ana dil-e karşı duyarlılığ-ı artır-an etkili (en iyi) araç-tır.
++ 母語|ぼご|ana dil
++ 感度|かんど|duyarlılık, hassasiyet
++ 高める|たかめる|yükseltmek, artırmak|高める
+92 人間{にんげん}には物語{ものがたり}への欲求{よっきゅう}が内在{ないざい}している。子供{こども}を見{み}れば明{あき}らかである。
+= İnsan-da öykü-ye karşı bir istek doğuştan var-dır. Çocuk-lar-a bak-ınca bu apaçık-tır.
++ 欲求|よっきゅう|istek, arzu, ihtiyaç
++ 内在|ないざい|içkin olma, doğasında bulunma
++ 子供|こども|çocuk
++ 明らか|あきらか|açık, belli
+93 子供{こども}は放{ほう}っておけば、身{み}のまわりにある物{もの}を使{つか}って遊{あそ}び出{だ}す。子供{こども}の遊{あそ}びを見{み}ていると気{き}づくことがある。
+= Çocuk kendi hal-i-ne bırak-ıl-ır-sa, etraf-ı-nda-ki eşya-lar-ı kullan-arak oyna-ma-ya başla-r. Çocuk-lar-ın oyun-u-nu izle-r-ken fark ed-il-en bir şey var.
++ 放っておく|ほうっておく|kendi haline bırakmak|放っておけ
++ 身のまわり|みのまわり|insanın etrafı, yakın çevre|身のまわり
++ 物|もの|eşya, nesne
++ 遊ぶ|あそぶ|oynamak|遊び出す
++ 遊び|あそび|oyun|遊びを
++ 気づく|きづく|fark etmek|気づく
+94 あらゆるものが変身{へんしん}する。ぬいぐるみなどのおもちゃや棒切{ぼうき}れなどの無生物{むせいぶつ}が生{い}き物{もの}になって動{うご}き、しゃべり出{だ}す。
+= Her şey biçim değiştir-ir. Pelüş oyuncak gibi oyuncak-lar ya da çubuk parça-lar-ı gibi cansız nesne-ler canlı-ya dönüş-üp hareket ed-er, konuş-ma-ya başla-r.
++ 変身|へんしん|dönüşüm, kılık değiştirme
++ 棒切れ|ぼうきれ|çubuk parçası, değnek|棒切れ
++ 無生物|むせいぶつ|cansız nesne
++ 生き物|いきもの|canlı|生き物
++ 動く|うごく|hareket etmek|動き
+95 ここが、ここでありながら、ここではない場所{ばしょ}になる。押{お}し入{い}れが謎{なぞ}の洞窟{どうくつ}や船{ふね}の船室{せんしつ}になり、公園{こうえん}が魔法{まほう}の国{くに}になる。
+= Bura-sı, bura ol-duğ-u halde, bura ol-ma-yan bir yer-e dönüş-ür. Dolap gizemli bir mağara-ya ya da gemi kamara-sı-na, park sihirli bir ülke-ye dönüş-ür.
++ 場所|ばしょ|yer
++ 押し入れ|おしいれ|gömme dolap (yatak dolabı)|押し入れ
++ 謎|なぞ|gizem, bilmece
++ 洞窟|どうくつ|mağara
++ 船|ふね|gemi
++ 船室|せんしつ|kamara
++ 公園|こうえん|park
++ 魔法|まほう|sihir, büyü
++ 国|くに|ülke
+96 また子供{こども}自身{じしん}が自分{じぶん}以外{いがい}のものになる。お母{かあ}さんや赤{あか}ちゃんになったり、学校{がっこう}の先生{せんせい}やお医者{いしゃ}さんになったり、子供{こども}番組{ばんぐみ}や漫画{まんが}やアニメの登場{とうじょう}人物{じんぶつ}になったりする。
+= Ayrıca çocuk kendi-si de kendi-si dışında bir şey-e dönüş-ür. Anne ya da bebek, okul öğretmen-i ya da doktor, çocuk program-ı, manga ya da anime karakter-i ol-ur.
++ お母さん|おかあさん|anne|お母さん
++ 赤ちゃん|あかちゃん|bebek|赤ちゃん
++ 学校|がっこう|okul
++ 先生|せんせい|öğretmen
++ 医者|いしゃ|doktor
++ 番組|ばんぐみ|(TV) program
++ 漫画|まんが|manga, çizgi roman
+97 子供{こども}は自分{じぶん}とは異{こと}なる他者{たしゃ}を自分{じぶん}と同{おな}じような存在{そんざい}として扱{あつか}い、同時{どうじ}に自分{じぶん}も他者{たしゃ}となっている。
+= Çocuk kendi-sin-den farklı ol-an öteki-ni kendi-si gibi bir varlık olarak ele al-ır ve aynı zamanda kendi-si de öteki ol-ur.
++ 異なる|ことなる|farklı olmak|異なる
++ 扱う|あつかう|ele almak, muamele etmek|扱い
++ 同時|どうじ|aynı zamanda
+98 子供{こども}たちは想像力{そうぞうりょく}を繰{く}り広{ひろ}げることによって、現実{げんじつ}にありながらも現実{げんじつ}とちがう位相{いそう}にある世界{せかい}を作{つく}り出{だ}している。
+= Çocuk-lar hayal güc-ü-nü serbest bırak-arak, gerçek-te var ol-duk-lar-ı halde gerçek-ten farklı bir düzlem-de bulun-an bir dünya yarat-ır-lar.
++ 想像力|そうぞうりょく|hayal gücü
++ 繰り広げる|くりひろげる|açmak, sergilemek, geliştirmek|繰り広げる
++ 位相|いそう|düzlem, faz
+99 イギリスの小児科医{しょうにかい}・精神科医{せいしんかい}・精神{せいしん}分析家{ぶんせきか}ドナルド・W・ウィニコットは、遊{あそ}びに夢中{むちゅう}になっている子供{こども}が生{い}きる、心的{しんてき}現実{げんじつ}と外部{がいぶ}の客観的{きゃっかんてき}な現実{げんじつ}のどちらに属{ぞく}するのか問{と}いただせない中間{ちゅうかん}領域{りょういき}を通{とお}して、子供{こども}は世界{せかい}との関係{かんけい}を習得{しゅうとく}するのであり、芸術{げいじゅつ}や宗教{しゅうきょう}もまた、この中間{ちゅうかん}領域{りょういき}の体験{たいけん}であると指摘{してき}している。
+= İngiliz çocuk doktor-u, psikiyatrist ve psikanalist Donald W. Winnicott, oyun-a dal-mış bir çocuğ-un yaşa-dığ-ı, psişik gerçeklik-e mi yoksa dış-taki nesnel gerçeklik-e mi ait ol-duğ-u sorgula-n-a-ma-yan ara alan aracılığıyla çocuğ-un dünya-yla ilişki kur-ma-yı öğren-diğ-i-ni, sanat ve din-in de bu ara alan-ın deneyim-i ol-duğ-u-nu belirt-ir.
++ 小児科医|しょうにかい|çocuk doktoru
++ 精神科医|せいしんかい|psikiyatrist
++ 精神分析家|せいしんぶんせきか|psikanalist|精神分析家
++ 夢中|むちゅう|kendini kaptırma, dalma
++ 心的|しんてき|psişik, ruhsal
++ 外部|がいぶ|dış, dışarısı
++ 属する|ぞくする|ait olmak|属する
++ 問いただす|といただす|sorgulamak, sorup soruşturmak|問いただせ
++ 中間領域|ちゅうかんりょういき|ara alan (Winnicott)|中間領域
++ 習得|しゅうとく|öğrenme, edinme
++ 指摘|してき|belirtme, dikkat çekme
+100 子供{こども}の遊{あそ}びには、必{かなら}ず何{なん}らかの物語性{ものがたりせい}が備{そな}えられている。
+= Çocuk oyun-u-nda mutlaka bir tür öykü-sellik bulun-ur.
++ 必ず|かならず|mutlaka|必ず
++ 物語性|ものがたりせい|öyküsellik, anlatısallık
++ 備える|そなえる|donatmak, sahip olmak (備えられる: bulunmak)|備えられ
+101 ままごとでは、食事{しょくじ}を食{た}べたり子供{こども}の世話{せわ}をしたりなど家庭{かてい}の日常{にちじょう}の物語{ものがたり}が演{えん}じられ、漫画{まんが}やアニメの登場{とうじょう}人物{じんぶつ}となりきっている場合{ばあい}には、仲間{なかま}を作{つく}ったり敵{てき}と戦{たたか}ったりなどの冒険{ぼうけん}の物語{ものがたり}が演{えん}じられている。
+= Evcilik oyun-u-nda yemek ye-mek, çocuğ-a bak-mak gibi aile-nin gündelik öykü-ler-i canlandır-ıl-ır; manga ya da anime karakter-i-ne tamamen bürün-ül-düğ-ü durum-da da arkadaş edin-mek, düşman-la savaş-mak gibi macera öykü-ler-i canlandır-ıl-ır.
++ 食事|しょくじ|yemek
++ 食べる|たべる|yemek (fiil)|食べ
++ 世話|せわ|bakım, ilgilenme
++ 日常|にちじょう|gündelik hayat
++ 演じる|えんじる|canlandırmak, oynamak|演じられ
++ 仲間|なかま|arkadaş, yoldaş
++ 敵|てき|düşman
++ 戦う|たたかう|savaşmak|戦った
++ 冒険|ぼうけん|macera
+102 そもそも他者{たしゃ}を演{えん}じている時点{じてん}で、そこにはある種{しゅ}の物語性{ものがたりせい}が生{しょう}じる。遊{あそ}びは、人間{にんげん}にとって本質的{ほんしつてき}な活動{かつどう}である。
+= Zaten öteki-ni canlandır-dığ-ı an-da ora-da bir tür öykü-sellik doğ-ar. Oyun, insan için öz-sel bir etkinlik-tir.
++ 時点|じてん|an, nokta (zamanda)
++ 種|しゅ|tür (ある種の: bir tür)
++ 生じる|しょうじる|meydana gelmek, doğmak|生じる
++ 本質的|ほんしつてき|özsel, temel
++ 活動|かつどう|etkinlik, faaliyet
+103 客観的{きゃっかんてき}現実{げんじつ}と主観的{しゅかんてき}現実{げんじつ}とのあいだに開{ひら}く遊{あそ}びの空間{くうかん}は、子供{こども}が現実{げんじつ}を理解{りかい}し、現実{げんじつ}に参与{さんよ}していくための媒介{ばいかい}・通路{つうろ}となっている。
+= Nesnel gerçeklik ile öznel gerçeklik arası-nda açıl-an oyun alan-ı, çocuğ-un gerçeklik-i anla-yıp gerçeklik-e katıl-ma-sı için bir aracı, bir geçit-tir.
++ 主観的|しゅかんてき|öznel
++ 開く|ひらく|açılmak, açmak|開く
++ 空間|くうかん|alan, uzam
++ 参与|さんよ|katılma, iştirak
++ 媒介|ばいかい|aracı, aracılık
++ 通路|つうろ|geçit, yol
+104 遊{あそ}びによって、子供{こども}はほとんど意識{いしき}しないまま、他者{たしゃ}とは何{なに}かを、つまり他者{たしゃ}が自己{じこ}とは必{かなら}ずしも違{ちが}うものではない、と同時{どうじ}に他者{たしゃ}は必{かなら}ずしも自己{じこ}とは同{おな}じものではない、ということを感{かん}じ取{と}っているのでははないか。
+= Oyun yoluyla çocuk neredeyse farkına var-ma-dan öteki-nin ne ol-duğ-u-nu, yani öteki-nin ben-den mutlaka farklı bir şey ol-ma-dığ-ı-nı, ama aynı zamanda öteki-nin ben-le mutlaka aynı şey de ol-ma-dığ-ı-nı sez-iyor ol-ma-sın?
++ 自己|じこ|benlik, kendi
++ 必ずしも|かならずしも|mutlaka değil, her zaman değil|必ずしも
++ 感じ取る|かんじとる|sezmek, hissetmek|感じ取って
+105 ユダヤ人{じん}大量{たいりょう}虐殺{ぎゃくさつ}＝「ショアー」におけるユダヤ人{じん}の子供{こども}たちを研究{けんきゅう}したジョージ・エイゼンは、膨大{ぼうだい}な証言{しょうげん}から、ワルシャワのゲットーやアウシュビッツ絶滅{ぜつめつ}収容所{しゅうようじょ}において、それもガス室{しつ}へと続{つづ}く列{れつ}のなかでさえ、子供{こども}たちが驚{おどろ}くべき想像力{そうぞうりょく}を発揮{はっき}して子{こ}遊{あそ}び続{つづ}けたことを示{しめ}している。
+= Yahudi soykırım-ı = "Shoah" sırasında-ki Yahudi çocuk-lar-ı-nı araştır-an George Eisen, muazzam tanıklık-lar-dan yola çık-arak, Varşova Getto-su-nda ve Auschwitz imha kamp-ı-nda, hatta gaz oda-sı-na gid-en sıra-nın için-de bile çocuk-lar-ın şaşırtıcı bir hayal gücü göster-ip oyna-ma-yı sürdür-dük-ler-i-ni göster-ir.
++ 大量虐殺|たいりょうぎゃくさつ|soykırım, toplu katliam|大量虐殺
++ 証言|しょうげん|tanıklık
++ 絶滅収容所|ぜつめつしゅうようじょ|imha kampı|絶滅収容所
++ 室|しつ|oda
++ 続く|つづく|devam etmek, uzanmak|続く
++ 列|れつ|sıra, kuyruk
++ 驚く|おどろく|şaşırmak (驚くべき: şaşırtıcı)|驚く
++ 発揮|はっき|(yetenek) gösterme, ortaya koyma
+106 絶滅{ぜつめつ}収容所{しゅうようじょ}が人間{にんげん}から人間性{にんげんせい}を剥奪{はくだつ}する場所{ばしょ}である以上{いじょう}、遊{あそ}びが人間{にんげん}を人間{にんげん}たらしめるための最後{さいご}の拠{よ}りどころであるということがわかる。
+= İmha kamp-ı insan-dan insanlığ-ı-nı sök-üp al-an bir yer ol-duğ-u-na göre, oyun-un insan-ı insan yap-an son dayanak ol-duğ-u anlaşıl-ır.
++ 人間性|にんげんせい|insanlık, insani nitelik
++ 剥奪|はくだつ|elinden alma, yoksun bırakma
++ 以上|いじょう|…dığına göre; …den fazla
++ 拠りどころ|よりどころ|dayanak, sığınak|拠りどころ
+107 文学{ぶんがく}がやっていることも、子供{こども}にとっての遊{あそ}びと基本的{きほんてき}には同{おな}じことだ。想像力{そうぞうりょく}の動{うご}きがより大{おお}きく、より精緻{せいち}に、より複雑{ふくざつ}に、より構造的{こうぞうてき}になっているだけである。
+= Edebiyat-ın yap-tığ-ı şey de temelde çocuk için oyun-la aynı-dır. Sadece hayal gücü-nün hareket-i daha büyük, daha ince, daha karmaşık ve daha yapısal ol-muş-tur.
++ 基本的|きほんてき|temel
++ 大きい|おおきい|büyük|大き
++ 精緻|せいち|ince, titiz, ayrıntılı
++ 複雑|ふくざつ|karmaşık
++ 構造的|こうぞうてき|yapısal
+108 遊{あそ}びが子供{こども}にとって不可欠{ふかけつ}なように、文学{ぶんがく}に代表{だいひょう}される創造的{そうぞうてき}活動{かつどう}、芸術{げいじゅつ}は、人間{にんげん}が人間{にんげん}であるために不可欠{ふかけつ}な本質的{ほんしつてき}活動{かつどう}である（『神曲{しんきょく}』の詩句{しく}を暗誦{あんしょう}することで、アウシュビッツの地獄{じごく}に沈{しず}むことなく、この世界{せかい}にとどまることのできたプリモ・レーヴィの例{れい}を思{おも}い出{だ}してもよいかもしれない）。
+= Oyun çocuk için ne kadar vazgeçilmez-se, edebiyat-ın temsil et-tiğ-i yaratıcı etkinlik-ler, sanat da insan-ın insan ol-ma-sı için vazgeçilmez özsel etkinlik-ler-dir ("İlahi Komedya"-nın dize-ler-i-ni ezber-den oku-yarak Auschwitz cehennem-i-ne bat-ma-dan bu dünya-da kal-abil-en Primo Levi örneğ-i-ni hatırla-ya-bil-ir-iz).
++ 不可欠|ふかけつ|vazgeçilmez
++ 代表|だいひょう|temsil, temsilci
++ 創造的|そうぞうてき|yaratıcı
++ 神曲|しんきょく|İlahi Komedya (Dante)
++ 詩句|しく|dize
++ 暗誦|あんしょう|ezberden okuma
++ 地獄|じごく|cehennem
++ 沈む|しずむ|batmak|沈む
++ 例|れい|örnek
++ 思い出す|おもいだす|hatırlamak|思い出して
+109 アメリカの哲学者{てつがくしゃ}のマーサ・ヌスバウムは、宗教{しゅうきょう}、ジェンダー、人種{じんしゅ}、階級{かいきゅう}、国民性{こくみんせい}などの差異{さい}を持{も}つ人々{ひとびと}を理解{りかい}するために、文学{ぶんがく}が最良{さいりょう}の手段{しゅだん}を提供{ていきょう}してくれると考{かんが}えている。
+= Amerikalı filozof Martha Nussbaum, din, toplumsal cinsiyet, ırk, sınıf, ulusal karakter gibi farklılık-lar-a sahip insan-lar-ı anla-mak için edebiyat-ın en iyi araç-ı sun-duğ-u-nu düşün-ür.
++ 哲学者|てつがくしゃ|filozof
++ 人種|じんしゅ|ırk
++ 階級|かいきゅう|sınıf (toplumsal)
++ 国民性|こくみんせい|ulusal karakter
++ 差異|さい|farklılık, ayrım
++ 人々|ひとびと|insanlar
+110 すぐれた文学{ぶんがく}作品{さくひん}は、そこに私{わたし}たちが没入{ぼつにゅう}するとき、私{わたし}たちが他者{たしゃ}の身{み}に自分{じぶん}を置{お}くことを、そのようにして私{わたし}たちのものとは異{こと}なる世界{せかい}の風景{ふうけい}を眺{なが}め、異{こと}なる社会{しゃかい}を観察{かんさつ}することを可能{かのう}にする。
+= Seçkin edebiyat eser-ler-i, kendi-miz-i on-a kaptır-dığ-ı-mız-da, kendi-miz-i öteki-nin yer-i-ne koy-ma-mız-ı ve böylece bizim-kin-den farklı bir dünya-nın manzara-sı-nı seyret-me-miz-i, farklı bir toplum-u gözlemle-me-miz-i mümkün kıl-ar.
++ 没入|ぼつにゅう|kendini kaptırma, dalma
++ 置く|おく|koymak|置く
++ 風景|ふうけい|manzara
++ 眺める|ながめる|seyretmek, bakmak|眺め
++ 観察|かんさつ|gözlem
+111 そこに生{い}きる人々{ひとびと}もまた、私{わたし}たち同様{どうよう}に、喜{よろこ}びと悲{かな}しみ、希望{きぼう}や苦悩{くのう}を抱{かか}えた人間{にんげん}なのだと実感{じっかん}させてくれる。
+= Ora-da yaşa-yan insan-lar-ın da tıpkı biz-im gibi sevinç ve hüzün, umut ve ıstırap taşı-yan insan-lar ol-duğ-u-nu içten hisset-tir-ir.
++ 同様|どうよう|aynı şekilde, gibi
++ 喜び|よろこび|sevinç|喜び
++ 悲しみ|かなしみ|hüzün, keder|悲しみ
++ 希望|きぼう|umut
++ 苦悩|くのう|ıstırap, dert
++ 抱える|かかえる|taşımak, (sorun) yüklenmek|抱えた
++ 実感|じっかん|içten hissetme, somut olarak duyma
+112 文学{ぶんがく}作品{さくひん}を読{よ}むことで、私{わたし}たちは、宗教{しゅうきょう}やジェンダーや人種{じんしゅ}や階級{かいきゅう}や国民性{こくみんせい}における「差異{さい}」に出会{であ}い、それらを学{まな}びつつ、そのような差異{さい}を持{も}った他者{たしゃ}の感情{かんじょう}、思考{しこう}、世界{せかい}の見方{みかた}に触{ふ}れることができる。
+= Edebiyat eser-ler-i-ni oku-yarak din, toplumsal cinsiyet, ırk, sınıf ve ulusal karakter-de-ki "farklılık"-lar-la karşılaş-ır, bun-lar-ı öğren-ir-ken, böyle farklılık-lar-a sahip öteki-ler-in duygu-lar-ı-na, düşünce-ler-i-ne, dünya-ya bakış-ı-na temas ed-ebil-ir-iz.
++ 出会う|であう|karşılaşmak|出会い
++ 思考|しこう|düşünce, düşünme
+113 そしてあらゆる差異{さい}を超{こ}えて、自分{じぶん}と同{おな}じ「内面{ないめん}」を備{そな}えた他者{たしゃ}に、人間{にんげん}として「共感{きょうかん}」することができる。
+= Ve tüm farklılık-lar-ı aş-arak, kendi-miz-le aynı "iç dünya"-ya sahip öteki-ne insan olarak "empati" kur-abil-ir-iz.
++ 超える|こえる|aşmak|超えて
++ 内面|ないめん|iç dünya, iç
+114 他者{たしゃ}への共感{きょうかん}ということを考{かんが}えるとき、文学{ぶんがく}はきわめて有効{ゆうこう}な手段{しゅだん}である。文学{ぶんがく}作品{さくひん}、とりわけ小説{しょうせつ}ほど、他者{たしゃ}の体験{たいけん}をその内部{ないぶ}から生{い}きることがごく当{あ}たり前{まえ}に実践{じっせん}される場{ば}はないからだ。
+= Öteki-ne empati üzerine düşün-düğ-ü-müz-de, edebiyat son derece etkili bir araç-tır. Çünkü öteki-nin deneyim-i-ni iç-in-den yaşa-ma-nın edebiyat eser-ler-i, özellikle de roman kadar doğal bir şekil-de uygula-n-dığ-ı bir yer yok-tur.
++ 当たり前|あたりまえ|olağan, doğal|当たり前
++ 実践|じっせん|uygulama, pratik
++ 場|ば|yer, ortam
+115 人間{にんげん}はふつう絶対{ぜったい}に他者{たしゃ}の「内面{ないめん}」を見{み}ることはできない。ところがそれを「透明{とうめい}」にしてくれる表現{ひょうげん}手段{しゅだん}がある。フィクション＝虚構{きょこう}である。
+= İnsan normal-de öteki-nin "iç dünya"-sı-nı asla gör-e-mez. Oysa bun-u "saydam" kıl-an bir ifade araç-ı var. Kurmaca = hayal ürün-ü kurgu-dur.
++ 絶対|ぜったい|kesinlikle, asla (olumsuzla)
++ 透明|とうめい|saydam
++ 虚構|きょこう|kurgu, kurmaca
+116 アメリカの文学{ぶんがく}理論家{りろんか}のドリット・コーンが指摘{してき}しているように、小説{しょうせつ}においては、小説{しょうせつ}内{ない}の登場{とうじょう}人物{じんぶつ}の頭{あたま}のなかを、思考{しこう}や感情{かんじょう}を読者{どくしゃ}が見{み}ることができる。
+= Amerikalı edebiyat kuramcı-sı Dorrit Cohn-un belirt-tiğ-i gibi, roman-da okur, roman-daki karakter-ler-in kafa-sı-nın iç-i-ni, düşünce-ler-i-ni ve duygu-lar-ı-nı gör-ebil-ir.
++ 理論家|りろんか|kuramcı
++ 頭|あたま|kafa, baş
+117 「彼{かれ}は……と思{おも}った」、「彼女{かのじょ}は……と願{ねが}った」などの言語{げんご}形式{けいしき}によって、登場{とうじょう}人物{じんぶつ}の内面{ないめん}が透明{とうめい}になる。それは三人称{さんにんしょう}の小説{しょうせつ}に限{かぎ}らない。
+= "O …… diye düşün-dü", "O (kadın) …… diye dile-di" gibi dil biçim-ler-i aracılığıyla karakter-in iç dünya-sı saydam-laş-ır. Bu yalnızca üçüncü şahıs roman-lar-a özgü değil-dir.
++ 彼女|かのじょ|o (kadın)
++ 願う|ねがう|dilemek|願った
++ 言語|げんご|dil
+118 「わたし」や「ぼく」で語{かた}られる小説{しょうせつ}にしても、その語{かた}り手{て}は、読者{どくしゃ}にとっては、現実{げんじつ}生活{せいかつ}においてはその内面{ないめん}に絶対{ぜったい}にアクセスできない他者{たしゃ}である。
+= "Ben (watashi)" ya da "ben (boku)" ile anlat-ıl-an roman-lar-da da o anlatıcı, okur için gerçek hayat-ta iç dünya-sı-na asla eriş-e-me-yeceğ-i bir öteki-dir.
++ 生活|せいかつ|hayat, yaşam
+119 しかし読{よ}んでいるうちに知{し}らずのうちに読者{どくしゃ}はおのれとは異{こと}なるその「わたし」や「ぼく」に同化{どうか}している。
+= Ama oku-dukça, farkında ol-ma-dan, okur kendi-sin-den farklı ol-an o "ben"-le özdeşleş-ir.
++ 同化|どうか|özdeşleşme, benzeşme
+120 フロイトの精神{せいしん}分析{ぶんせき}の著述{ちょじゅつ}が、しばしば疑似{ぎじ}科学的{かがくてき}なもの、小説的{しょうせつてき}だと言{い}われていることについて、コーンはフロイトが決{けっ}して第三者{だいさんしゃ}の内面{ないめん}を記述{きじゅつ}していないことに注目{ちゅうもく}し、文体的{ぶんたいてき}な観点{かんてん}から、その理論{りろん}のほとんどをギリシア神話{しんわ}やシェークスピアなど文学{ぶんがく}作品{さくひん}の独自{どくじ}の読解{どっかい}によって構築{こうちく}したフロイトが、精神{せいしん}分析的{ぶんせきてき}言説{げんせつ}の科学性{かがくせい}にこだわっていたことを明{あき}らかにしている（そこからフロイトのシュールレアリスムに対{たい}する冷{ひ}ややかな距離{きょり}が理解{りかい}される）。
+= Freud-un psikanaliz yazı-lar-ı-nın sık sık sahte bilim-sel, roman-sı diye nitele-n-me-si konu-sun-da Cohn, Freud-un üçüncü bir kişi-nin iç dünya-sı-nı asla betimle-me-diğ-i-ne dikkat çek-er ve üslup açı-sı-ndan, kuram-ı-nın çoğ-u-nu Yunan mitoloji-si ve Shakespeare gibi edebiyat eser-ler-i-nin özgün okuma-lar-ı-yla kur-an Freud-un psikanalitik söylem-in bilim-sel-liğ-i-ne sıkı sıkıya bağlı ol-duğ-u-nu ortaya koy-ar (bura-dan Freud-un gerçeküstücülüğ-e karşı soğuk mesafe-si de anlaşıl-ır).
++ 分析|ぶんせき|analiz
++ 著述|ちょじゅつ|yazı, eser yazma
++ 疑似|ぎじ|sahte, sözde
++ 科学的|かがくてき|bilimsel
++ 小説的|しょうせつてき|romansı
++ 第三者|だいさんしゃ|üçüncü kişi
++ 文体的|ぶんたいてき|üslupsal
++ 観点|かんてん|bakış açısı
++ 読解|どっかい|okuma, okuyup anlama
++ 構築|こうちく|kurma, inşa
++ 言説|げんせつ|söylem
++ 科学性|かがくせい|bilimsellik
++ 対する|たいする|karşı (…に対する: …e karşı)|対する
++ 冷ややか|ひややか|soğuk, mesafeli
+121 また、歴史学{れきしがく}の言説{げんせつ}と歴史{れきし}小説{しょうせつ}の言説{げんせつ}を区別{くべつ}するのは、内面{ないめん}の透明性{とうめいせい}だと指摘{してき}している（歴史学{れきしがく}の言説{げんせつ}では、「ナポレオンは……と考{かんが}えたにちがいない」とは書{か}けても、「ナポレンは……と思{おも}った」とは書{か}けない）。
+= Ayrıca, tarih bilim-i söylem-i ile tarihî roman söylem-i-ni ayır-an şey-in iç dünya-nın saydamlığ-ı ol-duğ-u-nu belirt-ir (tarih bilim-i söylem-i-nde "Napolyon mutlaka …… diye düşün-müş ol-malı" yaz-ıl-abil-ir ama "Napolyon …… diye düşün-dü" yaz-ıl-a-maz).
++ 歴史学|れきしがく|tarih bilimi
++ 透明性|とうめいせい|saydamlık
+122 小説{しょうせつ}を読{よ}むことは、他者{たしゃ}の内面{ないめん}を覗{のぞ}き見{み}ることであり、それは他者{たしゃ}が自分{じぶん}と同{おな}じように、欲望{よくぼう}や苦悩{くのう}や矛盾{むじゅん}に満{み}ちた、深{ふか}い奥行{おくゆ}きを持{も}った複雑{ふくざつ}な「心{こころ}」を持{も}っていることを発見{はっけん}することだ。
+= Roman oku-mak öteki-nin iç dünya-sı-na göz at-mak-tır; bu da öteki-nin de tıpkı ben gibi arzu, ıstırap ve çelişki-yle dolu, derin-liğ-i ol-an karmaşık bir "gönül"-e sahip ol-duğ-u-nu keşfet-mek-tir.
++ 覗き見る|のぞきみる|gizlice bakmak, göz atmak|覗き見る
++ 欲望|よくぼう|arzu
++ 矛盾|むじゅん|çelişki
++ 満ちる|みちる|dolmak (…に満ちた: …le dolu)|満ちた
++ 奥行き|おくゆき|derinlik|奥行き
+123 同時{どうじ}に、小説{しょうせつ}を読{よ}むことは当然{とうぜん}、そのようなそれぞれに独自{どくじ}の「内面{ないめん}」、「主観性{しゅかんせい}」を形成{けいせい}させた外的{がいてき}環境{かんきょう}――社会的{しゃかいてき}、文化的{ぶんかてき}、歴史的{れきしてき}コンテクスト――の固有性{こゆうせい}を理解{りかい}することにつながる。
+= Aynı zamanda roman oku-mak elbette, her bir-i-nin özgün "iç dünya"-sı-nı, "öznellik"-i-ni biçimlendir-en dış çevre-nin –toplumsal, kültürel, tarihsel bağlam-ın– kendi-ne özgü-lüğ-ü-nü anla-ma-ya da bağlan-ır.
++ 主観性|しゅかんせい|öznellik
++ 形成|けいせい|biçimlendirme, oluşum
++ 外的|がいてき|dış, dışsal
++ 固有性|こゆうせい|özgüllük, kendine özgülük
+124 文学{ぶんがく}作品{さくひん}が産出{さんしゅつ}される外的{がいてき}環境{かんきょう}――作品{さくひん}がそこか生{う}み出{だ}され、作品{さくひん}が主題{しゅだい}あるいは背景{はいけい}として描{えが}く社会的{しゃかいてき}・文化的{ぶんかてき}な風土{ふうど}――について理解{りかい}するということが、近代{きんだい}の大学{だいがく}における文学{ぶんがく}研究{けんきゅう}の中心的{ちゅうしんてき}課題{かだい}の一{ひと}つであった。
+= Edebiyat eser-ler-i-nin üret-il-diğ-i dış çevre-yi –eser-in ora-dan doğ-duğ-u ve eser-in konu ya da arka plan olarak betimle-diğ-i toplumsal ve kültürel iklim-i– anla-mak, modern üniversite-de-ki edebiyat araştırma-sı-nın merkezî görev-ler-in-den bir-i-ydi.
++ 産出|さんしゅつ|üretme, ortaya çıkarma
++ 主題|しゅだい|konu, tema
++ 描く|えがく|betimlemek, tasvir etmek|描く
++ 風土|ふうど|iklim, ortam
++ 中心的|ちゅうしんてき|merkezî
++ 課題|かだい|görev, mesele
+125 近代{きんだい}の国民{こくみん}国家{こっか}の成立{せいりつ}の歴史{れきし}からも明{あき}らかなように、近代{きんだい}国家{こっか}の成立{せいりつ}と、「国語{こくご}」の成立{せいりつ}が不可分{ふかぶん}であるとしたら、「国語{こくご}」を形成{けいせい}するために大{おお}きく寄与{きよ}したのは文学{ぶんがく}である。
+= Modern ulus devlet-in oluşum tarih-in-den de anlaşıl-dığ-ı gibi, modern devlet-in kuruluş-u ile "ulusal dil"-in oluşum-u ayrılmaz ise, "ulusal dil"-in biçimlen-me-si-ne büyük katkı yap-an edebiyat-tır.
++ 国民国家|こくみんこっか|ulus devlet|国民国家
++ 国家|こっか|devlet
++ 国語|こくご|ulusal dil; Japonca (ders)
++ 不可分|ふかぶん|ayrılmaz
++ 寄与|きよ|katkı
+126 ナショナリズム論{ろん}の古典{こてん}中{ちゅう}の古典{こてん}となったベネディクト・アンダーソンの『想像{そうぞう}の共同体{きょうどうたい}』において強調{きょうちょう}されるのは、国民{こくみん}（ネイション）形成{けいせい}における出版{しゅっぱん}資本{しほん}主義{しゅぎ}の重要性{じゅうようせい}であった。
+= Milliyetçilik kuram-ı-nın klasik-ler-i-nin klasiğ-i ol-an Benedict Anderson-un "Hayali Cemaatler" eser-i-nde vurgula-n-an, ulus (nation) oluşum-u-nda matbaa kapitalizm-i-nin önem-i-ydi.
++ 論|ろん|kuram, tez
++ 古典|こてん|klasik
++ 共同体|きょうどうたい|cemaat, topluluk
++ 強調|きょうちょう|vurgu
++ 国民|こくみん|ulus, halk
++ 資本主義|しほんしゅぎ|kapitalizm|資本主義
++ 重要性|じゅうようせい|önem
+127 小説{しょうせつ}や新聞{しんぶん}の流通{りゅうつう}によって「口語{こうご}俗語{ぞくご}」が「国語{こくご}」として形成{けいせい}され、それを読{よ}む相互{そうご}に無関係{むかんけい}な多数{たすう}の人々{ひとびと}が、地縁的{ちえんてき}・血縁的{けつえんてき}なつながりを越{こ}えたある一{ひと}つの共同体{きょうどうたい}に属{ぞく}しているという意識{いしき}を共有{きょうゆう}するようになる。
+= Roman ve gazete-ler-in dolaşım-ı yoluyla "konuşma dil-i ve halk dil-i" "ulusal dil" olarak biçimlen-ir ve bun-u oku-yan, birbir-i-yle ilgisiz çok sayıda insan, yer ve kan bağ-lar-ı-nı aş-an tek bir topluluğ-a ait ol-duk-lar-ı bilinc-i-ni paylaş-ır hale gel-ir.
++ 流通|りゅうつう|dolaşım
++ 口語|こうご|konuşma dili
++ 俗語|ぞくご|halk dili, argo
++ 相互|そうご|karşılıklı
++ 無関係|むかんけい|ilgisiz
++ 多数|たすう|çok sayıda
++ 地縁的|ちえんてき|yer bağına dayalı
++ 血縁的|けつえんてき|kan bağına dayalı
++ 越える|こえる|aşmak, geçmek|越えた
++ 共有|きょうゆう|paylaşma, ortak olma
+128 自分{じぶん}たちのことを「私{わたし}たち」と言{い}えるような人々{ひとびと}の集団{しゅうだん}＝国民{こくみん}を創出{そうしゅつ}するために、近代{きんだい}の国家{こっか}は何{なに}よりも共通{きょうつう}の言語{げんご}を必要{ひつよう}としたのである。
+= Kendi-ler-i için "biz" diy-ebil-en bir insan topluluğ-u-nu = ulus-u yarat-mak için modern devlet her şey-den önce ortak bir dil-e ihtiyaç duy-du.
++ 集団|しゅうだん|grup, topluluk
++ 創出|そうしゅつ|yaratma, ortaya çıkarma
++ 共通|きょうつう|ortak
+129 十九{じゅうきゅう}世紀{せいき}の後半{こうはん}にそのような国民{こくみん}国家{こっか}をいちはやく形成{けいせい}することに成功{せいこう}し、世界{せかい}において支配的{しはいてき}な地位{ちい}を確立{かくりつ}していたのが、イギリスやアメリカ、ドイツ、フランス、ロシアといった国{くに}なのであり、世界{せかい}のその他{た}の地域{ちいき}にとって、近代化{きんだいか}とはこうした西洋{せいよう}の列強{れっきょう}を模倣{もほう}することだった。
+= 19. yüzyıl-ın ikinci yarı-sı-nda böyle bir ulus devlet-i ilk kur-ma-yı başar-ıp dünya-da egemen bir konum edin-en-ler İngiltere, Amerika, Almanya, Fransa, Rusya gibi ülke-ler-di; dünya-nın diğer bölge-ler-i için modernleş-me, bu Batılı büyük güç-ler-i taklit et-mek-ti.
++ 後半|こうはん|ikinci yarı
++ 成功|せいこう|başarı
++ 支配的|しはいてき|egemen, hâkim
++ 地位|ちい|konum, statü
++ 確立|かくりつ|kurma, sağlamlaştırma
++ 地域|ちいき|bölge
++ 近代化|きんだいか|modernleşme
++ 西洋|せいよう|Batı
++ 列強|れっきょう|büyük güçler
++ 模倣|もほう|taklit
+130 大学{だいがく}に設置{せっち}された文学部{ぶんがくぶ}において、英文学{えいぶんがく}やドイツ文学{ぶんがく}やフランス文学{ぶんがく}が読{よ}まれ学{まな}ばれたのは、それぞれの国々{くにぐに}の風俗{ふうぞく}、人情{にんじょう}、習慣{しゅうかん}、国民{こくみん}性格{せいかく}などをより深{ふか}く理解{りかい}するためだったのである。
+= Üniversite-ler-de kur-ul-an edebiyat fakülte-ler-i-nde İngiliz, Alman ve Fransız edebiyat-lar-ı-nın oku-n-up öğren-il-me-si, o ülke-ler-in her bir-i-nin töre-ler-i-ni, insan-i duygu-lar-ı-nı, alışkanlık-lar-ı-nı ve ulusal karakter-ler-i-ni daha derinden anla-mak için-di.
++ 設置|せっち|kurma, tesis etme
++ 文学部|ぶんがくぶ|edebiyat fakültesi
++ 国々|くにぐに|ülkeler
++ 風俗|ふうぞく|töre, gelenek görenek
++ 人情|にんじょう|insani duygular, gönül
++ 習慣|しゅうかん|alışkanlık, âdet
+131 漱石{そうせき}は「私{わたし}の個人{こじん}主義{しゅぎ}」のなかで、ある文学{ぶんがく}作品{さくひん}に対{たい}する評価{ひょうか}は、それが書{か}かれ、読{よ}まれる国{くに}の風俗{ふうぞく}、人情{にんじょう}、習慣{しゅうかん}、国民性{こくみんせい}によって規定{きてい}されているという趣旨{しゅし}のことを言{い}っている。
+= Sōseki "Benim Bireycilik Anlayış-ım" ad-lı konuşma-sı-nda, bir edebiyat eser-i-ne dair değerlendirme-nin, o eser-in yaz-ıl-ıp oku-n-duğ-u ülke-nin töre-ler-i, insan-i duygu-lar-ı, alışkanlık-lar-ı ve ulusal karakter-i tarafından belirlen-diğ-i yönünde şey-ler söyle-r.
++ 個人主義|こじんしゅぎ|bireycilik|個人主義
++ 評価|ひょうか|değerlendirme
++ 規定|きてい|belirleme, tanımlama
++ 趣旨|しゅし|ana fikir, maksat
+132 そこには、文学{ぶんがく}作品{さくひん}には、それぞれの国{くに}の「風俗{ふうぞく}、人情{にんじょう}、習慣{しゅうかん}、国民性{こくみんせい}」が表現{ひょうげん}されている考{かんが}え方{かた}が前提{ぜんてい}とされている。
+= Bura-da, edebiyat eser-ler-i-nde her ülke-nin "töre-ler-i, insan-i duygu-lar-ı, alışkanlık-lar-ı, ulusal karakter-i"-nin ifade ed-il-diğ-i düşünce-si ön kabul olarak al-ın-mış-tır.
+133 国民{こくみん}国家{こっか}の時代{じだい}においては、文学{ぶんがく}作品{さくひん}は、その国民{こくみん}なり民族{みんぞく}の「声{こえ}」として理解{りかい}される。
+= Ulus devlet çağ-ı-nda edebiyat eser-ler-i o ulus-un ya da halk-ın "ses-i" olarak anlaşıl-ır.
++ 民族|みんぞく|millet, etnik topluluk
+134 そのことは一九{いちきゅう}世紀{せいき}初頭{しょとう}以降{いこう}のナショナリズムが、民族{みんぞく}や民衆{みんしゅう}の「声{こえ}」の発見{はっけん}を必要{ひつよう}としたこともからも明{あき}らかである。
+= Bu, 19. yüzyıl-ın başı-ndan itibaren milliyetçiliğ-in millet-in ve halk-ın "ses-i"-nin keşf-i-ne ihtiyaç duy-ma-sın-dan da açık-tır.
++ 民衆|みんしゅう|halk, halk kitleleri
+135 ところが、われわれが生{い}きる現代{げんだい}のグローバル化{か}の世界{せかい}にあっては、国民{こくみん}国家{こっか}や国文学{こくぶんがく}という枠組{わくぐ}みではうまく説明{せつめい}できない文化{ぶんか}の混淆{こんこう}現象{げんしょう}がますます増大{ぞうだい}している。
+= Oysa bizim yaşa-dığ-ı-mız günümüz-ün küresel-leş-en dünya-sı-nda, ulus devlet ya da ulusal edebiyat çerçeve-si-yle iyi açıkla-n-a-ma-yan kültürel karışım olgu-lar-ı giderek art-ıyor.
++ 現代|げんだい|günümüz, çağdaş
++ 化|か|…leşme, …laşma (グローバル化: küreselleşme)
++ 国文学|こくぶんがく|ulusal edebiyat; Japon edebiyatı
++ 枠組み|わくぐみ|çerçeve|枠組み
++ 説明|せつめい|açıklama
++ 混淆|こんこう|karışım, melezleşme
++ 現象|げんしょう|olgu, fenomen
++ 増大|ぞうだい|artış, büyüme
+136 西洋{せいよう}の旧{きゅう}植民地{しょくみんち}出身{しゅっしん}の作家{さっか}たちが書{か}く文学{ぶんがく}作品{さくひん}、たとえばサルマン・ラシュディの作品{さくひん}やパトリック・シャモワゾーの作品{さくひん}を、それぞれ単純{たんじゅん}にイギリスの「声{こえ}」、フランスの「声{こえ}」として読{よ}むことはできない。
+= Batı-nın eski sömürge-ler-in-den gel-en yazar-lar-ın yaz-dığ-ı edebiyat eser-ler-i-ni, örneğin Salman Rushdie-nin ya da Patrick Chamoiseau-nun eser-ler-i-ni, basitçe İngiltere-nin "ses-i", Fransa-nın "ses-i" olarak oku-ya-ma-yız.
++ 旧|きゅう|eski
++ 植民地|しょくみんち|sömürge
++ 出身|しゅっしん|…lı, …den gelme (memleket, okul)
++ 作家|さっか|yazar
++ 単純|たんじゅん|basit
+137 西洋{せいよう}の文学{ぶんがく}が「世界{せかい}文学{ぶんがく}」と考{かんが}えられていた時代{じだい}はすでに過去{かこ}のものなってしまった。
+= Batı edebiyat-ı-nın "dünya edebiyat-ı" sayıl-dığ-ı dönem artık geçmiş-te kal-dı.
++ 過去|かこ|geçmiş
+138 世界{せかい}を理解{りかい}するためにも、世界{せかい}のさまざまな地域{ちいき}から響{ひび}いてくる異{こと}なる「声{こえ}」をどうやって聞{き}き届{とど}けるかということが急務{きゅうむ}の課題{かだい}になっている。
+= Dünya-yı anla-mak için de, dünya-nın çeşitli bölge-ler-in-den yankı-la-n-an farklı "ses"-ler-e nasıl kulak ver-eceğ-imiz acil bir mesele ol-muş-tur.
++ 響く|ひびく|yankılanmak, çınlamak|響いて
++ 聞き届ける|ききとどける|dinleyip karşılık vermek, kulak vermek|聞き届ける
++ 急務|きゅうむ|acil iş
+139 ただ、非{ひ}西洋{せいよう}地域{ちいき}の作品{さくひん}を読{よ}むときに、作品{さくひん}が書{か}かれた国{くに}の社会{しゃかい}や文化{ぶんか}のネイティブ・インフォーマントとして読{よ}むようなアプローチを避{さ}けなければならない。
+= Ancak Batı dışı bölge-ler-in eser-ler-i-ni oku-r-ken, eser-i yaz-ıl-dığ-ı ülke-nin toplum ve kültür-ü hakkında yerli bilgi kaynağ-ı (native informant) gibi oku-yan bir yaklaşım-dan kaçın-mak gerek-ir.
++ 非|ひ|…dışı, gayri (非西洋: Batı dışı)
++ 避ける|さける|kaçınmak|避け
+140 まず自分{じぶん}たちの社会{しゃかい}や文化{ぶんか}との差異{さい}を理解{りかい}する、そして差異{さい}を超{こ}えて普遍的{ふへんてき}な人間{にんげん}の経験{けいけん}を共有{きょうゆう}する、というこの二{ふた}つのことが同時{どうじ}になされなくてはならない。
+= Önce kendi toplum ve kültür-ümüz-le ara-da-ki farklılık-lar-ı anla-mak, sonra da farklılık-lar-ı aş-arak evrensel insan deneyim-i-ni paylaş-mak; bu iki şey aynı anda yap-ıl-malı-dır.
++ 普遍的|ふへんてき|evrensel
++ 経験|けいけん|deneyim
+141 アラブ文学{ぶんがく}研究者{けんきゅうしゃ}の岡{おか}真理{まり}が指摘{してき}しているように、私{わたし}たちは西洋{せいよう}の小説{しょうせつ}を読{よ}むときには、この二{ふた}つを行{おこ}なっている、むしろ後者{こうしゃ}の体験{たいけん}を重視{じゅうし}しているのに対{たい}して、第三{だいさん}世界{せかい}出身{しゅっしん}の作家{さっか}の小説{しょうせつ}を読{よ}むときには、そこで描{えが}かれる社会{しゃかい}や文化{ぶんか}についての知識{ちしき}があまり共有{きょうゆう}されていないがゆえに、自分{じぶん}たちの社会{しゃかい}や文化{ぶんか}との「違{ちが}い」と「距離{きょり}」が強調{きょうちょう}されがちである。
+= Arap edebiyat-ı araştırmacı-sı Oka Mari-nin belirt-tiğ-i gibi, Batı roman-lar-ı-nı oku-r-ken bu iki şey-i yap-ar, hatta ikinci-si-nin deneyim-i-ne önem ver-ir-iz; buna karşılık Üçüncü Dünya-lı yazar-lar-ın roman-lar-ı-nı oku-r-ken, ora-da betimle-n-en toplum ve kültür hakkında-ki bilgi pek paylaş-ıl-ma-dığ-ı için, kendi toplum ve kültür-ümüz-le ara-da-ki "fark" ve "mesafe" vurgula-n-ma-ya eğilim-li-dir.
++ 研究者|けんきゅうしゃ|araştırmacı
++ 行う|おこなう|yapmak, gerçekleştirmek|行なって
++ 後者|こうしゃ|ikincisi, sonraki
++ 重視|じゅうし|önem verme
++ 第三世界|だいさんせかい|Üçüncü Dünya|第三世界
++ 違い|ちがい|fark|違い
+142 同{おな}じ小説{しょうせつ}というもの対{たい}して異{こと}なる二{ふた}つのアプローチが存在{そんざい}する。岡{おか}はこれを「知{ち}の二重{にじゅう}基準{きじゅん}」と呼{よ}んでいる。
+= Aynı roman denilen şey-e karşı iki farklı yaklaşım var-dır. Oka bun-a "bilgi-nin çifte standart-ı" di-yor.
++ 知|ち|bilgi, bilme
++ 二重|にじゅう|çifte, iki katlı
++ 基準|きじゅん|ölçüt, standart
+143 非{ひ}西洋{せいよう}の文学{ぶんがく}を読{よ}むときの危険{きけん}は、読{よ}み手{て}が対象{たいしょう}となる文化{ぶんか}や社会{しゃかい}に関{かん}してあらかじめ抱{いだ}いているイメージに当{あ}てはまるようなイメージを暗黙{あんもく}のうちに要請{ようせい}してしまうことである。
+= Batı dışı edebiyat oku-r-ken-ki tehlike, okur-un konu ol-an kültür ve toplum hakkında önceden taşı-dığ-ı imge-ye uy-an bir imge-yi örtük olarak talep ed-iver-me-si-dir.
++ 危険|きけん|tehlike
++ 読み手|よみて|okur, okuyan|読み手
++ 対象|たいしょう|nesne, konu, hedef
++ 抱く|いだく|(duygu, düşünce) beslemek, taşımak|抱いて
++ 当てはまる|あてはまる|uymak, geçerli olmak|当てはまる
++ 暗黙|あんもく|örtük, zımni
++ 要請|ようせい|talep, istek
+144 その危険性{きけんせい}を、ナイジェリア生{う}まれで、英語{えいご}で書{か}く女性{じょせい}作家{さっか}チママンダ・ンゴズィ・アディーチェは「シングル・ストーリー」という言葉{ことば}で表現{ひょうげん}している。
+= Bu tehlike-yi Nijerya doğumlu, İngilizce yaz-an kadın yazar Chimamanda Ngozi Adichie "tek hikâye" söz-ü-yle ifade ed-er.
++ 危険性|きけんせい|tehlike, risk
++ 生まれ|うまれ|doğumlu|生まれ
++ 女性|じょせい|kadın
++ 言葉|ことば|söz, sözcük, dil
+145 アディーチェは自{みずか}らの経験{けいけん}をもとに、第三{だいさん}世界{せかい}の作家{さっか}が出身{しゅっしん}地域{ちいき}の「代弁者{だいべんしゃ}」として扱{あつか}われ、その「声{こえ}」が西洋{せいよう}の読者{どくしゃ}の期待{きたい}の地平{ちへい}を充足{じゅうそく}する物語{ものがたり}を紡{つむ}ぐのではなければ否定的{ひていてき}に評価{ひょうか}されてしまう現状{げんじょう}に苛立{いらだ}ちを隠{かく}さない。
+= Adichie kendi deneyim-i-ne dayan-arak, Üçüncü Dünya yazar-ı-nın geldi-ğ-i bölge-nin "sözcü-sü" gibi ele al-ın-dığ-ı ve o "ses" Batılı okur-un beklenti ufk-u-nu doyur-an bir öykü ör-me-dikçe olumsuz değerlendir-il-diğ-i bugün-kü durum-a karşı öfke-si-ni gizle-mez.
++ 代弁者|だいべんしゃ|sözcü
++ 期待|きたい|beklenti
++ 地平|ちへい|ufuk
++ 充足|じゅうそく|doyurma, karşılama
++ 紡ぐ|つむぐ|(iplik) eğirmek; (öykü) örmek|紡ぐ
++ 否定的|ひていてき|olumsuz
++ 現状|げんじょう|mevcut durum
++ 苛立ち|いらだち|sinir, öfke, sabırsızlık|苛立ち
++ 隠す|かくす|gizlemek|隠さ
+146 アディーチェの作品{さくひん}を例{れい}にして言{い}えば、作品{さくひん}が何{なに}よりもまず、読者{どくしゃ}がナイジェリアなりアフリカについてすでに持{も}っているイメージに合致{がっち}するかどうかが作品{さくひん}評価{ひょうか}の尺度{しゃくど}となるのである。
+= Adichie-nin eser-ler-i-ni örnek ver-ir-se-k, eser-in her şey-den önce okur-un Nijerya ya da Afrika hakkında zaten sahip ol-duğ-u imge-ye uy-up uy-ma-dığ-ı eser-i değerlendir-me-nin ölçüt-ü ol-ur.
++ 合致|がっち|uyuşma, örtüşme
++ 尺度|しゃくど|ölçüt
+147 「貧{まず}しいアフリカ」、「かわいそうなアフリカ」――貧困{ひんこん}やエイズ、政治{せいじ}の腐敗{ふはい}、社会{しゃかい}の後進性{こうしんせい}――などアフリカに対{たい}するステレオタイプが存在{そんざい}する。
+= "Yoksul Afrika", "zavallı Afrika" –yoksulluk, AIDS, siyasi yozlaşma, toplumsal geri kalmışlık– gibi Afrika-ya yönelik basmakalıp-lar var-dır.
++ 貧しい|まずしい|yoksul|貧しい
++ 貧困|ひんこん|yoksulluk
++ 政治|せいじ|siyaset
++ 腐敗|ふはい|çürüme, yozlaşma
++ 後進性|こうしんせい|geri kalmışlık
+148 アディーチェはこれを「シングル・ストーリー」と呼{よ}んでいるが、作品{さくひん}がこのようなネガティブなステレオタイプを確認{かくにん}させてくれる内容{ないよう}でないと、これは「真{しん}のアフリカ」ではない、と書{か}き手{て}は批判{ひはん}されるのである。
+= Adichie bun-a "tek hikâye" di-yor; eser böyle olumsuz basmakalıp-lar-ı doğrula-t-an bir içerik-te değil-se, yazar "bu gerçek Afrika değil" diye eleştir-il-ir.
++ 確認|かくにん|doğrulama, teyit
++ 内容|ないよう|içerik
++ 真|しん|gerçek, hakiki
++ 書き手|かきて|yazan, yazar|書き手
++ 批判|ひはん|eleştiri
+149 だがそれぞれの現実{げんじつ}は、そのようなシングル・ストーリーに還元{かんげん}できない複雑{ふくざつ}で多様{たよう}なものであり、小説{しょうせつ}はそれを表現{ひょうげん}しているはずなのに、その部分{ぶぶん}は看過{かんか}されるのである。
+= Oysa her bir gerçeklik böyle bir tek hikâye-ye indirge-n-e-me-yecek kadar karmaşık ve çeşitli-dir; roman da bun-u ifade ed-iyor ol-malı ama o kısım göz ardı ed-il-ir.
++ 還元|かんげん|indirgeme
++ 看過|かんか|göz ardı etme
+150 しかしこのような読{よ}み方{かた}にさらされているのは、何{なに}もアディーチェに限{かぎ}らない。
+= Ama böyle bir okuma biçim-i-ne maruz kal-an yalnızca Adichie değil.
++ 読み方|よみかた|okuma biçimi|読み方
+151 川端{かわばた}や谷崎{たにざき}の例{れい}をあげるまでもなく、日本{にほん}の作家{さっか}もまた海外{かいがい}では、「日本{にほん}らしさ」、「日本的{にほんてき}なもの」という物差{ものさ}しに基{もと}づいて読{よ}まれがちだということは思{おも}い出{だ}してもよいだろう。
+= Kawabata ya da Tanizaki örneğ-i-ni ver-me-ye bile gerek yok; Japon yazar-lar-ın da yurt dışı-nda "Japon-luk", "Japon-a özgü şey" ölçü-sü-ne göre oku-n-ma-ya yatkın ol-duğ-u-nu hatırla-sa-k iyi ol-ur.
++ 日本|にほん|Japonya
++ 海外|かいがい|yurt dışı
++ 日本的|にほんてき|Japon'a özgü, Japonvari
++ 物差し|ものさし|cetvel; ölçü, ölçüt|物差し
++ 基づく|もとづく|dayanmak|基づいて
+152 アディーチェもそうだが、作家{さっか}はシングル・ストーリーに抗{こう}して書{か}くものだ。作家{さっか}は独自{どくじ}の文学{ぶんがく}言語{げんご}を確立{かくりつ}しようとしている。
+= Adichie de öyle-dir; yazar tek hikâye-ye karşı direne-rek yaz-ar. Yazar kendi-ne özgü bir edebi dil kur-ma-ya çalış-ır.
++ 抗する|こうする|karşı koymak, direnmek|抗して
+153 すぐれた小説{しょうせつ}とは、多{おお}かれ少{すく}なかれ、国籍{こくせき}を離脱{りだつ}し、国語{こくご}を外国語{がいこくご}にする。規範{きはん}を壊{こわ}したり、ずらしたりするものである。
+= Seçkin roman, az ya da çok, milliyet-i terk ed-er, ulusal dil-i yabancı dil-e dönüştür-ür. Norm-lar-ı yık-an, kaydır-an bir şey-dir.
++ 多かれ少なかれ|おおかれすくなかれ|az ya da çok|多かれ少なかれ
++ 離脱|りだつ|ayrılma, terk etme
++ 外国語|がいこくご|yabancı dil
++ 規範|きはん|norm, kural
++ 壊す|こわす|yıkmak, bozmak|壊した
+154 ナイジェリアとアメリカのあいだで、母語{ぼご}ではない英語{えいご}で書{か}いているという意味{いみ}は、アディーチェの作品{さくひん}は、国籍{こくせき}や国語{こくご}にはとうてい還元{かんげん}できない。
+= Nijerya ile Amerika arası-nda, ana dil-i ol-ma-yan İngilizce-yle yaz-ıyor ol-ma-sı bakımından, Adichie-nin eser-ler-i milliyet-e ya da ulusal dil-e asla indirge-n-e-mez.
+155 すぐれた作品{さくひん}は、アディーチェの作品{さくひん}がそうであるように、読者{どくしゃ}の心{こころ}を揺{ゆ}さぶることによって、読者{どくしゃ}の目{め}を複雑{ふくざつ}で多様{たよう}で矛盾{むじゅん}に満{み}ちた現実{げんじつ}から遠{とお}ざけ思考{しこう}を停止{ていし}させるシングル・ストーリーの遮蔽{しゃへい}を取{と}り除{のぞ}いてくれる。
+= Seçkin eser-ler, Adichie-nin eser-ler-i gibi, okur-un yüreğ-i-ni sars-arak, okur-un göz-ü-nü karmaşık, çeşitli ve çelişki-ler-le dolu gerçeklik-ten uzaklaştır-ıp düşünce-yi durdur-an tek hikâye perde-si-ni kaldır-ır.
++ 揺さぶる|ゆさぶる|sarsmak|揺さぶる
++ 遠ざける|とおざける|uzaklaştırmak|遠ざけ
++ 停止|ていし|durdurma
++ 遮蔽|しゃへい|perde, örtü, engelleme
++ 取り除く|とりのぞく|kaldırmak, gidermek|取り除いて
+156 非{ひ}西洋{せいよう}地域{ちいき}の文学{ぶんがく}を読{よ}み、教{おし}える人間{にんげん}は、自{みずか}らの読解{どっかい}が学生{がくせい}を「シングル・ストリーリー」に導{みちび}くものになっていないかどうか、絶{た}えず自己{じこ}検証{けんしょう}を行{おこ}なう必要{ひつよう}がある。
+= Batı dışı bölge-ler-in edebiyat-ı-nı oku-yan ve öğret-en kişi, kendi okuma-sı-nın öğrenci-ler-i "tek hikâye"-ye yönelt-ip yönelt-me-diğ-i-ni sürekli olarak sorgula-malı-dır.
++ 教える|おしえる|öğretmek|教える
++ 学生|がくせい|öğrenci
++ 導く|みちびく|yöneltmek, yol göstermek|導く
++ 絶えず|たえず|sürekli, durmadan|絶えず
++ 検証|けんしょう|doğrulama, sınama (自己検証: öz sorgulama)
+157 作家{さっか}は自{みずか}らが生{い}きる外部{がいぶ}環境{かんきょう}に大{おお}きく規定{きてい}されつつも、彼{かれ}・彼女{かのじょ}の書{か}くものはその外的{がいてき}な制約{せいやく}や条件{じょうけん}を超出{ちょうしゅつ}する（そこにマルクス主義{しゅぎ}的{てき}読解{どっかい}や精神{せいしん}分析的{ぶんせきてき}読解{どっかい}、あるいは社会学的{しゃかいがくてき}読解{どっかい}の限界{げんかい}がある――少{すく}なくとも、そうした読解{どっかい}のみによって作品{さくひん}の魅力{みりょく}を論{ろん}じ尽{つ}くすことはできない）。
+= Yazar, yaşa-dığ-ı dış çevre tarafından büyük ölçüde belirlen-se de, onun yaz-dık-lar-ı bu dış kısıt-lar-ı ve koşul-lar-ı aş-ar (Marksist okuma-nın, psikanalitik okuma-nın ya da sosyolojik okuma-nın sınır-ı bura-dadır – en azından yalnızca bu tür okuma-lar-la eser-in çekicilik-i-ni tam olarak tartış-mak mümkün değil-dir).
++ 制約|せいやく|kısıtlama
++ 条件|じょうけん|koşul
++ 超出|ちょうしゅつ|aşma, öte geçme
++ 主義|しゅぎ|…izm, doktrin
++ 社会学的|しゃかいがくてき|sosyolojik
++ 限界|げんかい|sınır
++ 少なくとも|すくなくとも|en azından|少なくとも
++ 魅力|みりょく|çekicilik, cazibe
++ 尽くす|つくす|tüketmek (論じ尽くす: tamamen tartışmak)|尽くす
+158 「美{うつく}しい本{ほん}は一種{いっしゅ}の外国語{がいこくご}で書{か}かれている」というプルーストの言葉{ことば}にあるように、近代{きんだい}以降{いこう}の文学{ぶんがく}において、個々{ここ}の作家{さっか}は母語{ぼご}をいわば外国語{がいこくご}のように書{か}くことによって独自{どくじ}の文学{ぶんがく}言語{げんご}を確立{かくりつ}しようとしてきた。
+= Proust-un "Güzel kitap-lar bir tür yabancı dil-de yaz-ıl-ır" söz-ü-nde ol-duğ-u gibi, modern dönem sonrası edebiyat-ta her bir yazar ana dil-i-ni adeta yabancı bir dil-miş gibi yaz-arak kendi-ne özgü bir edebi dil kur-ma-ya çalış-mış-tır.
++ 美しい|うつくしい|güzel|美しい
++ 本|ほん|kitap
++ 一種|いっしゅ|bir tür
++ 個々|ここ|her bir, tek tek
+159 中央{ちゅうおう}アフリカのチャド出身{しゅっしん}の詩人{しじん}・小説家{しょうせつか}のニムロードは、文学{ぶんがく}エッセイ論集{ろんしゅう}La Nouvelles Chose françaiseのなかで、母語{ぼご}ではなく、学校{がっこう}で学{まな}んだ書{か}き言葉{ことば}としてフランス語{ご}を学{まな}んだアフリカの人間{にんげん}がフランス語{ご}で詩{し}や小説{しょうせつ}を書{か}いていることに驚{おどろ}く読者{どくしゃ}の反応{はんのう}に対{たい}して、逆{ぎゃく}に驚{おどろ}いて見{み}せる。
+= Orta Afrika-da-ki Çad-lı şair ve romancı Nimrod, edebi deneme derleme-si La Nouvelle Chose française-de, Fransızca-yı ana dil-i olarak değil okul-da öğren-il-en yazı dil-i olarak öğren-miş bir Afrikalı-nın Fransızca şiir ve roman yaz-ma-sı-na şaşır-an okur-lar-ın tepki-si-ne karşı, asıl kendi-si şaşır-dığ-ı-nı göster-ir.
++ 中央|ちゅうおう|orta, merkez
++ 詩人|しじん|şair
++ 論集|ろんしゅう|makale derlemesi
++ 書き言葉|かきことば|yazı dili|書き言葉
++ 語|ご|dil (フランス語: Fransızca)|語#2
++ 反応|はんのう|tepki
++ 逆|ぎゃく|ters, tersine
+160 作家{さっか}にとって書{か}くことは、たとえ母語{ぼご}を使用{しよう}していても、つねに外国語{がいこくご}で書{か}くことなのだと主張{しゅちょう}している。
+= Yazar için yaz-mak, ana dil-i-ni kullan-sa bile, her zaman yabancı bir dil-de yaz-mak-tır diye savun-ur.
++ 使用|しよう|kullanım
+161 母語{ぼご}であろうが外国語{がいこくご}であろうが、自分{じぶん}が表現{ひょうげん}したいと欲望{よくぼう}していることと、実現{じつげん}されたものとのあいだにはつねにズレが生{しょう}じる。
+= Ana dil ol-sun yabancı dil ol-sun, ifade et-mek iste-diğ-imiz şey ile gerçekleş-en şey arası-nda her zaman bir kayma ol-ur.
++ 実現|じつげん|gerçekleştirme
+162 これは実{じつ}は私{わたし}たちの誰{だれ}もが、どのような形{かたち}であれ言葉{ことば}を使{つか}って何{なに}かを表現{ひょうげん}しようとするときにつねに経験{けいけん}していることである。
+= Bu aslında her birimiz-in, hangi biçim-de ol-ur-sa ol-sun söz-ü kullan-arak bir şey ifade et-me-ye çalış-tığ-ı-mız-da hep yaşa-dığ-ı-mız bir şey-dir.
+163 書{か}くことができるために、外国語{がいこくご}を経由{けいゆ}しなければならなかったサミュエル・ベケットのような作家{さっか}もいる。ベケットはフランス語{ご}であれば「非人称的{ひにんしょうてき}に書{か}く」ことができると言{い}っている。
+= Yaz-abil-mek için yabancı bir dil-den geç-mek zorunda kal-an Samuel Beckett gibi yazar-lar da var. Beckett, Fransızca-yla "kişisel ol-ma-yan bir şekil-de yaz-abil-diğ-i-ni" söyle-r.
++ 経由|けいゆ|üzerinden geçme, aracılığıyla
++ 非人称的|ひにんしょうてき|kişisel olmayan, gayri şahsi
+164 母語{ぼご}であれば自由{じゆう}に何{なん}でも表現{ひょうげん}できるというのは必{かなら}ずしも正{ただ}しくはない。
+= Ana dil-de her şey-i özgürce ifade ed-ebil-ir-iz diye düşün-mek her zaman doğru değil-dir.
++ 自由|じゆう|özgür, serbest
++ 正しい|ただしい|doğru|正しく
+165 ベケットにとっては、母語{ぼご}があまりに近過{ちかす}ぎる、親密{しんみつ}しすぎるがゆえに、かえって書{か}くことができなかったのである。
+= Beckett için ana dil fazla-sı-yla yakın, fazla-sı-yla samimi ol-duğ-u için tersine yaz-a-ma-mış-tı.
++ 近過ぎる|ちかすぎる|fazla yakın olmak|近過ぎる
++ 親密|しんみつ|samimi, yakın
+166 若{わか}きベケットは、ドイツの編集者{へんしゅうしゃ}の知人{ちじん}にあてた手紙{てがみ}をこう書{か}き出{だ}している。
+= Genç Beckett, Alman bir editör tanıdığ-ı-na yaz-dığ-ı mektub-a şöyle başla-r.
++ 編集者|へんしゅうしゃ|editör
++ 知人|ちじん|tanıdık
++ 書き出す|かきだす|yazmaya başlamak|書き出して
+167 母語{ぼご}がヴェールとなって、作家{さっか}がその向{む}こうで表現{ひょうげん}されるべく待{ま}っているものに到達{とうたつ}することを妨{さまた}げてしまう。
+= Ana dil bir peçe-ye dönüş-üp, yazar-ın onun ardında ifade ed-il-mek üzere bekle-yen şey-e ulaş-ma-sı-nı engell-er.
++ 待つ|まつ|beklemek|待って
++ 到達|とうたつ|ulaşma
++ 妨げる|さまたげる|engellemek|妨げて
+168 実{じつ}に興味{きょうみ}深{ぶか}いことに、この手紙{てがみ}はドイツ語{ご}で書{か}かれているのである（引用{いんよう}はその英訳{えいやく}）。作家{さっか}にとって、そもそも言語{げんご}は透明{とうめい}な媒体{ばいたい}たりえない。
+= İşin gerçekten ilginç yan-ı, bu mektup Almanca yaz-ıl-mış-tır (alıntı onun İngilizce çeviri-si-dir). Yazar için zaten dil saydam bir araç ol-a-maz.
++ 実に|じつに|gerçekten, hakikaten|実に
++ 興味深い|きょうみぶかい|ilginç|興味深い
++ 引用|いんよう|alıntı
++ 英訳|えいやく|İngilizce çeviri
++ 媒体|ばいたい|araç, ortam, medya
+169 先頃{さきごろ}亡{な}くなったカリブ海{かい}の海外{かいがい}県{けん}マルティニクの詩人{しじん}・文化{ぶんか}理論家{りろんか}のエドゥアール・グリッサンは、人{ひと}と物{もの}と情報{じょうほう}の国境{こっきょう}を越{こ}えた移動{いどう}が容易{ようい}になり、いたるところで言語{げんご}や文化{ぶんか}や人種{じんしゅ}の異種{いしゅ}混淆{こんこう}＝「クレオール化{か}」が起{お}こり、「予見{よけん}不可能{ふかのう}なもの」が生{う}み出{だ}されている現代{げんだい}の世界{せかい}において、作家{さっか}は過去{かこ}のいかなる時代{じだい}にも増{ま}して「単一{たんいつ}言語的{げんごてき}に書{か}く」ことはできなっているとくり返{かえ}し言{い}っている。
+= Geçen-ler-de vefat ed-en, Karayip-ler-de-ki denizaşırı departman Martinik-li şair ve kültür kuramcı-sı Édouard Glissant, insan-lar-ın, eşya-nın ve bilgi-nin sınır ötesi hareket-i-nin kolaylaş-tığ-ı, her yer-de dil-ler-in, kültür-ler-in ve ırk-lar-ın melezleş-me-si = "kreolleşme"-nin yaşa-n-dığ-ı ve "öngörü-le-me-yen şey-ler"-in doğ-duğ-u günümüz dünya-sı-nda, yazar-ın geçmiş-in hiçbir dönem-i-nde ol-ma-dığ-ı kadar "tek dil-li yaz-a-ma-z" hale gel-diğ-i-ni tekrar tekrar söyle-r.
++ 先頃|さきごろ|geçenlerde
++ 海|かい|deniz (カリブ海: Karayip Denizi)
++ 県|けん|il; (Fransa'da) departman
++ 情報|じょうほう|bilgi, enformasyon
++ 国境|こっきょう|sınır (ülke)
++ 移動|いどう|hareket, yer değiştirme
++ 容易|ようい|kolay
++ 異種|いしゅ|farklı tür
++ 予見|よけん|öngörü
++ 不可能|ふかのう|imkânsız
++ 増す|ます|artmak (…にも増して: …den daha fazla)|増して
++ 単一|たんいつ|tek, tekil
++ くり返す|くりかえす|tekrarlamak|くり返し
+170 本当{ほんとう}の意味{いみ}で複数{ふくすう}の言語{げんご}で書{か}ける作家{さっか}は少{すく}ないが、しかしどのような作家{さっか}であれ、もはや他{た}の諸{しょ}言語{げんご}の現前{げんぜん}を意識{いしき}せずして書{か}くことはできないというのだ。
+= Gerçek anlam-da birden çok dil-de yaz-abil-en yazar az-dır, ama hangi yazar ol-ur-sa ol-sun artık başka dil-ler-in varlığ-ı-nı hisset-me-den yaz-a-maz di-yor.
++ 本当|ほんとう|gerçek
++ 少ない|すくない|az|少ない
++ 他|た|diğer, başka
++ 諸|しょ|çeşitli, birçok (諸言語: diller)
++ 現前|げんぜん|mevcudiyet, göz önünde olma
+171 実際{じっさい}、ますます多{おお}くの作家{さっか}にとって外国語{がいこくご}の体験{たいけん}が重要{じゅうよう}な次元{じげん}を占{し}めるようになっている。
+= Gerçekten de giderek daha çok yazar için yabancı dil deneyim-i önemli bir boyut kapla-r hale gel-iyor.
++ 重要|じゅうよう|önemli
++ 次元|じげん|boyut
++ 占める|しめる|kaplamak, işgal etmek|占める
+172 村上{むらかみ}春樹{はるき}の文体{ぶんたい}の形成{けいせい}に、アメリカ現代{げんだい}文学{ぶんがく}を読{よ}み翻訳{ほんやく}する経験{けいけん}が決定的{けっていてき}な役割{やくわり}を果{は}たしていることは知{し}られている。
+= Murakami Haruki-nin üslub-u-nun oluşum-u-nda çağdaş Amerikan edebiyat-ı-nı oku-yup çevir-me deneyim-i-nin belirleyici bir rol oyna-dığ-ı bilin-ir.
++ 翻訳|ほんやく|çeviri
++ 決定的|けっていてき|belirleyici, kesin
+173 多和田{たわだ}葉子{ようこ}は、ドイツ語{ご}と日本語{にほんご}で書{か}くバイリンガル作家{さっか}であるが、『エクソフォニー』を読{よ}むと、彼女{かのじょ}がむしろ意識的{いしきてき}にドイツ語{ご}と日本語{にほんご}の「はざま」に身{み}を置{お}いて書{か}こうとしていることがわかる。
+= Tawada Yōko Almanca ve Japonca yaz-an iki dil-li bir yazar-dır; "Exophonie"-yi oku-yunca, onun daha çok bilinçli olarak Almanca ile Japonca-nın "ara-sı"-na kendi-ni yerleştir-ip yaz-ma-ya çalış-tığ-ı anlaşıl-ır.
++ 日本語|にほんご|Japonca
++ 意識的|いしきてき|bilinçli
+174 外国語{がいこくご}を読{よ}むときには、言語{げんご}の物質性{ぶっしつせい}が、母語{ぼご}を読{よ}むときよりも際立{きわだ}って感{かん}じられるものだが、多和田{たわだ}葉子{ようこ}の日本語{にほんご}の作品{さくひん}には、ただ意味{いみ}を伝達{でんたつ}する手段{しゅだん}ではなく、「音{おと}」や「物{もの}」としての言葉{ことば}の質感{しつかん}が感{かん}じられるような表現{ひょうげん}が頻出{ひんしゅつ}している。
+= Yabancı dil oku-r-ken dil-in maddesel-liğ-i ana dil-i oku-duğ-umuz zaman-dan daha belirgin hisse-dil-ir; Tawada Yōko-nun Japonca eser-ler-i-nde de söz-ün yalnızca anlam aktar-an bir araç değil, "ses" ve "nesne" olarak doku-su-nun hisse-dil-diğ-i ifade-ler-e sık sık rastla-n-ır.
++ 物質性|ぶっしつせい|maddesellik
++ 際立つ|きわだつ|belirginleşmek, göze çarpmak|際立って
++ 伝達|でんたつ|aktarma, iletme
++ 音|おと|ses
++ 質感|しつかん|doku, dokunsal nitelik
++ 頻出|ひんしゅつ|sık görülme
+175 外国語{がいこくご}を学{まな}ぶことには、他者{たしゃ}の文化{ぶんか}や社会{しゃかい}への入{い}り口{ぐち}という有用性{ゆうようせい}ばかりではなく、異{こと}なる語{ご}の響{ひび}きや異{こと}なる言葉{ことば}のつくりに触{ふ}れる喜{よろこ}びがある。
+= Yabancı dil öğren-mek, yalnızca başka-lar-ı-nın kültür-ü-ne ve toplum-u-na açıl-an bir kapı ol-ma yarar-ı-yla kalm-az, farklı sözcük-ler-in tını-sı-na ve farklı dil-ler-in yapı-sı-na dokun-ma-nın sevinc-i-ni de taşı-r.
++ 入り口|いりぐち|giriş, kapı|入り口
++ 有用性|ゆうようせい|yararlılık
++ 響き|ひびき|tını, yankı|響き
+176 詩{し}を読{よ}むときに、私{わたし}たちは言葉{ことば}が伝達{でんたつ}する意味{いみ}だけではなく、言葉{ことば}の響{ひび}き、リズム、配列{はいれつ}に注意{ちゅうい}を傾{かたむ}ける。
+= Şiir oku-r-ken söz-ün aktar-dığ-ı anlam-a değil, söz-ün tını-sı-na, ritm-i-ne ve dizilim-i-ne de dikkat ed-er-iz.
++ 配列|はいれつ|dizilim, düzen
++ 注意|ちゅうい|dikkat
++ 傾ける|かたむける|eğmek; (dikkat) vermek|傾ける
+177 よく考{かんが}えると、これは外国語{がいこくご}を学{まな}ぶときの経験{けいけん}に近{ちか}い（言葉{ことば}そのものへの意識{いしき}という点{てん}で、文学{ぶんがく}を学{まな}ぶことと外国語{がいこくご}を学{まな}ぶことには深{ふか}い親近性{しんきんせい}がある）。
+= İyice düşün-ül-ünce, bu yabancı dil öğren-ir-ken-ki deneyim-e yakın-dır (söz-ün kendi-si-ne yönelik bilinç açı-sı-ndan, edebiyat öğren-mek-le yabancı dil öğren-mek arası-nda derin bir yakınlık var-dır).
++ 近い|ちかい|yakın|近い
++ 親近性|しんきんせい|yakınlık, akrabalık
+178 外国語{がいこくご}を学{まな}んでいくにつれて、母語{ぼご}の見方{みかた}、母語{ぼご}への接{せっ}し方{かた}も当然{とうぜん}変化{へんか}してくる――母語{ぼご}に対{たい}する感度{かんど}がより研{と}ぎ澄{す}まされていくはずだ。
+= Yabancı dil öğren-dikçe ana dil-e bakış-ımız ve ana dil-le ilişki-miz de doğal olarak değiş-ir; ana dil-e karşı duyarlılığ-ımız da giderek keskinleş-ecek-tir.
++ 接し方|せっしかた|davranış biçimi, ilişki kurma tarzı|接し方
++ 研ぎ澄ます|とぎすます|bilemek, keskinleştirmek|研ぎ澄まさ
+179 文学{ぶんがく}とは懐{ふところ}が深{ふか}い。
+= Edebiyat-ın bağr-ı geniş-tir.
++ 懐|ふところ|bağır, kucak (懐が深い: hoşgörülü, kapsayıcı)
+180 『ゲド戦記{せんき}』の作者{さくしゃ}として知{し}られるアメリカの女性{じょせい}作家{さっか}アーシュラ・K・ル＝グウィンは人間{にんげん}の言語{げんご}を三{みっ}つに分{わ}けて考{かんが}えている。
+= "Yerdeniz Büyücüsü"-nün yazar-ı olarak bilin-en Amerikalı kadın yazar Ursula K. Le Guin, insan dil-i-ni üç-e ayır-arak düşün-ür.
++ 戦記|せんき|savaş öyküsü (ゲド戦記: Yerdeniz)
++ 三つ|みっつ|üç (adet)|三つ
+181 一{ひと}つは公的{こうてき}な言語{げんご}である「父語{ふご}」である。これは公的{こうてき}なディスクールあり、哲学{てつがく}や社会{しゃかい}科学{かがく}などの客観性{きゃっかんせい}を追求{ついきゅう}する言語{げんご}である。
+= Bir-i resmî dil ol-an "baba dil-i"-dir. Bu resmî bir söylem-dir; felsefe ve toplum bilim-ler-i gibi nesnellik peşinde koş-an bir dil-dir.
++ 公的|こうてき|resmî, kamusal
++ 父語|ふご|baba dili (Le Guin)
++ 哲学|てつがく|felsefe
++ 科学|かがく|bilim
++ 客観性|きゃっかんせい|nesnellik
++ 追求|ついきゅう|peşinden gitme, arayış
+182 主体{しゅたい}／客体{きゃくたい}、自己{じこ}／他者{たしゃ}、支配的{しはいてき}／服従的{ふくじゅうてき}、人間{にんげん}／自然{しぜん}、男{おとこ}／女{おんな}など世界{せかい}を二分{にぶん}し、前者{ぜんしゃ}が後者{こうしゃ}を支配{しはい}する「一方{いっぽう}通行{つうこう}の言語{げんご}」である。
+= Özne/nesne, ben/öteki, egemen/boyun eğen, insan/doğa, erkek/kadın gibi dünya-yı ikiye böl-en ve ilk-i-nin ikinci-si-ne hükmet-tiğ-i "tek yön-lü bir dil"-dir.
++ 主体|しゅたい|özne
++ 客体|きゃくたい|nesne
++ 服従的|ふくじゅうてき|boyun eğen, itaatkâr
++ 男|おとこ|erkek
++ 女|おんな|kadın
++ 二分|にぶん|ikiye bölme
++ 前者|ぜんしゃ|ilki, öncekisi
++ 支配|しはい|hükmetme, egemenlik
++ 一方通行|いっぽうつうこう|tek yön|一方通行
+183 それに対{たい}して「母語{ぼご}」というものが存在{そんざい}する。母語{ぼご}は日常{にちじょう}会話{かいわ}のなかで使{つか}われるような平凡{へいぼん}で、口語的{こうごてき}な言語{げんご}である。
+= Buna karşılık "ana dil" diye bir şey var-dır. Ana dil, gündelik konuşma-da kullan-ıl-an türden sıradan, konuşma dil-i-ne özgü bir dil-dir.
++ 会話|かいわ|konuşma, sohbet
++ 平凡|へいぼん|sıradan
++ 口語的|こうごてき|konuşma diline özgü
+184 答{こた}えを期待{きたい}し、「一緒{いっしょ}に考{かんが}え」、関係{かんけい}や関連{かんれん}を作{つく}り出{だ}する言語{げんご}であり、「私{わたし}たちが母親{ははおや}から学{まな}び、子供{こども}たちに語{かた}りかける言葉{ことば}」、「物語{ものがたり}が語{かた}られる言葉{ことば}」であるという。
+= Cevap bekle-yen, "birlikte düşün-en", ilişki ve bağlantı kur-an bir dil-dir; "anne-miz-den öğren-ip çocuk-lar-ımız-a seslen-diğ-imiz dil", "öykü-ler-in anlat-ıl-dığ-ı dil"-dir der.
++ 答え|こたえ|cevap|答え
++ 一緒|いっしょ|birlikte
++ 関連|かんれん|bağlantı, ilişki
++ 母親|ははおや|anne
+185 つまり母語{ぼご}は、より私的{してき}で、より情動{じょうどう}に結{むす}びついた言語{げんご}である。
+= Yani ana dil daha özel, duygulanım-la daha çok bağlantı-lı bir dil-dir.
++ 私的|してき|özel, kişisel
++ 情動|じょうどう|duygulanım, duygu
++ 結びつく|むすびつく|bağlanmak|結びついた
+186 そして三{みっ}つ目{め}の言語{げんご}が、詩{し}や文学{ぶんがく}の言語{げんご}だとル＝グウィンは言{い}う。
+= Ve üçüncü dil-in de şiir-in ve edebiyat-ın dil-i ol-duğ-u-nu söyle-r Le Guin.
++ 目|め|…üncü (sıra eki: 三つ目)|目
+187 二{ふた}つの相反{あいはん}する言語{げんご}、つまり「父語{ふご}」＝「公{おおやけ}のディスクール」と「母語{ぼご}」＝「私的{してき}な体験{たいけん}」とが結{むす}びつけられたものが、文学{ぶんがく}や詩{し}などの芸術的{げいじゅつてき}表現{ひょうげん}だと言{い}うのである。
+= Birbir-i-ne zıt iki dil-in, yani "baba dil-i" = "kamusal söylem" ile "ana dil" = "özel deneyim"-in birleştir-il-diğ-i şey, edebiyat ve şiir gibi sanat-sal ifade-ler-dir der.
++ 相反|あいはん|birbirine zıt olma
++ 公|おおやけ|kamu, resmî
++ 結びつける|むすびつける|birleştirmek, bağlamak|結びつけ
++ 芸術的|げいじゅつてき|sanatsal
+188 この第三{だいさん}の言語{げんご}をル＝グウィンは「赤{あか}ちゃん語{ご}」と呼{よ}んでいる（ウィニコットの「中間{ちゅうかん}領域{りょういき}」の概念{がいねん}が、まさに赤{あか}ちゃんの観察{かんさつ}から生{う}まれたものであるだけに、この呼称{こしょう}はきわめて興味{きょうみ}深{ぶか}く思{おも}われる）。
+= Bu üçüncü dil-e Le Guin "bebek dil-i" di-yor (Winnicott-un "ara alan" kavram-ı tam da bebek-ler-in gözlem-in-den doğ-duğ-u için bu adlandırma son derece ilginç görün-üyor).
++ 呼称|こしょう|ad, adlandırma
+189 文学{ぶんがく}のなかには、公的{こうてき}な論理{ろんり}の言語{げんご}の要素{ようそ}も、感性{かんせい}や情動{じょうどう}に関{かか}わる要素{ようそ}もいっさいが含{ふく}まれている。
+= Edebiyat-ın için-de kamusal mantık dil-i-nin öğe-ler-i de, duyarlılık ve duygulanım-la ilgili öğe-ler de tümüyle bulun-ur.
++ 論理|ろんり|mantık
++ 要素|ようそ|öğe, unsur
++ 感性|かんせい|duyarlılık, duyumsama
++ 関わる|かかわる|ilgili olmak|関わる
++ 含む|ふくむ|içermek|含まれ
+190 文学{ぶんがく}にはこの世界{せかい}に生{い}きる人間{にんげん}の経験{けいけん}にかかわるすべてが包摂{ほうせつ}されているのである。
+= Edebiyat-ta, bu dünya-da yaşa-yan insan-ın deneyim-i-yle ilgili her şey kapsan-ır.
++ 包摂|ほうせつ|kapsama

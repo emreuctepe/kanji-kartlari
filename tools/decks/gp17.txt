@@ -1,0 +1,152 @@
+// 練習問題：～からといって・～を込めて・～てたまらない (練習.pdf s.70–73)
+@ gp17 2年文法 17 | からといって・を込めて・てたまらない
+1 日本人{にほんじん}だからといって、みんなが日本{にほん}の歴史{れきし}に詳{くわ}しい（わけではない）。
+= Japon-dur diye, herkes Japonya-nın tarih-i-ni iyi bil-ecek değil.
++ 日本人|にほんじん|Japon
++ からといって|からといって|…diye, …olsa da (her zaman değil)
++ 日本|にほん|Japonya
++ 歴史|れきし|tarih
++ 詳しい|くわしい|iyi bilen, ayrıntılı
+2 卒業{そつぎょう}する友達{ともだち}に、感謝{かんしゃ}の気持{きも}ち（を込{こ}めて）プレゼントを贈{おく}った。
+= Mezun ol-an arkadaş-ım-a, teşekkür duygu-ları-mı kat-arak hediye ver-di-m.
++ 卒業|そつぎょう|mezuniyet
++ 友達|ともだち|arkadaş
++ 感謝|かんしゃ|teşekkür, minnet
++ 気持ち|きもち|duygu, his
++ を込めて|をこめて|…katarak, …ile (duygu)|込めて
++ 贈る|おくる|hediye etmek|贈っ
+3 明日{あした}の発表{はっぴょう}が心配{しんぱい}（でたまらない）。
+= Yarın-ki sunum-dan dolayı çok endişe-li-yim.
++ 明日|あした|yarın
++ 発表|はっぴょう|sunum
++ 心配|しんぱい|endişe
++ てたまらない|てたまらない|dayanılmaz derecede, çok …|たまらない
+4 お金{かね}がたくさんある（からといって）、幸{しあわ}せだとは限{かぎ}らない。
+= Çok para-n var diye, mutlu ol-acak değil-sin.
++ お金|おかね|para
++ 幸せ|しあわせ|mutlu, mutluluk
++ とは限らない|とはかぎらない|her zaman …değildir|限らない
+5 家族{かぞく}への愛情{あいじょう}（を込{こ}めて）、この料理{りょうり}を作{つく}りました。
+= Aile-m-e sevgi-mi kat-arak, bu yemeğ-i yap-tı-m.
++ 家族|かぞく|aile
++ 愛情|あいじょう|sevgi, şefkat
++ 料理|りょうり|yemek
++ 作る|つくる|yapmak|作り
+6 久{ひさ}しぶりに故郷{こきょう}に帰{かえ}るので、家族{かぞく}に会{あ}いたく（てたまらない）。
+= Uzun zaman sonra memleket-e dön-düğ-üm için, aile-m-i gör-mek-i çok isti-yor-um.
++ 久しぶり|ひさしぶり|uzun zaman sonra
++ 故郷|こきょう|memleket
++ 帰る|かえる|dönmek
++ 会う|あう|görüşmek|会い
+7 有名{ゆうめい}な先生{せんせい}だからといって、その先生{せんせい}の説明{せつめい}がいつも分{わ}かりやすい（とは限{かぎ}らない）。
+= Ünlü bir hoca diye, o hoca-nın açıklama-sı her zaman anlaşılır ol-acak değil.
++ 有名|ゆうめい|ünlü
++ 先生|せんせい|öğretmen
++ 説明|せつめい|açıklama
++ 分かりやすい|わかりやすい|anlaşılır
+8 平和{へいわ}への願{ねが}い（を込{こ}めて）、この作品{さくひん}を制作{せいさく}した。
+= Barış-a dair dilek-ler-i-mi kat-arak, bu eser-i yap-tı-m.
++ 平和|へいわ|barış
++ 願い|ねがい|dilek
++ 作品|さくひん|eser
++ 制作|せいさく|yapım, üretim
+9 最近{さいきん}忙{いそが}しくて、ゆっくり休{やす}みたく（てたまらない）。
+= Son zaman-lar-da yoğun-um, rahat-ça dinlen-mek-i çok isti-yor-um.
++ 最近|さいきん|son zamanlarda
++ 忙しい|いそがしい|yoğun|忙し
++ 休む|やすむ|dinlenmek|休み
+10 一度{いちど}失敗{しっぱい}した（からといって）、もう一度{いちど}挑戦{ちょうせん}してはいけない（わけではない）。
+= Bir kez başarısız ol-du-n diye, bir kez daha dene-me-meli-sin anlamı-na gel-mez.
++ 一度|いちど|bir kez
++ 失敗|しっぱい|başarısızlık
++ 挑戦|ちょうせん|deneme, meydan okuma
+11 日本{にほん}に長{なが}く住{す}んでいる（からといって）、日本{にほん}の文化{ぶんか}をすべて理解{りかい}しているとは限{かぎ}らない。
+= Japonya-da uzun süre yaşı-yor diye, Japon kültür-ü-nün hepsi-ni anlı-yor ol-acak değil.
++ 長い|ながい|uzun|長く
++ 住む|すむ|yaşamak|住ん
++ 文化|ぶんか|kültür
++ 理解|りかい|anlama
+12 先生{せんせい}への感謝{かんしゃ}（を込{こ}めて）、手紙{てがみ}を書{か}いた。
+= Öğretmen-im-e minnet-im-i kat-arak, mektup yaz-dı-m.
++ 手紙|てがみ|mektup
++ 書く|かく|yazmak|書い
+13 試験{しけん}の結果{けっか}が気{き}になって（たまらない）。
+= Sınav-ın sonuc-u akl-ım-dan hiç çık-mı-yor.
++ 試験|しけん|sınav
++ 結果|けっか|sonuç
++ 気になる|きになる|merak etmek, aklına takılmak|気になっ
+14 若{わか}い（からといって）、経験{けいけん}が少{すく}ないとは限{かぎ}らない。
+= Genç diye, deneyim-i az ol-acak değil.
++ 若い|わかい|genç
++ 経験|けいけん|deneyim
++ 少ない|すくない|az
+15 祖父{そふ}への尊敬{そんけい}の気持{きも}ち（を込{こ}めて）、この文章{ぶんしょう}を書{か}いた。
+= Dede-m-e saygı duygu-ları-mı kat-arak, bu yazı-yı yaz-dı-m.
++ 祖父|そふ|(benim) dedem
++ 尊敬|そんけい|saygı
++ 文章|ぶんしょう|yazı, metin
+16 故郷{こきょう}を離{はな}れてから、家族{かぞく}が恋{こい}しく（てたまらない）。
+= Memleket-ten ayrıl-dık-tan sonra, aile-m-i çok özlü-yor-um.
++ 離れる|はなれる|ayrılmak, uzaklaşmak|離れ
++ 恋しい|こいしい|özlenen|恋しく
+17 この大学{だいがく}を卒業{そつぎょう}した（からといって）、必{かなら}ず希望{きぼう}する仕事{しごと}に就{つ}けるとは限{かぎ}らない。
+= Bu üniversite-den mezun ol-du-n diye, kesinlikle iste-diğ-in iş-e gir-ebil-ecek değil-sin.
++ 大学|だいがく|üniversite
++ 必ず|かならず|kesinlikle
++ 希望|きぼう|istek, umut
++ 仕事|しごと|iş
++ 就く|つく|(işe) girmek|就け
+18 子{こ}どもたちの将来{しょうらい}への願{ねが}い（を込{こ}めて）、教師{きょうし}たちは教育活動{きょういくかつどう}を続{つづ}けている。
+= Çocuk-lar-ın gelecek-i-ne dair dilek-ler-i-ni kat-arak, öğretmen-ler eğitim faaliyet-ler-i-ni sürdür-üyor.
++ 子ども|こども|çocuk
++ 将来|しょうらい|gelecek
++ 教師|きょうし|öğretmen
++ 教育|きょういく|eğitim
++ 活動|かつどう|faaliyet
++ 続ける|つづける|sürdürmek|続け
+19 結果{けっか}が出{で}るまで、不安{ふあん}で（たまらない）。
+= Sonuç çık-ana kadar, kaygı-dan duramı-yor-um.
++ 出る|でる|çıkmak
++ 不安|ふあん|kaygı
+20 一度{いちど}失敗{しっぱい}した（からといって）、その人{ひと}に能力{のうりょく}がないということではない。
+= Bir kez başarısız ol-du diye, o kişi-nin yetenek-i yok demek değil.
++ 人|ひと|kişi
++ 能力|のうりょく|yetenek
+21 海外{かいがい}で生活{せいかつ}した経験{けいけん}がある（からといって）、その国{くに}の文化{ぶんか}を深{ふか}く理解{りかい}しているとは限{かぎ}らない。実際{じっさい}に生活{せいかつ}してみて初{はじ}めて気{き}づくことも多{おお}い。
+= Yurt dışı-nda yaşa-mış ol-ma deneyim-i var diye, o ülke-nin kültür-ü-nü derin-den anlı-yor ol-acak değil. Gerçekten yaşa-yıp ancak o zaman fark ed-il-en şey-ler de çok.
++ 海外|かいがい|yurt dışı
++ 生活|せいかつ|yaşam
++ 国|くに|ülke
++ 深い|ふかい|derin|深く
++ 実際|じっさい|gerçekte, fiilen
++ 初めて|はじめて|ilk kez, ancak o zaman
++ 気づく|きづく|fark etmek
++ 多い|おおい|çok
+22 長年{ながねん}お世話{せわ}になった先生{せんせい}への感謝{かんしゃ}（を込{こ}めて）、卒業生{そつぎょうせい}たちは記念品{きねんひん}を用意{ようい}した。
+= Uzun yıl-lar emek ver-en öğretmen-ler-i-ne minnet-ler-i-ni kat-arak, mezun-lar hatıra hediye-si hazırla-dı.
++ 長年|ながねん|uzun yıllar
++ 世話|せわ|bakım, emek
++ 卒業生|そつぎょうせい|mezun
++ 記念品|きねんひん|hatıra eşyası
++ 用意|ようい|hazırlık
+23 研究発表{けんきゅうはっぴょう}の日{ひ}が近{ちか}づくにつれて、失敗{しっぱい}したらどうしようという不安{ふあん}が大{おお}きくなり、心配{しんぱい}で（たまらない）。
+= Araştırma sunum-u-nun gün-ü yaklaş-tıkça, başarısız ol-ur-sam ne yap-arım kaygı-sı büyü-yor, endişe-den duramı-yor-um.
++ 研究|けんきゅう|araştırma
++ 日|ひ|gün
++ 近づく|ちかづく|yaklaşmak
++ 大きい|おおきい|büyük|大きく
+24 「彼{かれ}は日本{にほん}に10年{ねん}以上{いじょう}住{す}んでいるから、日本{にほん}のことなら何{なん}でも知{し}っているでしょう。」「いや、日本{にほん}に長{なが}く住{す}んでいる（からといって）、日本文化{にほんぶんか}のすべてを理解{りかい}しているとは限{かぎ}らないよ。」
+= “O Japonya-da 10 yıl-dan fazla-dır yaşı-yor, Japonya hakkında her şey-i bil-ir herhâlde.” “Hayır, Japonya-da uzun süre yaşı-yor diye, Japon kültür-ü-nün hepsi-ni anlı-yor ol-acak değil.”
++ 彼|かれ|o (erkek)
++ 年|ねん|yıl
++ 以上|いじょう|…den fazla
++ 知る|しる|bilmek|知っ
+25 研究成果{けんきゅうせいか}を発表{はっぴょう}する機会{きかい}を得{え}たので、これまで支{ささ}えてくれた人々{ひとびと}への感謝{かんしゃ}（を込{こ}めて）、一{ひと}つ一{ひと}つの言葉{ことば}を大切{たいせつ}にしながらスピーチをした。
+= Araştırma sonuç-lar-ı-mı sun-ma fırsat-ı-nı bul-duğ-um için, şimdiye kadar bana destek ol-an insan-lar-a minnet-im-i kat-arak, her bir söz-ü özen-le seç-erek konuşma yap-tı-m.
++ 成果|せいか|sonuç, başarı, ürün
++ 機会|きかい|fırsat
++ 得る|える|elde etmek|得
++ 支える|ささえる|desteklemek|支え
++ 人々|ひとびと|insanlar
++ 言葉|ことば|söz, kelime
++ 大切|たいせつ|önemli, değerli

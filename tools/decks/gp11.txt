@@ -1,0 +1,160 @@
+// 練習問題：～がたい・～気味・～げ (練習.pdf s.45–48)
+@ gp11 2年文法 11 | がたい・気味・げ
+1 彼{かれ}が突然{とつぜん}会社{かいしゃ}を辞{や}めた理由{りゆう}は、今{いま}でも理解{りかい}し（がたい）。
+= O-nun aniden şirket-ten ayrıl-ma-sı-nın sebeb-i, şimdi bile anlaş-ıl-ma-sı güç.
++ 彼|かれ|o (erkek)
++ 突然|とつぜん|aniden, birdenbire
++ 会社|かいしゃ|şirket
++ 辞める|やめる|(işten) ayrılmak|辞め
++ 理由|りゆう|sebep, neden
++ 今|いま|şimdi
++ 理解|りかい|anlama, kavrama
++ がたい|がたい|…mesi güç, …ilemez
+2 最近{さいきん}、仕事{しごと}が忙{いそが}しくて、少{すこ}し疲{つか}れ（気味{ぎみ}）だ。
+= Son zaman-lar-da, iş yoğun ol-up, biraz yorgun-um.
++ 最近|さいきん|son zamanlarda
++ 仕事|しごと|iş
++ 忙しい|いそがしい|meşgul, yoğun|忙し
++ 少し|すこし|biraz
++ 疲れる|つかれる|yorulmak|疲れ
++ 気味|ぎみ|biraz …, …e eğilimli (hafif)
+3 彼{かれ}は何{なに}か言{い}いた（げ）な顔{かお}をしていたが、結局{けっきょく}何{なに}も言{い}わなかった。
+= O bir şey söyle-mek ist-er gibi bir yüz ifade-si-yle duruyor-du ama, sonunda hiçbir şey söyle-me-di.
++ 何か|なにか|bir şey
++ 言う|いう|söylemek|言い
++ げ|げ|…gibi görünen, …imsi
++ 顔|かお|yüz
++ 結局|けっきょく|sonunda, nihayetinde
+4 その事故{じこ}の原因{げんいん}については、まだ信{しん}じ（がたい）ような説明{せつめい}しかない。
+= O kaza-nın sebeb-i hakkında, henüz inan-ıl-ma-sı güç bir açıklama-dan başka bir şey yok.
++ 事故|じこ|kaza
++ 原因|げんいん|sebep, neden
++ 信じる|しんじる|inanmak|信じ
++ 説明|せつめい|açıklama
+5 昨日{きのう}から少{すこ}し風邪{かぜ}（気味{ぎみ}）なので、今日{きょう}は早{はや}めに寝{ね}ます。
+= Dün-den beri biraz nezle gibi-yim, bugün erken-ce yat-ar-ım.
++ 昨日|きのう|dün
++ 風邪|かぜ|soğuk algınlığı, nezle
++ 今日|きょう|bugün
++ 早め|はやめ|erkenden, biraz erken
++ 寝る|ねる|uyumak, yatmak|寝
+6 彼女{かのじょ}は試験{しけん}の結果{けっか}を聞{き}いて、嬉{うれ}し（げ）に笑{わら}った。
+= O (kadın) sınav-ın sonuc-u-nu duy-unca, mutlu bir şekil-de gül-dü.
++ 彼女|かのじょ|o (kadın)
++ 試験|しけん|sınav
++ 結果|けっか|sonuç
++ 聞く|きく|duymak|聞い
++ 嬉しい|うれしい|sevinçli, mutlu|嬉し
++ 笑う|わらう|gülmek|笑っ
+7 この貴重{きちょう}な経験{けいけん}は、一生{いっしょう}忘{わす}れ（がたい）ものになるだろう。
+= Bu değerli deneyim, ömür boyu unut-ul-ma-sı güç bir şey ol-ur herhâlde.
++ 貴重|きちょう|değerli, kıymetli
++ 経験|けいけん|deneyim, tecrübe
++ 一生|いっしょう|ömür boyu
++ 忘れる|わすれる|unutmak|忘れ
+8 最近{さいきん}、食生活{しょくせいかつ}が乱{みだ}れ（気味{ぎみ}）なので、少{すこ}し気{き}をつけなければならない。
+= Son zaman-lar-da, beslenme düzen-im biraz bozuk, biraz dikkat et-mem gerek.
++ 食生活|しょくせいかつ|beslenme alışkanlığı
++ 乱れる|みだれる|bozulmak, karışmak|乱れ
++ 気をつける|きをつける|dikkat etmek|気をつけ
+9 彼{かれ}は何{なに}かに不満{ふまん}があるのか、少{すこ}し不機嫌{ふきげん}（げ）な表情{ひょうじょう}をしていた。
+= O bir şey-den hoşnutsuz mu, biraz huysuz gibi bir yüz ifade-si var-dı.
++ 不満|ふまん|hoşnutsuzluk, memnuniyetsizlik
++ 不機嫌|ふきげん|huysuz, keyifsiz
++ 表情|ひょうじょう|yüz ifadesi
+10 突然{とつぜん}そんなことを言{い}われても、簡単{かんたん}には受{う}け入{い}れ（がたい）。
+= Aniden öyle bir şey söyle-n-se de, kolay-ca kabul ed-il-e-mez.
++ 簡単|かんたん|kolay, basit
++ 受け入れる|うけいれる|kabul etmek|受け入れ
+11 その研究者{けんきゅうしゃ}の主張{しゅちょう}は、現在{げんざい}のデータだけでは納得{なっとく}し（がたい）。
+= O araştırmacı-nın iddia-sı, şimdi-ki veri-ler-le tek başına ikna ol-un-ma-sı güç.
++ 研究者|けんきゅうしゃ|araştırmacı
++ 主張|しゅちょう|iddia, görüş
++ 現在|げんざい|şimdi, günümüz
++ 納得|なっとく|ikna olma, kabullenme
+12 最近{さいきん}、仕事{しごと}が増{ふ}えて、少{すこ}し寝不足{ねぶそく}（気味{ぎみ}）だ。
+= Son zaman-lar-da, iş-ler art-ıp, biraz uykusuz-um.
++ 増える|ふえる|artmak|増え
++ 寝不足|ねぶそく|uykusuzluk
+13 彼{かれ}は何{なに}かいいことがあったらしく、朝{あさ}から嬉{うれ}し（げ）に話{はな}している。
+= O-nun iyi bir şey ol-muş gibi, sabah-tan beri mutlu mutlu konuş-uyor.
++ 朝|あさ|sabah
++ 話す|はなす|konuşmak|話し
+14 長年{ながねん}一緒{いっしょ}に働{はたら}いてきた仲間{なかま}との別{わか}れは、言葉{ことば}では表{あらわ}し（がたい）ほど寂{さび}しいものだった。
+= Uzun yıl-lar birlikte çalış-tığ-ım arkadaş-lar-la ayrılık, söz-le anlat-ıl-a-ma-yacak kadar hüzünlü-ydü.
++ 長年|ながねん|uzun yıllar
++ 一緒|いっしょ|birlikte
++ 働く|はたらく|çalışmak|働い
++ 仲間|なかま|arkadaş, yoldaş
++ 別れ|わかれ|ayrılık, veda
++ 言葉|ことば|söz, kelime
++ 表す|あらわす|ifade etmek|表し
++ 寂しい|さびしい|hüzünlü, yalnız
+15 最近{さいきん}、大学{だいがく}を休{やす}み（がち）の学生{がくせい}が増{ふ}えているという。
+= Son zaman-lar-da, üniversite-ye sık sık gel-me-yen öğrenci-ler art-ıyor-muş.
++ 大学|だいがく|üniversite
++ 休む|やすむ|(okula) gelmemek|休み
++ 学生|がくせい|öğrenci
+16 彼女{かのじょ}は何{なに}か心配{しんぱい}なことがあるのか、不安{ふあん}（げ）な表情{ひょうじょう}をしていた。
+= O (kadın) bir şey-den endişe-li mi, kaygılı bir yüz ifade-si var-dı.
++ 心配|しんぱい|endişe
++ 不安|ふあん|kaygı, huzursuzluk
+17 そのような重大{じゅうだい}な問題{もんだい}を一人{ひとり}で解決{かいけつ}するのは、かなり難{むずか}しい。
+= Öyle ciddi bir sorun-u tek başına çöz-mek, epey zor.
++ 重大|じゅうだい|ciddi, ağır
++ 問題|もんだい|sorun
++ 一人|ひとり|tek başına
++ 解決|かいけつ|çözüm
++ 難しい|むずかしい|zor
+18 長時間{ちょうじかん}の会議{かいぎ}の後{あと}、参加者{さんかしゃ}はみんな疲{つか}れ（気味{ぎみ}）だった。
+= Uzun süre-li toplantı-dan sonra, katılımcı-lar-ın hepsi biraz yorgun-du.
++ 長時間|ちょうじかん|uzun süre
++ 会議|かいぎ|toplantı
++ 後|あと|sonra
++ 参加者|さんかしゃ|katılımcı
+19 彼{かれ}の話{はなし}は事実{じじつ}とは思{おも}い（がたい）内容{ないよう}だった。
+= O-nun anlattığ-ı, gerçek ol-duğ-u düşün-ül-me-si güç bir içerik-ti.
++ 話|はなし|konuşma, anlatılan
++ 事実|じじつ|gerçek, olgu
++ 思う|おもう|düşünmek|思い
++ 内容|ないよう|içerik
+20 最近{さいきん}、朝晩{あさばん}が冷{ひ}えるので、風邪{かぜ}（気味{ぎみ}）の人{ひと}が増{ふ}えている。
+= Son zaman-lar-da, sabah-lar akşam-lar soğu-duğ-u için, hafif nezle ol-an insan-lar art-ıyor.
++ 朝晩|あさばん|sabah akşam
++ 冷える|ひえる|soğumak|冷える
++ 人|ひと|insan, kişi
+21 「彼{かれ}はどうしてあんなに悲{かな}しそうな顔{かお}をしているの？」「さあ。でも、さっき先生{せんせい}から話{はなし}を聞{き}いたときも、かなり悲{かな}し（げな）様子{ようす}だったよ。」
+= “O neden öyle üzgün bir yüz-le duruyor?” “Bilmem. Ama, az önce öğretmen-den konuşma-yı dinle-diğ-i zaman da, epey üzgün bir hal-i var-dı.”
++ 悲しい|かなしい|üzgün, acıklı|悲し
++ 先生|せんせい|öğretmen
++ 様子|ようす|hal, görünüş
+22 長年{ながねん}にわたって築{きず}いてきた信頼関係{しんらいかんけい}を、一度{いちど}の失敗{しっぱい}で失{うしな}ってしまったことは、本人{ほんにん}にとっても受{う}け入{い}れ（がたい）現実{げんじつ}だった。
+= Uzun yıl-lar boyunca kur-duğ-u güven ilişki-si-ni, tek bir hata-yla kaybet-me-si, kendi-si için de kabul-len-il-me-si güç bir gerçek-ti.
++ 築く|きずく|kurmak, inşa etmek|築い
++ 信頼関係|しんらいかんけい|güven ilişkisi
++ 一度|いちど|bir kez
++ 失敗|しっぱい|başarısızlık, hata
++ 失う|うしなう|kaybetmek|失っ
++ 本人|ほんにん|kişinin kendisi
++ 現実|げんじつ|gerçek, gerçeklik
+23 景気{けいき}の低迷{ていめい}が続{つづ}く中{なか}、今年{ことし}は企業{きぎょう}の採用活動{さいようかつどう}もやや慎重{しんちょう}（気味{ぎみ}）になっている。
+= Ekonomi-nin durgunluğ-u sür-er-ken, bu yıl şirket-ler-in işe alım faaliyet-ler-i de biraz temkinli-leş-iyor.
++ 景気|けいき|ekonomik durum, konjonktür
++ 低迷|ていめい|durgunluk
++ 続く|つづく|sürmek|続く
++ 今年|ことし|bu yıl
++ 企業|きぎょう|şirket, işletme
++ 採用活動|さいようかつどう|işe alım faaliyeti
++ 慎重|しんちょう|temkinli, dikkatli
+24 彼{かれ}は「大丈夫{だいじょうぶ}」と言{い}っていたが、その表情{ひょうじょう}にはどこか不安{ふあん}（げ）なところがあった。
+= O “sorun yok” diyor-du ama, o yüz ifade-si-nde bir yer-ler-de kaygılı bir hal var-dı.
++ 大丈夫|だいじょうぶ|sorun yok, iyi
+25 その発表{はっぴょう}を聞{き}いた瞬間{しゅんかん}、会場{かいじょう}にいた人々{ひとびと}は驚{おどろ}きの表情{ひょうじょう}を見{み}せた。中{なか}には、事実{じじつ}をすぐには信{しん}じ（がたい）というような顔{かお}をしている人{ひと}もいた。
+= O açıklama-yı duy-duk-ları an, salon-da-ki insan-lar şaşkınlık ifade-si göster-di. Ara-lar-ın-da, gerçeğ-e hemen inan-a-ma-yan bir yüz-le duran-lar da var-dı.
++ 発表|はっぴょう|açıklama, sunum
++ 瞬間|しゅんかん|an
++ 会場|かいじょう|salon, toplantı yeri
++ 人々|ひとびと|insanlar
++ 驚き|おどろき|şaşkınlık, hayret
++ 見せる|みせる|göstermek|見せ
++ 中|なか|iç, ara

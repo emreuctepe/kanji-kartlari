@@ -1,0 +1,165 @@
+// 練習問題：～こそ・～に反して・～をものともせずに (練習.pdf s.121–123)
+@ gp30 2年文法 30 | こそ・に反して・をものともせずに
+1 今年{ことし}（こそ）、日本語能力試験{にほんごのうりょくしけん}に合格{ごうかく}したい。
+= Bu yıl mutlaka, Japonca Yeterlilik Sınav-ı-nı geç-mek isti-yor-um.
++ 今年|ことし|bu yıl
++ こそ|こそ|tam da …, mutlaka bu (vurgu)
++ 日本語|にほんご|Japonca
++ 能力|のうりょく|yeterlilik, yetenek
++ 試験|しけん|sınav
++ 合格|ごうかく|sınavı geçme
+2 予想{よそう}（に反{はん}して）、多{おお}くの学生{がくせい}がその講座{こうざ}に参加{さんか}した。
+= Beklenti-nin aksine, çok öğrenci o kurs-a katıl-dı.
++ 予想|よそう|tahmin, beklenti
++ に反して|にはんして|…in aksine, …e karşın|反して
++ 多く|おおく|çok
++ 学生|がくせい|öğrenci
++ 講座|こうざ|kurs
++ 参加|さんか|katılma
+3 強{つよ}い雨{あめ}（をものともせずに）、選手{せんしゅ}たちは試合{しあい}を続{つづ}けた。
+= Şiddetli yağmur-a aldırmadan, oyuncu-lar maç-ı sürdür-dü.
++ 強い|つよい|şiddetli, güçlü
++ 雨|あめ|yağmur
++ をものともせずに|をものともせずに|…e aldırmadan, …e meydan okuyarak
++ 選手|せんしゅ|oyuncu, sporcu
++ 試合|しあい|maç
++ 続ける|つづける|sürdürmek|続け
+4 努力{どりょく}して（こそ）、本当{ほんとう}の成功{せいこう}を得{え}ることができる。
+= Ancak çaba göster-erek, gerçek başarı-ya ulaş-abil-ir-sin.
++ 努力|どりょく|çaba
++ 本当|ほんとう|gerçek
++ 成功|せいこう|başarı
++ 得る|える|elde etmek
+5 みんなの反対{はんたい}（をものともせずに）、彼{かれ}は自分{じぶん}の研究{けんきゅう}を続{つづ}けた。
+= Herkes-in karşı çıkma-sı-na aldırmadan, o kendi araştırma-sı-nı sürdür-dü.
++ 反対|はんたい|karşı çıkma
++ 彼|かれ|o (erkek)
++ 自分|じぶん|kendi
++ 研究|けんきゅう|araştırma
+6 期待{きたい}（に反{はん}して）、調査結果{ちょうさけっか}は非常{ひじょう}に興味深{きょうみぶか}いものだった。
+= Beklenti-nin aksine, araştırma sonuç-lar-ı son derece ilginç-ti.
++ 期待|きたい|beklenti
++ 調査|ちょうさ|araştırma
++ 結果|けっか|sonuç
++ 非常に|ひじょうに|son derece
++ 興味深い|きょうみぶかい|ilginç
+7 今度{こんど}（こそ）、最後{さいご}まであきらめないつもりだ。
+= Bu sefer mutlaka, son-a kadar vazgeç-me-me-yi düşün-üyor-um.
++ 今度|こんど|bu sefer, bu kez
++ 最後|さいご|son
+8 厳{きび}しい批判{ひはん}（をものともせずに）、彼女{かのじょ}は研究成果{けんきゅうせいか}を発表{はっぴょう}した。
+= Sert eleştiri-ler-e aldırmadan, o (kadın) araştırma sonuç-lar-ı-nı açıkla-dı.
++ 厳しい|きびしい|sert
++ 批判|ひはん|eleştiri
++ 彼女|かのじょ|o (kadın)
++ 成果|せいか|sonuç, başarı
++ 発表|はっぴょう|açıklama, sunum
+9 自分{じぶん}で経験{けいけん}して（こそ）、その問題{もんだい}の難{むずか}しさが分{わ}かる。
+= Ancak kendi-n deneyimle-yince, o sorun-un zorluğ-u-nu anla-r-sın.
++ 経験|けいけん|deneyim
++ 問題|もんだい|sorun
++ 難しさ|むずかしさ|zorluk
++ 分かる|わかる|anlamak
+10 法律{ほうりつ}（に反{はん}する）行為{こうい}は、当然{とうぜん}認{みと}められない。
+= Yasa-ya aykırı davranış-lar, doğal olarak kabul ed-il-mez.
++ 法律|ほうりつ|yasa
++ に反する|にはんする|…e aykırı|反する
++ 行為|こうい|davranış, eylem
++ 当然|とうぜん|doğal olarak
++ 認める|みとめる|kabul etmek|認められ
+11 今度{こんど}（こそ）最後{さいご}まであきらめずに頑張{がんば}りたい。
+= Bu sefer mutlaka son-a kadar vazgeç-me-den gayret et-mek isti-yor-um.
++ 頑張る|がんばる|gayret etmek|頑張り
+12 天候{てんこう}の悪化{あっか}（をものともせずに）、登山隊{とざんたい}は予定{よてい}どおり出発{しゅっぱつ}した。
+= Hava-nın kötüleş-me-si-ne aldırmadan, dağcı ekib-i plan-a uygun yola çık-tı.
++ 天候|てんこう|hava durumu
++ 悪化|あっか|kötüleşme
++ 登山隊|とざんたい|dağcı ekibi
++ 予定|よてい|plan
++ 出発|しゅっぱつ|yola çıkma
+13 彼{かれ}は周囲{しゅうい}からの批判{ひはん}（をものともせずに）、自分{じぶん}の信念{しんねん}を貫{つらぬ}いた。
+= O çevre-si-nden gel-en eleştiri-ler-e aldırmadan, kendi inanc-ı-ndan şaşma-dı.
++ 周囲|しゅうい|çevre
++ 信念|しんねん|inanç
++ 貫く|つらぬく|sonuna kadar sürdürmek|貫い
+14 事前{じぜん}の予想{よそう}（に反{はん}して）、研究結果{けんきゅうけっか}は非常{ひじょう}に高{たか}く評価{ひょうか}された。
+= Önceden-ki tahmin-ler-in aksine, araştırma sonuç-lar-ı son derece yüksek değerlendir-il-di.
++ 事前|じぜん|önceden
++ 高い|たかい|yüksek|高く
++ 評価|ひょうか|değerlendirme
+15 「こちら（こそ）よろしくお願{ねが}いいたします。」
+= “Asıl ben-im için bir zevk, ben de rica ed-er-im.”
++ お願い|おねがい|rica
+16 困難{こんなん}（をものともせずに）立{た}ち向{む}かう彼{かれ}の姿勢{しせい}は、多{おお}くの人{ひと}に感動{かんどう}を与{あた}えた。
+= Güçlük-ler-e aldırmadan karşı koy-an tavr-ı, çok insan-ı duygulandır-dı.
++ 困難|こんなん|güçlük, zorluk
++ 立ち向かう|たちむかう|karşı koymak, göğüs germek
++ 姿勢|しせい|tavır, duruş
++ 人|ひと|insan
++ 感動|かんどう|duygulanma, etkilenme
++ 与える|あたえる|vermek|与え
+17 経験{けいけん}を積{つ}んで（こそ）、研究者{けんきゅうしゃ}としての視野{しや}が広{ひろ}がる。
+= Ancak deneyim kazan-ınca, araştırmacı olarak ufk-un genişle-r.
++ 積む|つむ|biriktirmek|積ん
++ 研究者|けんきゅうしゃ|araştırmacı
++ 視野|しや|ufuk, görüş alanı
++ 広がる|ひろがる|genişlemek
+18 専門家{せんもんか}の予測{よそく}（に反{はん}して）、その地域{ちいき}の人口{じんこう}は増加{ぞうか}した。
+= Uzman-lar-ın tahmin-i-nin aksine, o bölge-nin nüfus-u art-tı.
++ 専門家|せんもんか|uzman
++ 予測|よそく|tahmin, öngörü
++ 地域|ちいき|bölge
++ 人口|じんこう|nüfus
++ 増加|ぞうか|artış
+19 激{はげ}しい競争{きょうそう}（をものともせずに）、その会社{かいしゃ}は新{あたら}しい市場{しじょう}への進出{しんしゅつ}を続{つづ}けた。
+= Şiddetli rekabet-e aldırmadan, o şirket yeni pazar-lar-a açıl-ma-yı sürdür-dü.
++ 激しい|はげしい|şiddetli
++ 競争|きょうそう|rekabet
++ 会社|かいしゃ|şirket
++ 新しい|あたらしい|yeni
++ 市場|しじょう|pazar
++ 進出|しんしゅつ|açılma, girme
+20 今日{きょう}（こそ）自分{じぶん}の考{かんが}えを先生{せんせい}に伝{つた}えようと思{おも}う。
+= Bugün mutlaka kendi düşünce-m-i hoca-m-a ilet-me-yi düşün-üyor-um.
++ 今日|きょう|bugün
++ 考え|かんがえ|düşünce
++ 先生|せんせい|öğretmen, hoca
++ 伝える|つたえる|iletmek|伝えよ
++ 思う|おもう|düşünmek
+21 多{おお}くの研究者{けんきゅうしゃ}がその説{せつ}に疑問{ぎもん}を持{も}っていたが、彼{かれ}は周囲{しゅうい}の批判{ひはん}（をものともせずに）、独自{どくじ}の研究{けんきゅう}を続{つづ}けた。
+= Çok araştırmacı o kuram-dan şüphe ed-iyor-du ama, o çevre-si-nin eleştiri-ler-i-ne aldırmadan, özgün araştırma-sı-nı sürdür-dü.
++ 説|せつ|kuram, görüş
++ 疑問|ぎもん|şüphe, soru
++ 持つ|もつ|sahip olmak|持っ
++ 独自|どくじ|özgün, kendine özgü
+22 当初{とうしょ}の予測{よそく}（に反{はん}して）、この政策{せいさく}は社会{しゃかい}に予想以上{よそういじょう}の影響{えいきょう}を与{あた}えることになった。
+= İlk-teki tahmin-ler-in aksine, bu politika toplum-a beklenen-den fazla etki yap-tı.
++ 当初|とうしょ|başlangıçta, ilk
++ 政策|せいさく|politika
++ 社会|しゃかい|toplum
++ 以上|いじょう|…den fazla
++ 影響|えいきょう|etki
+23 失敗{しっぱい}を経験{けいけん}して（こそ）、人{ひと}は自分{じぶん}の弱点{じゃくてん}や課題{かだい}に気{き}づくことができる。
+= Ancak başarısızlığ-ı deneyimle-yince, insan kendi zayıf yön-ler-i-ni ve eksik-ler-i-ni fark ed-ebil-ir.
++ 失敗|しっぱい|başarısızlık
++ 弱点|じゃくてん|zayıf nokta
++ 課題|かだい|eksik, çözülmesi gereken konu
++ 気づく|きづく|fark etmek
+24 厳{きび}しい経済状況{けいざいじょうきょう}（をものともせずに）、地域{ちいき}の人々{ひとびと}は伝統文化{でんとうぶんか}を守{まも}るための活動{かつどう}を続{つづ}けてきた。
+= Zor ekonomik koşul-lar-a aldırmadan, yöre insan-lar-ı geleneksel kültür-ü koru-mak için faaliyet-ler-i-ni sürdür-dü.
++ 経済|けいざい|ekonomi
++ 状況|じょうきょう|durum
++ 人々|ひとびと|insanlar
++ 伝統|でんとう|gelenek
++ 文化|ぶんか|kültür
++ 守る|まもる|korumak
++ 活動|かつどう|faaliyet
+25 当時{とうじ}の社会{しゃかい}では一般的{いっぱんてき}ではなかった考{かんが}え方{かた}だったが、彼{かれ}は周囲{しゅうい}の反対{はんたい}（をものともせずに）、新{あたら}しい教育制度{きょういくせいど}の必要性{ひつようせい}を訴{うった}え続{つづ}けた。
+= O dönem-in toplum-u-nda yaygın ol-ma-yan bir düşünce-ydi ama, o çevre-si-nin karşı çıkma-sı-na aldırmadan, yeni bir eğitim sistem-i-nin gerekliliğ-i-ni savun-ma-yı sürdür-dü.
++ 当時|とうじ|o dönem
++ 一般的|いっぱんてき|yaygın, genel
++ 考え方|かんがえかた|düşünce tarzı
++ 教育|きょういく|eğitim
++ 制度|せいど|sistem
++ 必要性|ひつようせい|gereklilik
++ 訴える|うったえる|savunmak, dile getirmek|訴え

@@ -1,0 +1,163 @@
+// 練習問題：～たびに・～わけがない・～わけではない (練習.pdf s.49–53)
+@ gp12 2年文法 12 | たびに・わけがない・わけではない
+1 この写真{しゃしん}を見{み}る（たびに）、大学時代{だいがくじだい}のことを思{おも}い出{だ}す。
+= Bu fotoğraf-a her bak-tığ-ım-da, üniversite yıl-lar-ı-mı hatırla-r-ım.
++ 写真|しゃしん|fotoğraf
++ 見る|みる|bakmak, görmek
++ たびに|たびに|her …dığında
++ 大学時代|だいがくじだい|üniversite yılları
++ 思い出す|おもいだす|hatırlamak
+2 彼{かれ}がそんな無責任{むせきにん}なことをする（わけがない）。
+= O-nun öyle sorumsuz-ca bir şey yap-ma-sı imkânsız.
++ 彼|かれ|o (erkek)
++ 無責任|むせきにん|sorumsuz
++ わけがない|わけがない|…mesi imkânsız, …olamaz
+3 日本料理{にほんりょうり}が嫌{きら}いな（わけではない）が、納豆{なっとう}は少{すこ}し苦手{にがて}だ。
+= Japon yemek-ler-i-ni sev-me-diğ-im-den değil ama, nattō-yu pek sevmem.
++ 日本料理|にほんりょうり|Japon mutfağı
++ 嫌い|きらい|sevmemek, hoşlanmamak
++ わけではない|わけではない|…değil, …anlamına gelmez
++ 納豆|なっとう|nattō (mayalı soya)
++ 少し|すこし|biraz
++ 苦手|にがて|sevmediği, beceremediği şey
+4 この道{みち}を通{とお}る（たびに）、昔{むかし}の友達{ともだち}に会{あ}う。
+= Bu yol-dan her geç-tiğ-im-de, eski arkadaş-ım-a rastla-r-ım.
++ 道|みち|yol
++ 通る|とおる|geçmek
++ 昔|むかし|eskiden, eski
++ 友達|ともだち|arkadaş
++ 会う|あう|karşılaşmak, buluşmak
+5 そんな難{むずか}しい仕事{しごと}を一日{いちにち}で終{お}わらせられる（わけがない）。
+= Öyle zor bir iş-i bir gün-de bitir-ebil-me-m imkânsız.
++ 難しい|むずかしい|zor
++ 仕事|しごと|iş
++ 一日|いちにち|bir gün
++ 終わらせる|おわらせる|bitirmek|終わらせ
+6 私{わたし}は外国{がいこく}に住{す}みたい（わけではない）。ただ、機会{きかい}があれば一度{いちど}住{す}んでみたいと思{おも}っている。
+= Yurt dışı-nda yaşa-mak iste-diğ-im-den değil. Sadece, fırsat ol-ur-sa bir kez yaşa-yıp gör-mek isti-yor-um.
++ 私|わたし|ben
++ 外国|がいこく|yabancı ülke
++ 住む|すむ|oturmak, yaşamak|住み
++ 機会|きかい|fırsat
++ 一度|いちど|bir kez
++ 思う|おもう|düşünmek|思っ
+7 試験{しけん}の結果{けっか}を見{み}る（たびに）、もっと勉強{べんきょう}しなければならないと思{おも}う。
+= Sınav sonuç-lar-ı-na her bak-tığ-ım-da, daha çok çalış-mam gerek diye düşün-ür-üm.
++ 試験|しけん|sınav
++ 結果|けっか|sonuç
++ 勉強|べんきょう|ders çalışma
+8 彼{かれ}は日本語{にほんご}を話{はな}せない（わけではない）。簡単{かんたん}な会話{かいわ}ならできる。
+= O Japonca konuş-a-ma-z değil. Basit konuşma-lar-ı yap-abil-ir.
++ 日本語|にほんご|Japonca
++ 話す|はなす|konuşmak|話せ
++ 簡単|かんたん|kolay, basit
++ 会話|かいわ|konuşma, sohbet
+9 あの人{ひと}が大学生{だいがくせい}の（わけがない）。どう見{み}ても私{わたし}より年上{としうえ}だ。
+= O kişi-nin üniversite öğrenci-si ol-ma-sı imkânsız. Nasıl bak-ar-san bak, ben-den büyük.
++ 人|ひと|insan, kişi
++ 大学生|だいがくせい|üniversite öğrencisi
++ 年上|としうえ|yaşça büyük
+10 旅行{りょこう}に行{い}く（たびに）、その土地{とち}の歴史{れきし}について調{しら}べるようにしている。
+= Seyahat-e her git-tiğ-im-de, o yer-in tarih-i hakkında araştır-ma-ya çalış-ır-ım.
++ 旅行|りょこう|seyahat
++ 行く|いく|gitmek
++ 土地|とち|yer, toprak, yöre
++ 歴史|れきし|tarih
++ 調べる|しらべる|araştırmak
+11 この曲{きょく}を聞{き}く（たびに）、高校時代{こうこうじだい}の友人{ゆうじん}を思{おも}い出{だ}す。
+= Bu şarkı-yı her dinle-diğ-im-de, lise yıl-lar-ı-mın arkadaş-lar-ı-nı hatırla-r-ım.
++ 曲|きょく|şarkı, parça
++ 聞く|きく|dinlemek
++ 高校時代|こうこうじだい|lise yılları
++ 友人|ゆうじん|arkadaş
+12 彼{かれ}は毎日{まいにち}あんなに忙{いそが}しいのだから、そんなに長{なが}い小説{しょうせつ}を一晩{ひとばん}で読{よ}み終{お}えられる（わけがない）。
+= O her gün o kadar meşgul ol-duğ-una göre, o kadar uzun bir roman-ı bir gece-de oku-yup bitir-ebil-me-si imkânsız.
++ 毎日|まいにち|her gün
++ 忙しい|いそがしい|meşgul, yoğun
++ 長い|ながい|uzun
++ 小説|しょうせつ|roman
++ 一晩|ひとばん|bir gece
++ 読み終える|よみおえる|okuyup bitirmek|読み終え
+13 私{わたし}は日本{にほん}の文化{ぶんか}に興味{きょうみ}がない（わけではない）が、専門的{せんもんてき}に研究{けんきゅう}しているわけでもない。
+= Japon kültür-ü-ne ilgi-m yok değil ama, uzmanlık düzey-i-nde araştır-ıyor da değil-im.
++ 日本|にほん|Japonya
++ 文化|ぶんか|kültür
++ 興味|きょうみ|ilgi, merak
++ 専門的|せんもんてき|uzmanlık düzeyinde, profesyonel
++ 研究|けんきゅう|araştırma
+14 新{あたら}しい町{まち}へ引{ひ}っ越{こ}す（たびに）、新{あたら}しい人{ひと}との出会{であ}いがある。
+= Yeni bir şehr-e her taşın-dığ-ım-da, yeni insan-lar-la tanış-ma ol-ur.
++ 新しい|あたらしい|yeni
++ 町|まち|şehir, kasaba
++ 引っ越す|ひっこす|taşınmak
++ 出会い|であい|tanışma, karşılaşma
+15 彼{かれ}がその事実{じじつ}を知{し}らない（わけがない）。昨日{きのう}、本人{ほんにん}から直接{ちょくせつ}聞{き}いたと言{い}っていた。
+= O-nun o gerçeğ-i bil-me-me-si imkânsız. Dün, ilgili kişi-nin kendi-sin-den doğrudan duy-duğ-u-nu söylü-yor-du.
++ 事実|じじつ|gerçek, olgu
++ 知る|しる|bilmek|知ら
++ 昨日|きのう|dün
++ 本人|ほんにん|kişinin kendisi
++ 直接|ちょくせつ|doğrudan
++ 言う|いう|söylemek|言っ
+16 高{たか}い大学{だいがく}を卒業{そつぎょう}したからといって、必{かなら}ず成功{せいこう}する（わけではない）。
+= Pahalı bir üniversite-den mezun ol-du diye, kesinlikle başarılı ol-acak değil.
++ 高い|たかい|pahalı; yüksek
++ 大学|だいがく|üniversite
++ 卒業|そつぎょう|mezuniyet
++ 必ず|かならず|kesinlikle, mutlaka
++ 成功|せいこう|başarı
+17 この薬{くすり}を飲{の}む（たびに）、少{すこ}し眠{ねむ}くなる。
+= Bu ilac-ı her iç-tiğ-im-de, biraz uykum gel-ir.
++ 薬|くすり|ilaç
++ 飲む|のむ|(ilaç) içmek
++ 眠い|ねむい|uykulu|眠く
+18 「田中{たなか}さん、英語{えいご}が全然{ぜんぜん}話{はな}せないんでしょう？」「いや、話{はな}せない（わけではない）よ。簡単{かんたん}な会話{かいわ}ならできるよ。」
+= “Tanaka, İngilizce-yi hiç konuş-a-mı-yor, değil mi?” “Hayır, konuş-a-ma-z değil. Basit konuşma-lar-ı yap-abil-ir.”
++ 田中|たなか|Tanaka (soyadı)
++ 英語|えいご|İngilizce
++ 全然|ぜんぜん|hiç (olumsuzla)
+19 こんなに高{たか}いホテルに、学生{がくせい}の私{わたし}が毎週{まいしゅう}泊{と}まれる（わけがない）。
+= Bu kadar pahalı bir otel-de, öğrenci ol-an ben-im her hafta kal-abil-me-m imkânsız.
++ 学生|がくせい|öğrenci
++ 毎週|まいしゅう|her hafta
++ 泊まる|とまる|(otelde) kalmak|泊まれる
+20 海外{かいがい}で生活{せいかつ}したからといって、誰{だれ}でも外国語{がいこくご}が上手{じょうず}になる（わけではない）。
+= Yurt dışı-nda yaşa-dı diye, herkes yabancı dil-de usta ol-acak değil.
++ 海外|かいがい|yurt dışı
++ 生活|せいかつ|yaşam
++ 誰でも|だれでも|herkes
++ 外国語|がいこくご|yabancı dil
++ 上手|じょうず|usta, becerikli
+21 「最近{さいきん}、仕事{しごと}が大変{たいへん}そうですね。」「ええ。でも、毎日{まいにち}忙{いそが}しい（わけでは）ありません。暇{ひま}な日{ひ}もありますよ。」
+= “Son zaman-lar-da iş-ler zor gibi.” “Evet. Ama, her gün yoğun değil. Boş gün-ler de var.”
++ 最近|さいきん|son zamanlarda
++ 大変|たいへん|zor, zahmetli
++ 暇|ひま|boş (zaman)
++ 日|ひ|gün
+22 長年{ながねん}この地域{ちいき}で暮{く}らしている彼{かれ}が、この町{まち}の歴史{れきし}をまったく知{し}らない（わけがない）。
+= Uzun yıl-lar-dır bu bölge-de yaşa-yan o-nun, bu şehr-in tarih-i-ni hiç bil-me-me-si imkânsız.
++ 長年|ながねん|uzun yıllar
++ 地域|ちいき|bölge, yöre
++ 暮らす|くらす|yaşamak|暮らし
+23 新{あたら}しい仕事{しごと}を始{はじ}める（たびに）、最初{さいしょ}は不安{ふあん}を感{かん}じるものだ。しかし、経験{けいけん}を積{つ}むにつれて、少{すこ}しずつ慣{な}れていく。
+= Yeni bir iş-e her başla-dığ-ın-da, başta kaygı duy-ar-sın. Ama, deneyim kazan-dıkça, yavaş yavaş alış-ır-sın.
++ 始める|はじめる|başlamak
++ 最初|さいしょ|ilk, başta
++ 不安|ふあん|kaygı, huzursuzluk
++ 感じる|かんじる|hissetmek
++ 経験|けいけん|deneyim
++ 積む|つむ|biriktirmek
++ 慣れる|なれる|alışmak|慣れ
+24 「日本{にほん}に10年{ねん}も住{す}んでいるなら、日本語{にほんご}は完璧{かんぺき}でしょう。」「10年{ねん}住{す}んでいるからといって、何{なん}でも日本語{にほんご}で話{はな}せる（わけではない）よ。専門的{せんもんてき}な話{はなし}はまだ難{むずか}しいです。」
+= “Japonya-da 10 yıl-dır yaşı-yor-san, Japonca-n mükemmel-dir herhâlde.” “10 yıl yaşı-yor-um diye, her şey-i Japonca konuş-abil-ir değil-im. Uzmanlık konu-lar-ı hâlâ zor.”
++ 年|ねん|yıl
++ 完璧|かんぺき|mükemmel, kusursuz
++ 話|はなし|konuşma, konu
+25 「この計画{けいかく}は絶対{ぜったい}に成功{せいこう}すると思{おも}いますか。」「いや、そう簡単{かんたん}に成功{せいこう}する（わけがない）。予想外{よそうがい}の問題{もんだい}が起{お}こる可能性{かのうせい}もあります。」
+= “Bu plan kesinlikle başarılı ol-ur diye düşün-üyor mu-sun?” “Hayır, o kadar kolay-ca başarılı ol-ma-sı imkânsız. Beklenmedik sorun-lar çık-ma ihtimal-i de var.”
++ 計画|けいかく|plan
++ 絶対|ぜったい|kesinlikle
++ 予想外|よそうがい|beklenmedik
++ 問題|もんだい|sorun
++ 起こる|おこる|olmak, meydana gelmek
++ 可能性|かのうせい|ihtimal, olasılık

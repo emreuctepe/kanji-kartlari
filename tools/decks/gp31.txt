@@ -1,0 +1,166 @@
+// 練習問題：～とともに・～ところだった・～ばかりに (練習.pdf s.124–126)
+@ gp31 2年文法 31 | とともに・ところだった・ばかりに
+1 技術{ぎじゅつ}の発展{はってん}（とともに）、人々{ひとびと}の生活{せいかつ}も大{おお}きく変化{へんか}した。
+= Teknoloji-nin gelişme-si-yle birlikte, insan-lar-ın yaşam-ı da büyük ölçüde değiş-ti.
++ 技術|ぎじゅつ|teknoloji
++ 発展|はってん|gelişme
++ とともに|とともに|…ile birlikte; …dıkça
++ 人々|ひとびと|insanlar
++ 生活|せいかつ|yaşam
++ 大きい|おおきい|büyük|大きく
++ 変化|へんか|değişim
+2 もう少{すこ}し早{はや}く出発{しゅっぱつ}しなければ、飛行機{ひこうき}に乗{の}り遅{おく}れる（ところだった）。
+= Biraz daha erken yola çık-ma-sa-ydı-k, uçağ-ı kaçır-ıyor-du-k.
++ 少し|すこし|biraz
++ 早い|はやい|erken|早く
++ 出発|しゅっぱつ|yola çıkma
++ 飛行機|ひこうき|uçak
++ 乗り遅れる|のりおくれる|(araca) yetişememek, kaçırmak
++ ところだった|ところだった|az kalsın …ıyordu
+3 彼{かれ}は余計{よけい}なことを言{い}った（ばかりに）、友人{ゆうじん}を怒{おこ}らせてしまった。
+= O gereksiz bir şey söyle-di-ği için, arkadaş-ı-nı kızdır-dı.
++ 彼|かれ|o (erkek)
++ 余計|よけい|gereksiz, fazladan
++ 言う|いう|söylemek|言っ
++ ばかりに|ばかりに|sırf …dığı için (kötü sonuç)
++ 友人|ゆうじん|arkadaş
++ 怒る|おこる|kızmak|怒らせ
+4 大学{だいがく}の先生{せんせい}（であるとともに）、研究者{けんきゅうしゃ}としても活動{かつどう}している。
+= Üniversite hoca-sı ol-ma-nın yanı sıra, araştırmacı olarak da çalış-ıyor.
++ 大学|だいがく|üniversite
++ 先生|せんせい|öğretmen, hoca
++ 研究者|けんきゅうしゃ|araştırmacı
++ 活動|かつどう|faaliyet, çalışma
+5 道{みち}が分{わ}からなくなって、約束{やくそく}の時間{じかん}に遅{おく}れる（ところだった）。
+= Yol-u kaybed-ip, randevu saat-i-ne az kalsın geç kal-ıyor-du-m.
++ 道|みち|yol
++ 分かる|わかる|bilmek, anlamak|分から
++ 約束|やくそく|randevu
++ 時間|じかん|saat
++ 遅れる|おくれる|geç kalmak
+6 一度{いちど}の判断{はんだん}を間違{まちが}えた（ばかりに）、長年{ながねん}の努力{どりょく}を無駄{むだ}にしてしまった。
+= Sırf bir kez yanlış karar ver-diğ-i için, yıl-lar-ın emeğ-i-ni boşa harca-dı.
++ 一度|いちど|bir kez
++ 判断|はんだん|karar
++ 間違える|まちがえる|yanlış yapmak|間違え
++ 長年|ながねん|uzun yıllar
++ 努力|どりょく|çaba, emek
++ 無駄|むだ|boşa, israf
+7 社会{しゃかい}の変化{へんか}（とともに）、教育{きょういく}のあり方{かた}も変{か}わってきた。
+= Toplum-un değişim-i-yle birlikte, eğitim-in biçim-i de değiş-ti.
++ 社会|しゃかい|toplum
++ 教育|きょういく|eğitim
++ あり方|ありかた|olması gereken biçim, yapı|方
++ 変わる|かわる|değişmek|変わっ
+8 階段{かいだん}で足{あし}を滑{すべ}らせて、大{おお}けがをする（ところだった）。
+= Merdiven-de ayağ-ım kay-ıp, az kalsın ağır yaralan-ıyor-du-m.
++ 階段|かいだん|merdiven
++ 足|あし|ayak
++ 滑る|すべる|kaymak|滑らせ
++ 大けが|おおけが|ağır yaralanma|大
+9 重要{じゅうよう}な資料{しりょう}を確認{かくにん}しなかった（ばかりに）、研究結果{けんきゅうけっか}に大{おお}きな誤{あやま}りが生{しょう}じた。
+= Sırf önemli belge-ler-i kontrol et-me-diğ-i için, araştırma sonuç-lar-ı-nda büyük bir hata ortaya çık-tı.
++ 重要|じゅうよう|önemli
++ 資料|しりょう|belge
++ 確認|かくにん|kontrol
++ 研究|けんきゅう|araştırma
++ 結果|けっか|sonuç
++ 大きな|おおきな|büyük
++ 誤り|あやまり|hata
++ 生じる|しょうじる|ortaya çıkmak|生じ
+10 私{わたし}は指導教授{しどうきょうじゅ}（とともに）、この研究{けんきゅう}を進{すす}めてきた。
+= Ben danışman hoca-m-la birlikte, bu araştırma-yı yürüt-tü-m.
++ 私|わたし|ben
++ 指導教授|しどうきょうじゅ|danışman profesör
++ 進める|すすめる|ilerletmek, yürütmek|進め
+11 人口{じんこう}の増加{ぞうか}（とともに）、住宅問題{じゅうたくもんだい}も深刻{しんこく}になっている。
+= Nüfus-un art-ma-sı-yla birlikte, konut sorun-u da ciddi-leş-iyor.
++ 人口|じんこう|nüfus
++ 増加|ぞうか|artış
++ 住宅|じゅうたく|konut
++ 問題|もんだい|sorun
++ 深刻|しんこく|ciddi
+12 もう少{すこ}しで大切{たいせつ}なデータを全部{ぜんぶ}消{け}してしまう（ところだった）。
+= Az kalsın önemli veri-ler-in hepsi-ni sil-iyor-du-m.
++ 大切|たいせつ|önemli
++ 全部|ぜんぶ|hepsi
++ 消す|けす|silmek|消し
+13 彼{かれ}は約束{やくそく}の時間{じかん}を忘{わす}れた（ばかりに）、大事{だいじ}な会議{かいぎ}に参加{さんか}できなかった。
+= O sırf randevu saat-i-ni unut-tuğ-u için, önemli toplantı-ya katıl-a-ma-dı.
++ 忘れる|わすれる|unutmak|忘れ
++ 大事|だいじ|önemli
++ 会議|かいぎ|toplantı
++ 参加|さんか|katılma
+14 日本{にほん}への留学{りゅうがく}（とともに）、日本文化{にほんぶんか}に対{たい}する関心{かんしん}も深{ふか}まった。
+= Japonya-ya öğrenim-e git-me-m-le birlikte, Japon kültür-ü-ne olan ilgi-m de derinleş-ti.
++ 日本|にほん|Japonya
++ 留学|りゅうがく|yurt dışında öğrenim
++ 文化|ぶんか|kültür
++ 対する|たいする|…e karşı/yönelik
++ 関心|かんしん|ilgi
++ 深まる|ふかまる|derinleşmek|深まっ
+15 道路{どうろ}が凍{こお}っていたため、車{くるま}が滑{すべ}って事故{じこ}になる（ところだった）。
+= Yol buz-lu ol-duğ-u için, araba kay-ıp az kalsın kaza ol-uyor-du.
++ 道路|どうろ|yol
++ 凍る|こおる|donmak|凍っ
++ 車|くるま|araba
++ 事故|じこ|kaza
+16 一{ひと}つの数字{すうじ}を入力{にゅうりょく}し間違{まちが}えた（ばかりに）、計算結果{けいさんけっか}がすべて違{ちが}ってしまった。
+= Sırf bir rakam-ı yanlış gir-diğ-im için, hesap sonuç-lar-ı-nın hepsi yanlış çık-tı.
++ 一つ|ひとつ|bir (tane)
++ 数字|すうじ|rakam
++ 入力|にゅうりょく|veri girişi
++ 計算|けいさん|hesap
++ 違う|ちがう|farklı/yanlış olmak|違っ
+17 経済{けいざい}が発展{はってん}する（とともに）、人々{ひとびと}の生活様式{せいかつようしき}も変化{へんか}してきた。
+= Ekonomi geliş-tikçe, insan-lar-ın yaşam tarz-ı da değiş-ti.
++ 経済|けいざい|ekonomi
++ 様式|ようしき|tarz, biçim
+18 急{いそ}いでいたので、財布{さいふ}を駅{えき}に置{お}き忘{わす}れる（ところだった）。
+= Acele-m var-dı, az kalsın cüzdan-ım-ı istasyon-da unut-uyor-du-m.
++ 急ぐ|いそぐ|acele etmek|急い
++ 財布|さいふ|cüzdan
++ 駅|えき|istasyon
++ 置き忘れる|おきわすれる|bir yerde unutmak
+19 彼{かれ}は経験{けいけん}が少{すく}なかった（ばかりに）、重要{じゅうよう}な判断{はんだん}を誤{あやま}ってしまった。
+= O sırf deneyim-i az ol-duğ-u için, önemli bir karar-da yanıl-dı.
++ 経験|けいけん|deneyim
++ 少ない|すくない|az|少なかっ
++ 誤る|あやまる|yanılmak, hata yapmak|誤っ
+20 研究者{けんきゅうしゃ}（であるとともに）、大学{だいがく}で日本語{にほんご}も教{おし}えている。
+= Araştırmacı ol-ma-nın yanı sıra, üniversite-de Japonca da öğret-iyor.
++ 日本語|にほんご|Japonca
++ 教える|おしえる|öğretmek|教え
+21 デジタル技術{ぎじゅつ}の普及{ふきゅう}（とともに）、研究資料{けんきゅうしりょう}へのアクセス方法{ほうほう}も大{おお}きく変化{へんか}している。
+= Dijital teknoloji-nin yaygınlaş-ma-sı-yla birlikte, araştırma belge-ler-i-ne erişim yöntem-i de büyük ölçüde değiş-iyor.
++ 普及|ふきゅう|yaygınlaşma
++ 方法|ほうほう|yöntem
+22 重要{じゅうよう}な史料{しりょう}を誤{あやま}って廃棄{はいき}してしまい、長年{ながねん}の研究成果{けんきゅうせいか}を失{うしな}う（ところだった）。
+= Önemli tarihî belge-ler-i yanlışlık-la at-ıp, az kalsın yıl-lar-ın araştırma birikim-i-ni kaybed-iyor-du-m.
++ 史料|しりょう|tarihî belge
++ 誤って|あやまって|yanlışlıkla|誤って
++ 廃棄|はいき|atma, imha
++ 成果|せいか|sonuç, birikim
++ 失う|うしなう|kaybetmek
+23 当時{とうじ}の制度{せいど}について十分{じゅうぶん}な知識{ちしき}がなかった（ばかりに）、史料{しりょう}の内容{ないよう}を誤{あやま}って解釈{かいしゃく}してしまった。
+= Sırf o dönem-in sistem-i hakkında yeterli bilgi-m ol-ma-dığ-ı için, belge-nin içerik-i-ni yanlış yorumla-dı-m.
++ 当時|とうじ|o dönem
++ 制度|せいど|sistem
++ 十分|じゅうぶん|yeterli
++ 知識|ちしき|bilgi
++ 内容|ないよう|içerik
++ 解釈|かいしゃく|yorum
+24 社会{しゃかい}が近代化{きんだいか}する（とともに）、家族{かぞく}のあり方{かた}や男女{だんじょ}の役割{やくわり}に対{たい}する考{かんが}え方{かた}も変化{へんか}していった。
+= Toplum modernleş-tikçe, aile yapı-sı ve kadın-erkek rol-ler-i-ne karşı düşünce tarz-ı da değiş-ti.
++ 近代化|きんだいか|modernleşme
++ 家族|かぞく|aile
++ 男女|だんじょ|kadın ve erkek
++ 役割|やくわり|rol
++ 考え方|かんがえかた|düşünce tarzı
+25 発表直前{はっぴょうちょくぜん}にパソコンが故障{こしょう}し、準備{じゅんび}していた資料{しりょう}を使{つか}えなくなる（ところだった）。
+= Sunum-dan hemen önce bilgisayar bozul-up, hazırla-dığ-ım belge-ler-i az kalsın kullan-a-maz ol-uyor-du-m.
++ 発表|はっぴょう|sunum
++ 直前|ちょくぜん|hemen önce
++ 故障|こしょう|arıza
++ 準備|じゅんび|hazırlık
++ 使う|つかう|kullanmak|使え

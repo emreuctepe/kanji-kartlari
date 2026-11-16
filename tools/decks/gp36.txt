@@ -1,0 +1,156 @@
+// 総合練習 26–50 (練習.pdf s.143–147)
+@ gp36 2年文法 総合 2 | 総合練習 26–50
+26 健康{けんこう}（のために）、毎朝{まいあさ}運動{うんどう}するようにしている。
+= Sağlık için, her sabah spor yap-ma-ya çalış-ıyor-um.
++ 健康|けんこう|sağlık
++ ために|ために|…için
++ 毎朝|まいあさ|her sabah
++ 運動|うんどう|spor, egzersiz
+27 彼{かれ}は学生{がくせい}（のみならず）研究者{けんきゅうしゃ}としても高{たか}く評価{ひょうか}されている。
+= O sadece öğrenci olarak değil, araştırmacı olarak da yüksek değerlendir-il-iyor.
++ 彼|かれ|o (erkek)
++ 学生|がくせい|öğrenci
++ のみならず|のみならず|sadece …değil, …de
++ 研究者|けんきゅうしゃ|araştırmacı
++ 高い|たかい|yüksek|高く
++ 評価|ひょうか|değerlendirme
+28 この制度{せいど}は外国人{がいこくじん}（に限{かぎ}らず）、すべての住民{じゅうみん}が利用{りよう}できる。
+= Bu sistem-i sadece yabancı-lar değil, bütün sakin-ler kullan-abil-ir.
++ 制度|せいど|sistem
++ 外国人|がいこくじん|yabancı
++ に限らず|にかぎらず|sadece …değil|限らず
++ 住民|じゅうみん|sakin
++ 利用|りよう|kullanım
+29 年齢{ねんれい}（を問{と}わず）応募{おうぼ}できます。
+= Yaş fark etmeksizin başvur-abil-ir-siniz.
++ 年齢|ねんれい|yaş
++ を問わず|をとわず|…fark etmeksizin|問わず
++ 応募|おうぼ|başvuru
+30 雨{あめ}（にもかかわらず）、予定{よてい}どおりイベントは行{おこな}われた。
+= Yağmur-a rağmen, etkinlik plan-a uygun yap-ıl-dı.
++ 雨|あめ|yağmur
++ にもかかわらず|にもかかわらず|…e rağmen
++ 予定|よてい|plan
++ 行う|おこなう|yapmak|行われ
+31 予想{よそう}（に反{はん}して）、試験{しけん}はそれほど難{むずか}しくなかった。
+= Beklenti-nin aksine, sınav o kadar zor değil-di.
++ 予想|よそう|beklenti, tahmin
++ に反して|にはんして|…in aksine|反して
++ 試験|しけん|sınav
++ 難しい|むずかしい|zor|難しく
+32 彼{かれ}は周囲{しゅうい}の反対{はんたい}を（ものともせずに）、研究{けんきゅう}を続{つづ}けた。
+= O çevre-si-nin karşı çıkma-sı-na aldırmadan, araştırma-sı-nı sürdür-dü.
++ 周囲|しゅうい|çevre
++ 反対|はんたい|karşı çıkma
++ をものともせずに|をものともせずに|…e aldırmadan|ものともせずに
++ 研究|けんきゅう|araştırma
++ 続ける|つづける|sürdürmek|続け
+33 この研究{けんきゅう}は複数{ふくすう}の大学{だいがく}の協力{きょうりょく}（によって）行{おこな}われた。
+= Bu araştırma birden çok üniversite-nin iş birliğ-i ile yap-ıl-dı.
++ 複数|ふくすう|birden çok
++ 大学|だいがく|üniversite
++ 協力|きょうりょく|iş birliği
++ によって|によって|…ile, …tarafından
+34 彼{かれ}は大学{だいがく}を卒業{そつぎょう}した（以来{いらい}）、一度{いちど}も日本{にほん}へ帰{かえ}っていない。
+= O üniversite-den mezun ol-duğ-u-ndan beri, bir kez bile Japonya-ya dön-me-di.
++ 卒業|そつぎょう|mezuniyet
++ 以来|いらい|…den beri
++ 一度|いちど|bir kez
++ 日本|にほん|Japonya
++ 帰る|かえる|dönmek|帰っ
+35 彼{かれ}が説明{せつめい}している（ところに）電話{でんわ}が鳴{な}った。
+= O açıklama yap-ar-ken telefon çal-dı.
++ 説明|せつめい|açıklama
++ ところに|ところに|tam …ırken
++ 電話|でんわ|telefon
++ 鳴る|なる|çalmak (ses)|鳴っ
+36 もう少{すこ}しで電車{でんしゃ}に乗{の}り遅{おく}れる（ところだった）。
+= Az kalsın tren-i kaçır-ıyor-du-m.
++ 少し|すこし|biraz
++ 電車|でんしゃ|tren
++ 乗り遅れる|のりおくれる|(araca) yetişememek
++ ところだった|ところだった|az kalsın …ıyordu
+37 一言{ひとこと}余計{よけい}なことを言{い}った（ばかりに）、彼女{かのじょ}を怒{おこ}らせてしまった。
+= Sırf bir kelime gereksiz şey söyle-diğ-im için, o-nu kızdır-dı-m.
++ 一言|ひとこと|tek kelime, bir söz
++ 余計|よけい|gereksiz
++ 言う|いう|söylemek|言っ
++ ばかりに|ばかりに|sırf …dığı için
++ 彼女|かのじょ|o (kadın)
++ 怒る|おこる|kızmak|怒らせ
+38 そんな無責任{むせきにん}なことをする（ものか）。
+= Öyle sorumsuz bir şey yap-ar mı-yım hiç.
++ 無責任|むせきにん|sorumsuz
++ ものか|ものか|asla …mam
+39 結果{けっか}は（ともかく）、まず挑戦{ちょうせん}してみることが大切{たいせつ}だ。
+= Sonuç bir yana, önce dene-yip gör-mek önemli.
++ 結果|けっか|sonuç
++ ともかく|ともかく|… bir yana
++ 挑戦|ちょうせん|deneme
++ 大切|たいせつ|önemli
+40 研究者{けんきゅうしゃ}である（かぎりは）、資料{しりょう}の信頼性{しんらいせい}を確認{かくにん}すべきだ。
+= Araştırmacı ol-duk-ça, belge-ler-in güvenilirliğ-i-ni kontrol et-meli-sin.
++ かぎりは|かぎりは|…dıkça, …dığı sürece
++ 資料|しりょう|belge
++ 信頼性|しんらいせい|güvenilirlik
++ 確認|かくにん|kontrol
+41 この問題{もんだい}は私{わたし}一人{ひとり}では解決{かいけつ}できないので、専門家{せんもんか}に相談{そうだん}する（しかない）。
+= Bu sorun-u tek başı-ma çöz-e-me-diğ-im için, uzman-a danış-mak-tan başka çare yok.
++ 問題|もんだい|sorun
++ 私|わたし|ben
++ 一人|ひとり|tek başına
++ 解決|かいけつ|çözüm
++ 専門家|せんもんか|uzman
++ 相談|そうだん|danışma
++ しかない|しかない|…mekten başka çare yok
+42 忙{いそが}しいから（といって）、約束{やくそく}を破{やぶ}っていいということにはならない。
+= Meşgul-sün diye, söz-ün-ü boz-abil-ir-sin anlamı-na gel-mez.
++ 忙しい|いそがしい|meşgul
++ 約束|やくそく|söz
++ 破る|やぶる|bozmak|破っ
+43 長時間{ちょうじかん}の議論{ぎろん}（の末{すえ}に）、ようやく一{ひと}つの結論{けつろん}に達{たっ}した。
+= Uzun süre-li tartışma-nın sonu-nda, nihayet bir sonuc-a var-dı-k.
++ 長時間|ちょうじかん|uzun süre
++ 議論|ぎろん|tartışma
++ 末に|すえに|…sonunda|末に
++ 一つ|ひとつ|bir (tane)
++ 結論|けつろん|sonuç, karar
++ 達する|たっする|ulaşmak|達し
+44 彼{かれ}は何度{なんど}も失敗{しっぱい}した（あげく）、ついに研究{けんきゅう}を諦{あきら}めた。
+= O defalarca başarısız ol-duk-tan sonra, sonunda araştırma-dan vazgeç-ti.
++ 何度も|なんども|defalarca
++ 失敗|しっぱい|başarısızlık
++ あげく|あげく|(uğraştan) sonunda
++ 諦める|あきらめる|vazgeçmek|諦め
+45 この研究{けんきゅう}には、今後{こんご}の社会{しゃかい}について考{かんが}えさせられる（ものがある）。
+= Bu araştırma-da, gelecek-teki toplum hakkında düşün-dür-en bir yan var.
++ 今後|こんご|bundan sonra
++ 社会|しゃかい|toplum
++ 考える|かんがえる|düşünmek|考えさせられる
++ ものがある|ものがある|…bir yanı var|もの
+46 お忙{いそが}しい（ところを）来{き}ていただき、ありがとうございます。
+= Meşgul ol-duğ-unuz halde gel-diğ-iniz için teşekkür ed-er-im.
++ ところを|ところを|…dığı halde (rahatsız ederek)
++ 来る|くる|gelmek|来
+47 この問題{もんだい}を解決{かいけつ}する（に際{さい}して）、新{あたら}しい制度{せいど}を導入{どうにゅう}する必要{ひつよう}がある。
+= Bu sorun-u çöz-er-ken, yeni bir sistem getir-mek gerek.
++ に際して|にさいして|…ırken, …vesilesiyle|際して
++ 新しい|あたらしい|yeni
++ 導入|どうにゅう|uygulamaya koyma
++ 必要|ひつよう|gerekli
+48 彼{かれ}は注意{ちゅうい}した（そばから）忘{わす}れてしまう。
+= O uyar-ıl-ır uyar-ıl-maz unut-uyor.
++ 注意|ちゅうい|uyarı
++ 忘れる|わすれる|unutmak|忘れ
+49 この本{ほん}は値段{ねだん}（のわりに）内容{ないよう}が充実{じゅうじつ}している。
+= Bu kitab-ın içerik-i fiyat-ı-na göre dolgun.
++ 本|ほん|kitap
++ 値段|ねだん|fiyat
++ わりに|わりに|…e göre (beklenenden farklı)
++ 内容|ないよう|içerik
++ 充実|じゅうじつ|dolgunluk, zenginlik
+50 彼{かれ}は大学教授{だいがくきょうじゅ}（といっても）、まだ30歳{さい}である。
+= O üniversite profesör-ü de-sek de, daha 30 yaşı-nda.
++ 教授|きょうじゅ|profesör
++ といっても|といっても|…dese de
++ 歳|さい|yaş

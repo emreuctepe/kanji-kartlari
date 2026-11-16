@@ -1,0 +1,164 @@
+// 練習問題：～向き・～からには・～一方だ (練習.pdf s.110–113)
+@ gp27 2年文法 27 | 向き・からには・一方だ
+1 このガイドブックは、日本{にほん}を初{はじ}めて訪{おとず}れる人{ひと}（向{む}きだ）。
+= Bu rehber kitap, Japonya-yı ilk kez ziyaret ed-en-ler-e uygun.
++ 日本|にほん|Japonya
++ 初めて|はじめて|ilk kez
++ 訪れる|おとずれる|ziyaret etmek
++ 人|ひと|kişi
++ 向き|むき|…e uygun, …e elverişli
+2 大学院{だいがくいん}に進学{しんがく}する（からには）、最後{さいご}まで研究{けんきゅう}を続{つづ}けたい。
+= Madem yüksek lisans-a geç-iyor-um, son-a kadar araştırma-yı sürdür-mek isti-yor-um.
++ 大学院|だいがくいん|lisansüstü okul
++ 進学|しんがく|üst okula geçme
++ からには|からには|madem …, …dığına göre
++ 最後|さいご|son
++ 研究|けんきゅう|araştırma
++ 続ける|つづける|sürdürmek|続け
+3 最近{さいきん}、この地域{ちいき}では人口{じんこう}が減{へ}る（一方{いっぽう}だ）。
+= Son zaman-lar-da, bu bölge-de nüfus durmadan azal-ıyor.
++ 最近|さいきん|son zamanlarda
++ 地域|ちいき|bölge
++ 人口|じんこう|nüfus
++ 減る|へる|azalmak
++ 一方だ|いっぽうだ|durmadan …yor, gitgide …|一方だ
+4 このコースは、会話{かいわ}を中心{ちゅうしん}に勉強{べんきょう}したい学生{がくせい}（向{む}き）です。
+= Bu kurs, konuşma ağırlıklı çalış-mak iste-yen öğrenci-ler-e uygun.
++ 会話|かいわ|konuşma
++ 中心|ちゅうしん|merkez, ağırlık
++ 勉強|べんきょう|ders çalışma
++ 学生|がくせい|öğrenci
+5 一度{いちど}引{ひ}き受{う}けた（からには）、責任{せきにん}を持{も}って最後{さいご}までやるべきだ。
+= Madem bir kez üstlen-di-n, sorumluluk taşı-yarak son-a kadar yap-malı-sın.
++ 一度|いちど|bir kez
++ 引き受ける|ひきうける|üstlenmek|引き受け
++ 責任|せきにん|sorumluluk
++ 持つ|もつ|taşımak|持っ
+6 都市部{としぶ}では、住宅価格{じゅうたくかかく}が上{あ}がる（一方{いっぽう}だ）。
+= Kent-ler-de, konut fiyat-lar-ı durmadan yüksel-iyor.
++ 都市部|としぶ|kentsel alan
++ 住宅|じゅうたく|konut
++ 価格|かかく|fiyat
++ 上がる|あがる|yükselmek
+7 この靴{くつ}は長時間{ちょうじかん}歩{ある}く人{ひと}（向{む}きの）デザインになっている。
+= Bu ayakkabı uzun süre yürü-yen-ler-e uygun bir tasarım-da.
++ 靴|くつ|ayakkabı
++ 長時間|ちょうじかん|uzun süre
++ 歩く|あるく|yürümek
+8 日本{にほん}で働{はたら}く（からには）、日本{にほん}の職場文化{しょくばぶんか}についても理解{りかい}しておきたい。
+= Madem Japonya-da çalış-acağ-ım, Japon iş yeri kültür-ü-nü de anla-mak isti-yor-um.
++ 働く|はたらく|çalışmak
++ 職場|しょくば|iş yeri
++ 文化|ぶんか|kültür
++ 理解|りかい|anlama
+9 地球温暖化{ちきゅうおんだんか}によって、環境問題{かんきょうもんだい}はますます深刻{しんこく}になる（一方{いっぽう}だ）。
+= Küresel ısınma yüzün-den, çevre sorun-lar-ı gitgide ciddi-leş-iyor.
++ 地球温暖化|ちきゅうおんだんか|küresel ısınma
++ 環境|かんきょう|çevre
++ 問題|もんだい|sorun
++ 深刻|しんこく|ciddi, vahim
+10 この教材{きょうざい}は、漢字{かんじ}を初{はじ}めて学{まな}ぶ学生{がくせい}（向{む}けに）作{つく}られている。
+= Bu ders materyal-i, kanji-yi ilk kez öğren-en öğrenci-ler için hazırla-n-mış.
++ 教材|きょうざい|ders materyali
++ 漢字|かんじ|kanji
++ 学ぶ|まなぶ|öğrenmek
++ 作る|つくる|yapmak, hazırlamak|作られ
+11 この映画{えいが}は子{こ}ども（向{む}き）の内容{ないよう}なので、家族{かぞく}で楽{たの}しめる。
+= Bu film çocuk-lar-a uygun içerik-te ol-duğ-u için, aile-yle keyif-le izle-n-ebil-ir.
++ 映画|えいが|film
++ 子ども|こども|çocuk
++ 内容|ないよう|içerik
++ 家族|かぞく|aile
++ 楽しむ|たのしむ|keyif almak|楽しめる
+12 研究{けんきゅう}を始{はじ}めた（からには）、最後{さいご}まで自分{じぶん}の責任{せきにん}で取{と}り組{く}みたい。
+= Madem araştırma-ya başla-dı-m, son-a kadar kendi sorumluluğ-um-la üzerin-de çalış-mak isti-yor-um.
++ 始める|はじめる|başlamak|始め
++ 自分|じぶん|kendi
++ 取り組む|とりくむ|üzerinde çalışmak|取り組み
+13 最近{さいきん}、外国人観光客{がいこくじんかんこうきゃく}の数{かず}は増{ふ}える（一方{いっぽう}だ）。
+= Son zaman-lar-da, yabancı turist-ler-in sayı-sı durmadan art-ıyor.
++ 外国人|がいこくじん|yabancı
++ 観光客|かんこうきゃく|turist
++ 数|かず|sayı
++ 増える|ふえる|artmak
+14 この講座{こうざ}は、日本語{にほんご}を仕事{しごと}で使{つか}う人{ひと}（向{む}き）に設計{せっけい}されている。
+= Bu kurs, Japonca-yı iş-te kullan-an-lar-a uygun olarak tasarla-n-mış.
++ 講座|こうざ|kurs
++ 日本語|にほんご|Japonca
++ 仕事|しごと|iş
++ 使う|つかう|kullanmak
++ 設計|せっけい|tasarım
+15 学生{がくせい}を指導{しどう}する（からには）、自分自身{じぶんじしん}も常{つね}に勉強{べんきょう}し続{つづ}けなければならない。
+= Madem öğrenci-ler-e rehberlik ed-iyor-um, kendi-m de sürekli öğren-me-ye devam et-mem gerek.
++ 指導|しどう|rehberlik, yol gösterme
++ 自身|じしん|kendisi
++ 常に|つねに|her zaman, sürekli
+16 高齢化{こうれいか}が進{すす}むにつれて、社会保障費{しゃかいほしょうひ}は増{ふ}える（一方{いっぽう}だ）。
+= Toplum yaşlan-dıkça, sosyal güvenlik harcama-lar-ı durmadan art-ıyor.
++ 高齢化|こうれいか|toplumun yaşlanması
++ 進む|すすむ|ilerlemek
++ 社会保障費|しゃかいほしょうひ|sosyal güvenlik harcamaları
+17 このカメラは操作{そうさ}が簡単{かんたん}なので、初心者{しょしんしゃ}（向{む}き）だと思{おも}う。
+= Bu fotoğraf makine-si-nin kullanım-ı kolay ol-duğ-u için, yeni başlayan-lar-a uygun diye düşün-üyor-um.
++ 操作|そうさ|kullanım, işletim
++ 簡単|かんたん|kolay
++ 初心者|しょしんしゃ|yeni başlayan
++ 思う|おもう|düşünmek
+18 国際学会{こくさいがっかい}で発表{はっぴょう}する（からには）、十分{じゅうぶん}な準備{じゅんび}をしておきたい。
+= Madem uluslararası kongre-de sunum yap-acağ-ım, yeterli hazırlık yap-mak isti-yor-um.
++ 国際|こくさい|uluslararası
++ 学会|がっかい|bilimsel kongre
++ 発表|はっぴょう|sunum
++ 十分|じゅうぶん|yeterli
++ 準備|じゅんび|hazırlık
+19 SNSの利用者{りようしゃ}は今後{こんご}も増{ふ}える（一方{いっぽう}だ）と予想{よそう}されている。
+= Sosyal medya kullanıcı-lar-ı-nın bundan sonra da durmadan art-acağ-ı tahmin ed-il-iyor.
++ 利用者|りようしゃ|kullanıcı
++ 今後|こんご|bundan sonra
++ 予想|よそう|tahmin
+20 この教材{きょうざい}は、日本語能力試験{にほんごのうりょくしけん}N3を目指{めざ}す学生{がくせい}（向{む}き）です。
+= Bu ders materyal-i, Japonca Yeterlilik Sınav-ı N3-ü hedefle-yen öğrenci-ler-e uygun.
++ 能力|のうりょく|yeterlilik, yetenek
++ 試験|しけん|sınav
++ 目指す|めざす|hedeflemek
+21 自分{じぶん}で研究{けんきゅう}テーマを決{き}めた（からには）、必要{ひつよう}な資料{しりょう}を集{あつ}め、最後{さいご}まで責任{せきにん}を持{も}って研究{けんきゅう}を完成{かんせい}させるべきだ。
+= Madem araştırma konu-n-u kendi-n seç-ti-n, gerekli belge-ler-i topla-yıp, son-a kadar sorumluluk taşı-yarak araştırma-yı tamamla-malı-sın.
++ 決める|きめる|belirlemek|決め
++ 必要|ひつよう|gerekli
++ 資料|しりょう|belge
++ 集める|あつめる|toplamak|集め
++ 完成|かんせい|tamamlama
+22 若者{わかもの}の都市部{としぶ}への流出{りゅうしゅつ}が続{つづ}けば、地方{ちほう}の人口{じんこう}は減少{げんしょう}する（一方{いっぽう}だ）。
+= Genç-ler-in kent-ler-e akın-ı sür-er-se, taşra-nın nüfus-u durmadan azal-ır.
++ 若者|わかもの|genç
++ 流出|りゅうしゅつ|dışarı akış, göç
++ 続く|つづく|sürmek|続け
++ 地方|ちほう|taşra, bölge
++ 減少|げんしょう|azalma
+23 この本{ほん}は専門的{せんもんてき}な知識{ちしき}がなくても読{よ}めるため、大学生{だいがくせい}（向{む}き）の入門書{にゅうもんしょ}と言{い}える。
+= Bu kitap uzmanlık bilgi-si olmadan da oku-n-abil-diğ-i için, üniversite öğrenci-ler-i-ne uygun bir giriş kitab-ı denebilir.
++ 本|ほん|kitap
++ 専門的|せんもんてき|uzmanlık düzeyinde
++ 知識|ちしき|bilgi
++ 読む|よむ|okumak|読め
++ 大学生|だいがくせい|üniversite öğrencisi
++ 入門書|にゅうもんしょ|giriş kitabı
++ 言う|いう|söylemek|言える
+24 海外{かいがい}で研究活動{けんきゅうかつどう}を行{おこな}う（からには）、現地{げんち}の研究者{けんきゅうしゃ}との交流{こうりゅう}も積極的{せっきょくてき}に行{おこな}いたい。
+= Madem yurt dışı-nda araştırma faaliyet-i yürüt-eceğ-im, yerel araştırmacı-lar-la etkileşim-i de aktif-çe yap-mak isti-yor-um.
++ 海外|かいがい|yurt dışı
++ 活動|かつどう|faaliyet
++ 行う|おこなう|yapmak, yürütmek
++ 現地|げんち|yerel, yerinde
++ 研究者|けんきゅうしゃ|araştırmacı
++ 交流|こうりゅう|etkileşim
++ 積極的|せっきょくてき|aktif, girişken
+25 近年{きんねん}、オンラインで提供{ていきょう}される教育{きょういく}サービスは増{ふ}える（一方{いっぽう}）で、従来{じゅうらい}の教育方法{きょういくほうほう}にも変化{へんか}が求{もと}められている。
+= Son yıl-lar-da, çevrim içi sun-ul-an eğitim hizmet-ler-i durmadan art-ıyor ve geleneksel eğitim yöntem-ler-i-nde de değişim talep ed-il-iyor.
++ 近年|きんねん|son yıllar
++ 提供|ていきょう|sunma
++ 教育|きょういく|eğitim
++ 従来|じゅうらい|geleneksel, şimdiye kadarki
++ 方法|ほうほう|yöntem
++ 変化|へんか|değişim
++ 求める|もとめる|talep etmek|求められ

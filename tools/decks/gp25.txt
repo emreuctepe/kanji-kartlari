@@ -1,0 +1,138 @@
+// 練習問題：～までもない・～ば～それまでだ・～っけ (練習.pdf s.102–105)
+@ gp25 2年文法 25 | までもない・ばそれまでだ・っけ
+1 彼{かれ}がこの分野{ぶんや}の専門家{せんもんか}であることは、説明{せつめい}する（までもない）。
+= O-nun bu alan-ın uzman-ı ol-duğ-u-nu, açıkla-ma-ya bile gerek yok.
++ 彼|かれ|o (erkek)
++ 分野|ぶんや|alan
++ 専門家|せんもんか|uzman
++ 説明|せつめい|açıklama
++ までもない|までもない|…meye bile gerek yok
+2 どんなに準備{じゅんび}しても、本番{ほんばん}で緊張{きんちょう}して何{なに}もできなけれ（ばそれまでだ）。
+= Ne kadar hazırlan-sa-n da, asıl an-da heyecan-lan-ıp hiçbir şey yap-a-ma-z-san, her şey biter.
++ 準備|じゅんび|hazırlık
++ 本番|ほんばん|asıl gösteri, gerçek an
++ 緊張|きんちょう|heyecan, gerginlik
++ ばそれまでだ|ばそれまでだ|…sa her şey boşa gider, …sa o kadar
+3 明日{あした}の会議{かいぎ}は午後{ごご}2時{じ}からだ（っけ）。
+= Yarın-ki toplantı öğleden sonra saat 2-de miy-di?
++ 明日|あした|yarın
++ 会議|かいぎ|toplantı
++ 午後|ごご|öğleden sonra
++ 時|じ|saat
++ っけ|っけ|…mıydı? (hatırlamaya çalışma)
+4 この程度{ていど}の問題{もんだい}なら、専門家{せんもんか}に相談{そうだん}する（までもない）。
+= Bu düzey-de bir sorun-sa, uzman-a danış-ma-ya bile gerek yok.
++ 程度|ていど|düzey, derece
++ 問題|もんだい|sorun
++ 相談|そうだん|danışma
+5 いくら高価{こうか}な資料{しりょう}を集{あつ}めても、研究{けんきゅう}に生{い}かさなけれ（ばそれまでだ）。
+= Ne kadar pahalı belge-ler topla-sa-n da, araştırma-da kullan-ma-z-san hepsi boşa gider.
++ 高価|こうか|pahalı, değerli
++ 資料|しりょう|belge
++ 集める|あつめる|toplamak|集め
++ 研究|けんきゅう|araştırma
++ 生かす|いかす|değerlendirmek, kullanmak|生かさ
+6 田中{たなか}先生{せんせい}って、去年{きょねん}まで京都大学{きょうとだいがく}にいたんだ（っけ）。
+= Tanaka Hoca, geçen yıl-a kadar Kyoto Üniversite-si-nde miy-di?
++ 田中|たなか|Tanaka (soyadı)
++ 先生|せんせい|öğretmen, hoca
++ 去年|きょねん|geçen yıl
++ 京都大学|きょうとだいがく|Kyoto Üniversitesi
+7 彼{かれ}の努力{どりょく}がすばらしいことは、改{あらた}めて言{い}う（までもない）。
+= O-nun çaba-sı-nın harika ol-duğ-u-nu, yeniden söyle-me-ye gerek yok.
++ 努力|どりょく|çaba
++ 改めて|あらためて|yeniden
++ 言う|いう|söylemek
+8 一度{いちど}信頼{しんらい}を失{うしな}え（ば）、取{と}り戻{もど}すのは簡単{かんたん}ではない。
+= Bir kez güven-i kaybed-er-sen, geri kazan-mak kolay değil.
++ 一度|いちど|bir kez
++ 信頼|しんらい|güven
++ 失う|うしなう|kaybetmek|失え
++ 取り戻す|とりもどす|geri kazanmak
++ 簡単|かんたん|kolay
+9 この書類{しょるい}、どこに提出{ていしゅつ}するんだ（っけ）。
+= Bu belge-yi nere-ye teslim ed-iyor-du-k?
++ 書類|しょるい|belge, evrak
++ 提出|ていしゅつ|teslim
+10 そんな簡単{かんたん}なことは、わざわざ説明{せつめい}する（までもない）。
+= Öyle basit bir şey-i, zahmet edip açıkla-ma-ya gerek yok.
+11 この研究{けんきゅう}が長期間{ちょうきかん}にわたって行{おこな}われたことは、今{いま}さら説明{せつめい}する（までもない）。
+= Bu araştırma-nın uzun süre boyunca yap-ıl-dığ-ı-nı, şimdi açıkla-ma-ya gerek yok.
++ 長期間|ちょうきかん|uzun süre
++ 行う|おこなう|yapmak|行われ
++ 今さら|いまさら|şimdi (iş işten geçmişken)
+12 いくら知識{ちしき}があっても、それを実際{じっさい}に使{つか}わなけれ（ばそれまでだ）。
+= Ne kadar bilgi-n ol-sa da, onu gerçekten kullan-ma-z-san her şey boşa gider.
++ 知識|ちしき|bilgi
++ 実際|じっさい|gerçekten, fiilen
++ 使う|つかう|kullanmak|使わ
+13 「この資料{しりょう}、前{まえ}に読{よ}んだ（っけ）？」「うん、たしか去年{きょねん}読{よ}んだと思{おも}う。」
+= “Bu belge-yi daha önce oku-muş muy-du-k?” “Evet, galiba geçen yıl oku-du-k.”
++ 前|まえ|önce
++ 読む|よむ|okumak|読ん
++ 思う|おもう|düşünmek
+14 彼{かれ}が優{すぐ}れた研究者{けんきゅうしゃ}であることは、論文{ろんぶん}を読{よ}む（までもない）。
+= O-nun üstün bir araştırmacı ol-duğ-u-nu anla-mak için makale-ler-i-ni oku-ma-ya bile gerek yok.
++ 優れる|すぐれる|üstün olmak|優れ
++ 研究者|けんきゅうしゃ|araştırmacı
++ 論文|ろんぶん|makale, tez
+15 どれだけ計画{けいかく}を立{た}てても、実行{じっこう}しなけれ（ばそれまでだ）。
+= Ne kadar plan yap-sa-n da, uygula-ma-z-san her şey boşa gider.
++ 計画|けいかく|plan
++ 立てる|たてる|kurmak (plan)|立て
++ 実行|じっこう|uygulama
+16 「会議{かいぎ}は何時{なんじ}からだ（っけ）？」「10時{じ}からですよ。」
+= “Toplantı saat kaç-ta-y-dı?” “Saat 10-da.”
++ 何時|なんじ|saat kaç
+17 この程度{ていど}のミスについては、わざわざ上司{じょうし}に報告{ほうこく}する（までもない）。
+= Bu düzey-de bir hata için, zahmet edip amir-e bildir-me-ye gerek yok.
++ 上司|じょうし|amir
++ 報告|ほうこく|bildirme, rapor
+18 どんなに良{よ}いアイデアでも、実現{じつげん}できなけれ（ばそれまでだ）。
+= Ne kadar iyi bir fikir ol-sa da, gerçekleştir-e-me-z-sen o kadar.
++ 良い|よい|iyi
++ 実現|じつげん|gerçekleştirme
+19 「この本{ほん}、誰{だれ}から借{か}りたんだ（っけ）？」「佐藤{さとう}さんじゃなかった？」
+= “Bu kitab-ı kim-den ödünç al-mış-tı-k?” “Satō değil miy-di?”
++ 本|ほん|kitap
++ 誰|だれ|kim
++ 借りる|かりる|ödünç almak|借り
++ 佐藤|さとう|Satō (soyadı)
+20 その事実{じじつ}については、今{いま}さら調査{ちょうさ}する（までもない）。すでに十分{じゅうぶん}な証拠{しょうこ}がある。
+= O gerçek hakkında, şimdi araştır-ma-ya gerek yok. Zaten yeterli kanıt var.
++ 事実|じじつ|gerçek
++ 調査|ちょうさ|araştırma
++ 十分|じゅうぶん|yeterli
++ 証拠|しょうこ|kanıt
+21 どれほど立派{りっぱ}な理念{りねん}を掲{かか}げても、それを実践{じっせん}する人{ひと}がいなけれ（ばそれまでだ）。
+= Ne kadar yüce bir ilke ortaya koy-sa-n da, onu uygula-yan kimse yok-sa her şey boşa gider.
++ 立派|りっぱ|görkemli, yüce
++ 理念|りねん|ilke, ideal
++ 掲げる|かかげる|ortaya koymak, öne sürmek|掲げ
++ 実践|じっせん|uygulama, pratik
++ 人|ひと|kişi
+22 その歴史的事実{れきしてきじじつ}については、専門家{せんもんか}の間{あいだ}ではすでに広{ひろ}く知{し}られているため、ここで詳{くわ}しく説明{せつめい}する（までもない）。
+= O tarihî gerçek, uzman-lar arasında zaten geniş-çe bil-in-diğ-i için, burada ayrıntılı açıkla-ma-ya gerek yok.
++ 歴史的|れきしてき|tarihî
++ 間|あいだ|arasında
++ 広い|ひろい|geniş|広く
++ 知る|しる|bilmek|知られ
++ 詳しい|くわしい|ayrıntılı|詳しく
+23 「この論文{ろんぶん}、たしか去年{きょねん}の学会{がっかい}で発表{はっぴょう}されたものだ（っけ）？」「そうです。確{たし}か秋{あき}の大会{たいかい}でした。」
+= “Bu makale, galiba geçen yıl-ki kongre-de sun-ul-an-dı, değil mi?” “Evet. Sanırım sonbahar toplantı-sı-ydı.”
++ 学会|がっかい|bilimsel kongre, dernek
++ 発表|はっぴょう|sunum
++ 確か|たしか|galiba, sanırım
++ 秋|あき|sonbahar
++ 大会|たいかい|büyük toplantı, kongre
+24 研究方法{けんきゅうほうほう}がどれほど精密{せいみつ}でも、一次資料{いちじしりょう}そのものに誤{あやま}りがあれ（ばそれまでだ）。
+= Araştırma yöntem-i ne kadar titiz ol-sa da, birincil kaynak-ın kendi-si-nde hata var-sa her şey boşa gider.
++ 方法|ほうほう|yöntem
++ 精密|せいみつ|hassas, titiz
++ 一次資料|いちじしりょう|birincil kaynak
++ 誤り|あやまり|hata
+25 失敗{しっぱい}を恐{おそ}れて何{なに}もしなければ、どれほど能力{のうりょく}があっても（それまでだ）。
+= Başarısızlık-tan kork-up hiçbir şey yap-ma-z-san, ne kadar yetenek-li ol-sa-n da o kadar.
++ 失敗|しっぱい|başarısızlık
++ 恐れる|おそれる|korkmak|恐れ
++ 能力|のうりょく|yetenek

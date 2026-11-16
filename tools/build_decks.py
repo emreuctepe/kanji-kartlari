@@ -2,7 +2,7 @@
 """tools/decks/*.txt kaynaklarından desteleri derleyip data/decks.js'e ekler (aynı id varsa yerine koyar).
 
 Kaynak biçimi:
-  @ 14 第14回                      deste: id ve başlık
+  @ 14 第14回                      deste: id ve başlık (@ gp10 2年文法 10 | とたん・しかない・がち → konu satırı p)
   1 先週{せんしゅう}ある会社{かいしゃ}…   cümle; 漢字{よみ} = furigana (okunuş, hemen önündeki kanji dizisine ait)
   = Türkçe çeviri
   + 受ける|うける|almak; girmek|受け   kelime: sözlük biçimi|okunuş|anlam|cümledeki yazılışı (yoksa sözlük biçimi)
@@ -50,7 +50,10 @@ def build(path):
         try:
             if line.startswith('@ '):
                 _, did, title = line.split(' ', 2)
-                d = {'id': did, 'title': title, 'sents': [], 'words': [], '_w': {}}
+                d = {'id': did, 'title': title}
+                if ' | ' in title:
+                    d['title'], d['p'] = [x.strip() for x in title.split(' | ', 1)]
+                d.update({'sents': [], 'words': [], '_w': {}})
                 decks.append(d)
             elif line.startswith('= '):
                 s['t'] = line[2:].strip()

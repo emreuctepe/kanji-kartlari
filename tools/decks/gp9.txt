@@ -1,0 +1,188 @@
+@ gp9 2年文法 9 | きる・っぽい・次第
+1 木村{きむら}さんは疲{つか}れきった顔{かお}で帰{かえ}ってきた。
+= Kimura bitkin bir yüz-le dön-üp gel-di.
++ 木村|きむら|Kimura (soyadı)
++ 疲れきる|つかれきる|bitkin düşmek|疲れきっ
++ 顔|かお|yüz
++ 帰る|かえる|dönmek (eve)|帰っ
+2 そんなにたくさん食{た}べきれますか。
+= O kadar çok şey-i bitir-ebil-ir mi-sin.
++ 食べきる|たべきる|yiyip bitirmek|食べきれ
+3 数{かぞ}えきれないほどたくさんの星{ほし}が光{ひか}っている。
+= Say-ıl-a-ma-yacak kadar çok yıldız parlı-yor.
++ 数えきれない|かぞえきれない|sayısız
++ 星|ほし|yıldız
++ 光る|ひかる|parlamak|光っ
+4 お金{かね}を使{つか}いきってしまった。
+= Para-yı harca-yıp tüket-ti-m.
++ お金|おかね|para
++ 使いきる|つかいきる|tüketmek, bitirmek|使いきっ
+5 あなたに対{たい}する愛{あい}は、そんなに簡単{かんたん}に言{い}い切{き}れるものではありません。
+= Sana karşı aşk-ım, o kadar kolay-ca söyle-yip bitir-il-ecek bir şey değil.
++ 対する|たいする|…e karşı, …e yönelik
++ 愛|あい|aşk, sevgi
++ 簡単|かんたん|kolay, basit
++ 言い切る|いいきる|kesin olarak söylemek; söyleyip bitirmek|言い切れる
+6 母{はは}は買{か}い物{もの}に行{い}くと、いつも手{て}に持{も}ちきれないほどたくさんの荷物{にもつ}を抱{かか}えて帰{かえ}ってくる。
+= Anne-m alışveriş-e gid-ince, her zaman el-ler-i-yle taşı-ya-ma-yacak kadar çok paket-le dön-üp gel-ir.
++ 帰る|かえる|dönmek (eve)|帰っ
++ 母|はは|(benim) annem
++ 買い物|かいもの|alışveriş
++ 行く|いく|gitmek
++ 手|て|el
++ 持ちきれない|もちきれない|taşıyamayacak kadar
++ 荷物|にもつ|eşya, paket
++ 抱える|かかえる|kucaklamak, (elinde) taşımak|抱え
+7 慎重{しんちょう}な彼{かれ}が「絶対{ぜったい}にやれる」と言{い}いきったのだから、相当{そうとう}の自信{じしん}があるだろう。
+= Temkin-li o “kesinlikle yap-abil-ir-im” diye kesin-ce söyle-diğ-i-ne göre, epey kendi-ne güven-i var-dır herhâlde.
++ 言い切る|いいきる|kesin olarak söylemek; söyleyip bitirmek|言いきっ
++ 慎重|しんちょう|temkinli, dikkatli
++ 彼|かれ|o (erkek)
++ 絶対に|ぜったいに|kesinlikle
++ 相当|そうとう|epey, oldukça
++ 自信|じしん|kendine güven
+8 あのゲームは人気{にんき}があるらしくて、発売{はつばい}と同時{どうじ}に売{う}り切{き}れてしまった。
+= O oyun popüler gibi, satış-a çık-ar çıkmaz tüken-di.
++ 人気|にんき|popülerlik, rağbet
++ 発売|はつばい|satışa çıkma
++ 同時|どうじ|aynı anda
++ 売り切れる|うりきれる|tükenmek (satışta)|売り切れ
+// 練習問題：～きる・～っぽい・～次第 (練習.pdf s.37–40)
+9 途中{とちゅう}であきらめずに、最後{さいご}までやり（きる）ことが大切{たいせつ}です。
+= Yarı yol-da vazgeç-meden, son-a kadar yap-ıp bitir-mek önemli-dir.
++ 途中|とちゅう|yarı yol, yolun ortası
++ 最後|さいご|son
++ 大切|たいせつ|önemli, değerli
+10 この量{りょう}の料理{りょうり}は、一人{ひとり}では食{た}べ（きれない）。
+= Bu miktar-da-ki yemek, tek kişi-yle yi-yip bitir-il-e-mez.
++ 量|りょう|miktar
++ 料理|りょうり|yemek, aşçılık
++ 一人|ひとり|bir kişi, tek başına
++ 食べきる|たべきる|yiyip bitirmek|食べ
+11 詳{くわ}しい情報{じょうほう}が分{わ}かり（次第{しだい}）、改{あらた}めてお知{し}らせします。
+= Ayrıntılı bilgi öğren-il-ir öğren-il-mez, yeniden bildir-ir-im.
++ 詳しい|くわしい|ayrıntılı
++ 情報|じょうほう|bilgi, haber
++ 分かる|わかる|anlamak; belli olmak|分かり
++ 次第|しだい|…r …mez; …e bağlı
++ 改めて|あらためて|yeniden, tekrar
++ お知らせ|おしらせ|bildirim, duyuru
+12 彼{かれ}は少{すこ}し子{こ}ども（っぽい）ところがあるが、とても責任感{せきにんかん}が強{つよ}い。
+= O biraz çocuksu bir yan-ı var ama, sorumluluk duygu-su çok güçlü.
++ 彼|かれ|o (erkek)
++ 少し|すこし|biraz
++ 子ども|こども|çocuk
++ 責任感|せきにんかん|sorumluluk duygusu
++ 強い|つよい|güçlü, kuvvetli
+13 この仕事{しごと}を今日中{きょうじゅう}に終{お}わらせ（きる）つもりです。
+= Bu iş-i bugün için-de tamamen bitir-me-yi düşün-üyor-um.
++ 仕事|しごと|iş
++ 今日中|きょうじゅう|bugün içinde
++ 終わらせる|おわらせる|bitirmek|終わらせ
+14 合格{ごうかく}できるかどうかは、最後{さいご}までどれだけ努力{どりょく}するか（次第{しだい}）だ。
+= Geç-ip geç-e-me-yeceğ-in, son-a kadar ne kadar çaba göster-eceğ-in-e bağlı.
++ 合格|ごうかく|sınavı geçme, kazanma
++ 努力|どりょく|çaba, emek
+15 この服{ふく}はデザインはいいけれど、少{すこ}し安{やす}（っぽい）感{かん}じがする。
+= Bu kıyafet-in tasarım-ı iyi ama, biraz ucuz görün-üyor gibi his-sed-iyor.
++ 服|ふく|giysi, kıyafet
++ 安っぽい|やすっぽい|ucuz görünen, kalitesiz|安
++ 感じ|かんじ|his, izlenim
+16 新{あたら}しい担当者{たんとうしゃ}が決{き}まり（次第{しだい}）、こちらからご連絡{れんらく}いたします。
+= Yeni sorumlu kişi belli ol-ur ol-maz, biz-den size haber ver-ir-iz.
++ 新しい|あたらしい|yeni
++ 担当者|たんとうしゃ|sorumlu kişi, yetkili
++ 決まる|きまる|kararlaşmak, belli olmak|決まり
++ 連絡|れんらく|haber verme, iletişim
+17 年{とし}を取{と}ると、だんだん忘{わす}れ（っぽく）なってくる人{ひと}もいる。
+= Yaş-lan-ınca, gitgide unutkan ol-an insan-lar da var.
++ 年を取る|としをとる|yaşlanmak|年を取
++ 忘れっぽい|わすれっぽい|unutkan|忘れ
++ 人|ひと|insan, kişi
+18 明日{あした}の試合{しあい}は、天気{てんき}（次第{しだい}）では中止{ちゅうし}になる可能性{かのうせい}があります。
+= Yarın-ki maç, hava-ya bağlı olarak iptal ed-il-me ihtimal-i var.
++ 明日|あした|yarın
++ 試合|しあい|maç, karşılaşma
++ 天気|てんき|hava (durumu)
++ 中止|ちゅうし|iptal, durdurma
++ 可能性|かのうせい|ihtimal, olasılık
+19 長{なが}い研究{けんきゅう}の結果{けっか}、ようやく論文{ろんぶん}を書{か}き（きる）ことができた。
+= Uzun araştırma-nın sonuc-u-nda, nihayet tez-i yaz-ıp bitir-ebil-di-m.
++ 長い|ながい|uzun
++ 研究|けんきゅう|araştırma
++ 結果|けっか|sonuç
++ 論文|ろんぶん|makale, tez
++ 書く|かく|yazmak|書き
+20 資料{しりょう}がそろい（次第{しだい}）、会議{かいぎ}の日程{にってい}を決{き}めます。
+= Belge-ler tamamlan-ır tamamlan-maz, toplantı-nın tarih-i-ni belirle-r-iz.
++ 資料|しりょう|belge, doküman
++ 会議|かいぎ|toplantı
++ 日程|にってい|program, tarih
++ 決める|きめる|karar vermek, belirlemek|決め
+21 彼{かれ}は何{なん}でもすぐに忘{わす}れ（っぽい）ので、重要{じゅうよう}なことはメモしておいたほうがいい。
+= O her şey-i hemen unut-ur, o yüzden önemli şey-ler-i not al-ıp bırak-mak iyi ol-ur.
++ 忘れっぽい|わすれっぽい|unutkan|忘れ
++ 重要|じゅうよう|önemli
+22 今回{こんかい}の計画{けいかく}が成功{せいこう}するかどうかは、参加者{さんかしゃ}の協力{きょうりょく}（次第{しだい}）だ。
+= Bu sefer-ki plan-ın başarılı ol-up ol-ma-yacağ-ı, katılımcı-lar-ın iş birliğ-i-ne bağlı.
++ 今回|こんかい|bu sefer, bu kez
++ 計画|けいかく|plan
++ 成功|せいこう|başarı
++ 参加者|さんかしゃ|katılımcı
++ 協力|きょうりょく|iş birliği, yardım
+23 こんなにたくさんの仕事{しごと}を一人{ひとり}でやり（きる）のは無理{むり}だ。
+= Bu kadar çok iş-i tek başına yap-ıp bitir-mek imkânsız.
++ 無理|むり|imkânsız, zor
+24 この時計{とけい}は高級{こうきゅう}ブランドの商品{しょうひん}なのに、少{すこ}し安{やす}（っぽく）見{み}える。
+= Bu saat lüks marka-nın ürün-ü ol-duğ-u halde, biraz ucuz görün-üyor.
++ 時計|とけい|saat
++ 高級|こうきゅう|lüks, yüksek kaliteli
++ 商品|しょうひん|ürün, mal
++ 見える|みえる|görünmek|見え
+25 新{あたら}しい情報{じょうほう}が入{はい}り（次第{しだい}）、すぐにニュースでお伝{つた}えします。
+= Yeni bilgi gel-ir gel-mez, hemen haber-ler-de bildir-ir-iz.
++ 入る|はいる|girmek; (haber) gelmek|入り
++ 伝える|つたえる|iletmek, bildirmek|伝え
+26 彼女{かのじょ}は大人{おとな}なのに、話{はな}し方{かた}が少{すこ}し子{こ}ども（っぽい）。
+= O (kadın) yetişkin ol-duğ-u halde, konuş-ma biçim-i biraz çocuksu.
++ 彼女|かのじょ|o (kadın)
++ 大人|おとな|yetişkin
++ 話し方|はなしかた|konuşma tarzı
+27 この問題{もんだい}については、調査{ちょうさ}の結果{けっか}（次第{しだい}で）、今後{こんご}の対応{たいおう}を決{き}める予定{よてい}です。
+= Bu sorun hakkında, araştırma-nın sonuc-u-na göre, bundan sonra-ki tutum-u belirle-me-yi planlı-yor-uz.
++ 問題|もんだい|sorun, problem
++ 調査|ちょうさ|araştırma, inceleme
++ 今後|こんご|bundan sonra, ileride
++ 対応|たいおう|karşılık verme, tutum, önlem
++ 予定|よてい|plan, program
+28 一度{いちど}始{はじ}めた仕事{しごと}は、最後{さいご}までやり（きった）ほうがいい。
+= Bir kez başla-dığ-ın iş-i, son-a kadar yap-ıp bitir-mek daha iyi.
++ 一度|いちど|bir kez
++ 始める|はじめる|başlamak|始め
+29 今回{こんかい}の交渉{こうしょう}がうまくいくかどうかは、双方{そうほう}がどこまで譲歩{じょうほ}できるか（次第{しだい}）だ。
+= Bu sefer-ki müzakere-nin iyi git-ip git-me-yeceğ-i, iki taraf-ın ne kadar taviz ver-ebil-eceğ-in-e bağlı.
++ 交渉|こうしょう|müzakere, pazarlık
++ 双方|そうほう|iki taraf
++ 譲歩|じょうほ|taviz, uzlaşma
+30 担当者{たんとうしゃ}から詳{くわ}しい説明{せつめい}を聞{き}き（次第{しだい}）、今後{こんご}の対応{たいおう}について判断{はんだん}したいと思{おも}います。
+= Sorumlu kişi-den ayrıntılı açıklama-yı dinle-r dinle-mez, bundan sonra-ki tutum hakkında karar ver-mek isti-yor-um.
++ 説明|せつめい|açıklama
++ 聞く|きく|dinlemek, duymak; sormak|聞き
++ 判断|はんだん|karar, yargı
++ 思う|おもう|düşünmek, sanmak|思い
+31 彼{かれ}は何事{なにごと}にもあきらめ（ない）性格{せいかく}なので、難{むずか}しい仕事{しごと}でも最後{さいご}まで続{つづ}ける。
+= O hiçbir şey-de vazgeç-me-yen bir karakter ol-duğ-u için, zor iş-ler-i bile son-a kadar sürdür-ür.
++ 何事|なにごと|her şey, hiçbir şey
++ 性格|せいかく|karakter, mizaç
++ 難しい|むずかしい|zor
++ 続ける|つづける|sürdürmek, devam etmek|続け
+32 このプロジェクトは予算{よさん}が限{かぎ}られている（うえに）、予定{よてい}どおりに進{すす}めるのは難{むずか}しいかもしれない。
+= Bu proje-nin bütçe-si sınırlı, üstelik plan-a uygun ilerlet-mek zor ol-abil-ir.
++ 予算|よさん|bütçe
++ 限る|かぎる|sınırlamak|限られ
++ 進める|すすめる|ilerletmek, yürütmek|進め
+33 「この仕事{しごと}、今日中{きょうじゅう}に終{お}わりそう？」「うん。あと少{すこ}しだから、何{なん}とか今日中{きょうじゅう}にやり（きる）よ。終{お}わり（次第{しだい}）、すぐに報告{ほうこく}する。」
+= “Bu iş bugün için-de bit-ecek gibi mi?” “Evet. Az kal-dı, bir şekil-de bugün için-de yap-ıp bitir-ir-im. Bit-er bit-mez, hemen haber ver-ir-im.”
++ 終わる|おわる|bitmek|終わり
++ 何とか|なんとか|bir şekilde, her nasılsa
++ 報告|ほうこく|rapor, bildirme

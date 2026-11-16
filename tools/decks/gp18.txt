@@ -1,0 +1,156 @@
+// 練習問題：～ことに・～くせに・～を問わず (練習.pdf s.74–77)
+@ gp18 2年文法 18 | ことに・くせに・を問わず
+1 驚{おどろ}いた（ことに）、彼{かれ}はわずか一週間{いっしゅうかん}で論文{ろんぶん}を書{か}き上{あ}げた。
+= Şaşırtıcı bir şekil-de, o sadece bir hafta-da tez-i yaz-ıp bitir-di.
++ 驚く|おどろく|şaşırmak|驚い
++ ことに|ことに|…dır ki (duygu: ne şaşırtıcı ki…)
++ 彼|かれ|o (erkek)
++ 一週間|いっしゅうかん|bir hafta
++ 論文|ろんぶん|makale, tez
++ 書き上げる|かきあげる|yazıp bitirmek|書き上げ
+2 この仕事{しごと}は年齢{ねんれい}（を問{と}わず）、誰{だれ}でも応募{おうぼ}することができる。
+= Bu iş-e yaş fark etmeksizin, herkes başvur-abil-ir.
++ 仕事|しごと|iş
++ 年齢|ねんれい|yaş
++ を問わず|をとわず|…fark etmeksizin, …gözetmeksizin|問わず
++ 誰でも|だれでも|herkes
++ 応募|おうぼ|başvuru
+3 彼{かれ}は何{なに}も知{し}らない（くせに）、専門家{せんもんか}のように話{はな}している。
+= O hiçbir şey bil-me-diğ-i halde, uzman gibi konuş-uyor.
++ 知る|しる|bilmek|知ら
++ くせに|くせに|…dığı halde (kınama)
++ 専門家|せんもんか|uzman
++ 話す|はなす|konuşmak|話し
+4 残念{ざんねん}な（ことに）、予定{よてい}していた研究会{けんきゅうかい}は中止{ちゅうし}になった。
+= Ne yazık ki, planla-dığ-ımız araştırma toplantı-sı iptal ol-du.
++ 残念|ざんねん|ne yazık, üzücü
++ 予定|よてい|plan
++ 研究会|けんきゅうかい|araştırma toplantısı, seminer
++ 中止|ちゅうし|iptal
+5 このイベントには、国籍{こくせき}（を問{と}わず）多{おお}くの人{ひと}が参加{さんか}している。
+= Bu etkinliğ-e, uyruk fark etmeksizin çok insan katıl-ıyor.
++ 国籍|こくせき|uyruk, vatandaşlık
++ 多く|おおく|çok
++ 人|ひと|insan
++ 参加|さんか|katılma
+6 彼女{かのじょ}は約束{やくそく}した（くせに）、まだ何{なん}の連絡{れんらく}もしてこない。
+= O (kadın) söz ver-diğ-i halde, hâlâ hiç haber ver-me-di.
++ 彼女|かのじょ|o (kadın)
++ 約束|やくそく|söz
++ 連絡|れんらく|haber
+7 嬉{うれ}しい（ことに）、研究成果{けんきゅうせいか}が高{たか}く評価{ひょうか}された。
+= Sevindirici-dir ki, araştırma sonuç-lar-ım yüksek değerlendir-il-di.
++ 嬉しい|うれしい|sevindirici, mutlu
++ 研究|けんきゅう|araştırma
++ 成果|せいか|sonuç, başarı
++ 高い|たかい|yüksek|高く
++ 評価|ひょうか|değerlendirme
+8 経験{けいけん}の有無{うむ}（を問{と}わず）、この仕事{しごと}に応募{おうぼ}できます。
+= Deneyim-in ol-up ol-ma-ma-sı fark etmeksizin, bu iş-e başvur-abil-ir-siniz.
++ 経験|けいけん|deneyim
++ 有無|うむ|var olup olmaması
+9 あの学生{がくせい}はまだ一年生{いちねんせい}の（くせに）、先生{せんせい}に対{たい}して失礼{しつれい}な態度{たいど}をとる。
+= O öğrenci daha birinci sınıf ol-duğ-u halde, öğretmen-e karşı kaba davran-ır.
++ 学生|がくせい|öğrenci
++ 一年生|いちねんせい|birinci sınıf öğrencisi
++ 先生|せんせい|öğretmen
++ 対する|たいする|…e karşı|対し
++ 失礼|しつれい|kaba, saygısız
++ 態度|たいど|tavır, tutum
+10 幸{さいわ}いな（ことに）、事故{じこ}によるけが人{にん}はいなかった。
+= Neyse ki, kaza nedeni-yle yaralı ol-ma-dı.
++ 幸い|さいわい|neyse ki, şans eseri
++ 事故|じこ|kaza
++ けが人|けがにん|yaralı|人
+11 （嬉{うれ}しい）ことに、長年{ながねん}探{さが}していた資料{しりょう}が大学{だいがく}の図書館{としょかん}で見{み}つかった。
+= Sevindirici-dir ki, uzun yıl-lar-dır ara-dığ-ım belge üniversite-nin kütüphane-si-nde bul-un-du.
++ 長年|ながねん|uzun yıllar
++ 探す|さがす|aramak|探し
++ 資料|しりょう|belge
++ 大学|だいがく|üniversite
++ 図書館|としょかん|kütüphane
++ 見つかる|みつかる|bulunmak|見つかっ
+12 この講座{こうざ}は日本語{にほんご}のレベル（を問{と}わず）、誰{だれ}でも参加{さんか}できます。
+= Bu kurs-a Japonca seviye-si fark etmeksizin, herkes katıl-abil-ir.
++ 講座|こうざ|kurs, ders
++ 日本語|にほんご|Japonca
+13 彼{かれ}は自分{じぶん}では何{なに}もしない（くせに）、他人{たにん}の仕事{しごと}には細{こま}かく文句{もんく}を言{い}う。
+= O kendi-si hiçbir şey yap-ma-dığ-ı halde, başka-lar-ı-nın iş-i-ne en ince ayrıntı-sı-na kadar laf söyle-r.
++ 自分|じぶん|kendi
++ 他人|たにん|başkası, el
++ 細かい|こまかい|ince, ayrıntılı|細かく
++ 文句|もんく|şikâyet, itiraz
++ 言う|いう|söylemek
+14 残念{ざんねん}な（ことに）、今回{こんかい}の調査{ちょうさ}では十分{じゅうぶん}なデータを集{あつ}めることができなかった。
+= Ne yazık ki, bu sefer-ki araştırma-da yeterli veri topla-ya-ma-dı-k.
++ 今回|こんかい|bu sefer
++ 調査|ちょうさ|araştırma, inceleme
++ 十分|じゅうぶん|yeterli
++ 集める|あつめる|toplamak
+15 この奨学金{しょうがくきん}は国籍{こくせき}（を問{と}わず）応募{おうぼ}することができる。
+= Bu burs-a uyruk fark etmeksizin başvur-ul-abil-ir.
++ 奨学金|しょうがくきん|burs
+16 彼{かれ}は日本{にほん}に十年{じゅうねん}も住{す}んでいる（くせに）、日本{にほん}の歴史{れきし}をほとんど知{し}らない。
+= O Japonya-da on yıl-dır yaşa-dığ-ı halde, Japonya-nın tarih-i-ni neredeyse hiç bil-mi-yor.
++ 日本|にほん|Japonya
++ 十年|じゅうねん|on yıl
++ 住む|すむ|yaşamak|住ん
++ 歴史|れきし|tarih
+17 驚{おどろ}いた（ことに）、その小{ちい}さな町{まち}には世界中{せかいじゅう}から観光客{かんこうきゃく}が集{あつ}まっていた。
+= Şaşırtıcı-dır ki, o küçük kasaba-ya dünya-nın her yer-in-den turist-ler topla-n-mış-tı.
++ 小さな|ちいさな|küçük
++ 町|まち|kasaba, şehir
++ 世界中|せかいじゅう|bütün dünya
++ 観光客|かんこうきゃく|turist
++ 集まる|あつまる|toplanmak|集まっ
+18 この仕事{しごと}では、経験{けいけん}（を問{と}わず）、やる気{き}と責任感{せきにんかん}のある人{ひと}を求{もと}めています。
+= Bu iş-te, deneyim fark etmeksizin, istek-li ve sorumluluk sahibi biri-ni arı-yor-uz.
++ やる気|やるき|istek, motivasyon|気
++ 責任感|せきにんかん|sorumluluk duygusu
++ 求める|もとめる|aramak, talep etmek|求め
+19 彼女{かのじょ}は自分{じぶん}が悪{わる}いと分{わ}かっている（くせに）、謝{あやま}ろうとしない。
+= O (kadın) kendi-si-nin hatalı ol-duğ-u-nu bil-diğ-i halde, özür dile-me-ye yanaş-mı-yor.
++ 悪い|わるい|kötü, hatalı
++ 分かる|わかる|anlamak, bilmek|分かっ
++ 謝る|あやまる|özür dilemek|謝ろ
+20 幸{さいわ}いな（ことに）、台風{たいふう}による大{おお}きな被害{ひがい}はなかった。
+= Neyse ki, tayfun nedeni-yle büyük bir hasar ol-ma-dı.
++ 台風|たいふう|tayfun
++ 大きな|おおきな|büyük
++ 被害|ひがい|hasar, zarar
+21 驚{おどろ}いた（ことに）、その研究者{けんきゅうしゃ}は80歳{さい}を過{す}ぎても毎年{まいとし}新{あたら}しい論文{ろんぶん}を発表{はっぴょう}している。
+= Şaşırtıcı-dır ki, o araştırmacı 80 yaş-ı-nı geç-tiğ-i halde her yıl yeni makale yayımlı-yor.
++ 研究者|けんきゅうしゃ|araştırmacı
++ 歳|さい|yaş
++ 過ぎる|すぎる|geçmek|過ぎ
++ 毎年|まいとし|her yıl
++ 新しい|あたらしい|yeni
++ 発表|はっぴょう|yayımlama, sunum
+22 この大学{だいがく}では、専門分野{せんもんぶんや}（を問{と}わず）、学生{がくせい}が自由{じゆう}に他学部{たがくぶ}の授業{じゅぎょう}を履修{りしゅう}できる。
+= Bu üniversite-de, uzmanlık alan-ı fark etmeksizin, öğrenci-ler serbest-çe başka fakülte-ler-in ders-ler-i-ni al-abil-ir.
++ 専門|せんもん|uzmanlık
++ 分野|ぶんや|alan
++ 自由|じゆう|serbest, özgür
++ 他|た|başka, diğer
++ 学部|がくぶ|fakülte
++ 授業|じゅぎょう|ders
++ 履修|りしゅう|ders alma
+23 彼{かれ}は「忙{いそが}しくて時間{じかん}がない」と言{い}っている（くせに）、毎週{まいしゅう}のように旅行{りょこう}に出{で}かけている。
+= O “meşgul-üm, zaman-ım yok” de-diğ-i halde, nerdeyse her hafta seyahat-e çık-ıyor.
++ 忙しい|いそがしい|meşgul|忙し
++ 時間|じかん|zaman
++ 毎週|まいしゅう|her hafta
++ 旅行|りょこう|seyahat
++ 出かける|でかける|dışarı çıkmak|出かけ
+24 残念{ざんねん}な（ことに）、長年{ながねん}研究{けんきゅう}してきた資料{しりょう}が保存状態{ほぞんじょうたい}の悪化{あっか}によって利用{りよう}できなくなってしまった。
+= Ne yazık ki, uzun yıl-lar araştır-dığ-ım belge-ler, saklanma durum-u-nun kötüleş-me-si yüzün-den kullan-ıl-a-maz ol-du.
++ 保存|ほぞん|saklama, koruma
++ 状態|じょうたい|durum, hal
++ 悪化|あっか|kötüleşme
++ 利用|りよう|kullanım
+25 この制度{せいど}は、日本国内{にほんこくない}（に限{かぎ}らず）海外{かいがい}からの研究者{けんきゅうしゃ}にも適用{てきよう}される。
+= Bu sistem, sadece Japonya içi değil yurt dışı-ndan gel-en araştırmacı-lar-a da uygula-n-ır.
++ 制度|せいど|sistem
++ 国内|こくない|yurt içi
++ 海外|かいがい|yurt dışı
++ 適用|てきよう|uygulama

@@ -1,0 +1,174 @@
+// 練習問題：～わけにはいかない・～に関して・～をめぐって (練習.pdf s.54–57)
+@ gp13 2年文法 13 | わけにはいかない・に関して・をめぐって
+1 明日{あした}は大事{だいじ}な発表{はっぴょう}があるので、今日{きょう}は遊{あそ}んでいる（わけにはいかない）。
+= Yarın önemli bir sunum-um ol-duğ-u için, bugün oyalan-ıp dur-a-ma-m.
++ 明日|あした|yarın
++ 大事|だいじ|önemli
++ 発表|はっぴょう|sunum, açıklama
++ 今日|きょう|bugün
++ 遊ぶ|あそぶ|oynamak, eğlenmek|遊ん
++ わけにはいかない|わけにはいかない|…emem (yapmak doğru olmaz)
+2 この問題{もんだい}（に関{かん}して）、専門家{せんもんか}から詳{くわ}しい説明{せつめい}を聞{き}いた。
+= Bu sorun hakkında, uzman-dan ayrıntılı bir açıklama dinle-di-m.
++ 問題|もんだい|sorun
++ に関して|にかんして|…hakkında, …ile ilgili|関して
++ 専門家|せんもんか|uzman
++ 詳しい|くわしい|ayrıntılı
++ 説明|せつめい|açıklama
++ 聞く|きく|dinlemek|聞い
+3 新{あたら}しい駅{えき}の建設計画{けんせつけいかく}（をめぐって）、住民{じゅうみん}の間{あいだ}で意見{いけん}が分{わ}かれている。
+= Yeni istasyon-un inşaat plan-ı etrafında, sakin-ler arasında görüş-ler bölün-müş durumda.
++ 新しい|あたらしい|yeni
++ 駅|えき|istasyon
++ 建設計画|けんせつけいかく|inşaat planı
++ をめぐって|をめぐって|…etrafında, …konusunda (tartışma)
++ 住民|じゅうみん|sakin, halk
++ 間|あいだ|ara, arasında
++ 意見|いけん|görüş, fikir
++ 分かれる|わかれる|bölünmek, ayrılmak|分かれ
+4 一度{いちど}引{ひ}き受{う}けた仕事{しごと}だから、途中{とちゅう}でやめる（わけにはいかない）。
+= Bir kez üstlen-diğ-im iş ol-duğ-u için, yarı yol-da bırak-a-ma-m.
++ 一度|いちど|bir kez
++ 引き受ける|ひきうける|üstlenmek|引き受け
++ 仕事|しごと|iş
++ 途中|とちゅう|yarı yol
+5 先生{せんせい}には大変{たいへん}お世話{せわ}になったので、卒業{そつぎょう}する前{まえ}に一度{いちど}お礼{れい}を言{い}わ（ないわけにはいかない）。
+= Öğretmen-im bana çok emek ver-diğ-i için, mezun ol-ma-dan önce bir kez teşekkür et-me-mek ol-maz.
++ 先生|せんせい|öğretmen
++ 大変|たいへん|çok, son derece
++ お世話になる|おせわになる|birinin yardımını görmek|お世話にな
++ 卒業|そつぎょう|mezuniyet
++ 前|まえ|önce
++ お礼|おれい|teşekkür
++ 言う|いう|söylemek|言わ
+6 会社{かいしゃ}の個人情報管理{こじんじょうほうかんり}（に関{かん}して）、新{あたら}しい規則{きそく}が発表{はっぴょう}された。
+= Şirket-in kişisel veri yönetim-i hakkında, yeni kural-lar açıkla-n-dı.
++ 会社|かいしゃ|şirket
++ 個人情報|こじんじょうほう|kişisel bilgi/veri
++ 管理|かんり|yönetim, idare
++ 規則|きそく|kural
+7 その土地{とち}の利用方法{りようほうほう}（をめぐって）、住民{じゅうみん}と市役所{しやくしょ}の間{あいだ}で話{はな}し合{あ}いが続{つづ}いている。
+= O arazi-nin kullanım biçim-i konusunda, sakin-ler ile belediye arasında görüşme-ler sür-üyor.
++ 土地|とち|arazi, toprak
++ 利用|りよう|kullanım
++ 方法|ほうほう|yöntem
++ 市役所|しやくしょ|belediye
++ 話し合い|はなしあい|görüşme, müzakere
++ 続く|つづく|sürmek|続い
+8 この重要{じゅうよう}な書類{しょるい}を他{ほか}の人{ひと}に見{み}せる（わけにはいかない）。
+= Bu önemli belge-yi başka insan-lar-a göster-e-me-m.
++ 重要|じゅうよう|önemli
++ 書類|しょるい|belge, evrak
++ 他|ほか|başka, diğer
++ 人|ひと|insan, kişi
++ 見せる|みせる|göstermek
+9 明日{あした}までにレポートを提出{ていしゅつ}しなければならないので、今日{きょう}は徹夜{てつや}してでも完成{かんせい}させ（ないわけにはいかない）。
+= Yarın-a kadar rapor-u teslim et-mem gerek-tiğ-i için, bugün sabahla-sam bile tamamla-ma-mak ol-maz.
++ 提出|ていしゅつ|teslim etme, sunma
++ 徹夜|てつや|sabahlama
++ 完成|かんせい|tamamlama
+10 今回{こんかい}の事故{じこ}の原因{げんいん}（に関{かん}して）、現在{げんざい}詳{くわ}しい調査{ちょうさ}が行{おこな}われている。
+= Bu sefer-ki kaza-nın sebeb-i hakkında, şu anda ayrıntılı bir soruşturma yürüt-ül-üyor.
++ 今回|こんかい|bu sefer
++ 事故|じこ|kaza
++ 原因|げんいん|sebep
++ 現在|げんざい|şu anda
++ 調査|ちょうさ|araştırma, soruşturma
++ 行う|おこなう|yapmak, yürütmek|行われ
+11 明日{あした}は入学試験{にゅうがくしけん}なので、今日{きょう}は遅{おそ}くまでゲームをしている（わけにはいかない）。
+= Yarın giriş sınav-ı ol-duğ-u için, bugün geç saat-e kadar oyun oyna-ya-ma-m.
++ 入学試験|にゅうがくしけん|giriş sınavı
++ 遅い|おそい|geç|遅く
+12 日本{にほん}の少子化問題{しょうしかもんだい}（に関{かん}して）、政府{せいふ}は新{あたら}しい対策{たいさく}を発表{はっぴょう}した。
+= Japonya-nın doğum oran-ı düşüş-ü sorun-u hakkında, hükümet yeni önlem-ler açıkla-dı.
++ 日本|にほん|Japonya
++ 少子化|しょうしか|doğum oranının düşmesi
++ 政府|せいふ|hükümet
++ 対策|たいさく|önlem, tedbir
+13 新{あたら}しい工場{こうじょう}の建設{けんせつ}（をめぐって）、住民{じゅうみん}の間{あいだ}で激{はげ}しい議論{ぎろん}が起{お}こっている。
+= Yeni fabrika-nın inşa-sı konusunda, sakin-ler arasında şiddetli tartışma-lar çık-ıyor.
++ 工場|こうじょう|fabrika
++ 建設|けんせつ|inşa, yapım
++ 激しい|はげしい|şiddetli, sert
++ 議論|ぎろん|tartışma
++ 起こる|おこる|olmak, çıkmak|起こっ
+14 約束{やくそく}した以上{いじょう}、途中{とちゅう}で仕事{しごと}を投{な}げ出{だ}す（わけにはいかない）。
+= Söz ver-diğ-im-e göre, iş-i yarı yol-da bırak-ıp at-a-ma-m.
++ 約束|やくそく|söz, randevu
++ 以上|いじょう|…dığına göre, madem
++ 投げ出す|なげだす|bırakıp vazgeçmek
+15 今回{こんかい}の事件{じけん}（に関{かん}して）、警察{けいさつ}は現在{げんざい}も詳{くわ}しい調査{ちょうさ}を続{つづ}けている。
+= Bu sefer-ki olay hakkında, polis şu anda da ayrıntılı soruşturma-yı sürdür-üyor.
++ 事件|じけん|olay, vaka
++ 警察|けいさつ|polis
++ 続ける|つづける|sürdürmek|続け
+16 会社{かいしゃ}を代表{だいひょう}して出席{しゅっせき}する以上{いじょう}、途中{とちゅう}で帰{かえ}る（わけにはいかない）。
+= Şirket-i temsil ed-erek katıl-dığ-ım-a göre, yarı-da dön-üp gid-e-me-m.
++ 代表|だいひょう|temsil, temsilci
++ 出席|しゅっせき|katılma, hazır bulunma
++ 帰る|かえる|dönmek
+17 大学{だいがく}の授業料{じゅぎょうりょう}の値上{ねあ}げ（をめぐって）、学生{がくせい}と大学側{だいがくがわ}の意見{いけん}が対立{たいりつ}している。
+= Üniversite-nin okul ücret-i-nin zamlan-ma-sı konusunda, öğrenci-ler ile üniversite tarafı-nın görüş-ler-i çatış-ıyor.
++ 大学|だいがく|üniversite
++ 授業料|じゅぎょうりょう|okul ücreti, harç
++ 値上げ|ねあげ|zam, fiyat artışı
++ 学生|がくせい|öğrenci
++ 側|がわ|taraf
++ 対立|たいりつ|çatışma, karşı karşıya gelme
+18 お世話{せわ}になった方{かた}からの依頼{いらい}なので、簡単{かんたん}に断{ことわ}る（わけにはいかない）。
+= Bana çok yardım et-miş biri-nin rica-sı ol-duğ-u için, kolay-ca geri çevir-e-me-m.
++ 世話|せわ|bakım, yardım
++ 方|かた|kişi (saygılı)
++ 依頼|いらい|rica, istek
++ 簡単|かんたん|kolay
++ 断る|ことわる|reddetmek, geri çevirmek
+19 この問題{もんだい}（に関{かん}して）ご質問{しつもん}がありましたら、担当者{たんとうしゃ}までご連絡{れんらく}ください。
+= Bu sorun hakkında soru-nuz var-sa, sorumlu kişi-ye haber ver-in lütfen.
++ 質問|しつもん|soru
++ 担当者|たんとうしゃ|sorumlu kişi
++ 連絡|れんらく|haber verme, iletişim
+20 明日{あした}は朝{あさ}から重要{じゅうよう}な会議{かいぎ}がある。寝坊{ねぼう}する（わけにはいかない）ので、目覚{めざ}ましを二{ふた}つセットしておこう。
+= Yarın sabah-tan önemli bir toplantı var. Uyuya kal-a-ma-m, çalar saat-i iki tane kur-ayım.
++ 朝|あさ|sabah
++ 会議|かいぎ|toplantı
++ 寝坊|ねぼう|uyuya kalma
++ 目覚まし|めざまし|çalar saat
++ 二つ|ふたつ|iki (tane)
+21 環境保護{かんきょうほご}（に関{かん}する）新{あたら}しい法律{ほうりつ}について、国会{こっかい}では賛成派{さんせいは}と反対派{はんたいは}の間{あいだ}で活発{かっぱつ}な議論{ぎろん}が行{おこな}われている。
+= Çevre koruma-sı-yla ilgili yeni yasa hakkında, meclis-te destekçi-ler ile karşıt-lar arasında canlı tartışma-lar yap-ıl-ıyor.
++ 環境保護|かんきょうほご|çevre koruma
++ に関する|にかんする|…ile ilgili (isimden önce)|関する
++ 法律|ほうりつ|yasa, kanun
++ 国会|こっかい|meclis, parlamento
++ 賛成派|さんせいは|destekçiler, lehte olanlar
++ 反対派|はんたいは|karşıtlar, muhalifler
++ 活発|かっぱつ|canlı, hareketli
+22 研究者{けんきゅうしゃ}として発表{はっぴょう}する以上{いじょう}、十分{じゅうぶん}な資料{しりょう}を確認{かくにん}（しない）わけにはいかない。
+= Araştırmacı olarak sunum yap-tığ-ım-a göre, yeterli kaynak-lar-ı kontrol et-me-mek ol-maz.
++ 研究者|けんきゅうしゃ|araştırmacı
++ 十分|じゅうぶん|yeterli
++ 資料|しりょう|belge, kaynak
++ 確認|かくにん|kontrol, teyit
+23 「今日{きょう}は疲{つか}れたから、会議{かいぎ}には出{で}たくないな。」「でも、君{きみ}が担当者{たんとうしゃ}なんだから、出席{しゅっせき}し（ない）わけにはいかないでしょう。」
+= “Bugün yorul-du-m, toplantı-ya gir-mek iste-mi-yor-um.” “Ama, sorumlu sen-sin, katıl-ma-mak ol-maz değil mi?”
++ 疲れる|つかれる|yorulmak|疲れ
++ 出る|でる|katılmak; çıkmak|出
++ 君|きみ|sen
+24 新{あたら}しい大学{だいがく}の設立計画{せつりつけいかく}（をめぐって）、地域住民{ちいきじゅうみん}の間{あいだ}では期待{きたい}する声{こえ}がある一方{いっぽう}、交通問題{こうつうもんだい}を心配{しんぱい}する声{こえ}も出{で}ている。
+= Yeni üniversite-nin kuruluş plan-ı konusunda, yöre sakin-ler-i arasında umut-la bekle-yen ses-ler var-ken, ulaşım sorun-u-ndan endişe-len-en ses-ler de çık-ıyor.
++ 設立|せつりつ|kuruluş, kurma
++ 計画|けいかく|plan
++ 地域|ちいき|bölge, yöre
++ 期待|きたい|beklenti, umut
++ 声|こえ|ses
++ 一方|いっぽう|öte yandan, …ken
++ 交通|こうつう|ulaşım, trafik
++ 心配|しんぱい|endişe
+25 政府{せいふ}は今回{こんかい}の制度改革{せいどかいかく}（に関{かん}して）、「国民{こくみん}への十分{じゅうぶん}な説明{せつめい}が必要{ひつよう}だ」として、専門家{せんもんか}から意見{いけん}を聞{き}く方針{ほうしん}を示{しめ}した。
+= Hükümet bu sefer-ki sistem reform-u hakkında, “halk-a yeterli açıklama gerek” diyerek, uzman-lar-dan görüş al-ma yönelim-i-ni göster-di.
++ 制度|せいど|sistem, düzen
++ 改革|かいかく|reform
++ 国民|こくみん|halk, vatandaşlar
++ 必要|ひつよう|gerekli
++ 方針|ほうしん|politika, yönelim
++ 示す|しめす|göstermek|示し

@@ -1,0 +1,186 @@
+// 練習問題：～一方で・～反面・～に沿って (練習.pdf s.114–117)
+@ gp28 2年文法 28 | 一方で・反面・に沿って
+1 この仕事{しごと}は自由{じゆう}に働{はたら}ける（反面{はんめん}）、責任{せきにん}も大{おお}きい。
+= Bu iş-te serbest-çe çalış-abil-ir-sin, öte yandan sorumluluk da büyük.
++ 仕事|しごと|iş
++ 自由|じゆう|serbest
++ 働く|はたらく|çalışmak|働ける
++ 反面|はんめん|öte yandan, buna karşın
++ 責任|せきにん|sorumluluk
++ 大きい|おおきい|büyük
+2 インターネットは便利{べんり}である（反面{はんめん}）、情報{じょうほう}の正確性{せいかくせい}を確認{かくにん}する必要{ひつよう}がある。
+= İnternet kullanışlı-dır, öte yandan bilgi-nin doğruluğ-u-nu kontrol et-mek gerek.
++ 便利|べんり|kullanışlı
++ 情報|じょうほう|bilgi
++ 正確性|せいかくせい|doğruluk
++ 確認|かくにん|kontrol
++ 必要|ひつよう|gerekli
+3 大学{だいがく}の研究方針{けんきゅうほうしん}（に沿{そ}って）、調査{ちょうさ}を進{すす}めることにした。
+= Üniversite-nin araştırma politika-sı-na uygun olarak, inceleme-yi ilerlet-me-ye karar ver-di-k.
++ 大学|だいがく|üniversite
++ 研究|けんきゅう|araştırma
++ 方針|ほうしん|politika, yönelim
++ に沿って|にそって|…e uygun olarak; …boyunca|沿って
++ 調査|ちょうさ|inceleme
++ 進める|すすめる|ilerletmek
+4 都市部{としぶ}では人口{じんこう}が増{ふ}えている（一方{いっぽう}で）、地方{ちほう}では減少{げんしょう}している。
+= Kent-ler-de nüfus art-ar-ken, taşra-da azal-ıyor.
++ 都市部|としぶ|kentsel alan
++ 人口|じんこう|nüfus
++ 増える|ふえる|artmak|増え
++ 一方で|いっぽうで|…ırken, öte yandan|一方で
++ 地方|ちほう|taşra
++ 減少|げんしょう|azalma
+5 この薬{くすり}は効果{こうか}が高{たか}い（反面{はんめん}）、副作用{ふくさよう}にも注意{ちゅうい}が必要{ひつよう}だ。
+= Bu ilac-ın etki-si yüksek, öte yandan yan etki-ler-e de dikkat et-mek gerek.
++ 薬|くすり|ilaç
++ 効果|こうか|etki
++ 高い|たかい|yüksek
++ 副作用|ふくさよう|yan etki
++ 注意|ちゅうい|dikkat
+6 学生{がくせい}の意見{いけん}（に沿{そ}って）授業内容{じゅぎょうないよう}を改善{かいぜん}した。
+= Öğrenci-ler-in görüş-ler-i-ne uygun olarak ders içeriğ-i-ni iyileştir-di-k.
++ 学生|がくせい|öğrenci
++ 意見|いけん|görüş
++ 授業|じゅぎょう|ders
++ 内容|ないよう|içerik
++ 改善|かいぜん|iyileştirme
+7 この町{まち}は観光地{かんこうち}として有名{ゆうめい}な（一方{いっぽう}で）、住民{じゅうみん}の生活{せいかつ}も大切{たいせつ}にされている。
+= Bu kasaba turistik yer olarak ünlü-yken, sakin-ler-in yaşam-ı-na da özen göster-il-iyor.
++ 町|まち|kasaba, şehir
++ 観光地|かんこうち|turistik yer
++ 有名|ゆうめい|ünlü
++ 住民|じゅうみん|sakin
++ 生活|せいかつ|yaşam
++ 大切|たいせつ|önemli, değerli
+8 川{かわ}（に沿{そ}って）遊歩道{ゆうほどう}を歩{ある}いていると、美{うつく}しい景色{けしき}が見{み}えてきた。
+= Nehir boyunca yürüyüş yol-u-nda yürü-yor-ken, güzel bir manzara görün-dü.
++ 川|かわ|nehir
++ 遊歩道|ゆうほどう|yürüyüş yolu
++ 歩く|あるく|yürümek|歩い
++ 美しい|うつくしい|güzel
++ 景色|けしき|manzara
++ 見える|みえる|görünmek|見え
+9 海外留学{かいがいりゅうがく}には多{おお}くのメリットがある（一方{いっぽう}で）、費用{ひよう}や言葉{ことば}の問題{もんだい}もある。
+= Yurt dışı-nda öğrenim-in çok yarar-ı var, öte yandan masraf ve dil sorun-lar-ı da var.
++ 海外|かいがい|yurt dışı
++ 留学|りゅうがく|yurt dışında öğrenim
++ 多く|おおく|çok
++ 費用|ひよう|masraf
++ 言葉|ことば|dil, söz
++ 問題|もんだい|sorun
+10 会社{かいしゃ}が定{さだ}めた規則{きそく}（に沿{そ}って）、新{あたら}しい制度{せいど}を導入{どうにゅう}した。
+= Şirket-in belirle-diğ-i kural-lar-a uygun olarak, yeni bir sistem getir-di-k.
++ 会社|かいしゃ|şirket
++ 定める|さだめる|belirlemek|定め
++ 規則|きそく|kural
++ 新しい|あたらしい|yeni
++ 制度|せいど|sistem
++ 導入|どうにゅう|uygulamaya koyma
+11 この仕事{しごと}は給料{きゅうりょう}が高{たか}い（一方{いっぽう}で）、勤務時間{きんむじかん}が長{なが}いという問題{もんだい}もある。
+= Bu iş-in maaş-ı yüksek ama öte yandan, çalışma saat-ler-i uzun ol-ma sorun-u da var.
++ 給料|きゅうりょう|maaş
++ 勤務|きんむ|çalışma, mesai
++ 時間|じかん|saat, süre
++ 長い|ながい|uzun
+12 SNSは情報{じょうほう}を簡単{かんたん}に発信{はっしん}できる（反面{はんめん}）、誤情報{ごじょうほう}も広{ひろ}がりやすい。
+= Sosyal medya-da bilgi kolay-ca paylaş-ıl-abil-ir, öte yandan yanlış bilgi de kolay yayıl-ır.
++ 簡単|かんたん|kolay
++ 発信|はっしん|yayma, paylaşma
++ 誤情報|ごじょうほう|yanlış bilgi
++ 広がる|ひろがる|yayılmak|広がり
+13 大学{だいがく}の教育方針{きょういくほうしん}（に沿{そ}って）、カリキュラムを見直{みなお}した。
+= Üniversite-nin eğitim politika-sı-na uygun olarak, müfredat-ı gözden geçir-di-k.
++ 教育|きょういく|eğitim
++ 見直す|みなおす|gözden geçirmek|見直し
+14 この町{まち}は静{しず}かで住{す}みやすい（反面{はんめん}）、交通{こうつう}が少{すこ}し不便{ふべん}だ。
+= Bu kasaba sakin ve yaşa-ma-sı kolay, öte yandan ulaşım biraz zor.
++ 静か|しずか|sakin, sessiz
++ 住む|すむ|yaşamak|住み
++ 交通|こうつう|ulaşım
++ 少し|すこし|biraz
++ 不便|ふべん|elverişsiz, zor
+15 若者{わかもの}の海外留学{かいがいりゅうがく}が増{ふ}えている（一方{いっぽう}で）、国内{こくない}での留学希望者{りゅうがくきぼうしゃ}は減{へ}っている。
+= Genç-ler-in yurt dışı-nda öğrenim-i art-ar-ken, yurt içi-nde değişim öğrenci-si olmak iste-yen-ler azal-ıyor.
++ 若者|わかもの|genç
++ 国内|こくない|yurt içi
++ 希望者|きぼうしゃ|isteyen kişi, aday
++ 減る|へる|azalmak|減っ
+16 会社{かいしゃ}の方針{ほうしん}（に沿{そ}って）新{あたら}しいプロジェクトを進{すす}めていく。
+= Şirket-in politika-sı-na uygun olarak yeni proje-yi ilerlet-eceğ-iz.
+17 この教材{きょうざい}は内容{ないよう}が分{わ}かりやすい（反面{はんめん}）、情報量{じょうほうりょう}が少{すく}ないという欠点{けってん}がある。
+= Bu ders materyal-i-nin içerik-i anlaşılır, öte yandan bilgi miktar-ı az ol-ma kusur-u var.
++ 教材|きょうざい|ders materyali
++ 分かりやすい|わかりやすい|anlaşılır
++ 情報量|じょうほうりょう|bilgi miktarı
++ 少ない|すくない|az
++ 欠点|けってん|kusur, eksik
+18 川{かわ}（に沿{そ}って）桜{さくら}の木{き}が植{う}えられている。
+= Nehir boyunca kiraz ağaç-lar-ı dik-il-miş.
++ 桜|さくら|kiraz çiçeği, sakura
++ 木|き|ağaç
++ 植える|うえる|dikmek|植えられ
+19 オンライン授業{じゅぎょう}は場所{ばしょ}を選{えら}ばず参加{さんか}できる（一方{いっぽう}で）、学生同士{がくせいどうし}の交流{こうりゅう}が少{すく}なくなりやすい。
+= Çevrim içi ders-ler-e yer fark etmeksizin katıl-ıl-abil-ir, öte yandan öğrenci-ler arası etkileşim azal-ma-ya meyilli.
++ 場所|ばしょ|yer
++ 選ぶ|えらぶ|seçmek|選ば
++ 参加|さんか|katılma
++ 同士|どうし|kendi aralarında
++ 交流|こうりゅう|etkileşim
+20 地域住民{ちいきじゅうみん}の要望{ようぼう}（に沿{そ}って）公園{こうえん}の整備計画{せいびけいかく}を変更{へんこう}した。
+= Yöre sakin-ler-i-nin istek-ler-i-ne uygun olarak park-ın düzenleme plan-ı-nı değiştir-di-k.
++ 地域|ちいき|yöre, bölge
++ 要望|ようぼう|istek, talep
++ 公園|こうえん|park
++ 整備|せいび|düzenleme
++ 計画|けいかく|plan
++ 変更|へんこう|değişiklik
+21 AI技術{ぎじゅつ}の発展{はってん}によって仕事{しごと}の効率{こうりつ}が大{おお}きく向上{こうじょう}する（一方{いっぽう}で）、人間{にんげん}の仕事{しごと}が失{うしな}われる可能性{かのうせい}も指摘{してき}されている。
+= Yapay zekâ teknoloji-si-nin gelişme-si-yle iş verimliliğ-i büyük ölçüde art-ar-ken, insan-lar-ın iş-ler-i-nin kaybol-ma ihtimal-i de dile getir-il-iyor.
++ 技術|ぎじゅつ|teknoloji, teknik
++ 発展|はってん|gelişme
++ 効率|こうりつ|verimlilik
++ 向上|こうじょう|artış, gelişme
++ 人間|にんげん|insan
++ 失う|うしなう|kaybetmek|失われる
++ 可能性|かのうせい|ihtimal
++ 指摘|してき|dile getirme, işaret etme
+22 この政策{せいさく}は経済成長{けいざいせいちょう}を促{うなが}す（反面{はんめん}）、所得格差{しょとくかくさ}を拡大{かくだい}させる可能性{かのうせい}がある。
+= Bu politika ekonomik büyüme-yi teşvik ed-er, öte yandan gelir eşitsizliğ-i-ni büyüt-me ihtimal-i var.
++ 政策|せいさく|politika
++ 経済|けいざい|ekonomi
++ 成長|せいちょう|büyüme
++ 促す|うながす|teşvik etmek
++ 所得|しょとく|gelir
++ 格差|かくさ|eşitsizlik, uçurum
++ 拡大|かくだい|genişleme, büyüme
+23 調査対象者{ちょうさたいしょうしゃ}の意見{いけん}（に沿{そ}って）、質問項目{しつもんこうもく}を一部{いちぶ}修正{しゅうせい}した。
+= Araştırma katılımcı-lar-ı-nın görüş-ler-i-ne uygun olarak, soru madde-ler-i-nin bir kısm-ı-nı düzelt-ti-k.
++ 対象者|たいしょうしゃ|hedef kişi, katılımcı
++ 質問|しつもん|soru
++ 項目|こうもく|madde, kalem
++ 一部|いちぶ|bir kısım
++ 修正|しゅうせい|düzeltme
+24 日本{にほん}の大学{だいがく}では、国際化{こくさいか}が進{すす}む（一方{いっぽう}で）、日本語{にほんご}を十分{じゅうぶん}に使{つか}えない留学生{りゅうがくせい}への支援{しえん}の必要性{ひつようせい}も高{たか}まっている。
+= Japon üniversite-ler-i-nde, uluslararası-laş-ma ilerle-r-ken, Japonca-yı yeterince kullan-a-ma-yan yabancı öğrenci-ler-e destek gereksinim-i de art-ıyor.
++ 日本|にほん|Japonya
++ 国際化|こくさいか|uluslararasılaşma
++ 進む|すすむ|ilerlemek
++ 日本語|にほんご|Japonca
++ 十分|じゅうぶん|yeterince
++ 使う|つかう|kullanmak|使え
++ 留学生|りゅうがくせい|yabancı öğrenci
++ 支援|しえん|destek
++ 必要性|ひつようせい|gereksinim
++ 高まる|たかまる|artmak, yükselmek|高まっ
+25 この研究{けんきゅう}では、先行研究{せんこうけんきゅう}の成果{せいか}（に沿{そ}って）新{あら}たな資料{しりょう}を分析{ぶんせき}し、従来{じゅうらい}とは異{こと}なる視点{してん}から問題{もんだい}を検討{けんとう}した。
+= Bu araştırma-da, önceki araştırma-lar-ın bulgu-lar-ı-na uygun olarak yeni belge-ler analiz ed-il-di ve sorun şimdiye kadar-ki-nden farklı bir bakış açı-sı-ndan incele-n-di.
++ 先行研究|せんこうけんきゅう|önceki araştırmalar, literatür
++ 成果|せいか|sonuç, bulgu
++ 新た|あらた|yeni
++ 資料|しりょう|belge
++ 分析|ぶんせき|analiz
++ 従来|じゅうらい|şimdiye kadarki
++ 異なる|ことなる|farklı olmak
++ 視点|してん|bakış açısı
++ 検討|けんとう|inceleme

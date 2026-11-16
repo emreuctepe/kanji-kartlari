@@ -1,0 +1,168 @@
+// 練習問題：～なしに・～っぱなし・～といっても (練習.pdf s.86–89)
+@ gp21 2年文法 21 | なしに・っぱなし・といっても
+1 本人{ほんにん}の許可{きょか}（なし）に、写真{しゃしん}をSNSに掲載{けいさい}することは禁止{きんし}されている。
+= Kişi-nin kendi izn-i olmadan, fotoğraf-ı sosyal medya-ya koy-mak yasak-tır.
++ 本人|ほんにん|kişinin kendisi
++ 許可|きょか|izin
++ なしに|なしに|…olmadan, …siz|なし
++ 写真|しゃしん|fotoğraf
++ 掲載|けいさい|yayımlama, koyma
++ 禁止|きんし|yasak
+2 彼{かれ}は朝{あさ}からずっとテレビをつけ（っぱなし）で、ほとんど勉強{べんきょう}していない。
+= O sabah-tan beri televizyon-u açık bırak-mış, neredeyse hiç ders çalış-ma-dı.
++ 彼|かれ|o (erkek)
++ 朝|あさ|sabah
++ っぱなし|っぱなし|…ıp öylece bırakmak, sürekli …
++ 勉強|べんきょう|ders çalışma
+3 日本{にほん}に住{す}んでいたと（いって）も、実際{じっさい}には一年間{いちねんかん}だけです。
+= Japonya-da yaşa-dı-m de-sem de, aslında sadece bir yıl.
++ 日本|にほん|Japonya
++ 住む|すむ|yaşamak|住ん
++ といっても|といっても|…dese de, …ama aslında|いって
++ 実際|じっさい|aslında, gerçekte
++ 一年間|いちねんかん|bir yıl (süresince)
+4 十分{じゅうぶん}な説明{せつめい}（なし）に、契約書{けいやくしょ}に署名{しょめい}するのは危険{きけん}だ。
+= Yeterli açıklama olmadan, sözleşme-yi imzala-mak tehlike-li-dir.
++ 十分|じゅうぶん|yeterli
++ 説明|せつめい|açıklama
++ 契約書|けいやくしょ|sözleşme (belgesi)
++ 署名|しょめい|imza
++ 危険|きけん|tehlikeli
+5 窓{まど}を開{あ}け（っぱなし）にしたまま寝{ね}てしまった。
+= Pencere-yi açık bırak-ıp öylece uyu-yakal-dı-m.
++ 窓|まど|pencere
++ 開ける|あける|açmak|開け
++ 寝る|ねる|uyumak|寝
+6 海外旅行{かいがいりょこう}の経験{けいけん}があると（いって）も、外国{がいこく}へ行{い}ったのは一度{いちど}だけだ。
+= Yurt dışı seyahat deneyim-im var de-sem de, yabancı ülke-ye git-tiğ-im sadece bir kez.
++ 海外旅行|かいがいりょこう|yurt dışı seyahati
++ 経験|けいけん|deneyim
++ 外国|がいこく|yabancı ülke
++ 一度|いちど|bir kez
+7 彼女{かのじょ}は使{つか}った資料{しりょう}を片付{かたづ}け（ないまま）にして、研究室{けんきゅうしつ}を出{で}てしまった。
+= O (kadın) kullan-dığ-ı belge-ler-i toplama-dan öylece bırak-ıp, araştırma oda-sı-ndan çık-ıp git-ti.
++ 彼女|かのじょ|o (kadın)
++ 使う|つかう|kullanmak|使っ
++ 資料|しりょう|belge, kaynak
++ 片付ける|かたづける|toplamak, toparlamak|片付け
++ 研究室|けんきゅうしつ|araştırma odası, laboratuvar
+8 事前{じぜん}の連絡{れんらく}（なし）に訪問{ほうもん}するのは失礼{しつれい}だと思{おも}う。
+= Önceden haber ver-me-den ziyaret et-mek kaba-lık diye düşün-üyor-um.
++ 事前|じぜん|önceden
++ 連絡|れんらく|haber
++ 訪問|ほうもん|ziyaret
++ 失礼|しつれい|kabalık
++ 思う|おもう|düşünmek
+9 この仕事{しごと}は簡単{かんたん}だと（いって）も、専門的{せんもんてき}な知識{ちしき}が必要{ひつよう}です。
+= Bu iş kolay de-sek de, uzmanlık bilgi-si gerek-ir.
++ 仕事|しごと|iş
++ 簡単|かんたん|kolay
++ 専門的|せんもんてき|uzmanlık gerektiren
++ 知識|ちしき|bilgi
++ 必要|ひつよう|gerekli
+10 彼{かれ}は昼食{ちゅうしょく}も取{と}ら（ず）に、午後{ごご}の会議{かいぎ}に出席{しゅっせき}した。
+= O öğle yemeğ-i de ye-me-den, öğleden sonra-ki toplantı-ya katıl-dı.
++ 昼食|ちゅうしょく|öğle yemeği
++ 取る|とる|almak (yemek)|取ら
++ 午後|ごご|öğleden sonra
++ 会議|かいぎ|toplantı
++ 出席|しゅっせき|katılma
+11 本人{ほんにん}の同意{どうい}（なし）に個人情報{こじんじょうほう}を第三者{だいさんしゃ}に提供{ていきょう}してはいけない。
+= Kişi-nin kendi onay-ı olmadan kişisel bilgi-ler-i üçüncü kişi-ler-e ver-me-meli-sin.
++ 同意|どうい|onay, rıza
++ 個人情報|こじんじょうほう|kişisel bilgi
++ 第三者|だいさんしゃ|üçüncü kişi
++ 提供|ていきょう|sağlama, verme
+12 電気{でんき}をつけ（っぱなし）にして外出{がいしゅつ}したため、帰宅{きたく}したときには部屋{へや}が明{あか}るくなっていた。
+= Işık-ları açık bırak-ıp dışarı çık-tığ-ım için, eve dön-düğ-ümde oda aydınlık-tı.
++ 電気|でんき|elektrik, ışık
++ 外出|がいしゅつ|dışarı çıkma
++ 帰宅|きたく|eve dönme
++ 部屋|へや|oda
++ 明るい|あかるい|aydınlık|明るく
+13 この町{まち}は大都市{だいとし}だと（いって）も、人口{じんこう}は20万人{まんにん}ほどしかない。
+= Bu şehir büyük şehir de-sek de, nüfus-u sadece 200 bin kadar.
++ 町|まち|şehir
++ 大都市|だいとし|büyük şehir
++ 人口|じんこう|nüfus
++ 万|まん|on bin
++ 人|にん|kişi (sayaç)
+14 何{なん}の予告{よこく}（なし）に突然{とつぜん}イベントが中止{ちゅうし}された。
+= Hiçbir ön duyuru olmadan aniden etkinlik iptal ed-il-di.
++ 予告|よこく|ön duyuru, önceden bildirim
++ 突然|とつぜん|aniden
++ 中止|ちゅうし|iptal
+15 彼{かれ}は一日中{いちにちじゅう}パソコンの前{まえ}に座{すわ}り（っぱなし）で、ほとんど体{からだ}を動{うご}かさなかった。
+= O bütün gün bilgisayar-ın ön-ü-nde oturup kal-dı, neredeyse hiç vücud-u-nu hareket ettir-me-di.
++ 一日中|いちにちじゅう|bütün gün
++ 前|まえ|ön
++ 座る|すわる|oturmak|座り
++ 体|からだ|vücut
++ 動かす|うごかす|hareket ettirmek|動かさ
+16 日本語{にほんご}ができる（といって）も、難{むずか}しい専門用語{せんもんようご}までは理解{りかい}できない。
+= Japonca bil-iyor-um de-sem de, zor teknik terim-ler-e kadar anla-ya-ma-m.
++ 日本語|にほんご|Japonca
++ 難しい|むずかしい|zor
++ 専門用語|せんもんようご|teknik terim
++ 理解|りかい|anlama
+17 十分{じゅうぶん}な準備{じゅんび}（なし）に、このような大{おお}きな計画{けいかく}を実行{じっこう}することはできない。
+= Yeterli hazırlık olmadan, böyle büyük bir plan-ı uygula-mak mümkün değil.
++ 準備|じゅんび|hazırlık
++ 大きな|おおきな|büyük
++ 計画|けいかく|plan
++ 実行|じっこう|uygulama
+18 エアコンをつけ（っぱなし）にして寝{ね}たので、朝{あさ}起{お}きたら部屋{へや}がとても寒{さむ}かった。
+= Klima-yı açık bırak-ıp uyu-duğ-um için, sabah kalk-tığ-ımda oda çok soğuk-tu.
++ 起きる|おきる|kalkmak, uyanmak|起き
++ 寒い|さむい|soğuk|寒かっ
+19 彼{かれ}は研究者{けんきゅうしゃ}だと（いって）も、大学{だいがく}で教{おし}えているわけではない。
+= O araştırmacı de-sek de, üniversite-de ders ver-iyor değil.
++ 研究者|けんきゅうしゃ|araştırmacı
++ 大学|だいがく|üniversite
++ 教える|おしえる|öğretmek|教え
+20 担当者{たんとうしゃ}からの説明{せつめい}（なし）に契約{けいやく}を結{むす}ぶのは避{さ}けたほうがいい。
+= Sorumlu kişi-den açıklama al-ma-dan sözleşme yap-mak-tan kaçın-mak iyi ol-ur.
++ 担当者|たんとうしゃ|sorumlu kişi
++ 契約|けいやく|sözleşme
++ 結ぶ|むすぶ|bağlamak, yapmak (sözleşme)
++ 避ける|さける|kaçınmak|避け
+21 十分{じゅうぶん}な調査{ちょうさ}（なしに）結論{けつろん}を出{だ}してしまうと、後{あと}になって大{おお}きな問題{もんだい}が生{しょう}じる可能性{かのうせい}がある。
+= Yeterli araştırma yap-ma-dan sonuç-a var-ır-san, sonra büyük sorun-lar çık-abil-ir.
++ 調査|ちょうさ|araştırma
++ 結論|けつろん|sonuç, karar
++ 出す|だす|çıkarmak|出し
++ 後|あと|sonra
++ 問題|もんだい|sorun
++ 生じる|しょうじる|ortaya çıkmak
++ 可能性|かのうせい|ihtimal
+22 「日本文化{にほんぶんか}に詳{くわ}しい」と（いって）も、専門家{せんもんか}というわけではなく、趣味{しゅみ}で長年{ながねん}研究{けんきゅう}してきただけだ。
+= “Japon kültür-ü-nü iyi bil-ir” de-sek de, uzman değil, sadece hobi olarak uzun yıl-lar araştır-mış.
++ 文化|ぶんか|kültür
++ 詳しい|くわしい|bilgili
++ 専門家|せんもんか|uzman
++ 趣味|しゅみ|hobi
++ 長年|ながねん|uzun yıllar
++ 研究|けんきゅう|araştırma
+23 会議{かいぎ}が終{お}わった後{あと}、資料{しりょう}を机{つくえ}の上{うえ}に置{お}き（っぱなし）にして帰{かえ}ってしまったため、翌朝{よくあさ}、担当者{たんとうしゃ}が片付{かたづ}けることになった。
+= Toplantı bit-tik-ten sonra, belge-ler-i masa-nın üst-ü-nde bırak-ıp git-tiğ-im için, ertesi sabah sorumlu kişi topla-mak zorunda kal-dı.
++ 終わる|おわる|bitmek|終わっ
++ 机|つくえ|masa
++ 上|うえ|üst
++ 置く|おく|koymak, bırakmak|置き
++ 帰る|かえる|dönmek|帰っ
++ 翌朝|よくあさ|ertesi sabah
+24 経験者{けいけんしゃ}だと（いって）も、今回{こんかい}のような大規模{だいきぼ}なプロジェクトを担当{たんとう}するのは初{はじ}めてなので、本人{ほんにん}もかなり緊張{きんちょう}しているようだ。
+= Deneyim-li biri de-sek de, bu sefer-ki gibi büyük ölçek-li bir proje-yi üstlen-mek ilk kez ol-duğ-u için, kendi-si de epey gergin gibi.
++ 経験者|けいけんしゃ|deneyimli kişi
++ 今回|こんかい|bu sefer
++ 大規模|だいきぼ|büyük ölçekli
++ 担当|たんとう|sorumluluk, üstlenme
++ 初めて|はじめて|ilk kez
++ 緊張|きんちょう|gerginlik
+25 研究者{けんきゅうしゃ}本人{ほんにん}の同意{どうい}（なし）に、インタビューの内容{ないよう}を公開{こうかい}することは、研究倫理{けんきゅうりんり}の観点{かんてん}からも認{みと}められない。
+= Araştırmacı-nın kendi onay-ı olmadan, röportaj-ın içerik-i-ni yayımla-mak, araştırma etiğ-i açı-sın-dan da kabul ed-il-mez.
++ 内容|ないよう|içerik
++ 公開|こうかい|kamuya açma, yayımlama
++ 倫理|りんり|etik
++ 観点|かんてん|bakış açısı
++ 認める|みとめる|kabul etmek, onaylamak|認められ
