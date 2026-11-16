@@ -1,0 +1,113 @@
+@ jl26 N5–N4 · 26
+// 5R
+1 5ページを25枚{まい}コピーしてください。
+= 5. sayfa-dan 25 kopya çek-in.
++ 枚|まい|(yassı nesne sayacı) yaprak, tane
+// 4S1
+2 来週{らいしゅう}の日曜日{にちようび}、引{ひ}っ越{こ}しを手伝{てつだ}ってくれない？
+= Gelecek hafta pazar taşınma-ma yardım ed-er mi-sin?
++ 来週|らいしゅう|gelecek hafta
++ 日曜日|にちようび|pazar
++ 引っ越し|ひっこし|taşınma|引っ越し
++ 手伝う|てつだう|yardım etmek|手伝っ
+// 5V
+3 ちかくに山{やま}があります。
+= Yakın-da bir dağ var.
++ 山|やま|dağ
+// 5V1
+4 きょうしつで書{か}いてください。
+= Sınıf-ta yaz-ın.
++ 書く|かく|yazmak|書い
+// 4S
+5 来月{らいげつ}のコンサートのチケット、予約{よやく}してくれる？
+= Gelecek ay-ki konser-in bilet-ler-i-ni ayırt-ır mı-sın?
++ 来月|らいげつ|gelecek ay
++ 予約|よやく|rezervasyon
+// 4G
+6 すみません、山田{やまだ}さんはどこですか。
+= Affedersiniz, Yamada-san nere-de?
++ 山田|やまだ|Yamada (soyadı)
+// 5G
+7 えきのちかくの本屋{ほんや}は大{おお}きいお店{みせ}です。
+= İstasyon-un yakın-ın-daki kitapçı büyük bir mağaza.
++ 本屋|ほんや|kitapçı
++ 大きい|おおきい|büyük
++ 店|みせ|dükkân, mağaza
+// 4V1
+8 この国{くに}はこめをほかの国{くに}から買{か}っています。
+= Bu ülke pirinc-i başka ülke-ler-den al-ıyor.
++ 国|くに|ülke
++ 買う|かう|satın almak|買っ
+// 4G1
+9 半年{はんとし}前{まえ}、夏休{なつやす}みに日本人{にほんじん}のともだちと海{うみ}に行{い}きました。
+= Altı ay önce, yaz tatil-i-nde Japon bir arkadaş-ım-la deniz-e git-ti-m.
++ 半年|はんとし|altı ay, yarım yıl
++ 前|まえ|önce
++ 夏休み|なつやすみ|yaz tatili|夏休み
++ 日本人|にほんじん|Japon
++ 海|うみ|deniz
++ 行く|いく|gitmek|行き
+// 5S
+10 鉛筆{えんぴつ}と消{け}しゴムも出{だ}してください。
+= Kurşun kalem ve silgi-yi de çıkar-ın.
++ 鉛筆|えんぴつ|kurşun kalem
++ 消しゴム|けしゴム|silgi|消しゴム
++ 出す|だす|çıkarmak|出し
+// 4R1
+11 山田{やまだ}さんは「京都{きょうと}に行{い}く新幹線{しんかんせん}はたくさんあるから、次{つぎ}のでも大丈夫{だいじょうぶ}です。」と言{い}いました。
+= Yamada-san "Kyoto-ya gid-en hızlı tren çok, bir sonraki-yle de olur." de-di.
++ 京都|きょうと|Kyoto
++ 新幹線|しんかんせん|Shinkansen, hızlı tren
++ 次|つぎ|sonraki
++ 大丈夫|だいじょうぶ|sorun yok
++ 言う|いう|söylemek, demek|言い
+// 5G1
+12 私{わたし}の好{す}きな飲{の}み物{もの}はくだもののジュースです。
+= Sev-diğ-im içecek meyve suyu.
++ 私|わたし|ben
++ 好き|すき|sevilen, hoşa giden
++ 飲み物|のみもの|içecek|飲み物
+// 4S
+13 お土産{みやげ}を買{か}いました。先輩{せんぱい}にあげます。「これ、お土産{みやげ}です。どうぞ。」
+= Hediyelik al-dı-n. Üst dönem-den biri-ne ver-iyor-sun. "Bu sana hediye. Buyur."
++ お土産|おみやげ|hediyelik|お土産
++ 先輩|せんぱい|üst dönem öğrencisi, kıdemli
+// 5S1
+14 私{わたし}も冬休{ふゆやす}みに両親{りょうしん}に会{あ}いに帰{かえ}りますが、ここからうちまで電車{でんしゃ}で5時間{じかん}ぐらいかかりますよ。
+= Ben de kış tatil-i-nde anne baba-m-ı gör-me-ye dön-üyor-um ama bura-dan ev-e tren-le 5 saat kadar sür-üyor.
++ 冬休み|ふゆやすみ|kış tatili|冬休み
++ 両親|りょうしん|anne baba
++ 会う|あう|görüşmek|会い
++ 帰る|かえる|dönmek|帰り
++ 電車|でんしゃ|tren
++ 時間|じかん|saat (süre)
+// 4V
+15 けさせんたくしたふくがまだかわいていません。
+= Bu sabah yıka-dığ-ım giysi-ler henüz kuru-ma-dı.
+// 4R1
+16 高田{たかだ}先生{せんせい}の机{つくえ}の上{うえ}に、このメモがあります。
+= Takada Hoca'nın masa-sı-nın üst-ün-de bu not var.
++ 先生|せんせい|öğretmen, hoca
++ 机|つくえ|masa (çalışma)
++ 上|うえ|üst
+// 4S1
+17 田中{たなか}さんの仕事{しごと}は3時{じ}までだから、そろそろ終{お}わりだね。
+= Tanaka-san-ın iş-i saat 3'e kadar, yakında bit-iyor.
++ 田中|たなか|Tanaka (soyadı)
++ 仕事|しごと|iş
++ 時|じ|saat (…de)
++ 終わり|おわり|son, bitiş|終わり
+// 5G
+18 外国{がいこく}の本{ほん}も売{う}っています。わたしの国{くに}のもあります。
+= Yabancı kitap-lar da sat-ıyor-lar. Benim ülke-m-in-ki-ler de var.
++ 外国|がいこく|yabancı ülke
++ 本|ほん|kitap
++ 売る|うる|satmak|売っ
+// 4V
+19 もっときれいにかいてください。
+= Daha düzgün yaz-ın.
+// 5S1
+20 駅{えき}のそばの図書館{としょかん}ですか。
+= İstasyon-un yan-ın-daki kütüphane mi?
++ 駅|えき|istasyon
++ 図書館|としょかん|kütüphane

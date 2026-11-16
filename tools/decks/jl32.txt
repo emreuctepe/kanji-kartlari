@@ -1,0 +1,123 @@
+@ jl32 N5–N4 · 32
+// 5G1
+1 林{はやし}さん、そこにあるカメラは林{はやし}さんのですか。
+= Hayashi-san, şura-daki kamera sen-in mi?
++ 林|はやし|Hayashi (soyadı); koru
+// 4V1
+2 あしたの夜{よる}かぞくと出{で}かけます。
+= Yarın akşam aile-m-le dışarı çık-ıyor-um.
++ 夜|よる|gece, akşam
++ 出かける|でかける|dışarı çıkmak|出かけ
+// 5G1
+3 みなさんは何{なん}のジュースが好{す}きですか。好{す}きなジュースを教{おし}えてください。
+= Siz hangi meyve suyu-nu sev-er-siniz? Sev-diğ-iniz meyve suyu-nu söyle-yin.
++ 何|なん|ne
++ 好き|すき|sevilen, hoşa giden
++ 教える|おしえる|söylemek, öğretmek|教え
+// 5R
+4 クラスで使{つか}う本{ほん}を中川{なかがわ}先生{せんせい}にかりました。
+= Sınıf-ta kullan-acağ-ımız kitab-ı Nakagawa Hoca'dan ödünç al-dı-m.
++ 使う|つかう|kullanmak|使う
++ 本|ほん|kitap
++ 中川|なかがわ|Nakagawa (soyadı)
++ 先生|せんせい|öğretmen, hoca
+// 4S1
+5 言葉{ことば}を話{はな}す自動{じどう}販売機{はんばいき}もあって、東京{とうきょう}では東京{とうきょう}の言葉{ことば}を、大阪{おおさか}では大阪{おおさか}の言葉{ことば}を話{はな}すんだよ。
+= Konuş-an otomat-lar da var; Tokyo-da Tokyo ağz-ı-yla, Osaka-da Osaka ağz-ı-yla konuş-uyor-lar.
++ 言葉|ことば|söz, dil, ağız
++ 話す|はなす|konuşmak
++ 自動販売機|じどうはんばいき|otomat (satış makinesi)|自動販売機
++ 東京|とうきょう|Tokyo
++ 大阪|おおさか|Osaka
+// 5V
+6 この新聞{しんぶん}はいくらですか。
+= Bu gazete kaç para?
++ 新聞|しんぶん|gazete
+// 4S1
+7 多分{たぶん}、引{ひ}き出{だ}しの下{した}から2番目{ばんめ}に入{はい}っていると思{おも}う。
+= Galiba çekmece-nin alt-tan ikinci-si-nde duruyor.
++ 多分|たぶん|galiba, muhtemelen
++ 引き出し|ひきだし|çekmece|引き出し
++ 下|した|alt
++ 番目|ばんめ|…inci (sıra)
++ 入る|はいる|içinde olmak|入っ
++ 思う|おもう|düşünmek|思う
+// 4R1
+8 アイスクリームは、夏{なつ}に食{た}べるととてもおいしいですが、私{わたし}は寒{さむ}い冬{ふゆ}でも時々{ときどき}食{た}べます。
+= Dondurma yaz-ın yen-ince çok lezzetli-dir ama ben soğuk kış-ta bile ara sıra ye-r-im.
++ 夏|なつ|yaz
++ 食べる|たべる|yemek|食べる
++ 私|わたし|ben
++ 寒い|さむい|soğuk
++ 冬|ふゆ|kış
++ 時々|ときどき|ara sıra
+// 4S
+9 水曜日{すいようび}は、午前中{ごぜんちゅう}は晴{は}れますが、午後{ごご}から曇{くも}って、夜{よる}には雨{あめ}になるでしょう。
+= Çarşamba öğleden önce hava açık ol-acak ama öğleden sonra bulutlan-ıp gece yağmur yağ-acak.
++ 水曜日|すいようび|çarşamba
++ 午前中|ごぜんちゅう|öğleden önce
++ 晴れる|はれる|(hava) açmak|晴れ
++ 午後|ごご|öğleden sonra
++ 曇る|くもる|bulutlanmak|曇っ
++ 雨|あめ|yağmur
+// 5S1
+10 皆{みな}さん、明日{あした}から休{やす}みですね。
+= Arkadaşlar, yarın-dan itibaren tatil, değil mi?
++ 皆さん|みなさん|herkes, hepiniz|皆さん
++ 明日|あした|yarın
++ 休み|やすみ|tatil
+// 5V1
+11 しゃしんははこの中{なか}にあります。
+= Fotoğraf kutu-nun için-de.
++ 中|なか|iç
+// 4S
+12 本{ほん}を読{よ}むのが好{す}きだから、そうします。
+= Kitap oku-ma-yı sev-iyor, öyle yap-ayım.
++ 読む|よむ|okumak|読む
+// 4G
+13 山田{やまだ}さんは会議中{かいぎちゅう}ですが、会議{かいぎ}は11時半{じはん}までには終{お}わると思{おも}いますよ。
+= Yamada-san toplantı-da ama toplantı 11 buçuğ-a kadar bit-er bence.
++ 山田|やまだ|Yamada (soyadı)
++ 会議中|かいぎちゅう|toplantıda
++ 会議|かいぎ|toplantı
++ 時半|じはん|saat … buçuk
++ 終わる|おわる|bitmek|終わる
+// 4G
+14 わたしの父{ちち}は中国語{ちゅうごくご}も英語{えいご}も話{はな}せます。
+= Baba-m hem Çince hem İngilizce konuş-abil-ir.
++ 父|ちち|(kendi) baba
++ 中国語|ちゅうごくご|Çince
++ 英語|えいご|İngilizce
+// 4V
+15 でんしゃの中{なか}でさわがないでください。
+= Tren-de gürültü yap-ma-yın.
+// 5R1
+16 今日{きょう}出川{でがわ}先生{せんせい}はお昼{ひる}までお休{やす}みです。
+= Bugün Degawa Hoca öğlen-e kadar izin-li.
++ 今日|きょう|bugün
++ お昼|おひる|öğle|お昼
++ お休み|おやすみ|izin, tatil|お休み
+// 4G1
+17 メールを書{か}くことが多{おお}いです。
+= Çoğunlukla e-posta yaz-ar-ım.
++ 書く|かく|yazmak
++ 多い|おおい|çok
+// 4R
+18 今年{ことし}の夏{なつ}、わたしは家族{かぞく}で山{やま}の中{なか}にあるホテルに泊{と}まりました。
+= Bu yaz aile-ce dağ-ın için-deki bir otel-de kal-dı-k.
++ 今年|ことし|bu yıl
++ 家族|かぞく|aile
++ 山|やま|dağ
++ 泊まる|とまる|konaklamak|泊まり
+// 5S1
+19 あ、すみません、卵{たまご}は3個{こ}お願{ねが}いします。
+= Ah, pardon, yumurta üç tane ol-sun lütfen.
++ 卵|たまご|yumurta
++ 個|こ|(küçük nesne sayacı) tane
++ お願い|おねがい|rica|お願い
+// 4S1
+20 卵{たまご}が安{やす}くなるサービスは、夕方{ゆうがた}の1時間{じかん}だけなんです。
+= Yumurta-nın ucuzla-dığ-ı kampanya akşamüstü sadece bir saat.
++ 安い|やすい|ucuz|安く
++ 夕方|ゆうがた|akşamüstü
++ 時間|じかん|saat (süre)

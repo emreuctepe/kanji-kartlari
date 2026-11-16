@@ -1,0 +1,128 @@
+@ jl35 N5–N4 · 35
+// 4S
+1 国{くに}の両親{りょうしん}に写真{しゃしん}を送{おく}りたいんだけど、どれがいいと思{おも}う？
+= Memleket-teki anne baba-m-a fotoğraf gönder-mek istiyor-um, sence hangisi iyi?
++ 国|くに|ülke, memleket
++ 両親|りょうしん|anne baba
++ 写真|しゃしん|fotoğraf
++ 送る|おくる|göndermek|送り
++ 思う|おもう|düşünmek|思う
+// 4S1
+2 お昼{ひる}ごはんは必要{ひつよう}ありません。小学校{しょうがっこう}が準備{じゅんび}してくれます。
+= Öğle yemeğ-i gerek-me-z. İlkokul hazırla-yacak.
++ お昼|おひる|öğle|お昼
++ 必要|ひつよう|gerekli
++ 小学校|しょうがっこう|ilkokul
++ 準備|じゅんび|hazırlık
+// 5S1
+3 午後{ごご}は1階{かい}の3番{ばん}の教室{きょうしつ}で授業{じゅぎょう}をします。
+= Öğleden sonra zemin kat-taki 3 numara-lı sınıf-ta ders yap-acağ-ız.
++ 午後|ごご|öğleden sonra
++ 階|かい|kat
++ 番|ばん|numara
++ 教室|きょうしつ|sınıf, derslik
++ 授業|じゅぎょう|ders
+// 4G
+4 田中{たなか}さんからは腕時計{うでどけい}をもらいました。
+= Tanaka-san-dan kol saat-i al-dı-m.
++ 田中|たなか|Tanaka (soyadı)
++ 腕時計|うでどけい|kol saati
+// 4G1
+5 先週{せんしゅう}庭{にわ}の木{き}のえだを切{き}りました。ぜんぶ切{き}るのに2時間{じかん}かかりました。
+= Geçen hafta bahçe-deki ağac-ın dal-lar-ı-nı kes-ti-m. Hepsi-ni kes-mek iki saat sür-dü.
++ 先週|せんしゅう|geçen hafta
++ 庭|にわ|bahçe
++ 木|き|ağaç
++ 切る|きる|kesmek|切り
++ 時間|じかん|saat (süre)
+// 5V
+6 このカメラは安{やす}いです。
+= Bu kamera ucuz.
++ 安い|やすい|ucuz
+// 4R1
+7 レジの人{ひと}が「白{しろ}いのは、使{つか}うと消{け}しゴムが黒{くろ}く汚{よご}れて嫌{いや}だと言{い}う人{ひと}が多{おお}いから、黒{くろ}いのを作{つく}ったそうですよ。」と教{おし}えてくれました。
+= Kasiyer "Beyaz-lar-ı kullan-ınca silgi kararıp kirlen-iyor, bu-ndan hoşlan-mayan çok kişi var, o yüzden siyah-ı-nı yap-mış-lar." diye anlat-tı.
++ 人|ひと|kişi
++ 白い|しろい|beyaz
++ 使う|つかう|kullanmak|使う
++ 消しゴム|けしゴム|silgi|消しゴム
++ 黒い|くろい|siyah|黒く
++ 汚れる|よごれる|kirlenmek|汚れ
++ 嫌|いや|hoşa gitmeyen|嫌
++ 言う|いう|söylemek|言う
++ 多い|おおい|çok
++ 作る|つくる|yapmak|作っ
++ 教える|おしえる|anlatmak, öğretmek|教え
+// 4V
+8 まいばん日記{にっき}を書{か}いています。
+= Her akşam günlük yaz-ıyor-um.
++ 日記|にっき|günlük
++ 書く|かく|yazmak|書い
+// 5G
+9 たまごりょうりのじょうずな作{つく}りかたを何{なに}かで読{よ}みました。
+= Yumurta yemeğ-i-nin iyi bir tarif-i-ni bir yer-de oku-du-m.
++ 作りかた|つくりかた|yapılış, tarif|作りかた
++ 何か|なにか|bir şey (何かで: bir yerde)|何か
++ 読む|よむ|okumak|読み
+// 5R
+10 本{ほん}がたくさんありますから、もっと大{おお}きい本{ほん}だながほしいです。
+= Kitap-lar-ım çok, daha büyük bir kitaplık istiyor-um.
++ 本|ほん|kitap
++ 大きい|おおきい|büyük
++ 本だな|ほんだな|kitaplık|本だな
+// 4V
+11 きょうは食堂{しょくどう}がこんでいました。
+= Bugün yemekhane kalabalık-tı.
++ 食堂|しょくどう|yemekhane
+// 4G
+12 誕生日{たんじょうび}おめでとうございます。これ、プレゼントです。どうぞ。
+= Doğum gün-ün kutlu olsun. Bu sana hediye. Buyur.
++ 誕生日|たんじょうび|doğum günü
+// 5S
+13 先生{せんせい}、ノートはどうしますか。
+= Hocam, defter-i ne yap-alım?
++ 先生|せんせい|öğretmen, hoca
+// 5S1
+14 明日{あした}の午前{ごぜん}は、クラスに日本人{にほんじん}の学生{がくせい}が来{き}ますから、広{ひろ}い教室{きょうしつ}で授業{じゅぎょう}をします。
+= Yarın öğleden önce sınıf-a Japon öğrenci-ler gel-ecek, o yüzden geniş bir sınıf-ta ders yap-acağ-ız.
++ 明日|あした|yarın
++ 午前|ごぜん|öğleden önce
++ 日本人|にほんじん|Japon
++ 学生|がくせい|öğrenci
++ 来る|くる|gelmek|来
++ 広い|ひろい|geniş
+// 4R1
+15 教室{きょうしつ}でクラスの先生{せんせい}に言{い}ってください。
+= Sınıf-ta kendi öğretmen-iniz-e söyle-yin.
++ 言う|いう|söylemek|言っ
+// 5V1
+16 このいすは小{ちい}さいです。
+= Bu sandalye küçük.
++ 小さい|ちいさい|küçük
+// 4R
+17 ホテルは小{ちい}さくて古{ふる}かったですが、中{なか}はとてもきれいでした。
+= Otel küçük ve eski-ydi ama iç-i çok temiz-di.
++ 古い|ふるい|eski|古かっ
++ 中|なか|iç
+// 4S1
+18 泳{およ}いだり、海岸{かいがん}を散歩{さんぽ}したりしたかったんですけど、友達{ともだち}に用事{ようじ}ができてしまって、食事{しょくじ}のあと、すぐに帰{かえ}りました。
+= Yüz-mek, sahil-de yürü-mek istiyor-du-k ama arkadaş-ım-ın iş-i çık-tı, yemek-ten sonra hemen dön-dü-k.
++ 泳ぐ|およぐ|yüzmek|泳い
++ 海岸|かいがん|sahil
++ 散歩|さんぽ|yürüyüş
++ 友達|ともだち|arkadaş
++ 用事|ようじ|iş, yapılacak şey
++ 食事|しょくじ|yemek (yeme)
++ 帰る|かえる|dönmek|帰り
+// 5S
+19 いま、姉{あね}と一緒{いっしょ}に住{す}んでいます。
+= Şimdi abla-m-la birlikte otur-uyor-um.
++ 姉|あね|(kendi) abla
++ 一緒|いっしょ|birlikte
++ 住む|すむ|oturmak, yaşamak|住ん
+// 4S1
+20 ごめん、今日{きょう}のお昼{ひる}に全部{ぜんぶ}食{た}べたの。
+= Kusura bakma, bugün öğlen hepsi-ni ye-di-m.
++ 今日|きょう|bugün
++ 全部|ぜんぶ|hepsi
++ 食べる|たべる|yemek|食べ

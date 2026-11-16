@@ -1,0 +1,114 @@
+@ jl36 N5–N4 · 36
+// 5S
+1 あ、でも、明日{あした}はテストがありますから、今日{きょう}は4時間{じかん}勉強{べんきょう}します。
+= Ah, ama yarın sınav var, bugün dört saat çalış-acağ-ım.
++ 明日|あした|yarın
++ 今日|きょう|bugün
++ 時間|じかん|saat (süre)
++ 勉強|べんきょう|ders çalışma
+// 5R1
+2 「日本語{にほんご}1」のしゅくだいは来週{らいしゅう}出{だ}してください。
+= "Japonca 1" ödev-i-ni gelecek hafta teslim ed-in.
++ 日本語|にほんご|Japonca
++ 来週|らいしゅう|gelecek hafta
++ 出す|だす|teslim etmek, vermek|出し
+// 4S
+3 金曜日{きんようび}と土日{どにち}は晴{は}れて、いい天気{てんき}になるでしょう。
+= Cuma ve hafta sonu hava açık ve güzel ol-acak.
++ 金曜日|きんようび|cuma
++ 土日|どにち|hafta sonu (cumartesi-pazar)
++ 晴れる|はれる|(hava) açmak|晴れ
++ 天気|てんき|hava
+// 5S1
+4 レストランでコーヒーが来{き}ません。「コーヒーはまだですか。」
+= Restoran-da kahve-n gel-mi-yor. "Kahve-m hâlâ gel-me-di mi?"
++ 来る|くる|gelmek|来
+// 5S1
+5 夜{よる}のクラスはありますか。
+= Akşam sınıf-ı var mı?
++ 夜|よる|gece, akşam
+// 4G1
+6 ええ。あ、でも、あそこの席{せき}が空{あ}きそうですよ。
+= Evet. Ah, ama şura-daki yer boşal-acak gibi.
++ 席|せき|yer, koltuk
++ 空く|あく|boşalmak|空き
+// 5V
+7 ごはんの後{あと}でさんぽします。
+= Yemek-ten sonra yürüyüş yap-ar-ım.
++ 後|あと|sonra
+// 4S
+8 じゃあ、タオルはどう？よくスポーツをしているから。
+= O zaman havlu-ya ne dersin? Sık sık spor yap-ıyor.
+// 4S1
+9 「もうすぐ森{もり}さんの誕生日{たんじょうび}だね。プレゼントは、何{なに}にしようか。」「んー、Tシャツはどう？」
+= "Yakında Mori-san-ın doğum gün-ü. Hediye ne ol-sun?" "Hmm, tişört-e ne dersin?"
++ 森|もり|Mori (soyadı)
++ 誕生日|たんじょうび|doğum günü
++ 何|なに|ne
+// 5V
+10 しゅくだいが半分{はんぶん}おわりました。
+= Ödev-in yarı-sı bit-ti.
++ 半分|はんぶん|yarı
+// 5S1
+11 いえ、会社員{かいしゃいん}です。結婚{けっこん}して、子供{こども}が二人{ふたり}いますよ。
+= Hayır, şirket çalışan-ı. Evlen-di, iki çocuğ-u var.
++ 会社員|かいしゃいん|şirket çalışanı
++ 結婚|けっこん|evlilik
++ 子供|こども|çocuk
++ 二人|ふたり|iki kişi
+// 5S
+12 晩{ばん}ご飯{はん}のあとは、テレビを見{み}たり、買{か}い物{もの}をしたりしてください。
+= Akşam yemeğ-i-nden sonra televizyon izle-yin, alışveriş yap-ın, ne isterseniz.
++ 晩ご飯|ばんごはん|akşam yemeği|晩ご飯
++ 見る|みる|izlemek|見
++ 買い物|かいもの|alışveriş|買い物
+// 5S1
+13 だから、ピザ屋{や}に行{い}きます。
+= Bu yüzden pizzacı-ya gid-iyor-uz.
++ ピザ屋|ピザや|pizzacı|ピザ屋
++ 行く|いく|gitmek|行き
+// 4S1
+14 卓球{たっきゅう}をするとき、体育館{たいいくかん}で履{は}く靴{くつ}が必要{ひつよう}です。
+= Masa tenis-i oyna-r-ken spor salon-u-nda giy-il-ecek ayakkabı gerek.
++ 卓球|たっきゅう|masa tenisi
++ 体育館|たいいくかん|spor salonu
++ 履く|はく|(ayakkabı) giymek|履く
++ 靴|くつ|ayakkabı
++ 必要|ひつよう|gerekli
+// 4G1
+15 いすが一{ひと}つ足{た}りないので、となりの会議室{かいぎしつ}から持{も}ってきてもらえますか。
+= Bir sandalye eksik, yan-daki toplantı oda-sı-ndan getir-ebil-ir mi-siniz?
++ 一つ|ひとつ|bir (tane)|一つ
++ 足りる|たりる|yetmek|足り
++ 会議室|かいぎしつ|toplantı odası
++ 持つ|もつ|tutmak (持ってくる: getirmek)|持っ
+// 5S
+16 でも今日{きょう}は土曜日{どようび}だから、学校{がっこう}の食堂{しょくどう}や喫茶店{きっさてん}は休{やす}みですよ。
+= Ama bugün cumartesi, okul-un yemekhane-si de kafe-si de kapalı.
++ 土曜日|どようび|cumartesi
++ 学校|がっこう|okul
++ 食堂|しょくどう|yemekhane
++ 喫茶店|きっさてん|kafe
++ 休み|やすみ|tatil, kapalı
+// 4R
+17 このホテルは便利{べんり}ではありませんでしたが、山{やま}や湖{みずうみ}でいろいろなことができました。
+= Bu otel kullanışlı değil-di ama dağ-da ve göl-de pek çok şey yap-abil-di-k.
++ 便利|べんり|kullanışlı
++ 山|やま|dağ
++ 湖|みずうみ|göl
+// 5V1
+18 きれいな空{そら}ですね。
+= Ne güzel bir gökyüzü.
++ 空|そら|gökyüzü
+// 4S
+19 ごめん。今{いま}から授業{じゅぎょう}があるんだ。
+= Kusura bakma. Şimdi ders-im var.
++ 今|いま|şimdi
++ 授業|じゅぎょう|ders
+// 5S
+20 郵便局{ゆうびんきょく}で切手{きって}を買{か}います。「切手{きって}を下{くだ}さい。」
+= Postane-de pul al-ıyor-sun. "Pul ver-ir mi-siniz."
++ 郵便局|ゆうびんきょく|postane
++ 切手|きって|pul
++ 買う|かう|satın almak|買い
++ 下さい|ください|lütfen verin|下さい

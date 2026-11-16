@@ -1,0 +1,115 @@
+@ jl37 N5–N4 · 37
+// 5S
+1 このテストでは、辞書{じしょ}を使{つか}う問題{もんだい}がありますから、机{つくえ}の上{うえ}に辞書{じしょ}を出{だ}してください。
+= Bu sınav-da sözlük kullan-ıl-acak soru-lar var, sözlüğ-ü masa-nın üst-ün-e çıkar-ın.
++ 辞書|じしょ|sözlük
++ 使う|つかう|kullanmak|使う
++ 問題|もんだい|soru, sorun
++ 机|つくえ|masa (çalışma)
++ 上|うえ|üst
++ 出す|だす|çıkarmak|出し
+// 5S
+2 あのう、山田{やまだ}さんの電話{でんわ}番号{ばんごう}は、512-7734ですね？
+= Şey, Yamada-san, telefon numara-n 512-7734, değil mi?
++ 山田|やまだ|Yamada (soyadı)
++ 電話番号|でんわばんごう|telefon numarası|電話番号
+// 4S1
+3 じゃ、この紙{かみ}に名前{なまえ}と新{あたら}しい住所{じゅうしょ}と電話{でんわ}番号{ばんごう}を書{か}いてください。
+= O zaman bu kâğıd-a isim-in-i, yeni adres-in-i ve telefon numara-n-ı yaz.
++ 紙|かみ|kâğıt
++ 名前|なまえ|isim
++ 新しい|あたらしい|yeni
++ 住所|じゅうしょ|adres
++ 書く|かく|yazmak|書い
+// 5S1
+4 日曜日{にちようび}、佐藤{さとう}さんのうちでパーティーをしますね。何{なに}か持{も}っていきましょうか。
+= Pazar günü Satō-san-ın ev-in-de parti var ya. Bir şey getir-eyim mi?
++ 日曜日|にちようび|pazar
++ 佐藤|さとう|Satō (soyadı)
++ 何か|なにか|bir şey|何か
++ 持つ|もつ|tutmak, taşımak (持っていく: götürmek)|持っ
+// 4V
+5 このにもつをあそこにはこんでください。
+= Bu yük-ü şura-ya taşı-yın.
+// 4S1
+6 いつまでに返{かえ}さなければなりませんか。
+= Ne zaman-a kadar geri ver-mem gerek-iyor?
++ 返す|かえす|geri vermek|返さ
+// 4G1
+7 私{わたし}のしゅみは水泳{すいえい}です。毎週{まいしゅう}プールで泳{およ}いでいます。
+= Hobi-m yüzme. Her hafta havuz-da yüz-üyor-um.
++ 私|わたし|ben
++ 水泳|すいえい|yüzme
++ 毎週|まいしゅう|her hafta
++ 泳ぐ|およぐ|yüzmek|泳い
+// 4R1
+8 私{わたし}も、外国{がいこく}に住{す}んでいたとき、いろいろな人{ひと}に親切{しんせつ}にしてもらいましたから。
+= Çünkü ben de yurt dışı-nda yaşa-r-ken pek çok insan ban-a iyilik yap-mış-tı.
++ 外国|がいこく|yabancı ülke
++ 住む|すむ|yaşamak, oturmak|住ん
++ 人|ひと|insan
++ 親切|しんせつ|nazik, iyiliksever
+// 4S
+9 じゃあ、黄色{きいろ}いボタンを押{お}してください。薄{うす}くするときは、白{しろ}いボタンです。
+= O zaman sarı düğme-ye bas-ın. Açık yap-mak için beyaz düğme.
++ 黄色い|きいろい|sarı
++ 押す|おす|basmak|押し
++ 薄い|うすい|açık (renk), ince|薄く
++ 白い|しろい|beyaz
+// 5S
+10 ええ。じゃ、明日{あした}5時{じ}に会{あ}いましょう。
+= Tamam. O zaman yarın saat 5'te buluş-alım.
++ 明日|あした|yarın
++ 時|じ|saat (…de)
++ 会う|あう|buluşmak|会い
+// 5V1
+11 このへやはあかるくないですね。
+= Bu oda aydınlık değil, değil mi?
+// 4R
+12 アリさんの机{つくえ}の上{うえ}に、このメモと本{ほん}が置{お}いてあります。
+= Ali-san-ın masa-sı-nın üst-ün-de bu not ve kitap-lar bırak-ıl-mış.
++ 本|ほん|kitap
++ 置く|おく|koymak, bırakmak|置い
+// 5V
+13 えきからたいしかんまでのちずをかいてください。
+= İstasyon-dan büyükelçilik-e kadar-ki harita-yı çiz-in.
+// 4S
+14 よく花{はな}や果物{くだもの}を持{も}っていきます。
+= Genellikle çiçek ya da meyve götür-ül-ür.
++ 花|はな|çiçek
++ 果物|くだもの|meyve
+// 4V1
+15 わたしのむすこは、1年{ねん}で5センチくらいせが高{たか}くなりました。
+= Oğl-um bir yıl-da 5 santim kadar uza-dı.
++ 年|ねん|yıl
++ 高い|たかい|yüksek, uzun (boy)|高く
+// 4S
+16 若{わか}い人{ひと}なら音楽{おんがく}のCDもいいと思{おも}いますよ。
+= Genç biri-yse müzik CD-si de iyi olur bence.
++ 若い|わかい|genç
++ 音楽|おんがく|müzik
++ 思う|おもう|düşünmek|思い
+// 4R1
+17 電車{でんしゃ}に乗{の}って、一人{ひとり}になった私{わたし}は、山田{やまだ}さんの言葉{ことば}を思{おも}い出{だ}して、心{こころ}が温{あたた}かくなりました。
+= Tren-e bin-ip yalnız kal-ınca Yamada-san-ın söz-ler-i-ni hatırla-dı-m ve içim ısın-dı.
++ 電車|でんしゃ|tren
++ 乗る|のる|binmek|乗っ
++ 一人|ひとり|tek başına; bir kişi
++ 言葉|ことば|söz
++ 思い出す|おもいだす|hatırlamak|思い出し
++ 心|こころ|kalp, gönül
++ 温かい|あたたかい|sıcak, sıcacık|温かく
+// 4R
+18 しかし、このホテルにはどちらもありません。それから、冷蔵庫{れいぞうこ}もエアコンもありません。
+= Ama bu otel-de ikisi de yok. Üstelik buzdolabı da klima da yok.
++ 冷蔵庫|れいぞうこ|buzdolabı
+// 4S
+19 それから、会議室{かいぎしつ}の準備{じゅんび}だけど、いすを並{なら}べておいてくれる？
+= Bir de toplantı oda-sı-nın hazırlığ-ı, sandalye-ler-i diz-iver-ir mi-sin?
++ 会議室|かいぎしつ|toplantı odası
++ 準備|じゅんび|hazırlık
++ 並べる|ならべる|dizmek, sıralamak|並べ
+// 5V
+20 かさは外{そと}にあります。
+= Şemsiye dışarı-da.
++ 外|そと|dışarı

@@ -1,0 +1,117 @@
+@ jl30 N5–N4 · 30
+// 4G1
+1 山田{やまだ}さん、あしたの午後{ごご}、サッカーの練習{れんしゅう}に行{い}きますか。
+= Yamada-san, yarın öğleden sonra futbol antrenman-ı-na gid-iyor mu-sun?
++ 山田|やまだ|Yamada (soyadı)
++ 午後|ごご|öğleden sonra
++ 練習|れんしゅう|antrenman, alıştırma
++ 行く|いく|gitmek|行き
+// 4S1
+2 私{わたし}が驚{おどろ}いたのは種類{しゅるい}だよ。私{わたし}の国{くに}では、売{う}っているのは飲{の}み物{もの}がほとんどだよ。
+= Beni şaşırtan çeşit-ler-i. Benim ülke-m-de sat-ıl-an-lar-ın çoğu içecek.
++ 私|わたし|ben
++ 驚く|おどろく|şaşırmak|驚い
++ 種類|しゅるい|çeşit, tür
++ 国|くに|ülke
++ 売る|うる|satmak|売っ
++ 飲み物|のみもの|içecek|飲み物
+// 4R1
+3 4月{がつ}に行{おこな}われるもので、お店{みせ}の中{なか}で音楽{おんがく}を聞{き}きながら、お昼{ひる}に食事{しょくじ}ができるものがいいです。
+= Nisan-da yap-ıl-an, mekân için-de müzik dinle-r-ken öğle yemeğ-i yen-ebil-en bir etkinlik ol-sun.
++ 月|がつ|(ay adı) …ay
++ 行う|おこなう|yapmak, düzenlemek|行われる
++ 店|みせ|dükkân, mekân
++ 中|なか|iç
++ 音楽|おんがく|müzik
++ 聞く|きく|dinlemek|聞き
++ お昼|おひる|öğle; öğle yemeği|お昼
++ 食事|しょくじ|yemek (yeme)
+// 5G1
+4 日曜日{にちようび}に、私{わたし}の家{いえ}でアンさんとべんきょうをします。キムさんも来{き}ませんか。
+= Pazar günü ev-im-de An-san-la ders çalış-acağ-ız. Kim-san, sen de gel-me-z mi-sin?
++ 日曜日|にちようび|pazar
++ 家|いえ|ev
++ 来る|くる|gelmek|来
+// 5G
+5 あ、北山{きたやま}花子{はなこ}です。すみません、ひろこさんをおねがいします。
+= Ah, ben Kitayama Hanako. Rica etsem Hiroko-san-ı ver-ir mi-siniz?
++ 北山|きたやま|Kitayama (soyadı)
++ 花子|はなこ|Hanako (kız adı)
+// 5S1
+6 日本{にほん}からジョージさんの国{くに}まで、飛行機{ひこうき}でどのぐらいですか。
+= Japonya-dan George-san-ın ülke-si-ne uçak-la ne kadar sür-üyor?
++ 日本|にほん|Japonya
++ 飛行機|ひこうき|uçak
+// 5V1
+7 これはりょうしんのしゃしんです。
+= Bu anne baba-m-ın fotoğraf-ı.
+// 5G1
+8 すみません、いちごのケーキを二{ふた}つください。
+= Pardon, çilekli pasta-dan iki tane lütfen.
++ 二つ|ふたつ|iki (tane)|二つ
+// 5G
+9 わたしはこの本{ほん}を買{か}います。アンナさんはどんな本{ほん}がいいですか。
+= Ben bu kitab-ı al-ıyor-um. Anna-san, sen nasıl bir kitap ister-sin?
++ 本|ほん|kitap
++ 買う|かう|satın almak|買い
+// 5S1
+10 今朝{けさ}学校{がっこう}では、駅{えき}の前{まえ}のカレー屋{や}に来{き}てくださいと言{い}いましたが、今日{きょう}は店{みせ}が休{やす}みです。
+= Bu sabah okul-da istasyon-un ön-ün-deki köri lokanta-sı-na gel-in de-di-m ama bugün dükkân kapalı.
++ 今朝|けさ|bu sabah
++ 学校|がっこう|okul
++ 駅|えき|istasyon
++ 前|まえ|ön
++ カレー屋|カレーや|köri lokantası|カレー屋
++ 言う|いう|söylemek|言い
++ 今日|きょう|bugün
++ 休み|やすみ|tatil, kapalı
+// 4G
+11 あしたいっしょにドライブに行{い}きませんか。
+= Yarın birlikte araba gezinti-si-ne git-me-z mi-yiz?
+// 5R
+12 あらきやでトイレットペーパーとにくとやさいを同{おな}じ日{ひ}に買{か}いたいです。
+= Arakiya-dan tuvalet kâğıd-ı, et ve sebze-yi aynı gün al-mak istiyor-um.
++ 同じ|おなじ|aynı|同じ
++ 日|ひ|gün
+// 5G1
+13 先週{せんしゅう}ともだちにもらった外国{がいこく}のこうちゃはとてもおいしかったです。
+= Geçen hafta arkadaş-ım-dan al-dığ-ım yabancı siyah çay çok lezzetli-ydi.
++ 先週|せんしゅう|geçen hafta
++ 外国|がいこく|yabancı ülke
+// 4V1
+14 そのいけんには反対{はんたい}です。
+= O görüş-e karşı-yım.
++ 反対|はんたい|karşı olma
+// 4S1
+15 学生{がくせい}のとき、よく一緒{いっしょ}に山{やま}に登{のぼ}っていた友達{ともだち}なんですが、久{ひさ}しぶりに会{あ}ったんです。
+= Öğrenci-yken sık sık birlikte dağ-a tırman-dığ-ım bir arkadaş-ım, uzun zaman sonra görüş-tü-k.
++ 学生|がくせい|öğrenci
++ 一緒|いっしょ|birlikte
++ 山|やま|dağ
++ 登る|のぼる|tırmanmak|登っ
++ 友達|ともだち|arkadaş
++ 久しぶり|ひさしぶり|uzun zaman sonra|久しぶり
++ 会う|あう|görüşmek|会っ
+// 4V1
+16 おとうとはあのきっさてんではたらいています。
+= Küçük kardeş-im şu kafe-de çalış-ıyor.
+// 5S1
+17 休{やす}みは四日{よっか}から九日{ここのか}まで六日間{むいかかん}です。
+= Tatil ayın 4'ün-den 9'u-na kadar altı gün.
++ 四日|よっか|ayın dördü; dört gün
++ 九日|ここのか|ayın dokuzu; dokuz gün
++ 六日間|むいかかん|altı gün (süre)
+// 4S1
+18 あれ、チーズはまだたくさんあったよね。
+= Aa, peynir daha bol-du, değil mi?
+// 4S
+19 将来{しょうらい}は、小学校{しょうがっこう}の先生{せんせい}になりたいです。
+= Gelecek-te ilkokul öğretmen-i ol-mak istiyor-um.
++ 将来|しょうらい|gelecek
++ 小学校|しょうがっこう|ilkokul
++ 先生|せんせい|öğretmen
+// 4S1
+20 自分{じぶん}で渡{わた}したほうがいいよ。
+= Kendin ver-sen daha iyi.
++ 自分|じぶん|kendi
++ 渡す|わたす|vermek, teslim etmek|渡し

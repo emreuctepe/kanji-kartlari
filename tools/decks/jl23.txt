@@ -1,0 +1,112 @@
+@ jl23 N5–N4 · 23
+// 4S
+1 「あ、田中{たなか}さん、黒板{こくばん}を消{け}しておいてくれませんか。」「はい、すぐにやります。」
+= "Ah, Tanaka-san, tahta-yı sil-iver-ir mi-sin?" "Tamam, hemen yap-ar-ım."
++ 田中|たなか|Tanaka (soyadı)
++ 黒板|こくばん|kara tahta
++ 消す|けす|silmek; söndürmek|消し
+// 4S1
+2 土曜日{どようび}、仕事{しごと}の帰{かえ}りに花見{はなみ}に行{い}かない？
+= Cumartesi iş dönüş-ü çiçek seyr-i-ne git-me-y-elim mi?
++ 土曜日|どようび|cumartesi
++ 仕事|しごと|iş
++ 帰り|かえり|dönüş|帰り
++ 花見|はなみ|kiraz çiçeği seyri
++ 行く|いく|gitmek|行か
+// 5V1
+3 このへやはあついですから、まどをあけましょう。
+= Bu oda sıcak, pencere-yi aç-alım.
+// 4G
+4 先生{せんせい}、この言葉{ことば}はどういう意味{いみ}ですか。
+= Hocam, bu kelime ne anlam-a gel-iyor?
++ 先生|せんせい|öğretmen, hoca
++ 言葉|ことば|kelime, söz
++ 意味|いみ|anlam
+// 4S1
+5 お祭{まつ}りみたいで、にぎやかで楽{たの}しそうだけど、ちょっと疲{つか}れるね。
+= Festival gibi, hareketli ve eğlenceli görün-üyor ama biraz yorucu.
++ お祭り|おまつり|festival, şenlik|お祭り
++ 楽しい|たのしい|eğlenceli|楽し
++ 疲れる|つかれる|yorulmak|疲れる
+// 5G1
+6 先週{せんしゅう}の土曜日{どようび}はいい天気{てんき}でした。
+= Geçen cumartesi hava güzel-di.
++ 先週|せんしゅう|geçen hafta
++ 天気|てんき|hava (durumu)
+// 4V
+7 かいぎの場所{ばしょ}をおしえてください。
+= Toplantı-nın yer-i-ni söyle-r mi-siniz.
++ 場所|ばしょ|yer
+// 4V1
+8 おきゃくさんが来{き}ますから、へやに花{はな}をかざりましょう。
+= Misafir gel-ecek, oda-yı çiçek-le süsle-yelim.
++ 来る|くる|gelmek|来
++ 花|はな|çiçek
+// 5V
+9 えんぴつが六本{ろっぽん}あります。
+= Altı kalem var.
++ 六本|ろっぽん|altı tane (uzun nesne)
+// 5V
+10 めがねはつくえのうえにあります。
+= Gözlük masa-nın üst-ün-de.
+// 5S
+11 今{いま}6時{じ}50分{ぷん}ですから、すぐに行{い}ってください。
+= Şimdi saat 6:50, hemen gid-in.
++ 今|いま|şimdi
++ 時|じ|saat (…de)
++ 分|ふん|dakika
+// 4G
+12 ありがとうございます。大切{たいせつ}にします。
+= Teşekkür ederim. Özen-le sakla-yacağ-ım.
++ 大切|たいせつ|değerli (大切にする: özenle saklamak)
+// 5V1
+13 とけいをわすれましたから、じかんがわかりません。
+= Saat-im-i unut-tu-m, saat-in kaç ol-duğ-u-nu bil-mi-yor-um.
+// 5G
+14 日本{にほん}に来{き}てから、いろいろな店{みせ}で食{た}べました。
+= Japonya-ya gel-dik-ten sonra çeşitli dükkân-lar-da ye-di-m.
++ 日本|にほん|Japonya
++ 店|みせ|dükkân
++ 食べる|たべる|yemek|食べ
+// 4S
+15 海{うみ}からの美{うつく}しい景色{けしき}を楽{たの}しむことができます。
+= Deniz-den güzel manzara-nın tadı-nı çıkar-abil-ir-siniz.
++ 海|うみ|deniz
++ 美しい|うつくしい|güzel
++ 景色|けしき|manzara
++ 楽しむ|たのしむ|keyfini çıkarmak
+// 5S
+16 この薬{くすり}は、朝{あさ}と夜{よる}、ご飯{はん}を食{た}べたあとで飲{の}んでください。
+= Bu ilac-ı sabah ve akşam yemek-ten sonra iç-in.
++ 薬|くすり|ilaç
++ 朝|あさ|sabah
++ 夜|よる|gece, akşam
++ ご飯|ごはん|yemek; pilav|ご飯
++ 飲む|のむ|içmek|飲ん
+// 4G
+17 わたしの家{いえ}には「ポチ」という名前{なまえ}の犬{いぬ}がいます。
+= Ev-imiz-de "Pochi" ad-lı bir köpek var.
++ 家|いえ|ev
++ 名前|なまえ|isim
++ 犬|いぬ|köpek
+// 4R
+18 それから、図書館{としょかん}の新聞{しんぶん}によい本{ほん}の紹介文{しょうかいぶん}を書{か}いたり、小{ちい}さな子{こ}どもたちに絵本{えほん}を読{よ}んだりします。
+= Ayrıca kütüphane gazete-si-ne iyi kitap-lar-ı tanıt-an yazı-lar yaz-ar, küçük çocuk-lar-a resimli kitap oku-r.
++ 図書館|としょかん|kütüphane
++ 新聞|しんぶん|gazete
++ 本|ほん|kitap
++ 紹介文|しょうかいぶん|tanıtım yazısı
++ 書く|かく|yazmak|書い
++ 小さな|ちいさな|küçük|小さな
++ 子ども|こども|çocuk|子ども
++ 絵本|えほん|resimli çocuk kitabı
++ 読む|よむ|okumak|読ん
+// 5S1
+19 エレベーターに乗{の}りたいです。「あ、乗{の}ります。」
+= Asansör-e bin-mek isti-yor-sun. "Ah, ben de bin-iyor-um."
++ 乗る|のる|binmek|乗り
+// 5S1
+20 僕{ぼく}は山川{やまかわ}デパートへ行{い}って、買{か}い物{もの}をしました。
+= Ben Yamakawa Mağaza-sı'na gid-ip alışveriş yap-tı-m.
++ 僕|ぼく|ben (erkek)
++ 買い物|かいもの|alışveriş|買い物

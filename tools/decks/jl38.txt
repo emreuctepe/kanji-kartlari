@@ -1,0 +1,115 @@
+@ jl38 N5–N4 · 38
+// 4R
+1 ホテルに着{つ}くと、息子{むすこ}は「テレビが見{み}たい。」「ゲームがしたい。」と言{い}いました。
+= Otel-e var-ınca oğl-um "Televizyon izle-mek istiyor-um.", "Oyun oyna-mak istiyor-um." de-di.
++ 着く|つく|varmak|着く
++ 息子|むすこ|oğul
++ 見る|みる|izlemek|見
++ 言う|いう|söylemek, demek|言い
+// 4V1
+2 わたしはおよぐのがすきです。
+= Yüz-me-yi sev-er-im.
+// 4R
+3 ホテルにいる間{あいだ}は毎日{まいにち}、みんなで散歩{さんぽ}をしたり、湖{みずうみ}で泳{およ}いだり、虫{むし}をとったり、昼寝{ひるね}をしたりしました。
+= Otel-de kal-dığ-ımız süre-ce her gün hep birlikte yürüyüş yap-tı-k, göl-de yüz-dü-k, böcek yakala-dı-k, öğle uyku-su uyu-du-k.
++ 間|あいだ|süre, boyunca
++ 毎日|まいにち|her gün
++ 散歩|さんぽ|yürüyüş
++ 湖|みずうみ|göl
++ 泳ぐ|およぐ|yüzmek|泳い
++ 虫|むし|böcek
++ 昼寝|ひるね|öğle uykusu
+// 4V
+4 もうすぐ秋{あき}ですね。
+= Yakında sonbahar.
++ 秋|あき|sonbahar
+// 4S1
+5 朝{あさ}、教室{きょうしつ}で渡{わた}そうと思{おも}ったんだけど、恥{は}ずかしくてだめだったんだ。
+= Sabah sınıf-ta ver-me-yi düşün-dü-m ama utan-ıp yap-a-ma-dı-m.
++ 朝|あさ|sabah
++ 教室|きょうしつ|sınıf
++ 渡す|わたす|vermek|渡そ
++ 思う|おもう|düşünmek|思っ
++ 恥ずかしい|はずかしい|utandırıcı, utanmak|恥ずかしく
+// 4S1
+6 桜{さくら}は東{ひがし}公園{こうえん}と北{きた}公園{こうえん}が有名{ゆうめい}だけど、北{きた}公園{こうえん}は毎年{まいとし}すごく込{こ}むんだよ。
+= Kiraz çiçek-ler-i için Doğu Park-ı ile Kuzey Park-ı ünlü ama Kuzey Park-ı her yıl çok kalabalık ol-ur.
++ 桜|さくら|kiraz çiçeği
++ 東|ひがし|doğu
++ 公園|こうえん|park
++ 北|きた|kuzey
++ 有名|ゆうめい|ünlü
++ 毎年|まいとし|her yıl
++ 込む|こむ|kalabalık olmak|込む
+// 5V1
+7 せいとは百人{ひゃくにん}います。
+= Yüz öğrenci var.
++ 百人|ひゃくにん|yüz kişi
+// 4G
+8 田中{たなか}さん、これから食事{しょくじ}でもどうですか。
+= Tanaka-san, şimdi bir yemek-e ne dersin?
++ 田中|たなか|Tanaka (soyadı)
++ 食事|しょくじ|yemek (yeme)
+// 5S
+9 皆{みな}さん、ホテルに着{つ}きました。
+= Arkadaşlar, otel-e var-dı-k.
++ 皆さん|みなさん|herkes, hepiniz|皆さん
+// 4S1
+10 うん、行{い}ってみる。外{そと}で待{ま}って、自分{じぶん}で渡{わた}すよ。
+= Tamam, gid-ip dene-yeceğ-im. Dışarı-da bekle-yip kendim ver-eceğ-im.
++ 行く|いく|gitmek|行っ
++ 外|そと|dışarı
++ 待つ|まつ|beklemek|待っ
++ 自分|じぶん|kendi
+// 5V1
+11 わたしのくには川{かわ}がおおいです。
+= Benim ülke-m-de nehir çok.
++ 川|かわ|nehir
+// 4S
+12 はい、毎日{まいにち}楽{たの}しいです。
+= Evet, her gün eğlenceli.
++ 楽しい|たのしい|eğlenceli
+// 5R
+13 本{ほん}は、わたしがあしたかえしますから、わたしの机{つくえ}の上{うえ}においてください。
+= Kitab-ı yarın ben iade ed-eceğ-im, masa-m-ın üst-ün-e koy-un.
++ 本|ほん|kitap
++ 机|つくえ|masa (çalışma)
++ 上|うえ|üst
+// 4V
+14 でんしゃの中{なか}でうるさくしないでください。
+= Tren-de gürültü yap-ma-yın.
++ 中|なか|iç
+// 4S1
+15 山本{やまもと}さんなら授業{じゅぎょう}のあと、いつも30分{ぷん}ぐらい図書館{としょかん}にいるよ。
+= Yamamoto-san ders-ten sonra hep 30 dakika kadar kütüphane-de olur.
++ 山本|やまもと|Yamamoto (soyadı)
++ 授業|じゅぎょう|ders
++ 分|ふん|dakika
++ 図書館|としょかん|kütüphane
+// 4V1
+16 わたしはこの味{あじ}がすきです。
+= Bu tad-ı sev-iyor-um.
++ 味|あじ|tat
+// 4G1
+17 日本{にほん}に来{く}る前{まえ}に住{す}んでいた所{ところ}には海{うみ}もプールもなかったのです。
+= Japonya-ya gel-me-den önce yaşa-dığ-ım yer-de ne deniz ne havuz var-dı.
++ 日本|にほん|Japonya
++ 来る|くる|gelmek|来る
++ 前|まえ|önce
++ 住む|すむ|yaşamak|住ん
++ 所|ところ|yer
++ 海|うみ|deniz
+// 4V
+18 きょうは雪{ゆき}がふっています。
+= Bugün kar yağ-ıyor.
++ 雪|ゆき|kar
+// 5S
+19 じゃ、パン屋{や}でパンを買{か}って、教室{きょうしつ}で食{た}べましょうか。
+= O zaman fırın-dan ekmek al-ıp sınıf-ta ye-yelim mi?
++ パン屋|パンや|fırın, ekmekçi|パン屋
++ 買う|かう|satın almak|買っ
++ 食べる|たべる|yemek|食べ
+// 5S
+20 兄弟{きょうだい}は一人{ひとり}ですか。
+= Tek kardeş-in mi var?
++ 兄弟|きょうだい|kardeş(ler)

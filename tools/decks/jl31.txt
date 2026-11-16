@@ -1,0 +1,109 @@
+@ jl31 N5–N4 · 31
+// 5V
+1 にねんまえにきょうとへいきました。
+= İki yıl önce Kyoto-ya git-ti-m.
+// 4G1
+2 ともだちは遠{とお}くまで泳{およ}いでいきました。けれども、私{わたし}は泳{およ}げませんでした。
+= Arkadaş-ım uzak-lar-a kadar yüz-üp git-ti. Ama ben yüz-e-me-di-m.
++ 遠く|とおく|uzak, uzaklar
++ 泳ぐ|およぐ|yüzmek|泳い
++ 私|わたし|ben
+// 4S1
+3 公園{こうえん}の中{なか}に食{た}べ物{もの}の店{みせ}がたくさん出{で}ていて、歩{ある}いていても、なかなか前{まえ}に進{すす}めないんだ。
+= Park-ın için-de bir sürü yiyecek tezgâh-ı kurul-uyor, yürü-sen bile bir türlü ilerle-ye-mi-yor-sun.
++ 公園|こうえん|park
++ 中|なか|iç
++ 食べ物|たべもの|yiyecek|食べ物
++ 店|みせ|dükkân, tezgâh
++ 出る|でる|çıkmak, kurulmak|出
++ 歩く|あるく|yürümek|歩い
++ 前|まえ|ön
++ 進む|すすむ|ilerlemek|進め
+// 5R1
+4 ゆうべはばんご飯{はん}を食{た}べたあとで、すぐにねました。
+= Dün akşam akşam yemeğ-i-ni ye-dik-ten sonra hemen yat-tı-m.
++ ご飯|ごはん|yemek; pilav|ご飯
++ 食べる|たべる|yemek|食べ
+// 4S
+5 分{わ}かりました。明日{あした}の会議{かいぎ}の資料{しりょう}ですね。
+= Anladım. Yarın-ki toplantı-nın belge-ler-i, değil mi?
++ 分かる|わかる|anlamak|分かり
++ 明日|あした|yarın
++ 会議|かいぎ|toplantı
++ 資料|しりょう|belge
+// 5V
+6 さとうさんはギターをじょうずにひきます。
+= Satō-san gitar-ı iyi çal-ar.
+// 4S
+7 友達{ともだち}のペンを借{か}りたいです。「ペン、貸{か}してもらえる？」
+= Arkadaş-ın-ın kalem-i-ni ödünç al-mak isti-yor-sun. "Kalem-i-ni ver-ebil-ir mi-sin?"
++ 友達|ともだち|arkadaş
++ 借りる|かりる|ödünç almak|借り
++ 貸す|かす|ödünç vermek|貸し
+// 4S1
+8 昨日{きのう}はいい天気{てんき}でしたね。どこかに出掛{でか}けましたか。
+= Dün hava güzel-di, değil mi? Bir yer-e git-ti-n mi?
++ 昨日|きのう|dün
++ 天気|てんき|hava
++ 出掛ける|でかける|dışarı çıkmak|出掛け
+// 5S
+9 うーん、毎日{まいにち}3時間{じかん}ぐらいです。
+= Hmm, her gün üç saat kadar.
++ 毎日|まいにち|her gün
++ 時間|じかん|saat (süre)
+// 4R
+10 空気{くうき}がおいしくて、景色{けしき}も美{うつく}しかったです。
+= Hava tertemiz-di, manzara da güzel-di.
++ 空気|くうき|hava (soluduğumuz)
++ 景色|けしき|manzara
++ 美しい|うつくしい|güzel|美しかっ
+// 5G1
+11 南町{みなみまち}は、海{うみ}がきれいで、静{しず}かです。
+= Minami-machi'nin deniz-i temiz, hem de sakin.
++ 町|まち|kasaba, mahalle|町
++ 海|うみ|deniz
++ 静か|しずか|sakin, sessiz|静か
+// 5S1
+12 加藤{かとう}さん、加藤{かとう}さんのうちはどちらですか。
+= Katō-san, ev-in nere-de?
++ 加藤|かとう|Katō (soyadı)
+// 4R
+13 それで、すみませんが、約束{やくそく}を31日{にち}の午後{ごご}3時{じ}に変{か}えられませんか。
+= Bu yüzden, kusura bakmayın ama randevu-yu ayın 31'i öğleden sonra saat 3'e değiştir-ebil-ir mi-yiz?
++ 約束|やくそく|randevu, söz
++ 日|にち|ayın … günü
++ 午後|ごご|öğleden sonra
++ 時|じ|saat (…de)
++ 変える|かえる|değiştirmek|変えられ
+// 5S
+14 ご飯{はん}を食{た}べました。「ごちそうさまでした。」
+= Yemeğ-i bitir-di-n. "Elinize sağlık."
+// 4S1
+15 電話{でんわ}番号{ばんごう}も書{か}かなければなりませんか。変{か}わったのは住所{じゅうしょ}だけです。
+= Telefon numara-sı-nı da yaz-mam gerek-iyor mu? Değiş-en sadece adres.
++ 電話番号|でんわばんごう|telefon numarası|電話番号
++ 書く|かく|yazmak|書か
++ 変わる|かわる|değişmek|変わっ
++ 住所|じゅうしょ|adres
+// 5S1
+16 すみません、喫茶店{きっさてん}「みどり」はどこですか。
+= Affedersiniz, "Midori" kafe-si nere-de?
++ 喫茶店|きっさてん|kafe
+// 4G
+17 わたしの本{ほん}だなには買{か}ったまま読{よ}んでいないまんががたくさんあります。
+= Kitaplığ-ım-da al-ıp da oku-ma-dığ-ım bir sürü manga var.
++ 本だな|ほんだな|kitaplık|本だな
++ 買う|かう|satın almak|買っ
++ 読む|よむ|okumak|読ん
+// 5V1
+18 このへやはくらいですね。
+= Bu oda karanlık, değil mi?
+// 5V
+19 このまちにはゆうめいなビルがあります。
+= Bu kasaba-da ünlü bir bina var.
+// 4V1
+20 ラジオのおとが大{おお}きいので、もう少{すこ}し小{ちい}さくしてください。
+= Radyo-nun ses-i yüksek, biraz kıs-ar mı-sınız.
++ 大きい|おおきい|büyük, yüksek (ses)
++ 少し|すこし|biraz
++ 小さい|ちいさい|küçük|小さく

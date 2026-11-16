@@ -1,0 +1,120 @@
+@ jl34 N5–N4 · 34
+// 5V
+1 ともだちといっしょに学校{がっこう}にいきます。
+= Arkadaş-ım-la birlikte okul-a gid-iyor-um.
++ 学校|がっこう|okul
+// 4S
+2 船{ふね}は、近{ちか}くの島{しま}を30分{ぷん}で回{まわ}ります。
+= Gemi yakın-daki ada-yı 30 dakika-da dolaş-ır.
++ 船|ふね|gemi
++ 近く|ちかく|yakın, yakını
++ 島|しま|ada
++ 分|ふん|dakika
++ 回る|まわる|dolaşmak, dönmek|回り
+// 5V1
+3 なつやすみはまいにちプールでおよぎました。
+= Yaz tatil-i-nde her gün havuz-da yüz-dü-m.
+// 4G
+4 行{い}きたいけれど、ごめんなさい、あしたはアルバイトがあるんです。
+= Git-mek isterdim ama kusura bakma, yarın iş-im var.
++ 行く|いく|gitmek|行き
+// 5V1
+5 これはちちとははのしゃしんです。
+= Bu baba-m-la anne-m-in fotoğraf-ı.
+// 4V
+6 先生{せんせい}はたなかさんに「とてもよかったですよ」と言{い}いました。
+= Öğretmen Tanaka-san'a "Çok iyi-ydi" de-di.
++ 先生|せんせい|öğretmen
++ 言う|いう|söylemek, demek|言い
+// 4G1
+7 しかし、半年{はんとし}前{まえ}までは泳{およ}ぐことができませんでした。
+= Ama altı ay önce-ye kadar yüz-e-mi-yor-du-m.
++ 半年|はんとし|altı ay, yarım yıl
++ 前|まえ|önce
++ 泳ぐ|およぐ|yüzmek
+// 5G1
+8 私{わたし}はきっさてんで飲{の}むコーヒーが大好{だいす}きです。
+= Kafe-de iç-il-en kahve-ye bayıl-ır-ım.
++ 私|わたし|ben
++ 飲む|のむ|içmek
++ 大好き|だいすき|çok sevilen|大好き
+// 5V1
+9 きょうは元気{げんき}がいいですね。
+= Bugün çok enerjik-sin.
++ 元気|げんき|enerji, keyif
+// 5G1
+10 すみません、つぎのしんごうを右{みぎ}にまがってください。
+= Affedersiniz, bir sonraki ışık-tan sağ-a dön-ün.
++ 右|みぎ|sağ
+// 4G
+11 あしたは大事{だいじ}なおきゃくさまに会{あ}うから、そんなくつではいけませんよ。
+= Yarın önemli bir müşteri-yle görüş-eceğ-iz, öyle ayakkabı-yla olmaz.
++ 大事|だいじ|önemli|大事
++ 会う|あう|görüşmek|会う
+// 4S1
+12 部屋{へや}の大{おお}きさも場所{ばしょ}も問題{もんだい}ないんだけど、建物{たてもの}が古{ふる}くて嫌{いや}なんだ。
+= Oda-nın büyüklüğ-ü de yer-i de sorun değil ama bina eski, hoşuma git-mi-yor.
++ 部屋|へや|oda
++ 大きさ|おおきさ|büyüklük|大きさ
++ 場所|ばしょ|yer
++ 問題|もんだい|sorun
++ 建物|たてもの|bina
++ 古い|ふるい|eski|古く
++ 嫌|いや|hoşa gitmeyen, istenmeyen|嫌
+// 5S
+13 「すみません、図書館{としょかん}はどこですか。」「あそこです。」
+= "Affedersiniz, kütüphane nere-de?" "Şura-da."
++ 図書館|としょかん|kütüphane
+// 4S1
+14 東{ひがし}公園{こうえん}も人{ひと}は多{おお}いんだけど、池{いけ}があって、舟{ふね}に乗{の}って桜{さくら}が見{み}られるから楽{たの}しいよ。
+= Doğu Park-ı-nda da insan çok ama gölet var, kayık-la gez-erek kiraz çiçek-ler-i-ni izle-yebil-ir-sin, eğlenceli.
++ 東|ひがし|doğu
++ 公園|こうえん|park
++ 人|ひと|insan
++ 多い|おおい|çok
++ 池|いけ|gölet
++ 舟|ふね|kayık, sandal
++ 乗る|のる|binmek|乗っ
++ 桜|さくら|kiraz çiçeği
++ 見る|みる|bakmak, izlemek|見
++ 楽しい|たのしい|eğlenceli
+// 4V
+15 店員{てんいん}にトイレがどこにあるか聞{き}きました。
+= Tezgâhtar-a tuvalet-in nere-de ol-duğ-u-nu sor-du-m.
++ 店員|てんいん|tezgâhtar, satış görevlisi
++ 聞く|きく|sormak|聞き
+// 4G1
+16 来週{らいしゅう}、野球{やきゅう}の試合{しあい}を見{み}に行{い}こうと思{おも}っているんですが、リーさんもいっしょにどうですか。
+= Gelecek hafta beysbol maç-ı-na git-me-yi düşün-üyor-um, Lee-san sen de gelir mi-sin?
++ 来週|らいしゅう|gelecek hafta
++ 野球|やきゅう|beysbol
++ 試合|しあい|maç
++ 思う|おもう|düşünmek|思っ
+// 4G1
+17 今朝{けさ}は駅{えき}に行{い}くバスがなかなか来{こ}なかったので、タクシーで行{い}きました。
+= Bu sabah istasyon-a gid-en otobüs bir türlü gel-me-di, taksi-yle git-ti-m.
++ 今朝|けさ|bu sabah
++ 駅|えき|istasyon
++ 来る|くる|gelmek|来
+// 5G
+18 わたしの国{くに}にはすし屋{や}がありませんから、今{いま}とてもうれしいです。
+= Benim ülke-m-de suşi restoran-ı yok, o yüzden şimdi çok mutlu-yum.
++ 国|くに|ülke
++ すし屋|すしや|suşi restoranı|すし屋
++ 今|いま|şimdi
+// 4R
+19 部屋{へや}に荷物{にもつ}を置{お}いて窓{まど}を開{あ}けると、湖{みずうみ}から涼{すず}しい風{かぜ}が入{はい}ってきました。
+= Oda-ya bagaj-lar-ı bırak-ıp pencere-yi aç-ınca göl-den serin bir rüzgâr gir-di.
++ 荷物|にもつ|bagaj
++ 置く|おく|koymak, bırakmak|置い
++ 窓|まど|pencere
++ 開ける|あける|açmak|開ける
++ 湖|みずうみ|göl
++ 涼しい|すずしい|serin
++ 風|かぜ|rüzgâr
++ 入る|はいる|girmek|入っ
+// 4V
+20 スーパーでもらったレシートを見{み}ると、何{なに}を買{か}ったかわかります。
+= Süpermarket-te al-dığ-ın fiş-e bak-ınca ne al-dığ-ın-ı anla-r-sın.
++ 何|なに|ne
++ 買う|かう|satın almak|買っ

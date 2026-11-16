@@ -1,0 +1,105 @@
+@ jl29 N5–N4 · 29
+// 5V
+1 もういちど言{い}ってください。
+= Bir kez daha söyle-yin.
++ 言う|いう|söylemek|言っ
+// 4S
+2 黒板{こくばん}の字{じ}が小{ちい}さくて、読{よ}めません。「すいません、よく見{み}えません。」
+= Tahta-daki yazı küçük, oku-ya-mı-yor-sun. "Affedersiniz, iyi gör-e-mi-yor-um."
++ 黒板|こくばん|kara tahta
++ 字|じ|harf, yazı
++ 小さい|ちいさい|küçük|小さく
++ 読む|よむ|okumak|読め
++ 見える|みえる|görünmek|見え
+// 4V1
+3 わたしには、しょうらいかしゅになるというゆめがあります。
+= Gelecek-te şarkıcı ol-ma hayal-im var.
+// 5S1
+4 でも、駅{えき}や電車{でんしゃ}で全然{ぜんぜん}加藤{かとう}さんに会{あ}いませんね。
+= Ama istasyon-da da tren-de de Katō-san-la hiç karşılaş-mı-yor-uz.
++ 駅|えき|istasyon
++ 電車|でんしゃ|tren
++ 全然|ぜんぜん|hiç (olumsuzla)
++ 加藤|かとう|Katō (soyadı)
++ 会う|あう|karşılaşmak|会い
+// 5G
+5 すみません。くだものはどこにありますか。
+= Affedersiniz. Meyve-ler nere-de?
+// 4G1
+6 上田{うえだ}さん、会議{かいぎ}のじゅんびは終{お}わりましたか。てつだいましょうか。
+= Ueda-san, toplantı hazırlığ-ı bit-ti mi? Yardım ed-eyim mi?
++ 上田|うえだ|Ueda (soyadı)
++ 会議|かいぎ|toplantı
++ 終わる|おわる|bitmek|終わり
+// 4S
+7 6時{じ}から約束{やくそく}があるけど、4時{じ}頃{ごろ}なら大丈夫{だいじょうぶ}だよ。
+= Saat 6'da randevu-m var ama 4 sularında-ysa olur.
++ 時|じ|saat (…de)
++ 約束|やくそく|randevu, söz
++ 頃|ごろ|sularında, civarı
++ 大丈夫|だいじょうぶ|sorun yok
+// 4V1
+8 これからきかいのつかいかたをせつめいしますから、よく聞{き}いてください。
+= Şimdi makine-nin kullanım-ı-nı anlat-acağ-ım, iyi dinle-yin.
++ 聞く|きく|dinlemek|聞い
+// 5S
+9 じゃあ、駅{えき}の前{まえ}の喫茶店{きっさてん}はどうですか。
+= O zaman istasyon-un ön-ün-deki kafe-ye ne dersin?
++ 前|まえ|ön
++ 喫茶店|きっさてん|kafe
+// 5S1
+10 「おいしいクッキーですね。どこで買{か}いましたか。」「わたしが作{つく}りました。」
+= "Lezzetli kurabiye. Nere-den al-dı-n?" "Ben yap-tı-m."
++ 買う|かう|satın almak|買い
++ 作る|つくる|yapmak|作り
+// 4G1
+11 難{むずか}しかったですが、毎週{まいしゅう}ともだちと練習{れんしゅう}しました。
+= Zor-du ama her hafta arkadaş-ım-la çalış-tı-m.
++ 難しい|むずかしい|zor|難しかっ
++ 毎週|まいしゅう|her hafta
++ 練習|れんしゅう|alıştırma
+// 5S1
+12 今日{きょう}うちで映画{えいが}を見{み}ませんか。面白{おもしろ}いDVDを借{か}りましたよ。
+= Bugün bizde film izle-me-z mi-yiz? Eğlenceli bir DVD kirala-dı-m.
++ 今日|きょう|bugün
++ 映画|えいが|film
++ 見る|みる|izlemek|見
++ 面白い|おもしろい|ilginç, eğlenceli
++ 借りる|かりる|ödünç almak, kiralamak|借り
+// 4V
+13 入口{いりぐち}の前{まえ}には車{くるま}をとめないでください。
+= Giriş-in ön-ün-e araba park et-me-yin.
++ 入口|いりぐち|giriş
++ 車|くるま|araba
+// 4S
+14 子供{こども}のときは、ピアニストになりたかったんです。
+= Çocuk-ken piyanist ol-mak istiyor-du-m.
++ 子供|こども|çocuk
+// 5R
+15 駅{えき}の人{ひと}は「あれは『みんなのかさ』です。お金{かね}はいりません。あした、あのはこにかえしてください。」と言{い}いました。
+= İstasyon görevli-si "O 'herkes-in şemsiye-si'. Para gerek-me-z. Yarın o kutu-ya geri koy-un." de-di.
++ 人|ひと|kişi
++ お金|おかね|para|お金
++ 言う|いう|söylemek, demek|言い
+// 4G
+16 誕生日{たんじょうび}に田中{たなか}さんから何{なに}をもらったんですか。
+= Doğum gün-ün-de Tanaka-san-dan ne al-dı-n?
++ 誕生日|たんじょうび|doğum günü
++ 田中|たなか|Tanaka (soyadı)
++ 何|なに|ne
+// 4G1
+17 このロボットは人{ひと}と会話{かいわ}することができます。
+= Bu robot insan-lar-la sohbet ed-ebil-ir.
++ 会話|かいわ|sohbet, konuşma
+// 4S
+18 部屋{へや}があまりきれいじゃないからやめたほうがいいよ。
+= Oda pek temiz değil, vazgeç-sen iyi olur.
++ 部屋|へや|oda
+// 4V
+19 スミスさんはいつもねっしんにべんきょうしています。
+= Smith-san hep hevesle ders çalış-ıyor.
+// 5S1
+20 時計{とけい}の雑誌{ざっし}ですか。車{くるま}の雑誌{ざっし}ですか。
+= Saat dergi-si mi? Araba dergi-si mi?
++ 時計|とけい|saat
++ 雑誌|ざっし|dergi

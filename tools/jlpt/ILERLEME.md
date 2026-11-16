@@ -15,13 +15,16 @@ Yarıda kesilirse buradan devam et. Her faz bitince işaretle (☑).
 
 ## Fazlar
 - [x] 1. PDF'leri oku, tam cümleleri md'ye yaz (dosya dosya; aşağıdaki tabloyu güncelle)
-- [ ] 2. Cümleleri karıştırıp 20'lik deste txt'lerine çevir (furigana, çeviri, kelime)
+- [x] 2. Cümleleri karıştırıp 20'lik deste txt'lerine çevir (furigana, çeviri, kelime)
   - Dağılım SABİT: `tools/jlpt/karisik.txt` (760 cümle = 38 deste, jl1–jl38). Yeniden karıştırma!
   - Her deste `tools/decks/jlN.txt`, başlık `@ jlN N5–N4 · N`; biçim jl1.txt'teki gibi (// kaynak etiketi, furigana tüm kanjilerde, Türkçe ekler tireli, yalnız kanjili kelimeler, kelime destede ilk geçtiği cümlede).
   - Yazınca `python3 tools/build_decks.py` (decks.js'e ekler) ve aşağıdaki listeye işle.
-  - Bitenler: jl1–jl20
+  - Bitenler: jl1–jl38 (hepsi; 1926 kart)
 - [x] 3. app.js: JLPT > N5–N4 iç içe klasör, Ortak tekrardan sonra (FOLDERS/PARENT/leaves; JLPT kendi kilit zinciri — ana destelerin kilidini etkilemez). Tarayıcıda denendi.
-- [ ] 4. Derle, tarayıcıda dene, commit + push
+- [x] 4. Derle, tarayıcıda dene, commit + push
+
+## Sonraki: N3–N2 ve N1
+- PDF'ler ~/İndirilenler/JLPT/N3*, N2*, N1* (aynı yapı). Aynı akış: metin çıkar (tools/jlpt/*.py) → `n3n2_cumleler.md` → karıştır → `jlN…` id'leri; app.js'te JLPT klasörüne `makeFolder('jl32', 'N3–N2', …)` gibi yeni alt klasör ekle (şu an yalnız /^jl\d+$/ → N5–N4).
 
 ## Faz 1 — kaynak dosyalar
 | Dosya | Sayfa | Durum |

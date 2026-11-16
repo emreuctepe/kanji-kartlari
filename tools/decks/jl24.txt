@@ -1,0 +1,106 @@
+@ jl24 N5–N4 · 24
+// 4R
+1 来週{らいしゅう}、ほかの3冊{さつ}を持{も}ってきます。
+= Gelecek hafta diğer üç tane-yi getir-eceğ-im.
++ 来週|らいしゅう|gelecek hafta
++ 冊|さつ|(kitap sayacı)
++ 持つ|もつ|tutmak (持ってくる: getirmek)|持っ
+// 4S1
+2 茶色{ちゃいろ}い封筒{ふうとう}に入{はい}っているからすぐ分{わ}かると思{おも}うよ。
+= Kahverengi bir zarf-ın için-de, hemen anla-rsın bence.
++ 茶色い|ちゃいろい|kahverengi
++ 封筒|ふうとう|zarf
++ 入る|はいる|içinde olmak|入っ
++ 分かる|わかる|anlamak|分かる
++ 思う|おもう|düşünmek|思う
+// 5R1
+3 それから、すぐかんじのテキストの41ページから60ページまでべんきょうしました。
+= Sonra hemen kanji kitab-ı-nın 41. sayfa-sı-ndan 60. sayfa-sı-na kadar çalış-tı-m.
+// 5S
+4 子供{こども}の靴下{くつした}、ありますか。
+= Çocuk çorab-ı var mı?
++ 子供|こども|çocuk
++ 靴下|くつした|çorap
+// 4S1
+5 最後{さいご}にごみ箱{ばこ}のごみを店{みせ}の裏{うら}に持{も}っていって。
+= Son olarak çöp kutu-su-ndaki çöp-ü dükkân-ın arka-sı-na götür.
++ 最後|さいご|son
++ ごみ箱|ごみばこ|çöp kutusu|ごみ箱
++ 店|みせ|dükkân
++ 裏|うら|arka taraf
+// 4V1
+6 やさいを切{き}ってください。
+= Sebze-ler-i doğra-yın.
++ 切る|きる|kesmek|切っ
+// 4V1
+7 はやしさん以外{いがい}はみんな来{き}ました。
+= Hayashi-san dışında herkes gel-di.
++ 以外|いがい|…dışında
++ 来る|くる|gelmek|来
+// 5G
+8 そして、わたしがすきなりょうりの本{ほん}も多{おお}いです。
+= Ve sev-diğ-im yemek kitap-lar-ı da çok.
++ 本|ほん|kitap
++ 多い|おおい|çok
+// 5V1
+9 つよいかぜがふいています。
+= Sert rüzgâr es-iyor.
+// 4S
+10 私{わたし}も月{つき}に1冊{さつ}ぐらいは読{よ}みたいんですが。
+= Ben de ayda bir kitap kadar oku-mak isti-yor-um ama.
++ 私|わたし|ben
++ 月|つき|ay
++ 読む|よむ|okumak|読み
+// 4V
+11 ともだちのいえに行{い}ったらるすでした。
+= Arkadaş-ım-ın ev-i-ne git-tiğ-im-de ev-de yok-tu.
++ 行く|いく|gitmek|行っ
+// 5S
+12 あ、でも、今日{きょう}は日曜日{にちようび}ですから、5番{ばん}のバスはありません。
+= Ah, ama bugün pazar, 5 numara-lı otobüs yok.
++ 今日|きょう|bugün
++ 日曜日|にちようび|pazar
++ 番|ばん|numara
+// 4G
+13 ポチはわたしたちの大切{たいせつ}な家族{かぞく}の一員{いちいん}です。
+= Pochi bizim değerli aile-miz-in bir üye-si.
++ 大切|たいせつ|değerli
++ 家族|かぞく|aile
++ 一員|いちいん|üye, bir fert
+// 4S1
+14 写真{しゃしん}を忘{わす}れないようにしてください。
+= Fotoğraf-lar-ı unut-ma-ma-ya dikkat ed-in.
++ 写真|しゃしん|fotoğraf
++ 忘れる|わすれる|unutmak|忘れ
+// 5G1
+15 ケンさん、大学{だいがく}のじゅぎょうは始{はじ}まりましたか。
+= Ken-san, üniversite ders-ler-i başla-dı mı?
++ 大学|だいがく|üniversite
++ 始まる|はじまる|başlamak|始まり
+// 5S
+16 それから、3番{ばん}は朝{あさ}と夕方{ゆうがた}のバスですから、今{いま}の時間{じかん}は7番{ばん}ですね。
+= Bir de 3 numara sabah ve akşamüstü otobüs-ü, şu saat-te 7 numara o zaman.
++ 朝|あさ|sabah
++ 夕方|ゆうがた|akşamüstü
++ 今|いま|şimdi
++ 時間|じかん|zaman, saat
+// 4V1
+17 なつやすみの計画{けいかく}はまだきまっていません。
+= Yaz tatil-i plan-ı henüz belli değil.
++ 計画|けいかく|plan
+// 5S
+18 時計{とけい}は、かばんの中{なか}に入{い}れてください。
+= Saat-ler-i çanta-nın için-e koy-un.
++ 時計|とけい|saat
++ 中|なか|iç
++ 入れる|いれる|koymak|入れ
+// 5R
+19 水{すい}よう日{び}と木{もく}よう日{び}は、とうふとにくとやさいが安{やす}いです。
+= Çarşamba ve perşembe tofu, et ve sebze ucuz.
++ 水よう日|すいようび|çarşamba|水よう日
++ 木よう日|もくようび|perşembe|木よう日
++ 安い|やすい|ucuz
+// 5S1
+20 「お国{くに}はどちらですか。」「アメリカです。」
+= "Ülke-niz nere?" "Amerika."
++ お国|おくに|(başkasının) ülkesi|お国

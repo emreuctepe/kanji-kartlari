@@ -1,0 +1,111 @@
+@ jl22 N5–N4 · 22
+// 4S1
+1 すみません、まだ、窓{まど}の掃除{そうじ}が終{お}わっていないんです。
+= Kusura bakmayın, pencere temizliğ-i henüz bit-me-di.
++ 窓|まど|pencere
++ 掃除|そうじ|temizlik
++ 終わる|おわる|bitmek|終わっ
+// 5V
+2 このホテルはへやが多{おお}いです。
+= Bu otel-in oda-sı çok.
++ 多い|おおい|çok
+// 4V1
+3 あの人{ひと}はきれいですね。
+= O kişi güzel, değil mi?
++ 人|ひと|kişi
+// 4S
+4 山田{やまだ}さんは、よく本{ほん}を読{よ}みますか。
+= Yamada-san, sık kitap oku-r mu-sun?
++ 山田|やまだ|Yamada (soyadı)
++ 本|ほん|kitap
++ 読む|よむ|okumak|読み
+// 4S1
+5 先生{せんせい}、この本{ほん}を借{か}りてもいいですか。
+= Hocam, bu kitab-ı ödünç al-abil-ir mi-yim?
++ 先生|せんせい|öğretmen, hoca
++ 借りる|かりる|ödünç almak|借り
+// 5S1
+6 それから、カメラはありますか。
+= Bir de kamera-n var mı?
+// 4V
+7 くつに石{いし}が入{はい}っていました。
+= Ayakkabı-m-a taş gir-miş-ti.
++ 石|いし|taş
++ 入る|はいる|girmek|入っ
+// 5S1
+8 あの交差点{こうさてん}を左{ひだり}に曲{ま}がってください。
+= Şu kavşak-tan sol-a dön-ün.
++ 交差点|こうさてん|kavşak
++ 左|ひだり|sol
++ 曲がる|まがる|dönmek|曲がっ
+// 4R1
+9 行{い}くときに、東京駅{とうきょうえき}で電車{でんしゃ}を乗{の}り換{か}えなければならなかったのですが、東京駅{とうきょうえき}は広{ひろ}すぎて、乗{の}り換{か}える電車{でんしゃ}の場所{ばしょ}がわかりませんでした。
+= Gid-er-ken Tokyo İstasyonu'nda tren değiştir-mem gerek-iyor-du ama istasyon çok büyük-tü, aktarma yap-acağ-ım tren-in yer-i-ni bul-a-ma-dı-m.
++ 行く|いく|gitmek|行く
++ 東京駅|とうきょうえき|Tokyo İstasyonu
++ 電車|でんしゃ|tren
++ 乗り換える|のりかえる|aktarma yapmak|乗り換え
++ 広い|ひろい|geniş|広
++ 場所|ばしょ|yer
+// 4S1
+10 これから帰{かえ}るけど、何{なに}か買{か}って帰{かえ}ろうか。
+= Şimdi dön-üyor-um, bir şey al-ıp gel-eyim mi?
++ 帰る|かえる|dönmek|帰る
++ 何か|なにか|bir şey|何か
++ 買う|かう|satın almak|買っ
+// 4R
+11 このメールを読{よ}んだら、返事{へんじ}をください。
+= Bu e-posta-yı oku-yunca cevap ver-in.
++ 返事|へんじ|cevap
+// 5S1
+12 図書館{としょかん}へ行{い}きました。
+= Kütüphane-ye git-ti-m.
++ 図書館|としょかん|kütüphane
+// 4S1
+13 動物園{どうぶつえん}は毎日{まいにち}10時{じ}から夕方{ゆうがた}5時{じ}までですが、オープンの日{ひ}は午後{ごご}8時{じ}まで開{あ}いているそうです。
+= Hayvanat bahçe-si her gün 10'dan akşam 5'e kadar açık, ama açılış gün-ü akşam 8'e kadar açık ol-acak-mış.
++ 動物園|どうぶつえん|hayvanat bahçesi
++ 毎日|まいにち|her gün
++ 時|じ|saat (…de)
++ 夕方|ゆうがた|akşamüstü
++ 日|ひ|gün
++ 午後|ごご|öğleden sonra
++ 開く|あく|açık olmak|開い
+// 5S1
+14 いちばん新{あたら}しい、8月{がつ}のですか。
+= En yeni-si, Ağustos sayı-sı mı?
++ 新しい|あたらしい|yeni
++ 月|がつ|(ay adı) …ay
+// 5V
+15 そのえいがはつまらなかったです。
+= O film sıkıcı-ydı.
+// 4V
+16 ちかてつができて便利{べんり}になりました。
+= Metro yap-ıl-ınca her şey kolaylaş-tı.
++ 便利|べんり|kullanışlı
+// 5S
+17 山田{やまだ}さんは、お父{とう}さんとお母{かあ}さんと、一緒{いっしょ}に住{す}んでいますか。
+= Yamada-san, anne-n ve baba-n-la birlikte mi otur-uyor-sun?
++ お父さん|おとうさん|baba (başkasının)|お父さん
++ お母さん|おかあさん|anne (başkasının)|お母さん
++ 一緒|いっしょ|birlikte
++ 住む|すむ|oturmak, yaşamak|住ん
+// 5S
+18 いえ、両親{りょうしん}は遠{とお}くに住{す}んでいます。
+= Hayır, anne baba-m uzak-ta otur-uyor.
++ 両親|りょうしん|anne baba
++ 遠く|とおく|uzak, uzaklar
+// 4G
+19 いいえ。でも、もし両親{りょうしん}に反対{はんたい}されても東京{とうきょう}で勉強{べんきょう}するつもりです。
+= Hayır. Ama anne baba-m karşı çık-sa bile Tokyo-da oku-ma-yı düşün-üyor-um.
++ 反対|はんたい|karşı çıkma
++ 東京|とうきょう|Tokyo
++ 勉強|べんきょう|ders çalışma, okuma
+// 4R
+20 少{すこ}し休{やす}んでから、まだ明{あか}るかったので、散歩{さんぽ}に出{で}かけました。
+= Biraz dinlen-dik-ten sonra hava hâlâ aydınlık ol-duğ-u için yürüyüş-e çık-tı-k.
++ 少し|すこし|biraz
++ 休む|やすむ|dinlenmek|休ん
++ 明るい|あかるい|aydınlık|明るかっ
++ 散歩|さんぽ|yürüyüş
++ 出かける|でかける|dışarı çıkmak|出かけ

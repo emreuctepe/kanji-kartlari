@@ -1,0 +1,102 @@
+@ jl25 N5–N4 · 25
+// 5S1
+1 くだもののジュースを作{つく}りました。どうぞ飲{の}んでください。
+= Meyve suyu yap-tı-m. Buyur, iç.
++ 作る|つくる|yapmak|作り
++ 飲む|のむ|içmek|飲ん
+// 5R
+2 わたしは「わかりました。ありがとうございます。」と言{い}って、かさをかりて帰{かえ}りました。
+= "Anladım. Teşekkür ederim." de-yip şemsiye-yi ödünç al-ıp ev-e dön-dü-m.
++ 言う|いう|söylemek, demek|言っ
++ 帰る|かえる|dönmek|帰り
+// 5G
+3 わたしにはきょうだいが二人{ふたり}います。弟{おとうと}と妹{いもうと}です。
+= İki kardeş-im var. Bir erkek bir kız kardeş.
++ 二人|ふたり|iki kişi
++ 弟|おとうと|küçük erkek kardeş
++ 妹|いもうと|küçük kız kardeş
+// 4S
+4 それから、もう少{すこ}し濃{こ}くしたいんです。
+= Bir de biraz daha koyu yap-mak istiyor-um.
++ 少し|すこし|biraz
++ 濃い|こい|koyu|濃く
+// 5S1
+5 レストランでお店{みせ}の人{ひと}を呼{よ}びます。「すみません。」
+= Restoran-da garson-u çağır-ıyor-sun. "Bakar mısınız!"
++ 店|みせ|dükkân
++ 人|ひと|kişi
++ 呼ぶ|よぶ|çağırmak|呼び
+// 4S
+6 「ねえ、京都{きょうと}、行{い}ったことある？」「うん、1回{かい}あるよ。」
+= "Baksana, Kyoto-ya hiç git-ti-n mi?" "Evet, bir kez."
++ 京都|きょうと|Kyoto
++ 行く|いく|gitmek|行っ
++ 回|かい|kez
+// 5V
+7 きょうは500メートルおよぎました。
+= Bugün 500 metre yüz-dü-m.
+// 5R1
+8 駅{えき}から大学{だいがく}までかかるお金{かね}は500円{えん}までで、時間{じかん}はみじかいほうがいいです。
+= İstasyon-dan üniversite-ye kadar-ki masraf 500 yen-e kadar ol-sun, süre de kısa ol-sun.
++ 駅|えき|istasyon
++ 大学|だいがく|üniversite
++ お金|おかね|para|お金
++ 円|えん|yen
++ 時間|じかん|zaman, süre
+// 5G1
+9 先週{せんしゅう}はじめてスキーをしました。
+= Geçen hafta ilk kez kayak yap-tı-m.
++ 先週|せんしゅう|geçen hafta
+// 4V1
+10 わたしは医者{いしゃ}になりたいです。
+= Doktor ol-mak istiyor-um.
++ 医者|いしゃ|doktor
+// 5S1
+11 では、六日間{むいかかん}ゆっくり休{やす}んで、また学校{がっこう}に来{き}てください。
+= Peki, altı gün iyi-ce dinlen-ip tekrar okul-a gel-in.
++ 六日間|むいかかん|altı gün (süre)
++ 休む|やすむ|dinlenmek|休ん
++ 学校|がっこう|okul
++ 来る|くる|gelmek|来
+// 5G
+12 ジョンさん、しゅくだいはぜんぶおわりましたか。
+= John-san, ödev-in hepsi bit-ti mi?
+// 5S1
+13 いいえ、7月{がつ}のをお願{ねが}いします。
+= Hayır, Temmuz sayı-sı-nı lütfen.
++ 月|がつ|(ay adı) …ay
++ お願い|おねがい|rica|お願い
+// 4V1
+14 今日{きょう}はとても楽{たの}しかったですね。
+= Bugün çok eğlenceli-ydi, değil mi?
++ 今日|きょう|bugün
++ 楽しい|たのしい|eğlenceli|楽しかっ
+// 5G1
+15 いいえ、まだです。来週{らいしゅう}始{はじ}まります。
+= Hayır, henüz değil. Gelecek hafta başlı-yor.
++ 来週|らいしゅう|gelecek hafta
++ 始まる|はじまる|başlamak|始まり
+// 4G
+16 わたしは兄弟{きょうだい}がいないので、ずっとさびしかったです。
+= Kardeş-im ol-ma-dığ-ı için hep yalnız-dı-m.
++ 兄弟|きょうだい|kardeş(ler)
+// 5G
+17 駅{えき}までタクシーで1000円{えん}ぐらいです。
+= İstasyon-a kadar taksi-yle 1000 yen civarı.
+// 4S1
+18 今度{こんど}また二人{ふたり}で山{やま}に登{のぼ}ることにしました。
+= Bir dahaki sefer yine ikimiz dağ-a tırman-ma-ya karar ver-di-k.
++ 今度|こんど|bu sefer; bir dahaki sefer
++ 山|やま|dağ
++ 登る|のぼる|tırmanmak|登る
+// 5S
+19 すみません、1番{ばん}のバスはみどり駅{えき}に行{い}きますか。
+= Affedersiniz, 1 numara-lı otobüs Midori İstasyonu'na gid-er mi?
++ 番|ばん|numara
+// 4S
+20 皆様{みなさま}、もうすぐ、次{つぎ}の船{ふね}が出発{しゅっぱつ}します。
+= Sayın yolcu-lar, birazdan bir sonraki gemi kalk-ıyor.
++ 皆様|みなさま|herkes (saygılı)
++ 次|つぎ|sonraki
++ 船|ふね|gemi
++ 出発|しゅっぱつ|kalkış, hareket

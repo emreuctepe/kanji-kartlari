@@ -1,0 +1,108 @@
+@ jl28 N5–N4 · 28
+// 5G1
+1 きのう買{か}ったおかしはまるくて色{いろ}がきれいでした。
+= Dün al-dığ-ım şekerleme yuvarlak-tı ve renk-i güzel-di.
++ 買う|かう|satın almak|買っ
++ 色|いろ|renk
+// 5V1
+2 しらないことばがありましたから、せんせいにしつもんしました。
+= Bil-me-diğ-im bir kelime var-dı, öğretmen-e sor-du-m.
+// 4V
+3 わたしはにほんのまんがにきょうみがあります。
+= Japon manga-sı-na ilgi duy-uyor-um.
+// 5S1
+4 山{やま}を歩{ある}いています。友達{ともだち}と一緒{いっしょ}に休{やす}みたいです。「少{すこ}し休{やす}みましょう。」
+= Dağ-da yürü-yor-sun. Arkadaş-ın-la birlikte mola ver-mek isti-yor-sun. "Biraz dinlen-elim."
++ 山|やま|dağ
++ 歩く|あるく|yürümek|歩い
++ 友達|ともだち|arkadaş
++ 一緒|いっしょ|birlikte
++ 休む|やすむ|dinlenmek|休み
++ 少し|すこし|biraz
+// 4G
+5 先週{せんしゅう}は本当{ほんとう}にこまりました。ポチが父{ちち}のけいたいでんわをこわしてしまったからです。
+= Geçen hafta gerçekten zor durum-da kal-dı-k. Çünkü Pochi baba-m-ın cep telefon-u-nu kır-ıver-di.
++ 先週|せんしゅう|geçen hafta
++ 本当|ほんとう|gerçek (本当に: gerçekten)
++ 父|ちち|(kendi) baba
+// 4S
+6 それより、大学{だいがく}の前{まえ}でとった写真{しゃしん}がいいよ。
+= Ondan-sa üniversite-nin ön-ün-de çek-tiğ-in fotoğraf iyi.
++ 大学|だいがく|üniversite
++ 前|まえ|ön
++ 写真|しゃしん|fotoğraf
+// 5V1
+7 きのうはがっこうでたくさんかんじをおぼえました。
+= Dün okul-da bir sürü kanji ezberle-di-m.
+// 4S1
+8 「その資料{しりょう}、あとで使{つか}うから、まだ片付{かたづ}けなくてもいいですよ。」「じゃ、ここに置{お}いておきます。」
+= "O belge-ler-i sonra kullan-acağ-ım, henüz toplama-n-a gerek yok." "O zaman bura-ya bırak-ıyor-um."
++ 資料|しりょう|belge, doküman
++ 使う|つかう|kullanmak|使う
++ 片付ける|かたづける|toplamak, kaldırmak|片付け
++ 置く|おく|koymak, bırakmak|置い
+// 5S
+9 「ちょっと休{やす}みませんか。」「そうしましょう。」
+= "Biraz dinlen-me-z mi-yiz?" "Öyle yap-alım."
+// 4R1
+10 私{わたし}は色{いろ}がかっこいいから買{か}ったので、理由{りゆう}を聞{き}いて面白{おもしろ}いなと思{おも}いました。
+= Ben renk-i havalı ol-duğ-u için al-mış-tı-m, sebeb-i-ni duy-unca ilginç bul-du-m.
++ 私|わたし|ben
++ 理由|りゆう|sebep
++ 聞く|きく|duymak|聞い
++ 面白い|おもしろい|ilginç, eğlenceli
++ 思う|おもう|düşünmek|思い
+// 5V1
+11 来月{らいげつ}けっこんします。
+= Gelecek ay evlen-iyor-um.
++ 来月|らいげつ|gelecek ay
+// 4V1
+12 あの人{ひと}はうつくしいですね。
+= O kişi güzel, değil mi?
++ 人|ひと|kişi
+// 5G
+13 わたしはあるいて行{い}っています。
+= Ben yürü-yerek gid-iyor-um.
++ 行く|いく|gitmek|行っ
+// 5S
+14 電車{でんしゃ}の中{なか}です。女{おんな}の人{ひと}が来{き}ました。「ここ、どうぞ。」
+= Tren-de-sin. Bir kadın gel-di. "Buyurun, otur-un."
++ 電車|でんしゃ|tren
++ 中|なか|iç
++ 女の人|おんなのひと|kadın|女の人
++ 来る|くる|gelmek|来
+// 5G
+15 あ、食{た}べるまえに手{て}をあらいましょう。
+= Ah, ye-me-den önce el-ler-ini yıka-yalım.
++ 食べる|たべる|yemek|食べる
++ 手|て|el
+// 4G
+16 今日{きょう}は、風{かぜ}が強{つよ}いし寒{さむ}そうだから出{で}かけたくない。
+= Bugün rüzgâr sert, hem de soğuk görün-üyor, dışarı çık-mak iste-mi-yor-um.
++ 今日|きょう|bugün
++ 風|かぜ|rüzgâr
++ 強い|つよい|güçlü, sert
++ 寒い|さむい|soğuk|寒
++ 出かける|でかける|dışarı çıkmak|出かけ
+// 4V1
+17 もりさんをデートにさそいましたが、行{い}けないと言{い}われました。
+= Mori-san-ı randevu-ya davet et-ti-m ama gel-e-me-yeceğ-i-ni söyle-di.
++ 言う|いう|söylemek|言わ
+// 4R1
+18 バスで東川{ひがしかわ}海岸{かいがん}に行{い}って、海{うみ}を見{み}ながらお弁当{べんとう}を食{た}べます。
+= Otobüs-le Higashikawa Sahil-i'ne gid-ip deniz-i seyr-ed-er-ken bentō ye-r-iz.
++ 海岸|かいがん|sahil
++ 海|うみ|deniz
++ 見る|みる|bakmak, seyretmek|見
++ お弁当|おべんとう|bentō, yemek kutusu|お弁当
+// 4S
+19 はい。でも、会議室{かいぎしつ}は今{いま}、使{つか}っています。
+= Tamam. Ama toplantı oda-sı şu an kullanımda.
++ 会議室|かいぎしつ|toplantı odası
++ 今|いま|şimdi
+// 5S
+20 今{いま}から1階{かい}のレストランで晩{ばん}ご飯{はん}を食{た}べます。晩{ばん}ご飯{はん}は7時{じ}からです。
+= Şimdi zemin kat-taki restoran-da akşam yemeğ-i ye-yeceğ-iz. Akşam yemeğ-i saat 7'de.
++ 階|かい|kat
++ 晩ご飯|ばんごはん|akşam yemeği|晩ご飯
++ 時|じ|saat (…de)

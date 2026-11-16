@@ -1,0 +1,105 @@
+@ jl33 N5–N4 · 33
+// 5G1
+1 昼{ひる}に買{か}い物{もの}をしてから、きっさてんに入{はい}りました。
+= Öğlen alışveriş yap-tık-tan sonra bir kafe-ye gir-di-m.
++ 昼|ひる|öğle
++ 買い物|かいもの|alışveriş|買い物
++ 入る|はいる|girmek|入り
+// 5G1
+2 私{わたし}はあしたのひこうきで国{くに}へ帰{かえ}ります。
+= Yarın-ki uçak-la ülke-m-e dön-üyor-um.
++ 私|わたし|ben
++ 国|くに|ülke, memleket
++ 帰る|かえる|dönmek|帰り
+// 4G
+3 これはわたしが米{こめ}で作{つく}ったパンです。
+= Bu, pirinç-ten yap-tığ-ım ekmek.
++ 米|こめ|pirinç
++ 作る|つくる|yapmak|作っ
+// 5V1
+4 魚{さかな}がたくさんいますよ。
+= Bir sürü balık var.
++ 魚|さかな|balık
+// 5G
+5 すしがすきな人{ひと}は、いっしょに行{い}きませんか。
+= Suşi-yi sev-en-ler, birlikte gitmez mi-yiz?
++ 人|ひと|kişi
++ 行く|いく|gitmek|行き
+// 4S
+6 仕事{しごと}が忙{いそが}しいんです。
+= İş-ler-im yoğun.
++ 仕事|しごと|iş
++ 忙しい|いそがしい|meşgul, yoğun
+// 5V1
+7 ぎんこうとスーパーの間{あいだ}にほそいみちがあります。
+= Banka ile süpermarket-in ara-sı-nda dar bir yol var.
++ 間|あいだ|ara, arasında
+// 5S1
+8 じゃ、おにぎりを持{も}ってきてください。私{わたし}はスパゲティを作{つく}ります。
+= O zaman onigiri getir. Ben spagetti yap-acağ-ım.
++ 持つ|もつ|tutmak (持ってくる: getirmek)|持っ
++ 作る|つくる|yapmak|作り
+// 4R1
+9 山田{やまだ}さんは私{わたし}が乗{の}る電車{でんしゃ}のところまで一緒{いっしょ}に行{い}ってくれました。
+= Yamada-san bin-eceğ-im tren-in yer-i-ne kadar benimle gel-di.
++ 山田|やまだ|Yamada (soyadı)
++ 乗る|のる|binmek|乗る
++ 電車|でんしゃ|tren
++ 一緒|いっしょ|birlikte
++ 行く|いく|gitmek|行っ
+// 4V1
+10 このみちはこうじをしているので、とおれません。
+= Bu yol-da inşaat var, geç-il-e-mi-yor.
+// 4V
+11 10時{じ}のでんしゃにちこくしてしまいました。
+= Saat 10 tren-i-ne geç kal-dı-m.
++ 時|じ|saat (…de)
+// 4S
+12 日本人{にほんじん}の働{はたら}き方{かた}が知{し}りたいんです。
+= Japon-lar-ın çalış-ma biçim-i-ni öğren-mek istiyor-um.
++ 日本人|にほんじん|Japon
++ 働き方|はたらきかた|çalışma biçimi|働き方
++ 知る|しる|bilmek, öğrenmek|知り
+// 4G1
+13 先月{せんげつ}まで花屋{はなや}があった場所{ばしょ}にできたきっさてんは、りんごのケーキがおいしいです。
+= Geçen ay-a kadar çiçekçi ol-an yer-de açıl-an kafe-nin elmalı pasta-sı lezzetli.
++ 先月|せんげつ|geçen ay
++ 花屋|はなや|çiçekçi
++ 場所|ばしょ|yer
+// 5G1
+14 私{わたし}は小{ちい}さいとき、なっとうが好{す}きじゃありませんでした。
+= Küçük-ken nattō-yu sev-me-z-di-m.
++ 小さい|ちいさい|küçük
++ 好き|すき|sevilen, hoşa giden
+// 4R
+15 バス停{てい}からホテルまでは、細{ほそ}い道{みち}を30分{ぷん}近{ちか}く歩{ある}きました。
+= Otobüs durağ-ı-ndan otel-e kadar dar bir yol-da 30 dakika-ya yakın yürü-dü-k.
++ バス停|バスてい|otobüs durağı|バス停
++ 細い|ほそい|ince, dar
++ 道|みち|yol
++ 分|ふん|dakika
++ 近く|ちかく|yaklaşık, yakın|近く
++ 歩く|あるく|yürümek|歩き
+// 4R
+16 好{す}きな時間{じかん}に始{はじ}めることができます。
+= İste-diğ-iniz saat-te başla-yabil-ir-siniz.
++ 時間|じかん|zaman, saat
++ 始める|はじめる|başlamak|始める
+// 4R
+17 駅{えき}からホテルの近{ちか}くのバス停{てい}まで、バスで2時間{じかん}以上{いじょう}かかりました。
+= İstasyon-dan otel-in yakın-ın-daki otobüs durağ-ı-na kadar otobüs-le iki saat-ten fazla sür-dü.
++ 駅|えき|istasyon
++ 以上|いじょう|…den fazla
+// 5S
+18 いいえ、7734じゃなくて7743です。
+= Hayır, 7734 değil, 7743.
+// 5R
+19 コピーは南{みなみ}さんにわたしてください。
+= Fotokopi-ler-i Minami-san'a ver-in.
++ 南|みなみ|Minami (soyadı); güney
+// 5R
+20 3か月{げつ}前{まえ}に見{み}たえいがのDVDがほしかったからです。
+= Çünkü üç ay önce izle-diğ-im film-in DVD-si-ni isti-yor-du-m.
++ か月|かげつ|… ay (süre)|か月
++ 前|まえ|önce
++ 見る|みる|izlemek|見

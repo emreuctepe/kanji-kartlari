@@ -1,0 +1,123 @@
+@ jl27 N5–N4 · 27
+// 4R1
+1 山田{やまだ}さんは駅{えき}の中{なか}にある喫茶店{きっさてん}でお茶{ちゃ}を飲{の}みながら、私{わたし}が行{い}ったり来{き}たりしているのを見{み}ていたそうです。
+= Yamada-san istasyon için-deki kafe-de çay iç-er-ken benim bir o yana bir bu yana gid-ip gel-diğ-im-i izli-yor-muş.
++ 山田|やまだ|Yamada (soyadı)
++ 駅|えき|istasyon
++ 中|なか|iç
++ 喫茶店|きっさてん|kafe, kahvehane
++ お茶|おちゃ|çay|お茶
++ 飲む|のむ|içmek|飲み
++ 私|わたし|ben
++ 行く|いく|gitmek|行っ
++ 来る|くる|gelmek|来
++ 見る|みる|bakmak, izlemek|見
+// 5G
+2 日本{にほん}のラーメンはおいしいです。
+= Japonya-nın ramen-i lezzetli.
++ 日本|にほん|Japonya
+// 5V1
+3 ふくをあらいました。
+= Kıyafet-ler-i yıka-dı-m.
+// 5G1
+4 あ、行{い}きたいです。
+= Ah, gel-mek istiyor-um.
+// 5V
+5 ここはでぐちです。いりぐちはあちらです。
+= Bura-sı çıkış. Giriş şura-da.
+// 4S1
+6 エレベーターの中{なか}です。ほかの人{ひと}が降{お}りたあとで降{お}ります。「どうぞお先{さき}に。」
+= Asansör-de-sin. Başka-lar-ı in-dik-ten sonra in-eceksin. "Buyurun, siz önden."
++ 人|ひと|kişi
++ 降りる|おりる|inmek|降り
++ お先に|おさきに|önden, sizden önce|お先に
+// 4G
+7 男{おとこ}の子{こ}の顔{かお}は父親{ちちおや}より母親{ははおや}ににるという話{はなし}を聞{き}いた。
+= Erkek çocuk-lar-ın yüz-ü-nün baba-dan çok anne-ye benze-diğ-i-ne dair bir söz duy-du-m.
++ 男の子|おとこのこ|erkek çocuk|男の子
++ 顔|かお|yüz
++ 父親|ちちおや|baba
++ 母親|ははおや|anne
++ 話|はなし|söz, hikâye
++ 聞く|きく|duymak|聞い
+// 4G1
+8 今{いま}は一人{ひとり}で練習{れんしゅう}しています。泳{およ}ぐのはとても楽{たの}しいです。
+= Şimdi tek başıma çalış-ıyor-um. Yüz-mek çok eğlenceli.
++ 今|いま|şimdi
++ 一人|ひとり|tek başına; bir kişi
++ 練習|れんしゅう|alıştırma
++ 泳ぐ|およぐ|yüzmek|泳ぐ
++ 楽しい|たのしい|eğlenceli
+// 4S1
+9 似{に}ている名前{なまえ}のテキストがありますから、間違{まちが}えないようにしてください。
+= Benzer isim-li kitap-lar var, karıştır-ma-ma-ya dikkat ed-in.
++ 似る|にる|benzemek|似
++ 名前|なまえ|isim
++ 間違える|まちがえる|karıştırmak, yanılmak|間違え
+// 4S
+10 車{くるま}で行{い}けば10分{ぷん}ですよ。
+= Araba-yla gid-er-sen 10 dakika.
++ 車|くるま|araba
++ 分|ふん|dakika
+// 4G
+11 今{いま}すぐタクシーに乗{の}れば間{ま}に合{あ}うかもしれないから、タクシーで行{い}こう。
+= Hemen taksi-ye bin-er-sek yetiş-ebil-ir-iz, taksi-yle gid-elim.
++ 乗る|のる|binmek|乗れ
++ 間に合う|まにあう|yetişmek|間に合う
+// 4G
+12 『やさしい』という意味{いみ}です。
+= "Kolay" anlam-ı-na gel-ir.
++ 意味|いみ|anlam
+// 5S1
+13 りんごと、それから、みかんとバナナを少{すこ}し入{い}れました。
+= Elma, bir de biraz mandalina ve muz koy-du-m.
++ 少し|すこし|biraz
++ 入れる|いれる|koymak|入れ
+// 5S1
+14 じゃ、冷蔵庫{れいぞうこ}から卵{たまご}を2個{こ}と牛乳{ぎゅうにゅう}を出{だ}してください。
+= O zaman buzdolabı-ndan iki yumurta ve süt çıkar-ır mı-sın.
++ 冷蔵庫|れいぞうこ|buzdolabı
++ 卵|たまご|yumurta
++ 個|こ|(küçük nesne sayacı) tane
++ 牛乳|ぎゅうにゅう|süt
++ 出す|だす|çıkarmak|出し
+// 4V
+15 ふねでにもつを送{おく}ります。
+= Bagaj-ı gemi-yle gönder-iyor-um.
++ 送る|おくる|göndermek|送り
+// 5S
+16 飲{の}み物{もの}とお菓子{かし}をお願{ねが}いします。
+= İçecek ve atıştırmalık-lar-ı sen getir lütfen.
++ 飲み物|のみもの|içecek|飲み物
++ お菓子|おかし|tatlı, atıştırmalık|お菓子
++ お願い|おねがい|rica|お願い
+// 4V1
+17 これは写{うつ}さないでください。
+= Bu-nu kopyala-ma-yın.
++ 写す|うつす|kopyalamak; (fotoğraf) çekmek|写さ
+// 4S1
+18 包{つつ}む紙{かみ}は2種類{しゅるい}あります。こちらの船{ふね}の絵{え}と花{はな}の絵{え}とどちらがいいでしょうか。
+= Paket kâğıd-ı iki çeşit. Bu gemi resim-li ve çiçek resim-li ol-an-dan hangisi-ni ister-siniz?
++ 包む|つつむ|paketlemek|包む
++ 紙|かみ|kâğıt
++ 種類|しゅるい|çeşit, tür
++ 船|ふね|gemi
++ 絵|え|resim
++ 花|はな|çiçek
+// 4R1
+19 12月{がつ}5日{いつか}から7日{なのか}までは、試験中{しけんちゅう}ですから、先生{せんせい}たちの部屋{へや}には入{はい}れません。
+= 5 Aralık-tan 7'sine kadar sınav dönem-i ol-duğ-u için öğretmen-ler-in oda-sı-na gir-il-e-mez.
++ 月|がつ|(ay adı) …ay
++ 五日|いつか|ayın beşi|5日
++ 七日|なのか|ayın yedisi|7日
++ 試験中|しけんちゅう|sınav dönemi
++ 先生|せんせい|öğretmen
++ 部屋|へや|oda
++ 入る|はいる|girmek|入れ
+// 4S
+20 いい経験{けいけん}になりますね。日本語{にほんご}も上手{じょうず}になると思{おも}いますよ。
+= İyi bir deneyim ol-ur. Japonca-n da geliş-ir bence.
++ 経験|けいけん|deneyim
++ 日本語|にほんご|Japonca
++ 上手|じょうず|becerikli, iyi
++ 思う|おもう|düşünmek|思い

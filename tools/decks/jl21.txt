@@ -1,0 +1,102 @@
+@ jl21 N5–N4 · 21
+// 5V
+1 けさシャワーをあびました。
+= Bu sabah duş al-dı-m.
+// 4G
+2 ポチはわたしが家{いえ}を出{で}るとき、いつもげんかんまで出{で}てきます。
+= Ben ev-den çık-ar-ken Pochi her zaman kapı giriş-i-ne kadar gel-ir.
++ 家|いえ|ev
++ 出る|でる|çıkmak|出
+// 5G1
+3 来週{らいしゅう}も「はな」にコーヒーを飲{の}みに行{い}きます。
+= Gelecek hafta da "Hana"ya kahve iç-me-ye gid-eceğ-im.
++ 来週|らいしゅう|gelecek hafta
++ 飲む|のむ|içmek|飲み
++ 行く|いく|gitmek|行き
+// 5S
+4 ノートもかばんの中{なか}に入{い}れてください。
+= Defter-i de çanta-nın için-e koy-un.
++ 中|なか|iç
++ 入れる|いれる|koymak|入れ
+// 4R1
+5 「どうしよう。」と思{おも}って困{こま}っていたとき、山田{やまだ}さんという女{おんな}の人{ひと}が声{こえ}をかけてくれました。
+= "Ne yap-sa-m?" diye düşün-üp çaresiz kal-dığ-ım-da Yamada-san ad-lı bir kadın ban-a seslen-di.
++ 思う|おもう|düşünmek|思っ
++ 困る|こまる|zor durumda kalmak|困っ
++ 山田|やまだ|Yamada (soyadı)
++ 女の人|おんなのひと|kadın|女の人
++ 声|こえ|ses (声をかける: seslenmek)
+// 4G1
+6 私{わたし}は夏休{なつやす}みの間{あいだ}、スーパーでアルバイトをしていました。
+= Yaz tatil-i boyunca süpermarket-te yarı zamanlı çalış-tı-m.
++ 私|わたし|ben
++ 夏休み|なつやすみ|yaz tatili|夏休み
++ 間|あいだ|süre, arasında
+// 5R1
+7 ですから、今日{きょう}のかんじテストのべんきょうができませんでした。
+= Bu yüzden bugün-kü kanji sınav-ı-na çalış-a-ma-dı-m.
++ 今日|きょう|bugün
+// 5V1
+8 ヤンさんの学校{がっこう}はどこですか。
+= Yan-san-ın okul-u nere-de?
++ 学校|がっこう|okul
+// 4V
+9 わたしのせんもんは文学{ぶんがく}です。
+= Benim uzmanlık alan-ım edebiyat.
++ 文学|ぶんがく|edebiyat
+// 5V
+10 よるはいつもくにのかぞくにでんわします。
+= Akşam-lar-ı hep memleket-teki aile-m-i ara-r-ım.
+// 5V1
+11 そのナイフでりんごをきってください。
+= O bıçak-la elma-yı kes-in.
+// 5S1
+12 じゃ、行{い}く前{まえ}に電話{でんわ}します。
+= O zaman gel-me-den önce telefon ed-er-im.
++ 前|まえ|önce
++ 電話|でんわ|telefon
+// 5R1
+13 朝{あさ}からゆうがたまでしましたから、とてもつかれました。
+= Sabah-tan akşam-a kadar oyna-dı-k, çok yorul-du-m.
++ 朝|あさ|sabah
+// 4R1
+14 山田{やまだ}さんは仕事{しごと}で東京{とうきょう}に来{き}ていて、今{いま}から京都{きょうと}に帰{かえ}ると言{い}いました。
+= Yamada-san iş için Tokyo-ya gel-miş, şimdi Kyoto-ya dön-eceğ-i-ni söyle-di.
++ 仕事|しごと|iş
++ 東京|とうきょう|Tokyo
++ 来る|くる|gelmek|来
++ 今|いま|şimdi
++ 京都|きょうと|Kyoto
++ 帰る|かえる|dönmek|帰る
++ 言う|いう|söylemek|言い
+// 5S1
+15 1階{かい}にそば屋{や}があるビルで、ビルの3階{がい}です。
+= Zemin kat-ı-nda soba restoran-ı ol-an bina, bina-nın 3. kat-ı.
++ 階|かい|kat
++ そば屋|そばや|soba (erişte) lokantası|そば屋
+// 4S1
+16 それは、僕{ぼく}がやるからいいよ。じゃ、今{いま}頼{たの}んだことをやってから帰{かえ}ってね。
+= O-nu ben yap-ar-ım, gerek yok. O zaman şimdi iste-diğ-im-i yap-tık-tan sonra git.
++ 僕|ぼく|ben (erkek)
++ 頼む|たのむ|rica etmek|頼ん
+// 4S
+17 僕{ぼく}はまだ決{き}められなくて困{こま}っているんだ。
+= Ben hâlâ karar ver-e-me-dim, zor durumda-yım.
++ 決める|きめる|karar vermek|決められ
+// 5S
+18 「明日{あした}、何時{なんじ}に学校{がっこう}に来{き}ますか。」「9時半{じはん}です。」
+= "Yarın saat kaç-ta okul-a gel-iyor-sun?" "Dokuz buçuk-ta."
++ 明日|あした|yarın
++ 何時|なんじ|saat kaç
++ 時半|じはん|saat … buçuk
+// 4S1
+19 店{みせ}の中{なか}の掃除{そうじ}は終{お}わった？
+= Dükkân-ın iç-i-nin temizliğ-i bit-ti mi?
++ 店|みせ|dükkân
++ 掃除|そうじ|temizlik
++ 終わる|おわる|bitmek|終わっ
+// 5R
+20 外{そと}は雨{あめ}でしたが、わたしはかさがありませんでした。とてもこまりました。
+= Dışarı-da yağmur var-dı ama şemsiye-m yok-tu. Çok zor durum-da kal-dı-m.
++ 外|そと|dışarı
++ 雨|あめ|yağmur
