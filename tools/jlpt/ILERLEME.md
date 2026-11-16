@@ -24,24 +24,6 @@ Yarıda kesilirse buradan devam et. Her faz bitince işaretle (☑).
 - [x] 4. Derle, tarayıcıda dene, commit + push
 
 ## Sonraki: N3–N2 ve N1
-- PDF'ler ~/İndirilenler/JLPT/N3*, N2*, N1* (aynı yapı). Aynı akış: metin çıkar (tools/jlpt/*.py) → `n3n2_cumleler.md` → karıştır → `jlN…` id'leri; app.js'te JLPT klasörüne `makeFolder('jl32', 'N3–N2', …)` gibi yeni alt klasör ekle (şu an yalnız /^jl\d+$/ → N5–N4).
-
-## Faz 1 — kaynak dosyalar
-| Dosya | Sayfa | Durum |
-|---|---|---|
-| N5V.pdf | 10 | ☑ md'de (39) |
-| N5V (1).pdf | 10 | ☑ md'de (40) |
-| N5G.pdf | 9 | ☑ md'de (41) |
-| N5G (1).pdf | 9 | ☑ md'de (37) |
-| N5R.pdf | 8 | ☑ md'de (24) |
-| N5R (1).pdf | 8 | ☑ md'de (20) |
-| N5script.pdf | 8 | ☑ md'de (64) |
-| N5script (1).pdf | 14 | ☑ md'de (80) |
-| N4V.pdf | 11 | ☑ md'de (44) |
-| N4V (1).pdf | 11 | ☑ md'de (41) |
-| N4G.pdf | 9 | ☑ md'de (46) |
-| N4G (1).pdf | 9 | ☑ md'de (39) |
-| N4R.pdf | 8 | ☑ md'de (37) |
-| N4R (1).pdf | 8 | ☑ md'de (33) |
-| N4script.pdf | 10 | ☑ md'de (82) |
-| N4script (1).pdf | 12 | ☑ md'de (95) |
+- PDF'ler ~/İndirilenler/JLPT/N3*, N2*, N1* (aynı yapı: V/G/R/script + "(1)" seti).
+- Aynı akış: metin çıkar (tools/jlpt/pdftext.py; "(1)" dosyalarında rakamlar glyphs.py+label.py ile) → `n3n2_cumleler.md` → sabit tohumla karıştır → 20'lik desteler.
+- Id öneki AYRI olmalı: app.js N5–N4 için /^jl\d+$/ kullanıyor. N3–N2 için ör. `jm1…`, N1 için `jn1…`; app.js'te JLPT klasörüne `makeFolder('jl32', 'N3–N2', …)` gibi alt klasör ekle (JLPT kilit zinciri leaves(JLPT) ile otomatik genişler).
