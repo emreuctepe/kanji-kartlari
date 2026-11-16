@@ -1,0 +1,106 @@
+@ jl14 N5–N4 · 14
+// 4S
+1 あ、そうだ、ごめん。一人{ひとり}都合{つごう}が悪{わる}くなったから、五人{ごにん}だ。
+= Ha, doğru, kusura bakma. Bir kişi-nin işi çık-tı, beş kişi-yiz.
++ 一人|ひとり|bir kişi
++ 都合|つごう|uygunluk, durum
++ 悪い|わるい|kötü|悪く
++ 五人|ごにん|beş kişi
+// 5S
+2 明日{あした}の夜{よる}、一緒{いっしょ}にサッカーを見{み}に行{い}きませんか。
+= Yarın akşam birlikte futbol izle-me-ye git-me-z mi-yiz?
++ 明日|あした|yarın
++ 夜|よる|gece, akşam
++ 一緒|いっしょ|birlikte
++ 見る|みる|izlemek|見
++ 行く|いく|gitmek|行き
+// 5G
+3 山田{やまだ}さんのそのカメラはいいですね。かいましたか。
+= Yamada-san, o kamera-n güzel-miş. Satın mı al-dı-n?
++ 山田|やまだ|Yamada (soyadı)
+// 4G1
+4 私{わたし}は20さいのたんじょうびにそふがくれたカメラを大切{たいせつ}に使{つか}っています。
+= 20. yaş gün-üm-de büyükbaba-m-ın ver-diğ-i kamera-yı özen-le kullan-ıyor-um.
++ 私|わたし|ben
++ 大切|たいせつ|değerli, önemli (大切に: özenle)|大切
++ 使う|つかう|kullanmak|使っ
+// 4S
+5 電車{でんしゃ}かバスでも行{い}けますか。
+= Tren ya da otobüs-le de gid-il-ebil-ir mi?
++ 電車|でんしゃ|tren
+// 4S
+6 でも、最近{さいきん}は、看護師{かんごし}になりたいんです。
+= Ama son zamanlar-da hemşire ol-mak istiyor-um.
++ 最近|さいきん|son zamanlarda
++ 看護師|かんごし|hemşire
+// 4R1
+7 このお知{し}らせが日本語{にほんご}学校{がっこう}の教室{きょうしつ}にあります。
+= Bu duyuru Japonca okul-u-nun sınıf-ı-nda as-ılı.
++ お知らせ|おしらせ|duyuru, bildiri
++ 日本語|にほんご|Japonca
++ 学校|がっこう|okul
++ 教室|きょうしつ|sınıf, derslik
+// 5S1
+8 ありがとうございます。お菓子{かし}も待{ま}っています。
+= Teşekkürler. Tatlı-yı da bekli-yor-um.
++ お菓子|おかし|tatlı, şekerleme|お菓子
++ 待つ|まつ|beklemek|待っ
+// 4G1
+9 この日本語{にほんご}のじしょは、150年{ねん}前{まえ}に外国人{がいこくじん}によって作{つく}られました。
+= Bu Japonca sözlük 150 yıl önce yabancı-lar tarafından yap-ıl-dı.
++ 年|ねん|yıl
++ 前|まえ|önce
++ 外国人|がいこくじん|yabancı
++ 作る|つくる|yapmak|作ら
+// 4S1
+10 歩{ある}くのは無理{むり}だけど、バスなら15分{ふん}で着{つ}くよ。
+= Yürü-mek imkânsız ama otobüs-le 15 dakika-da var-ır-sın.
++ 歩く|あるく|yürümek|歩く
++ 無理|むり|imkânsız, zor
++ 分|ふん|dakika
++ 着く|つく|varmak, ulaşmak|着く
+// 4G1
+11 きのうのしゅくだいは少{すく}なかったので、20分{ぷん}で終{お}わりました。
+= Dün-kü ödev az-dı, 20 dakika-da bit-ti.
++ 少ない|すくない|az|少なかっ
++ 終わる|おわる|bitmek|終わり
+// 5G
+12 だから、本{ほん}はいつもえきのちかくの本屋{ほんや}で買{か}います。
+= Bu yüzden kitap-lar-ı hep istasyon-un yakın-ın-daki kitapçı-dan al-ır-ım.
++ 本|ほん|kitap
++ 本屋|ほんや|kitapçı
++ 買う|かう|satın almak|買い
+// 4S
+13 月曜日{げつようび}と火曜日{かようび}は晴{は}れるでしょう。
+= Pazartesi ve salı hava açık ol-acak.
++ 月曜日|げつようび|pazartesi
++ 火曜日|かようび|salı
++ 晴れる|はれる|(hava) açmak|晴れる
+// 5G
+14 ほんとうですね。30ぴきくらいいますね。
+= Gerçekten de. 30 tane kadar var.
+// 4S
+15 来週{らいしゅう}、佐藤{さとう}さんの誕生日{たんじょうび}だね。もうプレゼント、買{か}った？
+= Gelecek hafta Satō-san-ın doğum gün-ü. Hediye-yi al-dı-n mı?
++ 来週|らいしゅう|gelecek hafta
++ 佐藤|さとう|Satō (soyadı)
++ 誕生日|たんじょうび|doğum günü
+// 5V
+16 まいばんくにのかぞくにでんわします。
+= Her akşam memleket-im-deki aile-m-i ara-r-ım.
+// 4G1
+17 あ、いいね。あしたは都合{つごう}が悪{わる}いけど、あさってならだいじょうぶだよ。
+= Ah, güzel. Yarın uygun değil-im ama öbür gün-se olur.
+// 5V
+18 このぼうしは1000円{えん}です。
+= Bu şapka 1000 yen.
++ 円|えん|yen
+// 5S
+19 いいですね。どこで会{あ}いましょうか。
+= Güzel. Nere-de buluş-alım?
++ 会う|あう|buluşmak|会い
+// 5S1
+20 それから魚{さかな}も出{だ}してください。
+= Bir de balığ-ı çıkar-ır mı-sın.
++ 魚|さかな|balık
++ 出す|だす|çıkarmak|出し

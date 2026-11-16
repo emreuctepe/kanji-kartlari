@@ -1,0 +1,115 @@
+@ jl5 N5–N4 · 5
+// 4V
+1 あにはえがうまいです。
+= Ağabey-im resim-de usta.
+// 5S1
+2 「あした京都{きょうと}に行{い}きますね。何時{なんじ}の飛行機{ひこうき}に乗{の}りますか。」「4時半{じはん}の飛行機{ひこうき}です。」
+= "Yarın Kyoto'ya gid-iyor-sun değil mi? Saat kaç-taki uçağ-a bin-ecek-sin?" "Dört buçuk uçağ-ı."
++ 京都|きょうと|Kyoto
++ 行く|いく|gitmek|行き
++ 何時|なんじ|saat kaç
++ 飛行機|ひこうき|uçak
++ 乗る|のる|binmek|乗り
++ 時半|じはん|saat … buçuk
+// 5S
+3 いいえ、みどり駅{えき}に行{い}くバスは3番{ばん}と5番{ばん}と7番{ばん}ですよ。
+= Hayır, Midori İstasyonu'na gid-en otobüs-ler 3, 5 ve 7 numara.
++ 駅|えき|istasyon
++ 番|ばん|numara
+// 5V1
+4 このワイシャツをください。
+= Bu gömleğ-i ver-ir mi-siniz.
+// 4R
+5 明日{あした}の約束{やくそく}ですが、会議{かいぎ}に出{で}なければならなくなりました。
+= Yarın-ki randevu-muz-a gelince, toplantı-ya katıl-mam gerek-ti.
++ 明日|あした|yarın
++ 約束|やくそく|söz, randevu
++ 会議|かいぎ|toplantı
++ 出る|でる|çıkmak; katılmak|出
+// 5G1
+6 きのうは少{すこ}し寒{さむ}かったですが、今日{きょう}は寒{さむ}くないです。
+= Dün biraz soğuk-tu ama bugün soğuk değil.
++ 少し|すこし|biraz
++ 寒い|さむい|soğuk|寒かっ
++ 今日|きょう|bugün
+// 5S1
+7 電車{でんしゃ}じゃなくてバスで会社{かいしゃ}に来{き}ていますか。
+= Tren değil de otobüs-le mi iş-e gel-iyor-sunuz?
++ 電車|でんしゃ|tren
++ 会社|かいしゃ|şirket, iş yeri
++ 来る|くる|gelmek|来
+// 5S1
+8 中山{なかやま}さん、中山{なかやま}さんの家族{かぞく}は何人{なんにん}ですか。
+= Nakayama-san, aile-niz kaç kişi?
++ 中山|なかやま|Nakayama (soyadı)
++ 家族|かぞく|aile
++ 何人|なんにん|kaç kişi
+// 5S1
+9 いえ、僕{ぼく}は自転車{じてんしゃ}です。
+= Hayır, ben bisiklet-le gel-iyor-um.
++ 僕|ぼく|ben (erkek)
++ 自転車|じてんしゃ|bisiklet
+// 4S
+10 「学校{がっこう}を休{やす}むときは電話{でんわ}してください。」「はい、連絡{れんらく}します。」
+= "Okul-a gel-me-yeceğ-in zaman telefon et." "Tamam, haber ver-ir-im."
++ 学校|がっこう|okul
++ 休む|やすむ|dinlenmek; (okula) gelmemek
++ 電話|でんわ|telefon
++ 連絡|れんらく|haber verme, iletişim
+// 5G1
+11 大好{だいす}きなジュースはすいかジュースです。
+= En sev-diğ-im meyve suyu karpuz suyu.
++ 大好き|だいすき|çok sevdiği|大好き
+// 4S1
+12 森{もり}さん、この手紙{てがみ}を山本{やまもと}さんに渡{わた}してくれない？
+= Mori-san, bu mektub-u Yamamoto-san'a ver-ir mi-sin?
++ 森|もり|Mori (soyadı)
++ 手紙|てがみ|mektup
++ 山本|やまもと|Yamamoto (soyadı)
++ 渡す|わたす|vermek, teslim etmek|渡し
+// 4S1
+13 小学校{しょうがっこう}の建物{たてもの}に入{はい}るときには、靴{くつ}を脱{ぬ}がなければなりませんから、スリッパを持{も}っていってください。
+= İlkokul-un bina-sı-na gir-er-ken ayakkabı çıkar-mak gerek-tiğ-i için terlik götür-ün.
++ 小学校|しょうがっこう|ilkokul
++ 建物|たてもの|bina
++ 入る|はいる|girmek|入る
++ 靴|くつ|ayakkabı
++ 脱ぐ|ぬぐ|çıkarmak (giysi, ayakkabı)|脱が
++ 持つ|もつ|tutmak, taşımak (持っていく: götürmek)|持っ
+// 4R1
+14 それで、メモを持{も}って駅{えき}の中{なか}を行{い}ったり来{き}たりしていました。
+= O yüzden not-u elim-de istasyon-un için-de bir o yana bir bu yana gid-ip gel-iyor-du-m.
++ 中|なか|iç
++ 行く|いく|gitmek|行っ
+// 4G1
+15 弟{おとうと}は小{ちい}さいときよくけがをして、両親{りょうしん}を心配{しんぱい}させました。
+= Küçük kardeş-im küçük-ken sık sık yaralan-ır, anne baba-m-ı endişelen-dir-ir-di.
++ 弟|おとうと|küçük erkek kardeş
++ 小さい|ちいさい|küçük
++ 両親|りょうしん|anne baba
++ 心配|しんぱい|endişe
+// 5S
+16 すみません、その上{うえ}の黒{くろ}いかばんを取{と}ってください。
+= Affedersiniz, şu üst-teki siyah çanta-yı ver-ir mi-siniz.
++ 上|うえ|üst
++ 黒い|くろい|siyah
++ 取る|とる|almak, uzatmak|取っ
+// 4S1
+17 今{いま}、ちょうど5時{じ}ですから、始{はじ}まるまで30分{ぷん}あります。
+= Şimdi saat tam 5, başla-ma-sı-na 30 dakika var.
++ 今|いま|şimdi
++ 時|じ|saat (…de)
++ 始まる|はじまる|başlamak|始まる
++ 分|ふん|dakika|分
+// 5V
+18 きょうはゆきがふっています。
+= Bugün kar yağ-ıyor.
+// 4G1
+19 ともだちがかっこよかったので、私{わたし}も泳{およ}いでみたいと思{おも}いました。
+= Arkadaş-ım çok havalı-ydı, o yüzden ben de yüz-me-yi dene-mek iste-di-m.
++ 私|わたし|ben
++ 泳ぐ|およぐ|yüzmek|泳い
++ 思う|おもう|düşünmek|思い
+// 4G
+20 わたしたちはいつもいっしょです。
+= Biz her zaman birlikte-yiz.

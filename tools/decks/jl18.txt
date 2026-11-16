@@ -1,0 +1,110 @@
+@ jl18 N5–N4 · 18
+// 5G
+1 みなさんはすきな本屋{ほんや}がありますか。
+= Sizin sev-diğ-iniz bir kitapçı var mı?
++ 本屋|ほんや|kitapçı
+// 4S
+2 じゃあ、カップはどう？佐藤{さとう}さん、コーヒーが好{す}きで、よく飲{の}んでいるよ。
+= O zaman fincan-a ne dersin? Satō-san kahve-yi sev-er, sık sık iç-iyor.
++ 佐藤|さとう|Satō (soyadı)
++ 好き|すき|sevilen, hoşa giden
++ 飲む|のむ|içmek|飲ん
+// 5S
+3 どちらですか。この小{ちい}さいのですか。
+= Hangisi? Bu küçük ol-an mı?
++ 小さい|ちいさい|küçük
+// 5G
+4 となりのへやでギターのれんしゅうをしています。
+= Yan oda-da gitar çalış-ıyor.
+// 4S
+5 先輩{せんぱい}、相談{そうだん}したいことがあるんですが、今{いま}、いいですか。
+= Ağabey/abla (üst dönem), danış-mak iste-diğ-im bir şey var, şimdi müsait mi-sin?
++ 先輩|せんぱい|üst dönem öğrencisi, kıdemli
++ 相談|そうだん|danışma
++ 今|いま|şimdi
+// 4R1
+6 昨日{きのう}初{はじ}めて黒{くろ}い消{け}しゴムを買{か}いました。
+= Dün ilk kez siyah bir silgi al-dı-m.
++ 昨日|きのう|dün
++ 初めて|はじめて|ilk kez|初めて
++ 黒い|くろい|siyah
++ 消しゴム|けしゴム|silgi|消しゴム
++ 買う|かう|satın almak|買い
+// 4S
+7 音楽{おんがく}が好{す}きだったんですね。私{わたし}は子供{こども}のとき、警察官{けいさつかん}になるのが夢{ゆめ}でした。
+= Müziğ-i sev-iyor-muş-sun demek. Ben çocuk-ken polis ol-mak hayal-im-di.
++ 音楽|おんがく|müzik
++ 私|わたし|ben
++ 子供|こども|çocuk
++ 警察官|けいさつかん|polis memuru
++ 夢|ゆめ|hayal, rüya
+// 5S
+8 4日間{かかん}飲{の}んでくださいね。
+= Dört gün boyunca iç-in.
++ 日間|かかん|… gün (süre)|日間
+// 4S
+9 出発{しゅっぱつ}は10時{じ}20分{ぷん}の予定{よてい}です。出発{しゅっぱつ}まで10分{ぷん}です。
+= Kalkış saat 10:20'de planlan-ıyor. Kalkış-a 10 dakika var.
++ 出発|しゅっぱつ|kalkış, hareket
++ 時|じ|saat (…de)
++ 分|ふん|dakika
++ 予定|よてい|plan, program
+// 5V1
+10 まだ言{い}わないでください。
+= Henüz söyle-me-yin.
++ 言う|いう|söylemek|言わ
+// 4G
+11 山田{やまだ}さん。東京{とうきょう}の大学{だいがく}に行{い}くことを、もうご両親{りょうしん}に話{はな}しましたか。
+= Yamada-san. Tokyo-daki üniversite-ye gid-eceğ-in-i anne baba-n-a söyle-di-n mi artık?
++ 山田|やまだ|Yamada (soyadı)
++ 東京|とうきょう|Tokyo
++ 大学|だいがく|üniversite
++ 行く|いく|gitmek
++ ご両親|ごりょうしん|(başkasının) anne babası|ご両親
++ 話す|はなす|konuşmak, anlatmak|話し
+// 4V
+12 すずきさんは青{あお}いシャツをきています。
+= Suzuki-san mavi bir gömlek giy-iyor.
++ 青い|あおい|mavi
+// 5G1
+13 そうですか。いかがでしたか。
+= Öyle mi? Nasıl-dı?
+// 4G1
+14 えっ、野球{やきゅう}の試合{しあい}ですか。いいですね。見{み}に行{い}ったことがないので、ぜひ行{い}きたいです。
+= Ee, beysbol maç-ı mı? Harika. Hiç izle-me-ye git-me-di-m, mutlaka git-mek isti-yor-um.
++ 野球|やきゅう|beysbol
++ 試合|しあい|maç
++ 見る|みる|izlemek|見
+// 4S1
+15 ねえ、日本{にほん}に来{き}て、日本{にほん}の自動{じどう}販売機{はんばいき}に驚{おどろ}かなかった？
+= Baksana, Japonya-ya gel-ince Japon otomat-lar-ı-na şaşır-ma-dı-n mı?
++ 日本|にほん|Japonya
++ 来る|くる|gelmek|来
++ 自動販売機|じどうはんばいき|otomat (satış makinesi)|自動販売機
++ 驚く|おどろく|şaşırmak|驚か
+// 5S
+16 あ、飲{の}み物{もの}は重{おも}いですね。海{うみ}に着{つ}いてから買{か}いましょう。
+= Ah, içecek-ler ağır. Deniz-e var-dık-tan sonra al-alım.
++ 飲み物|のみもの|içecek|飲み物
++ 重い|おもい|ağır
++ 海|うみ|deniz
++ 着く|つく|varmak|着い
+// 5S
+17 家{いえ}へ帰{かえ}ります。友達{ともだち}に「じゃ、また。」
+= Ev-e dön-üyor-sun. Arkadaş-ın-a: "Hadi, görüşürüz."
++ 家|いえ|ev
++ 帰る|かえる|dönmek|帰り
++ 友達|ともだち|arkadaş
+// 4V1
+18 さとうさんがけがをしたと聞{き}いて、みんなしんぱいしました。
+= Satō-san-ın yaralan-dığ-ı-nı duy-unca herkes endişelen-di.
++ 聞く|きく|duymak|聞い
+// 5R1
+19 しかし、きょうしつでかんじをべんきょうしている人{ひと}はいませんでした。
+= Ama sınıf-ta kanji çalış-an kimse yok-tu.
++ 人|ひと|insan, kişi
+// 4S
+20 チケットは船{ふね}の中{なか}で買{か}うことができます。
+= Bilet-i gemi-nin için-de al-abil-ir-siniz.
++ 船|ふね|gemi
++ 中|なか|iç

@@ -1,0 +1,99 @@
+@ jl3 N5–N4 · 3
+// 4G
+1 しゅくだいをしたあとでね。
+= Ödev-i yap-tık-tan sonra, tamam mı.
+// 4S1
+2 図書館{としょかん}は人{ひと}が多{おお}いから、恥{は}ずかしいよ。
+= Kütüphane-de insan çok ol-duğ-u için utan-ır-ım.
++ 図書館|としょかん|kütüphane
++ 人|ひと|insan, kişi
++ 多い|おおい|çok
++ 恥ずかしい|はずかしい|utandırıcı, utanmak|恥ずかしい
+// 4S1
+3 はい、急{いそ}いで持{も}っていきます。
+= Tamam, hemen götür-üyor-um.
++ 急ぐ|いそぐ|acele etmek|急い
++ 持つ|もつ|tutmak, taşımak (持っていく: götürmek)|持っ
+// 4S1
+4 すみません。来週{らいしゅう}の日曜日{にちようび}、体育館{たいいくかん}で卓球{たっきゅう}がしたいんですが。
+= Affedersiniz. Gelecek hafta pazar günü spor salon-u-nda masa tenis-i oyna-mak istiyor-um da.
++ 来週|らいしゅう|gelecek hafta
++ 日曜日|にちようび|pazar
++ 体育館|たいいくかん|spor salonu
++ 卓球|たっきゅう|masa tenisi
+// 5V1
+5 あしたは火{か}よう日{び}です。
+= Yarın salı.
++ 火よう日|かようび|salı|火よう日
+// 5S1
+6 十日{とおか}はテストをします。休{やす}まないでください。
+= Ayın on-u-nda sınav yap-acağ-ız. Devamsızlık yap-ma-yın.
++ 十日|とおか|ayın onu; on gün
++ 休む|やすむ|dinlenmek; (okula) gelmemek|休ま
+// 4S1
+7 再来週{さらいしゅう}の木曜日{もくようび}は、学校{がっこう}に来{き}ません。
+= İki hafta sonra-ki perşembe okul-a gel-mi-yor-um.
++ 再来週|さらいしゅう|iki hafta sonra
++ 木曜日|もくようび|perşembe
++ 学校|がっこう|okul
++ 来る|くる|gelmek|来
+// 4S
+8 じゃ、教室{きょうしつ}で待{ま}っています。
+= O zaman sınıf-ta bekli-yor-um.
++ 教室|きょうしつ|sınıf, derslik
++ 待つ|まつ|beklemek|待っ
+// 5G
+9 いいえ、いえにいました。
+= Hayır, ev-de-ydi-m.
+// 5G
+10 わたしはえきのちかくの本屋{ほんや}がすきです。
+= Ben istasyon-un yakın-ın-daki kitapçı-yı sev-iyor-um.
++ 本屋|ほんや|kitapçı
+// 5R
+11 あらきやは朝{あさ}8:00から夜{よる}9:00までです。
+= Arakiya sabah 8:00'den gece 9:00'a kadar açık.
++ 朝|あさ|sabah
++ 夜|よる|gece, akşam
+// 5G1
+12 私{わたし}は日曜日{にちようび}に兄{あに}の子{こ}どもといっしょに出{で}かけました。
+= Ben pazar günü ağabey-im-in çocuğ-u-yla birlikte dışarı çık-tı-m.
++ 私|わたし|ben
++ 兄|あに|(kendi) ağabey
++ 子ども|こども|çocuk|子ども
++ 出かける|でかける|dışarı çıkmak|出かけ
+// 4R
+13 「あおぞら一日{いちにち}スポーツ教室{きょうしつ}」では、いろいろなスポーツのルールや、やり方{かた}を先生{せんせい}が教{おし}えます。
+= "Aozora Bir Gün-lük Spor Kurs-u"nda çeşitli spor-lar-ın kural-lar-ı-nı ve nasıl yap-ıl-dık-lar-ı-nı öğretmen-ler öğret-ir.
++ 一日|いちにち|bir gün
++ やり方|やりかた|yapılış, yöntem|やり方
++ 先生|せんせい|öğretmen
++ 教える|おしえる|öğretmek|教え
+// 4S1
+14 いいけど、また引{ひ}っ越{こ}すんだね。部屋{へや}が狭{せま}いの？
+= Olur ama yine mi taşın-ıyor-sun? Oda dar mı?
++ 引っ越す|ひっこす|taşınmak|引っ越す
++ 部屋|へや|oda
++ 狭い|せまい|dar
+// 5V1
+15 もりさんはリーさんにペンをかりました。
+= Mori-san Lee-san'dan kalem ödünç al-dı.
+// 4V1
+16 先生{せんせい}や友{とも}だちとこうじょうをけんがくしました。
+= Öğretmen ve arkadaş-lar-ım-la fabrika-yı gez-di-k.
++ 友だち|ともだち|arkadaş|友だち
+// 4V
+17 おさらをおとして、わってしまいました。
+= Tabağ-ı düşür-üp kır-ı-ver-di-m.
+// 5G1
+18 いいえ。田中{たなか}さんのですよ。
+= Hayır. Tanaka-san-ın.
++ 田中|たなか|Tanaka (soyadı)
+// 4G1
+19 リーさん、いつもどうやって国{くに}のかぞくにれんらくしますか。
+= Lee-san, ülke-n-deki aile-n-le genelde nasıl iletişim kur-uyor-sun?
++ 国|くに|ülke, memleket
+// 4S1
+20 船{ふね}の絵{え}がいいです。リボンもつけてください。
+= Gemi resm-i iyi. Kurdele de tak-ar mı-sınız.
++ 船|ふね|gemi
++ 絵|え|resim

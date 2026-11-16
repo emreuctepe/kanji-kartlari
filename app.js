@@ -40,17 +40,29 @@
   WORDS.forEach(function (w, gk) { ALL.cards.push(CARD.get(w.decks[0] + '/' + gk)); });
 
   // 2年文法 kalıp desteleri ana listede tek bir klasör olarak görünür; desteler aynı kalır
+  // klasörler iç içe olabilir (JLPT › N5–N4 › desteler); decks = alt desteler ya da alt klasörler
+  var FOLDERS = {}, PARENT = {};
+  function makeFolder(id, title, kids) {
+    var f = { id: id, title: title, folder: true, decks: kids, cards: [] };
+    kids.forEach(function (k) { PARENT[k.id] = f; f.cards = f.cards.concat(k.cards); });
+    FOLDERS[id] = f;
+    return f;
+  }
+  function leaves(x) { return x.folder ? x.decks.reduce(function (a, k) { return a.concat(leaves(k)); }, []) : [x]; }
   var GRAMMAR = DECKS.filter(function (d) { return /^gp\d+$/.test(d.id); });
-  var FOLDER = { id: 'gram', title: '2年文法', folder: true, decks: GRAMMAR, cards: [] };
-  GRAMMAR.forEach(function (d) { FOLDER.cards = FOLDER.cards.concat(d.cards); });
-  var HOME = [];
+  var FOLDER = makeFolder('gram', '2年文法', GRAMMAR);
+  var JL45 = DECKS.filter(function (d) { return /^jl\d+$/.test(d.id); })
+    .sort(function (a, b) { return +a.id.slice(2) - +b.id.slice(2); });
+  var JLPT = JL45.length ? makeFolder('jlpt', 'JLPT', [makeFolder('jl45', 'N5–N4', JL45)]) : null;
+  var HOME = JLPT ? [JLPT] : [];
   DECKS.forEach(function (d) {
-    if (GRAMMAR.indexOf(d) < 0) HOME.push(d);
-    else if (d === GRAMMAR[0]) HOME.push(FOLDER);
+    if (PARENT[d.id]) { if (d === GRAMMAR[0]) HOME.push(FOLDER); }
+    else HOME.push(d);
   });
-  // kilit sırası: ana listede yukarıdan aşağı, klasörün içindekiler kendi sırasıyla
+  // kilit sırası: ana listede yukarıdan aşağı, klasörün içindekiler kendi sırasıyla; JLPT kendi zinciri (ana listeyi kilitlemez)
   var ORDER = [];
-  HOME.forEach(function (x) { if (FREE.indexOf(x.id) < 0) ORDER = ORDER.concat(x.folder ? x.decks : [x]); });
+  HOME.forEach(function (x) { if (FREE.indexOf(x.id) < 0 && x !== JLPT) ORDER = ORDER.concat(leaves(x)); });
+  var CHAINS = [ORDER].concat(JLPT ? [leaves(JLPT)] : []);
 
   // tüm cümleler: aynı metin birden çok destede geçiyorsa tek satır; gks = cümlede geçen kartların kelimeleri
   function plainOf(g) { return g.map(function (x) { return typeof x === 'string' ? x : x[0]; }).join(''); }
@@ -134,15 +146,20 @@
   }
   // kilit: desteler yukarıdan aşağı sırayla açılır; tamamı yeşil olmayan ilk desteden (blocker) sonrakiler kilitli
   function locks() {
-    var set = new Set(), blocker = null;
-    if (!prefs.lock || !store.ready) return { set: set, blocker: null };
-    ORDER.forEach(function (d) {
-      if (blocker) set.add(d.id);
-      else if (!d.cards.every(function (c) { return status(c.gk) === 'g'; })) blocker = d;
+    var set = new Set(), blocker = null, by = {};
+    if (!prefs.lock || !store.ready) return { set: set, blocker: null, by: by };
+    CHAINS.forEach(function (chain, ci) {
+      var b = null;
+      chain.forEach(function (d) {
+        if (b) { set.add(d.id); by[d.id] = b; }
+        else if (!d.cards.every(function (c) { return status(c.gk) === 'g'; })) b = d;
+      });
+      if (ci === 0) blocker = b;
     });
-    return { set: set, blocker: blocker };
+    return { set: set, blocker: blocker, by: by };
   }
-  function isLocked(lk, d) { return lk.set.has(d.folder ? d.decks[0].id : d.id); }
+  function isLocked(lk, d) { return lk.set.has(leaves(d)[0].id); }
+  function lockBlocker(lk, d) { return lk.by[leaves(d)[0].id] || lk.blocker; }
 
   // ---------- storage ----------
   // her basış bu tarayıcının localStorage'ına yazılır; claude.ai hesabından taşınan eski oturumlar data/progress.js'te
@@ -334,19 +351,19 @@
   }
   function storageNote() {
     if (!store.ready) return 'İlerleme yükleniyor…';
-    return 'Her basış bu tarayıcıda saklanıyor. Başka cihaza taşımak için burada JSON indir, orada JSON yükle; aynı basışlar iki kez sayılmaz. Kart durumu kelimenin son cevabıdır, bir kelime birden çok bölümde geçiyorsa durumu hepsinde ortaktır. Öğrenilmiş (yeşil) bir kelimeye ✗ basarsan ' + FORGOT_W + ' kırmızı sayılır. Kilit açıkken Ortak tekrar, オノマトペ, Tatoeba, Tüm kelimeler ve Tüm cümleler hep açıktır.';
+    return 'Her basış bu tarayıcıda saklanıyor. Başka cihaza taşımak için burada JSON indir, orada JSON yükle; aynı basışlar iki kez sayılmaz. Kart durumu kelimenin son cevabıdır, bir kelime birden çok bölümde geçiyorsa durumu hepsinde ortaktır. Öğrenilmiş (yeşil) bir kelimeye ✗ basarsan ' + FORGOT_W + ' kırmızı sayılır. Kilit açıkken Ortak tekrar, オノマトペ, Tatoeba, Tüm kelimeler ve Tüm cümleler hep açıktır; JLPT desteleri kendi içinde sırayla açılır, diğer destelerin kilidini etkilemez.';
   }
   function deckById(id) { if (id === 'all') return ALL; for (var i = 0; i < DECKS.length; i++) if (DECKS[i].id === id) return DECKS[i]; return null; }
 
   // ana listedeki ve klasördeki deste satırı; klasör satırı içindeki destelerin toplamını gösterir
   function deckItemHTML(d, lk, loading) {
     var c = deckCounts(d), total = d.cards.length, locked = isLocked(lk, d);
-    var meta = loading ? 'yükleniyor…' : locked ? '🔒 Kilitli · önce ' + esc(lk.blocker.title) + ' tamamen yeşil olmalı'
+    var meta = loading ? 'yükleniyor…' : locked ? '🔒 Kilitli · önce ' + esc(lockBlocker(lk, d).title) + ' tamamen yeşil olmalı'
       : c.g + ' öğrendim · ' + c.y + ' kısmen · ' + c.r + ' öğrenemedim · ' + c.n + ' yeni';
     return '<li><button class="deck' + (d.folder ? ' folder' : '') + (locked ? ' locked' : '') + '" data-deck="' + d.id + '"' + (locked ? ' aria-disabled="true"' : '') + '>' +
       '<span class="t">' + esc(d.title) + '</span>' +
       '<span>' + (d.p ? '<span class="pat">' + esc(d.p) + '</span>' : '') + barHTML(c, total) + '<span class="meta tnum" style="display:block">' + meta + '</span></span>' +
-      '<span class="n tnum">' + (d.folder ? d.decks.length + ' deste ›' : total + ' kart') + '</span></button></li>';
+      '<span class="n tnum">' + (d.folder ? leaves(d).length + ' deste ›' : total + ' kart') + '</span></button></li>';
   }
   function bindDecks() {
     app.querySelectorAll('.deck[data-deck]').forEach(function (b) {
@@ -355,32 +372,32 @@
   }
   function openEntry(id) {
     if (id === 'sents') { go({ name: 'sents', q: '', open: new Set() }); return; }
-    var d = id === FOLDER.id ? FOLDER : deckById(id), lk = locks();
-    if (isLocked(lk, d)) { toast('🔒 Önce ' + lk.blocker.title + ' destesinin tamamını yeşil yap'); return; }
-    go(d.folder ? { name: 'folder' } : { name: 'deck', deck: d });
+    var d = FOLDERS[id] || deckById(id), lk = locks();
+    if (isLocked(lk, d)) { toast('🔒 Önce ' + lockBlocker(lk, d).title + ' destesinin tamamını yeşil yap'); return; }
+    go(d.folder ? { name: 'folder', f: d } : { name: 'deck', deck: d });
   }
 
   function renderFolder() {
-    var f = FOLDER, c = deckCounts(f), lk = locks();
+    var f = view.f || FOLDER, c = deckCounts(f), lk = locks(), up = PARENT[f.id];
     var h = '<div class="wrap">';
-    h += '<button class="back" id="back">← Bölümler</button>';
-    h += '<div class="deckhead"><h1>' + esc(f.title) + '</h1><span class="muted tnum">' + f.decks.length + ' deste · ' + f.cards.length + ' kart</span></div>';
+    h += '<button class="back" id="back">← ' + (up ? esc(up.title) : 'Bölümler') + '</button>';
+    h += '<div class="deckhead"><h1>' + esc(up ? up.title + ' › ' + f.title : f.title) + '</h1><span class="muted tnum">' + (f.decks[0] && f.decks[0].folder ? f.decks.length + ' klasör · ' + leaves(f).length + ' deste' : f.decks.length + ' deste') + ' · ' + f.cards.length + ' kart</span></div>';
     h += '<div style="margin-top:.8rem">' + barHTML(c, f.cards.length) + '</div>';
     h += '<p class="sub tnum" style="margin:.4rem 0 1.2rem">' + c.g + ' öğrendim · ' + c.y + ' kısmen · ' + c.r + ' öğrenemedim · ' + c.n + ' yeni</p>';
     h += '<ul class="decks">' + f.decks.map(function (d) { return deckItemHTML(d, lk, false); }).join('') + '</ul></div>';
     app.innerHTML = h;
-    document.getElementById('back').addEventListener('click', function () { go({ name: 'home' }); });
+    document.getElementById('back').addEventListener('click', function () { go(up ? { name: 'folder', f: up } : { name: 'home' }); });
     bindDecks();
   }
 
   function renderDeck() {
     var d = view.deck, c = deckCounts(d);
-    var inFolder = GRAMMAR.indexOf(d) >= 0;
+    var inFolder = PARENT[d.id];
     var due = d.cards.filter(function (card) { return status(card.gk) !== 'g'; });
     // fukushū: daha önce en az bir kez basılmış (yeşil, sarı, kırmızı) bütün kelimeler
     var seen = d.cards.filter(function (card) { return status(card.gk) !== 'n'; });
     var h = '<div class="wrap">';
-    h += '<button class="back" id="back">← ' + (inFolder ? esc(FOLDER.title) : 'Bölümler') + '</button>';
+    h += '<button class="back" id="back">← ' + (inFolder ? esc(inFolder.title) : 'Bölümler') + '</button>';
     h += '<div class="deckhead"><h1>' + esc(d.title) + '</h1><span class="muted tnum">' + d.cards.length + ' kart · ' + (d.id === 'all' ? DECKS.length + ' desteden' : d.sents.length + ' cümle') + '</span>' + (d.p ? '<span class="pat">' + esc(d.p) + '</span>' : '') + '</div>';
     h += '<div style="margin-top:.8rem">' + barHTML(c, d.cards.length) + '</div>';
     h += '<p class="sub tnum" style="margin-top:.4rem">' + c.g + ' öğrendim · ' + c.y + ' kısmen · ' + c.r + ' öğrenemedim · ' + c.n + ' yeni · bu destede ' + c.pg + ' yeşil, ' + c.pr + ' kırmızı basış</p>';
@@ -403,7 +420,7 @@
     });
     h += '</ul></div>';
     app.innerHTML = h;
-    document.getElementById('back').addEventListener('click', function () { go(inFolder ? { name: 'folder' } : { name: 'home' }); });
+    document.getElementById('back').addEventListener('click', function () { go(inFolder ? { name: 'folder', f: inFolder } : { name: 'home' }); });
     document.getElementById('study-due').addEventListener('click', function () { startRound(d, due); });
     document.getElementById('study-all').addEventListener('click', function () { startRound(d, d.cards.slice()); });
     var red = document.getElementById('study-red');

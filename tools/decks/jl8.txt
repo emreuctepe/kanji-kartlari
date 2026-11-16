@@ -1,0 +1,124 @@
+@ jl8 N5–N4 · 8
+// 4V
+1 にほんでいろいろな経験{けいけん}をしました。
+= Japonya-da çeşitli deneyim-ler yaşa-dı-m.
++ 経験|けいけん|deneyim
+// 4G1
+2 ホテルの朝{あさ}ご飯{はん}のパンがとてもおいしかったので、八{やっ}つも食{た}べました。
+= Otel-in kahvaltı-sı-ndaki ekmek çok lezzetli-ydi, sekiz tane bile ye-di-m.
++ 朝ご飯|あさごはん|kahvaltı|朝ご飯
++ 八つ|やっつ|sekiz (tane)|八つ
++ 食べる|たべる|yemek|食べ
+// 4V
+3 もっとていねいにかいてください。
+= Daha özen-li yaz-ın.
+// 5R1
+4 起{お}きた時間{じかん}がおそかったからです。
+= Çünkü kalk-tığ-ım saat geç-ti.
++ 起きる|おきる|kalkmak, uyanmak|起き
++ 時間|じかん|zaman, saat
+// 4S
+5 子供{こども}のときは月{つき}に10冊{さつ}以上{いじょう}読{よ}んでいましたが、最近{さいきん}は全然{ぜんぜん}読{よ}んでいませんね。
+= Çocuk-ken ayda 10 kitap-tan fazla oku-r-du-m ama son zamanlar-da hiç oku-mu-yor-um.
++ 子供|こども|çocuk
++ 月|つき|ay
++ 冊|さつ|(kitap sayacı)
++ 以上|いじょう|…den fazla
++ 読む|よむ|okumak|読ん
++ 最近|さいきん|son zamanlarda
++ 全然|ぜんぜん|hiç (olumsuzla)
+// 4S1
+6 今月{こんげつ}二十日{はつか}金曜日{きんようび}に、さくら公園{こうえん}の隣{となり}にさくら動物園{どうぶつえん}がオープンします。
+= Bu ay-ın 20'si cuma günü Sakura Park-ı-nın yan-ı-nda Sakura Hayvanat Bahçe-si açıl-ıyor.
++ 今月|こんげつ|bu ay
++ 二十日|はつか|ayın yirmisi
++ 金曜日|きんようび|cuma
++ 公園|こうえん|park
++ 隣|となり|yan, bitişik
++ 動物園|どうぶつえん|hayvanat bahçesi
+// 4R
+7 初{はじ}めてサッカーやバスケットボールをする人{ひと}は、ぜひ午前{ごぜん}の教室{きょうしつ}から来{き}てください。
+= İlk kez futbol ya da basketbol oyna-yacak kişi-ler mutlaka öğleden önce-ki kurs-tan başla-sın.
++ 初めて|はじめて|ilk kez|初めて
++ 人|ひと|kişi
++ 午前|ごぜん|öğleden önce
++ 教室|きょうしつ|sınıf; kurs
++ 来る|くる|gelmek|来
+// 4G1
+8 次{つぎ}に海{うみ}に行{い}くまでにたくさん練習{れんしゅう}したいです。
+= Bir dahaki sefer deniz-e gid-ene kadar çok çalış-mak istiyor-um.
++ 次|つぎ|sonraki
++ 海|うみ|deniz
++ 行く|いく|gitmek
++ 練習|れんしゅう|alıştırma, pratik
+// 4S1
+9 細{ほそ}いのと太{ふと}いのがありますが、どちらにしますか。
+= İnce-si ve kalın-ı var, hangisi-ni ister-siniz?
++ 細い|ほそい|ince
++ 太い|ふとい|kalın
+// 5S1
+10 前{まえ}に自転車{じてんしゃ}があります。友達{ともだち}は見{み}ていません。「危{あぶ}ないですよ。」
+= Ön-de bir bisiklet var. Arkadaş-ın bak-mı-yor. "Dikkat et!"
++ 前|まえ|ön
++ 自転車|じてんしゃ|bisiklet
++ 友達|ともだち|arkadaş
++ 見る|みる|bakmak, görmek|見
++ 危ない|あぶない|tehlikeli|危ない
+// 5R1
+11 午前{ごぜん}の「日本語{にほんご}1」のクラスはありません。午後{ごご}の「日本語{にほんご}2」のクラスはあります。
+= Öğleden önce-ki "Japonca 1" ders-i yok. Öğleden sonra-ki "Japonca 2" ders-i var.
++ 日本語|にほんご|Japonca
++ 午後|ごご|öğleden sonra
+// 4S1
+12 日本{にほん}ではバナナや花{はな}、服{ふく}も見{み}たことがある。
+= Japonya-da muz, çiçek, hatta kıyafet (satan-ı) bile gör-dü-m.
++ 日本|にほん|Japonya
++ 花|はな|çiçek
++ 服|ふく|giysi, kıyafet
+// 4R
+13 これは、山田{やまだ}先生{せんせい}からトムさんに届{とど}いたメールです。
+= Bu, Yamada Hoca'dan Tom-san'a gel-en e-posta.
++ 山田|やまだ|Yamada (soyadı)
++ 先生|せんせい|öğretmen, hoca
++ 届く|とどく|ulaşmak, gelmek|届い
+// 5V1
+14 パンを半分{はんぶん}ともだちにあげました。
+= Ekmeğ-in yarı-sı-nı arkadaş-ım-a ver-di-m.
++ 半分|はんぶん|yarı, yarım
+// 4S
+15 田中{たなか}さんは、将来{しょうらい}、どんな仕事{しごと}がしたいですか。
+= Tanaka-san, gelecek-te nasıl bir iş yap-mak isti-yor-sun?
++ 田中|たなか|Tanaka (soyadı)
++ 将来|しょうらい|gelecek
++ 仕事|しごと|iş
+// 4S
+16 東京{とうきょう}の月曜日{げつようび}から1週間{しゅうかん}の天気{てんき}予報{よほう}です。
+= Tokyo için pazartesi-den başla-yan bir haftalık hava durumu.
++ 東京|とうきょう|Tokyo
++ 月曜日|げつようび|pazartesi
++ 週間|しゅうかん|hafta (süre)
++ 天気予報|てんきよほう|hava durumu|天気予報
+// 5V1
+17 このカメラは高{たか}いですね。
+= Bu kamera pahalı, değil mi?
++ 高い|たかい|pahalı; yüksek
+// 4S
+18 山田{やまだ}さん、新{あたら}しい生活{せいかつ}はどう？
+= Yamada-san, yeni hayat-ın nasıl?
++ 新しい|あたらしい|yeni
++ 生活|せいかつ|hayat, yaşam
+// 4R1
+19 先週{せんしゅう}、私{わたし}は友達{ともだち}の家{いえ}に遊{あそ}びに行{い}きました。
+= Geçen hafta arkadaş-ım-ın ev-i-ne oyna-ma-ya (vakit geçir-me-ye) git-ti-m.
++ 先週|せんしゅう|geçen hafta
++ 私|わたし|ben
++ 家|いえ|ev
++ 遊ぶ|あそぶ|oynamak, eğlenmek|遊び
+// 5S1
+20 4人{にん}です。両親{りょうしん}と、兄{あに}が一人{ひとり}と僕{ぼく}です。
+= Dört kişi-yiz. Anne-m baba-m, bir ağabey-im ve ben.
++ 人|にん|kişi (sayaç)
++ 両親|りょうしん|anne baba
++ 兄|あに|(kendi) ağabey
++ 一人|ひとり|bir kişi
++ 僕|ぼく|ben (erkek)

@@ -1,0 +1,97 @@
+@ jl11 N5–N4 · 11
+// 5G1
+1 先週{せんしゅう}デパートでかばんやくつなどを買{か}いました。
+= Geçen hafta mağaza-dan çanta, ayakkabı gibi şey-ler al-dı-m.
++ 先週|せんしゅう|geçen hafta
++ 買う|かう|satın almak|買い
+// 4V
+2 たなかさんは先生{せんせい}にほめられました。
+= Tanaka-san öğretmen tarafından övül-dü.
++ 先生|せんせい|öğretmen
+// 4V1
+3 あしたはサッカーの試合{しあい}があります。
+= Yarın futbol maç-ı var.
++ 試合|しあい|maç, karşılaşma
+// 4S1
+4 見学{けんがく}のあと、クッキーのお土産{みやげ}がもらえるそうです。
+= Gezi-den sonra hediye olarak kurabiye al-abil-ecek-miş-iz.
++ 見学|けんがく|inceleme gezisi
++ お土産|おみやげ|hediyelik, armağan|お土産
+// 4S1
+5 来週{らいしゅう}、みなみ小学校{しょうがっこう}へ行{い}って、折{お}り紙{がみ}を子供{こども}たちに習{なら}いますね。
+= Gelecek hafta Minami İlkokulu'na gid-ip çocuk-lar-dan origami öğren-eceğ-iz.
++ 来週|らいしゅう|gelecek hafta
++ 小学校|しょうがっこう|ilkokul
++ 行く|いく|gitmek|行っ
++ 折り紙|おりがみ|origami, kâğıt katlama|折り紙
++ 子供|こども|çocuk
++ 習う|ならう|öğrenmek (birinden)|習い
+// 4S
+6 じゃあ、自転車{じてんしゃ}のほうが便利{べんり}ですよ。
+= O zaman bisiklet daha kullanışlı.
++ 自転車|じてんしゃ|bisiklet
++ 便利|べんり|kullanışlı
+// 5S1
+7 先週{せんしゅう}一緒{いっしょ}に行{い}ったすし屋{や}の前{まえ}のビルです。
+= Geçen hafta birlikte git-tiğ-imiz suşi restoran-ı-nın karşı-sı-ndaki bina.
++ 一緒|いっしょ|birlikte
++ すし屋|すしや|suşi restoranı|すし屋
++ 前|まえ|ön
+// 5G1
+8 駅{えき}の近{ちか}くにある本屋{ほんや}でざっしを買{か}いました。
+= İstasyon-un yakın-ın-daki kitapçı-dan dergi al-dı-m.
++ 駅|えき|istasyon
++ 近く|ちかく|yakın, yakını
++ 本屋|ほんや|kitapçı
+// 4R
+9 ホテルには1週間{しゅうかん}いました。
+= Otel-de bir hafta kal-dı-k.
++ 週間|しゅうかん|hafta (süre)
+// 5S1
+10 「すみません。田中{たなか}さんの電話{でんわ}番号{ばんごう}を知{し}っていますか。」「はい、分{わ}かりますよ。」
+= "Affedersiniz. Tanaka-san-ın telefon numara-sı-nı bil-iyor mu-sunuz?" "Evet, bil-iyor-um."
++ 田中|たなか|Tanaka (soyadı)
++ 電話番号|でんわばんごう|telefon numarası|電話番号
++ 知る|しる|bilmek|知っ
++ 分かる|わかる|anlamak, bilmek|分かり
+// 4G
+11 ポチはとてもかわいいのですが、何{なん}でもかむので少{すこ}しこまっています。
+= Pochi çok tatlı ama her şey-i ısır-dığ-ı için biraz başımız dertte.
++ 何でも|なんでも|her şey|何でも
++ 少し|すこし|biraz
+// 5V
+12 はこにりんごがいつつあります。
+= Kutu-da beş elma var.
+// 5S
+13 あ、サッカーを見{み}てから近{ちか}くのレストランで晩{ばん}ご飯{はん}を食{た}べませんか。
+= Ha, maç-ı izle-dik-ten sonra yakın-daki bir restoran-da akşam yemeğ-i ye-me-z mi-yiz?
++ 見る|みる|bakmak, izlemek|見
++ 晩ご飯|ばんごはん|akşam yemeği|晩ご飯
++ 食べる|たべる|yemek|食べ
+// 4G
+14 ねえ、ゲームをしてもいい？
+= Baksana, oyun oyna-yabil-ir mi-yim?
+// 5V
+15 わたしのうちに来{き}ませんか。
+= Bizim ev-e gel-me-z mi-sin?
++ 来る|くる|gelmek|来
+// 4S1
+16 友達{ともだち}がかわいいネックレスをしています。「それはどこで買{か}ったんですか。」
+= Arkadaş-ın tatlı bir kolye tak-ıyor. "Onu nere-den al-dı-n?"
++ 友達|ともだち|arkadaş
+// 5S1
+17 今晩{こんばん}クラスのみんなとご飯{はん}を食{た}べに行{い}きますね。
+= Bu akşam sınıf-taki herkes-le yemek ye-me-ye gid-iyor-uz, biliyorsun.
++ 今晩|こんばん|bu akşam
++ ご飯|ごはん|yemek; pilav|ご飯
+// 5S1
+18 友達{ともだち}にチョコレートをあげます。「チョコレート、いかがですか。」
+= Arkadaş-ın-a çikolata ver-iyor-sun. "Çikolata ister mi-sin?"
+// 5G
+19 わたしはもう少{すこ}し日本語{にほんご}がかんたんな本{ほん}がいいです。
+= Ben Japonca-sı biraz daha kolay bir kitap ister-im.
++ 日本語|にほんご|Japonca
++ 本|ほん|kitap
+// 5V
+20 おととしきょうとへいきました。
+= Önceki yıl Kyoto'ya git-ti-m.

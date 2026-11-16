@@ -1,0 +1,118 @@
+@ jl17 N5–N4 · 17
+// 4V1
+1 黒{くろ}いくつしたがほしいです。
+= Siyah çorap istiyor-um.
++ 黒い|くろい|siyah
+// 4R1
+2 夏{なつ}は毎日{まいにち}食{た}べるので安{やす}いものしか買{か}いませんが、冬{ふゆ}は高{たか}いものを買{か}います。
+= Yaz-ın her gün ye-diğ-im için sadece ucuz-lar-ı-nı al-ır-ım ama kış-ın pahalı-sı-nı al-ır-ım.
++ 夏|なつ|yaz
++ 毎日|まいにち|her gün
++ 食べる|たべる|yemek|食べる
++ 安い|やすい|ucuz
++ 買う|かう|satın almak|買い
++ 冬|ふゆ|kış
++ 高い|たかい|pahalı
+// 4R
+3 本{ほん}についての相談{そうだん}を受{う}けたり、どこにどの本{ほん}を置{お}くのがいいか考{かんが}えたりします。
+= Kitap-lar hakkında danış-ıl-an soru-lar-a yardım ed-er, hangi kitab-ın nere-ye kon-ma-sı-nın iyi ol-acağ-ı-nı düşün-ür.
++ 本|ほん|kitap
++ 相談|そうだん|danışma, istişare
++ 受ける|うける|almak, kabul etmek|受け
++ 置く|おく|koymak|置く
++ 考える|かんがえる|düşünmek|考え
+// 4S
+4 うーん、でも、カップはもうたくさん持{も}っているかもしれないな。
+= Hmm, ama zaten bir sürü fincan-ı var-dır belki.
++ 持つ|もつ|sahip olmak, tutmak|持っ
+// 4G1
+5 空{あ}いている席{せき}がありませんね。
+= Boş yer yok, değil mi?
++ 空く|あく|boşalmak, boş olmak|空い
++ 席|せき|yer, koltuk
+// 4S1
+6 ごめん、急{いそ}いで会議室{かいぎしつ}まで資料{しりょう}を持{も}ってきてもらえる？
+= Kusura bakma, belge-ler-i acele toplantı oda-sı-na getir-ebil-ir mi-sin?
++ 急ぐ|いそぐ|acele etmek|急い
++ 会議室|かいぎしつ|toplantı odası
++ 資料|しりょう|belge, doküman
+// 5S
+7 長{なが}いのですか、短{みじか}いのですか。
+= Uzun-u mu, kısa-sı mı?
++ 長い|ながい|uzun
++ 短い|みじかい|kısa
+// 4S1
+8 日本{にほん}では外{そと}に置{お}いてあっても、中{なか}のお金{かね}が盗{ぬす}まれたりしないから、自動{じどう}販売機{はんばいき}がたくさんあるのかもしれないね。
+= Japonya-da dışarı-da dur-sa bile için-deki para çal-ın-ma-dığ-ı için otomat-lar çok-tur belki.
++ 日本|にほん|Japonya
++ 外|そと|dışarı
++ 中|なか|iç
++ お金|おかね|para|お金
++ 盗む|ぬすむ|çalmak|盗ま
++ 自動販売機|じどうはんばいき|otomat (satış makinesi)|自動販売機
+// 5S1
+9 もっと早{はや}いですよ。3時間半{じかんはん}です。
+= Daha kısa sür-er. Üç buçuk saat.
++ 早い|はやい|erken, çabuk
++ 時間半|じかんはん|… buçuk saat
+// 5G
+10 東京{とうきょう}でも雪{ゆき}がふりますか。
+= Tokyo-da da kar yağ-ar mı?
++ 東京|とうきょう|Tokyo
++ 雪|ゆき|kar
+// 4G
+11 それに、元気{げんき}がないときは、そばに来{き}てくれます。
+= Üstelik moral-im bozuk-ken yan-ım-a gel-ir.
++ 元気|げんき|enerji, keyif, sağlık
++ 来る|くる|gelmek|来
+// 5S1
+12 あ、12時{じ}ですね。お昼{ひる}ご飯{はん}を食{た}べましょう。私{わたし}が作{つく}りますよ。
+= Ah, saat 12 ol-muş. Öğle yemeğ-i ye-yelim. Ben yap-arım.
++ 時|じ|saat (…de)
++ お昼ご飯|おひるごはん|öğle yemeği|お昼ご飯
++ 私|わたし|ben
++ 作る|つくる|yapmak (yemek)|作り
+// 5G1
+13 私{わたし}は毎朝{まいあさ}7時{じ}ごろ家{いえ}を出{で}ます。
+= Her sabah saat 7 sularında ev-den çık-ar-ım.
++ 毎朝|まいあさ|her sabah
++ 家|いえ|ev
++ 出る|でる|çıkmak|出
+// 5R1
+14 わたしはきのうの日曜日{にちようび}、友{とも}だちとサッカーをしました。
+= Dün, pazar günü, arkadaş-lar-ım-la futbol oyna-dı-m.
++ 日曜日|にちようび|pazar
++ 友だち|ともだち|arkadaş|友だち
+// 5G1
+15 私{わたし}の国{くに}ではいろいろな店{みせ}にあります。でも、日本{にほん}では売{う}っている店{みせ}を知{し}りません。
+= Benim ülke-m-de birçok dükkân-da var. Ama Japonya-da sat-an dükkân bil-mi-yor-um.
++ 国|くに|ülke
++ 店|みせ|dükkân
++ 売る|うる|satmak|売っ
++ 知る|しる|bilmek|知り
+// 4S1
+16 この絵本{えほん}を下{くだ}さい。贈{おく}り物{もの}なので、きれいに包{つつ}んでくれませんか。
+= Bu resimli kitab-ı al-ayım. Hediye ol-duğ-u için güzel-ce paketle-r mi-siniz?
++ 絵本|えほん|resimli çocuk kitabı
++ 下さい|ください|lütfen verin|下さい
++ 贈り物|おくりもの|hediye|贈り物
++ 包む|つつむ|paketlemek, sarmak|包ん
+// 4S
+17 これから、明日{あした}のバス旅行{りょこう}について連絡{れんらく}します。明日{あした}は、朝{あさ}8時半{じはん}までに来{き}てください。
+= Şimdi yarın-ki otobüs gezi-si hakkında bilgi ver-iyor-um. Yarın sabah 8 buçuğ-a kadar gel-in.
++ 明日|あした|yarın
++ 旅行|りょこう|seyahat, gezi
++ 連絡|れんらく|haber verme, bildirim
++ 朝|あさ|sabah
++ 時半|じはん|saat … buçuk
+// 5G1
+18 私{わたし}のうちのほんだなは、きょねん父{ちち}が作{つく}りました。
+= Bizim ev-in kitaplığ-ı-nı geçen yıl baba-m yap-tı.
++ 父|ちち|(kendi) baba
+// 4S1
+19 じゃ、話{はな}すことがたくさんあったでしょう。
+= O zaman konuş-acak çok şey-iniz var-dı-r.
++ 話す|はなす|konuşmak
+// 5V1
+20 リーさんはもりさんにペンをかしました。
+= Lee-san Mori-san'a kalem ödünç ver-di.

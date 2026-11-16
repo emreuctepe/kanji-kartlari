@@ -1,0 +1,119 @@
+@ jl15 N5–N4 · 15
+// 5S
+1 私{わたし}はおにぎりを持{も}っていきます。
+= Ben onigiri götür-eceğ-im.
++ 私|わたし|ben
++ 持つ|もつ|tutmak, taşımak (持っていく: götürmek)|持っ
+// 5R
+2 わたしは「えっ、いいんですか。」と聞{き}きました。
+= Ben "Aa, olur mu ki?" diye sor-du-m.
++ 聞く|きく|sormak|聞き
+// 5S1
+3 木村{きむら}さん、すみません、木村{きむら}さんの後{うし}ろにある雑誌{ざっし}を取{と}ってください。
+= Kimura-san, kusura bakma, arka-n-daki dergi-yi uzat-ır mı-sın?
++ 木村|きむら|Kimura (soyadı)
++ 後ろ|うしろ|arka|後ろ
++ 雑誌|ざっし|dergi
++ 取る|とる|almak, uzatmak|取っ
+// 4G
+4 きのうはひっこしを手伝{てつだ}ってくれて、どうもありがとうございました。
+= Dün taşınma-ma yardım et-tiğ-in için çok teşekkür ederim.
++ 手伝う|てつだう|yardım etmek|手伝っ
+// 4R1
+5 私{わたし}は「本当{ほんとう}にありがとうございます。」とお礼{れい}を言{い}いました。
+= Ben "Gerçekten çok teşekkür ederim." diye teşekkür et-ti-m.
++ 本当|ほんとう|gerçek (本当に: gerçekten)
++ お礼|おれい|teşekkür|お礼
++ 言う|いう|söylemek, demek|言い
+// 5R
+6 森{もり}さんはコピーをしたあとで、本{ほん}を山口{やまぐち}先生{せんせい}の机{つくえ}の上{うえ}におきます。
+= Mori-san fotokopi-yi çek-tik-ten sonra kitab-ı Yamaguchi Hoca'nın masa-sı-nın üst-ün-e koy-ar.
++ 森|もり|Mori (soyadı)
++ 本|ほん|kitap
++ 山口|やまぐち|Yamaguchi (soyadı)
++ 先生|せんせい|öğretmen, hoca
++ 机|つくえ|masa (çalışma)
++ 上|うえ|üst
+// 4S1
+7 「大学{だいがく}を卒業{そつぎょう}したら、どうするか決{き}まりましたか。」「国{くに}に帰{かえ}って、貿易{ぼうえき}の仕事{しごと}をします。」
+= "Üniversite-yi bitir-ince ne yap-acağ-ın belli ol-du mu?" "Ülke-m-e dön-üp dış ticaret iş-i yap-acağ-ım."
++ 大学|だいがく|üniversite
++ 卒業|そつぎょう|mezuniyet
++ 決まる|きまる|kararlaşmak, belli olmak|決まり
++ 国|くに|ülke, memleket
++ 帰る|かえる|dönmek|帰っ
++ 貿易|ぼうえき|dış ticaret
++ 仕事|しごと|iş
+// 4R
+8 アリさんが借{か}りたいと言{い}っていた本{ほん}も、一緒{いっしょ}に置{お}きます。
+= Ali-san-ın ödünç al-mak iste-diğ-i-ni söyle-diğ-i kitab-ı da yan-ı-na bırak-ıyor-um.
++ 借りる|かりる|ödünç almak|借り
++ 一緒|いっしょ|birlikte
++ 置く|おく|koymak, bırakmak|置き
+// 4R1
+9 そして、私{わたし}も山田{やまだ}さんみたいに困{こま}っている人{ひと}に親切{しんせつ}にしようと思{おも}いました。
+= Ve ben de Yamada-san gibi zor durum-da-ki insan-lar-a iyilik yap-ma-ya karar ver-di-m.
++ 山田|やまだ|Yamada (soyadı)
++ 困る|こまる|zor durumda kalmak|困っ
++ 人|ひと|insan
++ 親切|しんせつ|nazik, iyiliksever
++ 思う|おもう|düşünmek|思い
+// 4S1
+10 来週{らいしゅう}はクラスで工場{こうじょう}の見学{けんがく}に行{い}きます。
+= Gelecek hafta sınıf-ça fabrika gezi-si-ne gid-iyor-uz.
++ 来週|らいしゅう|gelecek hafta
++ 工場|こうじょう|fabrika
++ 見学|けんがく|inceleme gezisi
++ 行く|いく|gitmek|行き
+// 4G
+11 わたしは毎朝{まいあさ}新聞{しんぶん}を読{よ}みます。
+= Ben her sabah gazete oku-r-um.
++ 毎朝|まいあさ|her sabah
++ 新聞|しんぶん|gazete
++ 読む|よむ|okumak|読み
+// 4V1
+12 このあたりはちょっと不便{ふべん}ですね。
+= Bu civar biraz elverişsiz, değil mi?
++ 不便|ふべん|elverişsiz, kullanışsız
+// 4S1
+13 机{つくえ}の下{した}に消{け}しゴムが落{お}ちました。「ごめん、消{け}しゴムを拾{ひろ}ってくれる？」
+= Masa-nın alt-ı-na silgi-n düş-tü. "Pardon, silgi-yi al-ıver-ir mi-sin?"
++ 下|した|alt
++ 消しゴム|けしゴム|silgi|消しゴム
++ 落ちる|おちる|düşmek|落ち
++ 拾う|ひろう|(yerden) almak, toplamak|拾っ
+// 5S1
+14 じゃ、来週{らいしゅう}から勉強{べんきょう}したいです。どうぞよろしくお願{ねが}いします。
+= O zaman gelecek hafta-dan itibaren çalış-mak istiyor-um. Şimdiden teşekkürler.
++ 勉強|べんきょう|ders çalışma
++ お願い|おねがい|rica|お願い
+// 5R
+15 森{もり}さんの机{つくえ}の上{うえ}に、山口{やまぐち}先生{せんせい}のメモと本{ほん}があります。
+= Mori-san-ın masa-sı-nın üst-ün-de Yamaguchi Hoca'nın not-u ve bir kitap var.
+// 4S1
+16 あのう、お金{かね}は今日{きょう}払{はら}いますか。
+= Şey, para-yı bugün mü öde-yeceğ-im?
++ お金|おかね|para|お金
++ 今日|きょう|bugün
++ 払う|はらう|ödemek|払い
+// 4S1
+17 ちょっと待{ま}って、牛乳{ぎゅうにゅう}は1本{ぽん}でいいの？
+= Bir dakika, süt bir şişe yet-er mi?
++ 待つ|まつ|beklemek|待っ
++ 牛乳|ぎゅうにゅう|süt
++ 本|ほん|(uzun nesne sayacı)
+// 4R
+18 重{おも}いので、今日{きょう}は2冊{さつ}しか持{も}ってきませんでした。
+= Ağır ol-duğ-u için bugün sadece iki tane getir-di-m.
++ 重い|おもい|ağır
++ 冊|さつ|(kitap sayacı)
+// 5R
+19 しごとのあと、電車{でんしゃ}で帰{かえ}りました。
+= İş-ten sonra tren-le dön-dü-m.
++ 電車|でんしゃ|tren
++ 帰る|かえる|dönmek|帰り
+// 4V1
+20 まどからずっと雲{くも}を見{み}ていました。
+= Pencere-den durmadan bulut-lar-a bak-ıyor-du-m.
++ 雲|くも|bulut
++ 見る|みる|bakmak|見

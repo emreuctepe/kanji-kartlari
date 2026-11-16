@@ -1,0 +1,111 @@
+@ jl2 N5–N4 · 2
+// 5G1
+1 父{ちち}は毎朝{まいあさ}コーヒーを飲{の}みながら新聞{しんぶん}を読{よ}みます。
+= Baba-m her sabah kahve iç-er-ken gazete oku-r.
++ 父|ちち|(kendi) baba
++ 毎朝|まいあさ|her sabah
++ 飲む|のむ|içmek|飲み
++ 新聞|しんぶん|gazete
++ 読む|よむ|okumak|読み
+// 5S1
+2 1週間{しゅうかん}に1回{かい}、日本語{にほんご}で話{はな}す練習{れんしゅう}をしたいです。
+= Haftada bir kez Japonca konuş-ma alıştırma-sı yap-mak istiyor-um.
++ 週間|しゅうかん|hafta (süre)
++ 回|かい|kez, sefer
++ 日本語|にほんご|Japonca
++ 話す|はなす|konuşmak
++ 練習|れんしゅう|alıştırma, pratik
+// 4V1
+3 それを聞{き}いておどろきました。
+= Bu-nu duy-unca şaşır-dı-m.
++ 聞く|きく|duymak, dinlemek|聞い
+// 4V
+4 わたしはテニスのルールをよくしりません。
+= Ben tenis-in kural-lar-ı-nı iyi bil-mi-yor-um.
+// 4G
+5 一{いっ}か月前{げつまえ}に父{ちち}がもらってきました。
+= Bir ay önce baba-m (onu) al-ıp getir-di.
++ 一か月|いっかげつ|bir ay|一か月
++ 前|まえ|önce
+// 4S
+6 友達{ともだち}がけがをして、入院{にゅういん}しているんです。
+= Arkadaş-ım yaralan-dı, hastane-de yat-ıyor.
++ 友達|ともだち|arkadaş
++ 入院|にゅういん|hastaneye yatma
+// 5S
+7 あ、弟{おとうと}もいますよ。弟{おとうと}は両親{りょうしん}と一緒{いっしょ}です。
+= Ha, küçük erkek kardeş-im de var. Kardeş-im anne babam-la birlikte.
++ 弟|おとうと|küçük erkek kardeş
++ 両親|りょうしん|anne baba
++ 一緒|いっしょ|birlikte
+// 5S1
+8 お兄{にい}さんは学生{がくせい}ですか。
+= Ağabey-in öğrenci mi?
++ お兄さん|おにいさん|ağabey (başkasının)|お兄さん
++ 学生|がくせい|öğrenci
+// 4R
+9 公園{こうえん}の入{い}り口{ぐち}に、このお知{し}らせがあります。
+= Park-ın giriş-in-de bu duyuru var.
++ 公園|こうえん|park
++ 入り口|いりぐち|giriş
++ お知らせ|おしらせ|duyuru, bildiri
+// 5R
+10 家{いえ}の近{ちか}くの駅{えき}で電車{でんしゃ}をおりました。
+= Ev-im-in yakın-ın-daki istasyon-da tren-den in-di-m.
++ 家|いえ|ev
++ 近く|ちかく|yakın, yakını
++ 駅|えき|istasyon
++ 電車|でんしゃ|tren
+// 5V1
+11 このダンスはやさしいです。
+= Bu dans kolay.
+// 4G
+12 コンサートにはもう間{ま}に合{あ}わないですね。
+= Konser-e artık yetiş-e-me-yeceğ-iz, değil mi?
++ 間に合う|まにあう|yetişmek, vaktinde varmak|間に合わ
+// 4S
+13 すみません。ちょっと、コピーの仕方{しかた}を教{おし}えてもらえませんか。
+= Affedersiniz. Fotokopi-nin nasıl çek-il-diğ-i-ni biraz göster-ir mi-siniz?
++ 仕方|しかた|yöntem, yapılış
++ 教える|おしえる|öğretmek, göstermek|教え
+// 5R1
+14 バナナを学校{がっこう}へ持{も}っていきました。
+= Muz-u okul-a götür-dü-m.
++ 学校|がっこう|okul
++ 持つ|もつ|tutmak, taşımak (持っていく: götürmek)|持っ
+// 4R
+15 自転車{じてんしゃ}を借{か}りる人{ひと}は200円{えん}かかります。
+= Bisiklet kirala-yan kişi-ler 200 yen öde-r.
++ 自転車|じてんしゃ|bisiklet
++ 借りる|かりる|ödünç almak, kiralamak|借りる
++ 人|ひと|insan, kişi
++ 円|えん|yen
+// 4R
+16 夜{よる}は、星{ほし}がとてもきれいでした。
+= Gece yıldız-lar çok güzel-di.
++ 夜|よる|gece
++ 星|ほし|yıldız
+// 5S
+17 5時{じ}に駅{えき}で会{あ}いませんか。
+= Saat 5'te istasyon-da buluş-alım mı?
++ 時|じ|saat (…de)
++ 会う|あう|buluşmak, görüşmek|会い
+// 4S
+18 病院{びょういん}では時間{じかん}がたくさんあるから、本{ほん}もいいと思{おも}いますよ。
+= Hastane-de çok vakit ol-duğ-u için kitap da iyi olur bence.
++ 病院|びょういん|hastane
++ 時間|じかん|zaman, vakit
++ 本|ほん|kitap
++ 思う|おもう|düşünmek, sanmak|思い
+// 4S
+19 部長{ぶちょう}から電話{でんわ}があって、資料{しりょう}のコピーを頼{たの}まれたんだ。お願{ねが}いしてもいい？
+= Müdür-den telefon gel-di, belge-ler-in fotokopi-si-ni benden iste-di. Sen-den rica ed-ebil-ir mi-yim?
++ 部長|ぶちょう|bölüm müdürü
++ 電話|でんわ|telefon
++ 資料|しりょう|belge, doküman
++ 頼む|たのむ|rica etmek, istemek|頼ま
++ お願い|おねがい|rica|お願い
+// 4V1
+20 かさを貸{か}してください。
+= Şemsiye-yi ödünç ver-ir mi-sin.
++ 貸す|かす|ödünç vermek|貸し

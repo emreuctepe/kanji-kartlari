@@ -1,0 +1,109 @@
+@ jl4 N5–N4 · 4
+// 5G
+1 さようなら。また来週{らいしゅう}。
+= Hoşça kal. Gelecek hafta görüş-ür-üz.
++ 来週|らいしゅう|gelecek hafta
+// 4R
+2 石田{いしだ}さんは、川下{かわしも}図書館{としょかん}で働{はたら}いています。
+= Ishida-san Kawashimo Kütüphane-si'nde çalış-ıyor.
++ 石田|いしだ|Ishida (soyadı)
++ 図書館|としょかん|kütüphane
++ 働く|はたらく|çalışmak|働い
+// 4V1
+3 はがわるいので、かたいものは食{た}べられません。
+= Diş-ler-im kötü ol-duğ-u için sert şey-ler-i yi-ye-mi-yor-um.
++ 食べる|たべる|yemek|食べ
+// 5G1
+4 とても楽{たの}しかったです。
+= Çok eğlenceli-ydi.
++ 楽しい|たのしい|eğlenceli|楽しかっ
+// 5V1
+5 たまごを三{みっ}つとってください。
+= Üç yumurta al-ır mı-sın.
++ 三つ|みっつ|üç (tane)|三つ
+// 4S
+6 すみません。明日{あした}は用事{ようじ}があるんです。
+= Kusura bakma. Yarın iş-im var.
++ 明日|あした|yarın
++ 用事|ようじ|iş, yapılacak şey
+// 5S1
+7 夜{よる}のクラスは毎週{まいしゅう}月曜日{げつようび}、火曜日{かようび}、木曜日{もくようび}、金曜日{きんようび}です。夜{よる}6時{じ}からです。
+= Akşam sınıf-ı her hafta pazartesi, salı, perşembe ve cuma. Akşam 6'dan itibaren.
++ 夜|よる|gece, akşam
++ 毎週|まいしゅう|her hafta
++ 月曜日|げつようび|pazartesi
++ 火曜日|かようび|salı
++ 木曜日|もくようび|perşembe
++ 金曜日|きんようび|cuma
++ 時|じ|saat (…de)
+// 5V
+8 6がつ15にちにうまれました。
+= 15 Haziran'da doğ-du-m.
+// 5V
+9 テーブルにおさらとはしをならべてください。
+= Masa-ya tabak-lar-ı ve çubuk-lar-ı diz-in.
+// 4V
+10 バスがでました。
+= Otobüs çık-tı.
+// 4S1
+11 読{よ}み方{かた}が知{し}りたいです。「何{なん}と書{か}いてあるんですか。」
+= Okunuş-u-nu öğren-mek istiyor-sun. "Ne yaz-ıyor?"
++ 読み方|よみかた|okunuş|読み方
++ 知る|しる|bilmek, öğrenmek|知り
++ 何|なん|ne
++ 書く|かく|yazmak|書い
+// 4S
+12 お見舞{みま}いに行{い}きたいんですが、日本{にほん}では何{なに}を持{も}っていきますか。
+= Hasta ziyaret-i-ne git-mek istiyor-um, Japonya-da (yanınıza) ne götür-ür-sünüz?
++ お見舞い|おみまい|hasta ziyareti|お見舞い
++ 行く|いく|gitmek|行き
++ 日本|にほん|Japonya
++ 何|なに|ne
++ 持つ|もつ|tutmak, taşımak (持っていく: götürmek)|持っ
+// 5S
+13 「田中{たなか}さん、その荷物{にもつ}を持{も}ちましょうか。」「ありがとうございます。」
+= "Tanaka-san, şu yük-ü ben taşı-yayım mı?" "Teşekkür ederim."
++ 田中|たなか|Tanaka (soyadı)
++ 荷物|にもつ|yük, bagaj
+// 5G1
+14 「はな」のコーヒーは安{やす}かったです。私{わたし}は2はい飲{の}みました。
+= "Hana"nın kahve-si ucuz-du. Ben iki fincan iç-ti-m.
++ 安い|やすい|ucuz|安かっ
++ 私|わたし|ben
++ 飲む|のむ|içmek|飲み
+// 4S
+15 美術館{びじゅつかん}に行{い}きたいんですけど、何{なん}で行{い}くのが便利{べんり}ですか。
+= Sanat müze-si-ne git-mek istiyor-um, ne-yle git-mek kullanışlı?
++ 美術館|びじゅつかん|sanat müzesi
++ 便利|べんり|kullanışlı, elverişli
+// 4S1
+16 「先輩{せんぱい}、大学{だいがく}の授業{じゅぎょう}の選{えら}び方{かた}について教{おし}えてもらえませんか。」「うん、何{なん}でも聞{き}いて。」
+= "Abla/Ağabey (üst dönem), üniversite-de ders seç-me yol-u hakkında bana anlat-ır mı-sın?" "Tabii, ne istersen sor."
++ 先輩|せんぱい|üst dönem öğrencisi, kıdemli
++ 大学|だいがく|üniversite
++ 授業|じゅぎょう|ders
++ 選び方|えらびかた|seçme yolu|選び方
++ 教える|おしえる|öğretmek, anlatmak|教え
++ 聞く|きく|sormak, dinlemek|聞い
+// 5S1
+17 2階{かい}の4番{ばん}の教室{きょうしつ}に来{き}てください。
+= 2. kat-taki 4 numara-lı sınıf-a gel-in.
++ 階|かい|kat
++ 番|ばん|numara
++ 教室|きょうしつ|sınıf, derslik
++ 来る|くる|gelmek|来
+// 5S
+18 え、ちょっと待{ま}ってください。メモします。
+= Ee, biraz bekle-yin. Not al-ıyor-um.
++ 待つ|まつ|beklemek|待っ
+// 5R1
+19 まちがえました。テストは今日{きょう}ではなくて、あしたでした。
+= Yanıl-mış-ım. Sınav bugün değil, yarın-mış.
++ 今日|きょう|bugün
+// 4S
+20 青{あお}いボタンを押{お}したんですが、字{じ}が小{ちい}さくなってしまったんです。
+= Mavi düğme-ye bas-tı-m ama yazı küçül-ü-ver-di.
++ 青い|あおい|mavi
++ 押す|おす|basmak, itmek|押し
++ 字|じ|harf, yazı
++ 小さい|ちいさい|küçük|小さく

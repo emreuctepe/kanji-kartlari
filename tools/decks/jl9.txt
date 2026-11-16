@@ -1,0 +1,100 @@
+@ jl9 N5–N4 · 9
+// 4V
+1 夕方{ゆうがた}、雨{あめ}がふりました。
+= Akşamüstü yağmur yağ-dı.
++ 夕方|ゆうがた|akşamüstü
++ 雨|あめ|yağmur
+// 5G1
+2 きのうスーパーで田中{たなか}さんに会{あ}いました。
+= Dün süpermarket-te Tanaka-san-la karşılaş-tı-m.
++ 田中|たなか|Tanaka (soyadı)
++ 会う|あう|karşılaşmak, görüşmek|会い
+// 5V1
+3 ふくをせんたくしました。
+= Kıyafet-ler-i yıka-dı-m.
+// 4G
+4 しかし、ポチをかってからは、さびしくなくなりました。
+= Ama Pochi-yi besle-me-ye başla-dık-tan sonra yalnız hisset-me-z ol-du-m.
+// 4R
+5 自転車{じてんしゃ}やオートバイは、公園{こうえん}の入{い}り口{ぐち}にとめてください。中{なか}に入{い}れてはいけません。
+= Bisiklet ve motosiklet-ler-i park-ın giriş-in-e park ed-in. İçeri sok-mak yasak.
++ 自転車|じてんしゃ|bisiklet
++ 公園|こうえん|park
++ 入り口|いりぐち|giriş
++ 中|なか|iç
++ 入れる|いれる|sokmak, koymak|入れ
+// 5S1
+6 クラスで先生{せんせい}が話{はな}しています。
+= Sınıf-ta öğretmen konuş-uyor.
++ 先生|せんせい|öğretmen
++ 話す|はなす|konuşmak|話し
+// 4R1
+7 暖{あたた}かい部屋{へや}でいいアイスクリームを食{た}べるのが、私{わたし}の楽{たの}しみなのです。
+= Sıcak bir oda-da iyi bir dondurma ye-mek benim keyf-im-dir.
++ 暖かい|あたたかい|ılık, sıcak (hava, oda)
++ 部屋|へや|oda
++ 食べる|たべる|yemek
++ 私|わたし|ben
++ 楽しみ|たのしみ|zevk, keyif; dört gözle beklenen şey
+// 4V
+8 きのうはねぼうしました。
+= Dün uyuya kal-dı-m.
+// 5G1
+9 日本{にほん}で好{す}きなジュースはりんごジュースです。毎日{まいにち}飲{の}みます。
+= Japonya-da sev-diğ-im meyve suyu elma suyu. Her gün iç-er-im.
++ 日本|にほん|Japonya
++ 好き|すき|sevilen, hoşa giden
++ 毎日|まいにち|her gün
++ 飲む|のむ|içmek|飲み
+// 4V
+10 この小説{しょうせつ}はおもしろかったです。
+= Bu roman ilginç-ti.
++ 小説|しょうせつ|roman
+// 5R
+11 買{か}ったDVDは、友{とも}だちや姉{あね}といっしょに見{み}ます。
+= Al-dığ-ım DVD-yi arkadaş-lar-ım ve abla-m-la birlikte izle-yeceğ-im.
++ 買う|かう|satın almak|買っ
++ 友だち|ともだち|arkadaş|友だち
++ 姉|あね|(kendi) abla
++ 見る|みる|bakmak, izlemek|見
+// 4V
+12 わたしのいえはえきから歩{ある}いて5分{ふん}です。
+= Ev-im istasyon-dan yürü-yerek 5 dakika.
++ 歩く|あるく|yürümek|歩い
++ 分|ふん|dakika
+// 4V
+13 きのうはおきるのがおそくなってしまいました。
+= Dün kalk-ma-m gecik-ti.
+// 4V
+14 このくすりはとてもにがいです。
+= Bu ilaç çok acı.
+// 4S
+15 「ジョンさん、日本語{にほんご}が話{はな}せますか。」「少{すこ}しならできます。」
+= "John-san, Japonca konuş-abil-iyor mu-sun?" "Biraz-sa yap-abil-ir-im."
++ 日本語|にほんご|Japonca
++ 少し|すこし|biraz
+// 5S1
+16 でも午後{ごご}は大丈夫{だいじょうぶ}です。
+= Ama öğleden sonra müsait-im.
++ 午後|ごご|öğleden sonra
++ 大丈夫|だいじょうぶ|sorun yok, uygun
+// 5S
+17 駅{えき}は人{ひと}が多{おお}いですよ。
+= İstasyon-da çok insan olur.
++ 駅|えき|istasyon
++ 人|ひと|insan
++ 多い|おおい|çok
+// 5S1
+18 いただきます。これは何{なん}のジュースですか。
+= Afiyetle. Bu ne suyu?
++ 何|なん|ne
+// 4S
+19 「どこに行{い}くんですか。」「ちょっと食事{しょくじ}に行{い}ってきます。」
+= "Nere-ye gid-iyor-sun?" "Biraz yemek ye-me-ye gid-ip gel-eceğ-im."
++ 行く|いく|gitmek|行く
++ 食事|しょくじ|yemek (yeme)
+// 4S1
+20 「ジュース買{か}いに行{い}きますけど、何{なに}か買{か}ってきましょうか。」「あ、コーヒー、お願{ねが}いします。」
+= "Meyve suyu al-ma-ya gid-iyor-um, sana bir şey al-ayım mı?" "Ah, kahve lütfen."
++ 何か|なにか|bir şey|何か
++ お願い|おねがい|rica|お願い

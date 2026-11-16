@@ -1,0 +1,101 @@
+@ jl6 N5–N4 · 6
+// 4S1
+1 「山本{やまもと}さん、忙{いそが}しそうだけど、今{いま}ちょっと話{はな}せる？」「はい。何{なん}ですか。」
+= "Yamamoto-san, meşgul görün-üyor-sun ama şimdi biraz konuş-abil-ir mi-yiz?" "Evet. Ne oldu?"
++ 山本|やまもと|Yamamoto (soyadı)
++ 忙しい|いそがしい|meşgul|忙し
++ 今|いま|şimdi
++ 話す|はなす|konuşmak|話せる
++ 何|なん|ne
+// 5R
+2 きのうの夜{よる}はおそくまでしごとをしました。とてもつかれました。
+= Dün gece geç saat-e kadar çalış-tı-m. Çok yorul-du-m.
++ 夜|よる|gece
+// 5S
+3 いいえ。大{おお}きいのです。
+= Hayır. Büyük ol-an.
++ 大きい|おおきい|büyük
+// 5V
+4 このまちにはゆうめいなたてものがあります。
+= Bu kasaba-da ünlü bir bina var.
+// 5S
+5 果物{くだもの}の絵{え}と動物{どうぶつ}の絵{え}があります。どちらがいいですか。
+= Meyve resim-li ve hayvan resim-li ol-an-lar var. Hangisi-ni ister-siniz?
++ 果物|くだもの|meyve
++ 絵|え|resim
++ 動物|どうぶつ|hayvan
+// 5G
+6 ええ、ふりますよ。でも、きょねんはあまりふりませんでした。
+= Evet, yağ-ar. Ama geçen yıl pek yağ-ma-dı.
+// 4S1
+7 「ねえ、ここにあった会議{かいぎ}の資料{しりょう}を知{し}らない？」「え、ないんですか。」
+= "Baksana, bura-da ol-an toplantı belge-ler-i-ni gör-dü-n mü?" "Aa, yok mu?"
++ 会議|かいぎ|toplantı
++ 資料|しりょう|belge, doküman
++ 知る|しる|bilmek|知ら
+// 4S1
+8 あの、先週{せんしゅう}引{ひ}っ越{こ}しをしたんですが。
+= Şey, geçen hafta taşın-dı-m da.
++ 先週|せんしゅう|geçen hafta
++ 引っ越し|ひっこし|taşınma|引っ越し
+// 4S1
+9 「よかったら、お茶{ちゃ}をもう一杯{いっぱい}いかがですか。」「すみません。いただきます。」
+= "İster-sen-iz bir fincan daha çay ala-r mı-sınız?" "Zahmet ol-acak. Alayım."
++ お茶|おちゃ|çay|お茶
++ 一杯|いっぱい|bir fincan, bir bardak
+// 5V
+10 うるさいからテレビをけしてください。
+= Gürültü-lü ol-duğ-u için televizyon-u kapat-ın.
+// 5S1
+11 では、今日{きょう}は20ページまで終{お}わりましたから、21ページは宿題{しゅくだい}ですね。
+= Peki, bugün 20. sayfa-ya kadar bitir-di-k, 21. sayfa ödev o zaman.
++ 今日|きょう|bugün
++ 終わる|おわる|bitmek|終わり
++ 宿題|しゅくだい|ödev
+// 5R
+12 わたしのへやには、テーブルが一{ひと}つといすが二{ふた}つと本{ほん}だなが一{ひと}つあります。
+= Oda-m-da bir masa, iki sandalye ve bir kitaplık var.
++ 一つ|ひとつ|bir (tane)|一つ
++ 二つ|ふたつ|iki (tane)|二つ
++ 本だな|ほんだな|kitaplık|本だな
+// 4V1
+13 それを聞{き}いてびっくりしました。
+= Bu-nu duy-unca şaşır-dı-m.
++ 聞く|きく|duymak, dinlemek|聞い
+// 5S1
+14 あそこに交差点{こうさてん}がありますね。
+= Şura-da bir kavşak var, değil mi?
++ 交差点|こうさてん|kavşak
+// 4S1
+15 僕{ぼく}の机{つくえ}の引{ひ}き出{だ}しに入{はい}っているんだ。
+= Masa-m-ın çekmece-si-nde duruyor.
++ 僕|ぼく|ben (erkek)
++ 机|つくえ|masa (çalışma)
++ 引き出し|ひきだし|çekmece|引き出し
++ 入る|はいる|girmek; içinde olmak|入っ
+// 5S1
+16 「リーさんはいつ日本{にほん}に来{き}ましたか。」「去年{きょねん}です。」
+= "Lee-san Japonya-ya ne zaman gel-di-niz?" "Geçen yıl."
++ 日本|にほん|Japonya
++ 来る|くる|gelmek|来
++ 去年|きょねん|geçen yıl
+// 4V
+17 このきかいはつかいかたをまちがえるととてもきけんです。
+= Bu makine-yi yanlış kullan-ır-san çok tehlikeli.
+// 4S1
+18 卓球{たっきゅう}の道具{どうぐ}はこちらにありますので、自由{じゆう}に使{つか}ってください。
+= Masa tenis-i malzeme-ler-i bura-da, serbestçe kullan-abil-ir-siniz.
++ 卓球|たっきゅう|masa tenisi
++ 道具|どうぐ|alet, malzeme
++ 自由|じゆう|serbest, özgür
++ 使う|つかう|kullanmak|使っ
+// 5G
+19 見{み}てください。小{ちい}さな魚{さかな}がたくさんおよいでいますよ。
+= Bak-sana. Bir sürü küçük balık yüz-üyor.
++ 見る|みる|bakmak, görmek|見
++ 小さな|ちいさな|küçük|小さな
++ 魚|さかな|balık
+// 5S1
+20 いえ、21ページの1番{ばん}です。2番{ばん}は、クラスでします。
+= Hayır, 21. sayfa-nın 1 numara-sı. 2 numara-yı sınıf-ta yap-acağ-ız.
++ 番|ばん|numara

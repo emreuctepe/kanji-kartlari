@@ -1,0 +1,114 @@
+@ jl13 N5–N4 · 13
+// 4G1
+1 南{みなみ}さん、あしたかあさって、カラオケに行{い}かない？
+= Minami-san, yarın ya da öbür gün karaoke-ye git-me-y-elim mi?
++ 南|みなみ|Minami (soyadı); güney
++ 行く|いく|gitmek|行か
+// 4S
+2 ご両親{りょうしん}と一緒{いっしょ}じゃなくて、寂{さび}しくない？
+= Anne baba-n-la birlikte değil-sin, yalnız hisset-mi-yor mu-sun?
++ ご両親|ごりょうしん|(başkasının) anne babası|ご両親
++ 一緒|いっしょ|birlikte
++ 寂しい|さびしい|yalnız, kimsesiz hissetmek|寂しく
+// 5G1
+3 先週{せんしゅう}もきっさてんでおいしいコーヒーを飲{の}みました。
+= Geçen hafta da kafe-de lezzetli bir kahve iç-ti-m.
++ 先週|せんしゅう|geçen hafta
++ 飲む|のむ|içmek|飲み
+// 4S1
+4 休{やす}みは毎週{まいしゅう}木曜{もくよう}です。
+= Tatil gün-ü her hafta perşembe.
++ 休み|やすみ|tatil, izin
++ 毎週|まいしゅう|her hafta
++ 木曜|もくよう|perşembe
+// 4V1
+5 へやのかぎをさがしていますが、まだ見{み}つかりません。
+= Oda-nın anahtar-ı-nı arı-yor-um ama hâlâ bul-a-ma-dı-m.
++ 見つかる|みつかる|bulunmak|見つかり
+// 4R
+6 公園{こうえん}の中{なか}で、ボールを使{つか}って遊{あそ}ぶことやたばこを吸{す}うことをしてはいけません。
+= Park-ın için-de top-la oyna-mak ve sigara iç-mek yasak.
++ 公園|こうえん|park
++ 中|なか|iç
++ 使う|つかう|kullanmak|使っ
++ 遊ぶ|あそぶ|oynamak|遊ぶ
++ 吸う|すう|(sigara) içmek, emmek|吸う
+// 5G
+7 日本{にほん}でべんきょうしている学生{がくせい}が「すきな店{みせ}」のぶんしょうを書{か}いて、クラスのみんなの前{まえ}で読{よ}みました。
+= Japonya-da okuyan öğrenci-ler "Sev-diğ-im dükkân" yazı-sı yaz-ıp sınıf-taki herkes-in önün-de oku-du.
++ 日本|にほん|Japonya
++ 学生|がくせい|öğrenci
++ 店|みせ|dükkân, mağaza
++ 書く|かく|yazmak|書い
++ 前|まえ|ön
++ 読む|よむ|okumak|読み
+// 5S
+8 来月{らいげつ}のバス旅行{りょこう}に行{い}きたい人{ひと}は、この紙{かみ}に、ボールペンで名前{なまえ}を書{か}いてください。
+= Gelecek ay-ki otobüs gezi-si-ne git-mek iste-yen-ler bu kâğıd-a tükenmez kalem-le isim-ler-i-ni yaz-sın.
++ 来月|らいげつ|gelecek ay
++ 旅行|りょこう|seyahat, gezi
++ 人|ひと|kişi
++ 紙|かみ|kâğıt
++ 名前|なまえ|isim, ad
+// 5G
+9 会社{かいしゃ}へは何{なに}で行{い}っていますか。
+= İş-e ne-yle gid-iyor-sunuz?
++ 会社|かいしゃ|şirket, iş yeri
++ 何|なに|ne
+// 4V1
+10 きむらさんはさいきんけっこんしたそうです。
+= Kimura-san yakın-da evlen-miş.
+// 4V1
+11 リーさんもこんどのパーティーにぜひ来{き}てくださいね。
+= Lee-san, bu sefer-ki parti-ye siz de mutlaka gel-in.
++ 来る|くる|gelmek|来
+// 4S1
+12 僕{ぼく}、山本{やまもと}さんのことが好{す}きで、僕{ぼく}の気持{きも}ちを手紙{てがみ}に書{か}いたんだけど、なかなか渡{わた}せないんだ。
+= Ben Yamamoto-san-dan hoşlan-ıyor-um, duygu-lar-ım-ı mektub-a yaz-dı-m ama bir türlü ver-e-mi-yor-um.
++ 僕|ぼく|ben (erkek)
++ 山本|やまもと|Yamamoto (soyadı)
++ 好き|すき|sevilen, hoşa giden
++ 気持ち|きもち|duygu, his|気持ち
++ 手紙|てがみ|mektup
++ 渡す|わたす|vermek, teslim etmek|渡せ
+// 4R
+13 午後{ごご}はグループで試合{しあい}をします。受付{うけつけ}に13:00までに来{き}てください。
+= Öğleden sonra grup-lar halinde maç yap-ıl-ır. Saat 13:00'e kadar resepsiyon-a gel-in.
++ 午後|ごご|öğleden sonra
++ 試合|しあい|maç
++ 受付|うけつけ|resepsiyon, kayıt masası
+// 4R1
+14 忘{わす}れた人{ひと}は、先生{せんせい}たちの部屋{へや}へ取{と}りに来{き}てください。
+= Unut-an-lar öğretmen-ler-in oda-sı-na gel-ip al-sın.
++ 忘れる|わすれる|unutmak|忘れ
++ 先生|せんせい|öğretmen
++ 部屋|へや|oda
++ 取る|とる|almak|取り
+// 5S1
+15 え、私{わたし}も昨日{きのう}の夜{よる}、山川{やまかわ}デパートのレストランへ行{い}きましたよ。
+= Aa, ben de dün akşam Yamakawa Mağaza-sı'nın restoran-ı-na git-ti-m.
++ 私|わたし|ben
++ 昨日|きのう|dün
++ 夜|よる|gece, akşam
+// 5R
+16 わたしは今日{きょう}、友{とも}だちと買{か}い物{もの}に行{い}きました。
+= Bugün arkadaş-ım-la alışveriş-e git-ti-m.
++ 今日|きょう|bugün
++ 友だち|ともだち|arkadaş|友だち
++ 買い物|かいもの|alışveriş|買い物
+// 5S1
+17 何{なに}かおいしいお菓子{かし}を買{か}って、持{も}っていきます。
+= Lezzetli bir şey-ler (tatlı) al-ıp götür-eceğ-im.
++ 何か|なにか|bir şey|何か
++ お菓子|おかし|tatlı, şekerleme|お菓子
++ 買う|かう|satın almak|買っ
++ 持つ|もつ|tutmak, taşımak (持っていく: götürmek)|持っ
+// 5G
+18 はい。ちょっとまってくださいね。
+= Tamam. Biraz bekle-yin lütfen.
+// 4V
+19 あにはえがじょうずです。
+= Ağabey-im resim-de iyi-dir.
+// 4V1
+20 ここにいらないものをすててください。
+= Gereksiz şey-ler-i bura-ya at-ın.

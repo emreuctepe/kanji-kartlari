@@ -1,0 +1,109 @@
+@ jl10 N5–N4 · 10
+// 4R
+1 公園{こうえん}が開{あ}いている時間{じかん}は、午前{ごぜん}6時{じ}から午後{ごご}9時{じ}です。これ以外{いがい}の時間{じかん}は入{はい}れません。
+= Park-ın açık ol-duğ-u saat-ler sabah 6'dan akşam 9'a kadar. Bun-un dışında-ki saat-ler-de gir-il-e-mez.
++ 公園|こうえん|park
++ 開く|あく|açılmak, açık olmak|開い
++ 時間|じかん|zaman, saat
++ 午前|ごぜん|öğleden önce, sabah
++ 時|じ|saat (…de)
++ 午後|ごご|öğleden sonra
++ 以外|いがい|…dışında
++ 入る|はいる|girmek|入れ
+// 5R1
+2 けさは5時{じ}に起{お}きました。
+= Bu sabah saat 5'te kalk-tı-m.
++ 起きる|おきる|kalkmak, uyanmak|起き
+// 4S
+3 字{じ}を大{おお}きくするなら、赤{あか}いボタンを押{お}してください。
+= Yazı-yı büyüt-mek isti-yor-san-ız kırmızı düğme-ye bas-ın.
++ 字|じ|harf, yazı
++ 大きい|おおきい|büyük|大きく
++ 赤い|あかい|kırmızı
++ 押す|おす|basmak|押し
+// 5V
+4 きのうたなかさんと会{あ}いました。
+= Dün Tanaka-san-la buluş-tu-m.
++ 会う|あう|buluşmak, görüşmek|会い
+// 5S
+5 もう1時{じ}ですね。何{なに}か食{た}べませんか。
+= Saat bir ol-muş bile. Bir şey ye-me-z mi-yiz?
++ 何か|なにか|bir şey|何か
++ 食べる|たべる|yemek|食べ
+// 4R
+6 みんなでスポーツを楽{たの}しみましょう。
+= Hep birlikte spor-un tadı-nı çıkar-alım.
++ 楽しむ|たのしむ|keyfini çıkarmak|楽しみ
+// 5G
+7 つぎのかどを右{みぎ}にまがってください。
+= Bir sonraki köşe-den sağ-a dön-ün.
++ 右|みぎ|sağ
+// 4G1
+8 私{わたし}はピアノをひくのが好{す}きですが、最近{さいきん}いそがしくてひく時間{じかん}がありません。
+= Piyano çal-ma-yı sev-er-im ama son zamanlar-da meşgul-üm, çal-acak vakt-im yok.
++ 私|わたし|ben
++ 好き|すき|sevilen, hoşa giden
++ 最近|さいきん|son zamanlarda
+// 4S
+9 冬休{ふゆやす}みは、デパートでアルバイトをするつもりです。
+= Kış tatil-i-nde mağaza-da yarı zamanlı çalış-ma-yı düşün-üyor-um.
++ 冬休み|ふゆやすみ|kış tatili|冬休み
+// 5S1
+10 飲{の}み物{もの}はたくさんありますから、食{た}べ物{もの}がいいです。
+= İçecek çok var, yiyecek iyi olur.
++ 飲み物|のみもの|içecek|飲み物
++ 食べ物|たべもの|yiyecek|食べ物
+// 4S1
+11 ジュースで有名{ゆうめい}な会社{かいしゃ}の工場{こうじょう}ですが、アイスクリームやキャンディー、それからクッキーも作{つく}っているんですよ。
+= Meyve suyu-yla ünlü bir şirket-in fabrika-sı ama dondurma, şeker, bir de kurabiye de yap-ıyor-lar.
++ 有名|ゆうめい|ünlü
++ 会社|かいしゃ|şirket
++ 工場|こうじょう|fabrika
++ 作る|つくる|yapmak, üretmek|作っ
+// 4G
+12 はい、一週間{いっしゅうかん}かかりましたが、きのうの夜{よる}、やっと終{お}わりました。
+= Evet, bir hafta sür-dü ama dün gece nihayet bit-ti.
++ 一週間|いっしゅうかん|bir hafta
++ 夜|よる|gece
++ 終わる|おわる|bitmek|終わり
+// 5V
+13 先週{せんしゅう}デパートにかいものにいきました。
+= Geçen hafta mağaza-ya alışveriş-e git-ti-m.
++ 先週|せんしゅう|geçen hafta
+// 4S
+14 もうすぐ冬休{ふゆやす}みですね。どこかへ旅行{りょこう}に行{い}きますか。
+= Yakında kış tatil-i, değil mi? Bir yer-e seyahat-e gid-ecek mi-sin?
++ 旅行|りょこう|seyahat
++ 行く|いく|gitmek|行き
+// 4R1
+15 青野市{あおのし}では、毎月{まいつき}、食事会{しょくじかい}や音楽会{おんがくかい}などを開{ひら}いています。
+= Aono Şehr-i'nde her ay yemek toplantı-sı, konser gibi etkinlik-ler düzenle-n-iyor.
++ 市|し|şehir|市
++ 毎月|まいつき|her ay
++ 食事会|しょくじかい|yemekli toplantı
++ 音楽会|おんがくかい|konser
++ 開く|ひらく|açmak; düzenlemek|開い
+// 4V1
+16 お店{みせ}で3だいのパソコンをくらべて、いちばんかるいパソコンをえらびました。
+= Mağaza-da üç bilgisayar-ı karşılaştır-ıp en hafif-i-ni seç-ti-m.
++ 店|みせ|dükkân, mağaza
+// 4S1
+17 皆{みな}さんは、自分{じぶん}の国{くに}について写真{しゃしん}を見{み}せながら話{はな}しますね。
+= Siz de kendi ülke-niz hakkında fotoğraf göster-erek konuş-acak-sınız.
++ 皆さん|みなさん|herkes, hepiniz|皆さん
++ 自分|じぶん|kendi
++ 国|くに|ülke
++ 写真|しゃしん|fotoğraf
++ 見せる|みせる|göstermek|見せ
++ 話す|はなす|konuşmak|話し
+// 5V
+18 コーヒーを飲{の}みました。
+= Kahve iç-ti-m.
++ 飲む|のむ|içmek|飲み
+// 4G
+19 ポチが好{す}きなところはテレビの前{まえ}のソファーです。
+= Pochi-nin sev-diğ-i yer televizyon-un ön-ün-deki kanepe.
++ 前|まえ|ön
+// 5V
+20 けさそうじをしたからへやはきれいです。
+= Bu sabah temizlik yap-tı-m, o yüzden oda temiz.

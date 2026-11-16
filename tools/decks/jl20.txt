@@ -1,0 +1,108 @@
+@ jl20 N5–N4 · 20
+// 4S
+1 行{い}けますけど、時間{じかん}がかかりますよ。自転車{じてんしゃ}は持{も}っていますか。
+= Gid-il-ir ama zaman al-ır. Bisiklet-in var mı?
++ 行く|いく|gitmek|行け
++ 時間|じかん|zaman
++ 自転車|じてんしゃ|bisiklet
++ 持つ|もつ|sahip olmak|持っ
+// 5R
+2 はこの中{なか}にはかさが3本{ぼん}ありました。
+= Kutu-nun için-de üç şemsiye var-dı.
++ 中|なか|iç
++ 本|ほん|(uzun nesne sayacı)
+// 5V1
+3 このざっしを見{み}てください。
+= Bu dergi-ye bak-ın.
++ 見る|みる|bakmak|見
+// 5V
+4 たんじょうびは6がつ15にちです。
+= Doğum gün-üm 15 Haziran.
+// 5V1
+5 このダンスはかんたんです。
+= Bu dans basit.
+// 4S1
+6 分{わ}かりました。では、少{すこ}しお待{ま}ちください。
+= Anladım. O halde biraz bekle-yin lütfen.
++ 分かる|わかる|anlamak|分かり
++ 少し|すこし|biraz
++ 待つ|まつ|beklemek|待ち
+// 4R
+7 トムさんの都合{つごう}がよければ、オフィスで待{ま}っています。
+= Tom-san-ın işine gel-ir-se ofis-te bekli-yor ol-acağ-ım.
++ 都合|つごう|uygunluk
+// 4S1
+8 公園{こうえん}、病院{びょういん}、海{うみ}、どこに行{い}ってもあるから、すごいよ。
+= Park, hastane, deniz, nere-ye gid-er-sen git var, inanılmaz.
++ 公園|こうえん|park
++ 病院|びょういん|hastane
++ 海|うみ|deniz
+// 4V1
+9 その電車{でんしゃ}は急行{きゅうこう}ですよ。
+= O tren ekspres.
++ 電車|でんしゃ|tren
++ 急行|きゅうこう|ekspres (tren)
+// 4G1
+10 きのうの夜{よる}家{いえ}に帰{かえ}ってから、かぎをどこに置{お}いたか、覚{おぼ}えていません。
+= Dün akşam ev-e dön-dük-ten sonra anahtar-ı nere-ye koy-duğ-um-u hatırla-mı-yor-um.
++ 夜|よる|gece, akşam
++ 家|いえ|ev
++ 帰る|かえる|dönmek|帰っ
++ 置く|おく|koymak|置い
++ 覚える|おぼえる|hatırlamak; ezberlemek|覚え
+// 5R1
+11 パブロさんは高木{たかぎ}大学{だいがく}に行{い}きたいです。
+= Pablo-san Takagi Üniversite-si'ne git-mek isti-yor.
++ 大学|だいがく|üniversite
+// 4S1
+12 23日{にち}に授業{じゅぎょう}で使{つか}いたいですから、授業{じゅぎょう}の前{まえ}の日{ひ}までに返{かえ}してください。
+= Ayın 23'ün-de ders-te kullan-mak istiyor-um, ders-ten önce-ki gün-e kadar geri ver.
++ 日|にち|ayın … günü
++ 授業|じゅぎょう|ders
++ 使う|つかう|kullanmak|使い
++ 前|まえ|önce
++ 日|ひ|gün
++ 返す|かえす|geri vermek|返し
+// 4G
+13 わたしたちはポチを家{いえ}の中{なか}でかっています。
+= Pochi-yi ev-in için-de besli-yor-uz.
+// 4G
+14 すみません。ちょうど今{いま}食{た}べたところなんです。
+= Kusura bakma. Daha şimdi ye-di-m.
++ 今|いま|şimdi
++ 食べる|たべる|yemek|食べ
+// 5V
+15 そのえいがはおもしろくなかったです。
+= O film ilginç değil-di.
+// 4G
+16 今日{きょう}、わたしはえんぴつと消{け}しゴムを忘{わす}れたので、となりの人{ひと}に貸{か}してもらいました。
+= Bugün kurşun kalem-im-i ve silgi-m-i unut-tu-m, yan-ım-daki kişi ödünç ver-di.
++ 今日|きょう|bugün
++ 消しゴム|けしゴム|silgi|消しゴム
++ 忘れる|わすれる|unutmak|忘れ
++ 人|ひと|kişi
++ 貸す|かす|ödünç vermek|貸し
+// 4S1
+17 毎月{まいつき}初{はじ}めの土曜日{どようび}には、チケットが安{やす}くなって、300円{えん}で入{はい}れます。
+= Her ay-ın ilk cumartesi-si bilet ucuzla-r, 300 yen-e gir-il-ebil-ir.
++ 毎月|まいつき|her ay
++ 初め|はじめ|baş, başlangıç|初め
++ 土曜日|どようび|cumartesi
++ 安い|やすい|ucuz|安く
++ 円|えん|yen
++ 入る|はいる|girmek|入れ
+// 5V1
+18 わたしのうちはえきにちかいですから、べんりです。
+= Ev-im istasyon-a yakın, o yüzden kullanışlı.
+// 5S1
+19 前{まえ}は車{くるま}で来{き}ていましたが、車{くるま}はいろいろお金{かね}がかかりますから、今{いま}は乗{の}っていません。
+= Eskiden araba-yla gel-iyor-du-m ama araba çeşitli masraf-lar çıkar-ıyor, şimdi bin-mi-yor-um.
++ 車|くるま|araba
++ 来る|くる|gelmek|来
++ お金|おかね|para|お金
++ 乗る|のる|binmek|乗っ
+// 5G
+20 学校{がっこう}の前{まえ}の店{みせ}は、安{やす}くておいしいです。
+= Okul-un ön-ün-deki dükkân hem ucuz hem lezzetli.
++ 学校|がっこう|okul
++ 店|みせ|dükkân

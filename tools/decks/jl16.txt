@@ -1,0 +1,130 @@
+@ jl16 N5–N4 · 16
+// 5S
+1 来週{らいしゅう}の日曜日{にちようび}、海{うみ}へ行{い}きますね。何{なに}を持{も}っていきましょうか。
+= Gelecek hafta pazar deniz-e gid-iyor-uz ya. Ne götür-elim?
++ 来週|らいしゅう|gelecek hafta
++ 日曜日|にちようび|pazar
++ 海|うみ|deniz
++ 行く|いく|gitmek|行き
++ 何|なに|ne
++ 持つ|もつ|tutmak, taşımak (持っていく: götürmek)|持っ
+// 5G
+2 きのう、わたしはひとりでえいがを見{み}に行{い}きました。
+= Dün tek başıma film izle-me-ye git-ti-m.
++ 見る|みる|izlemek|見
+// 4G1
+3 本当{ほんとう}ですね。空{あ}くまで、少{すこ}し待{ま}ちましょう。
+= Gerçekten. Boşal-ana kadar biraz bekle-yelim.
++ 本当|ほんとう|gerçek
++ 空く|あく|boşalmak|空く
++ 少し|すこし|biraz
++ 待つ|まつ|beklemek|待ち
+// 5S
+4 今{いま}からテストをします。
+= Şimdi sınav yap-ıyor-uz.
++ 今|いま|şimdi
+// 4S
+5 「あのう、その本{ほん}を取{と}ってくれませんか。」「え、どれですか。」
+= "Şey, o kitab-ı uzat-ır mı-sın?" "Ha, hangisi?"
++ 本|ほん|kitap
++ 取る|とる|almak, uzatmak|取っ
+// 4R1
+6 毎年{まいとし}行{おこな}われているお祭{まつ}りです。歌{うた}や踊{おど}りを楽{たの}しみましょう。
+= Her yıl yap-ıl-an bir festival. Şarkı ve dans-ın tadı-nı çıkar-alım.
++ 毎年|まいとし|her yıl
++ 行う|おこなう|yapmak, düzenlemek|行われ
++ お祭り|おまつり|festival, şenlik|お祭り
++ 歌|うた|şarkı
++ 踊り|おどり|dans|踊り
++ 楽しむ|たのしむ|keyfini çıkarmak|楽しみ
+// 4S1
+7 駅前{えきまえ}の本屋{ほんや}や大学{だいがく}の中{なか}の本屋{ほんや}などには売{う}っていませんから、私{わたし}が皆{みな}さんのテキストを頼{たの}んでおきます。
+= İstasyon önü-ndeki kitapçı-da ya da üniversite için-deki kitapçı-da sat-ıl-mı-yor, o yüzden ben hepiniz için kitap-lar-ı sipariş ed-eceğ-im.
++ 駅前|えきまえ|istasyon önü
++ 本屋|ほんや|kitapçı
++ 大学|だいがく|üniversite
++ 中|なか|iç
++ 売る|うる|satmak|売っ
++ 私|わたし|ben
++ 皆さん|みなさん|herkes, hepiniz|皆さん
++ 頼む|たのむ|ısmarlamak, rica etmek|頼ん
+// 4S
+8 「どうして昨日{きのう}、授業{じゅぎょう}を休{やす}んだんですか。」「風邪{かぜ}をひいてしまいました。」
+= "Dün neden ders-e gel-me-di-n?" "Nezle ol-du-m."
++ 昨日|きのう|dün
++ 授業|じゅぎょう|ders
++ 休む|やすむ|(okula, derse) gelmemek|休ん
++ 風邪|かぜ|nezle, soğuk algınlığı
+// 5S1
+9 じゃ、私{わたし}の国{くに}のほうが近{ちか}いですね。1時間半{じかんはん}早{はや}いです。
+= O zaman benim ülke-m daha yakın. Bir buçuk saat daha erken.
++ 国|くに|ülke
++ 近い|ちかい|yakın
++ 時間半|じかんはん|… buçuk saat
++ 早い|はやい|erken, çabuk
+// 4S
+10 いつもは9時{じ}からですが、30分{ぷん}早{はや}いので、間違{まちが}えないでくださいね。
+= Her zaman saat 9'da başla-r ama (bu sefer) 30 dakika erken, karıştır-ma-yın.
++ 時|じ|saat (…de)
++ 分|ふん|dakika
++ 間違える|まちがえる|yanılmak, karıştırmak|間違え
+// 4V
+11 このまどから港{みなと}が見{み}えます。
+= Bu pencere-den liman görün-üyor.
++ 港|みなと|liman
++ 見える|みえる|görünmek|見え
+// 5G
+12 田中{たなか}さんはきのうどこかに出{で}かけましたか。
+= Tanaka-san dün bir yer-e git-ti-n mi?
++ 田中|たなか|Tanaka (soyadı)
++ 出かける|でかける|dışarı çıkmak|出かけ
+// 4G1
+13 水泳{すいえい}の上手{じょうず}なともだちに泳{およ}ぎ方{かた}を教{おし}えてもらいました。
+= Yüzme-de iyi ol-an bir arkadaş-ım-a yüzme-yi öğret-tir-di-m.
++ 水泳|すいえい|yüzme
++ 上手|じょうず|becerikli, iyi
++ 泳ぎ方|およぎかた|yüzme tekniği|泳ぎ方
++ 教える|おしえる|öğretmek|教え
+// 4V1
+14 たなかさんのいえの電気{でんき}がついていませんね。たなかさんはるすのようです。
+= Tanaka-san-ın ev-i-nin ışık-lar-ı yan-mı-yor. Tanaka-san ev-de değil galiba.
++ 電気|でんき|elektrik; ışık
+// 4G1
+15 娘{むすめ}は先月{せんげつ}高校{こうこう}を卒業{そつぎょう}しました。もうすぐ大学{だいがく}の入学式{にゅうがくしき}です。
+= Kız-ım geçen ay lise-den mezun ol-du. Yakında üniversite-nin kayıt tören-i var.
++ 娘|むすめ|kız evlat
++ 先月|せんげつ|geçen ay
++ 高校|こうこう|lise
++ 卒業|そつぎょう|mezuniyet
++ 入学式|にゅうがくしき|okula giriş töreni
+// 4S
+16 この海{うみ}の写真{しゃしん}は顔{かお}が小{ちい}さくてよく見{み}えないね。
+= Bu deniz fotoğraf-ı-nda yüz-ler küçük, iyi görün-mü-yor.
++ 写真|しゃしん|fotoğraf
++ 顔|かお|yüz
++ 小さい|ちいさい|küçük|小さく
+// 5S1
+17 今日{きょう}は今{いま}から友達{ともだち}とバスケットボールをして、それから、みんなと一緒{いっしょ}にラーメンを食{た}べに行{い}きます。
+= Bugün şimdi arkadaş-lar-ım-la basketbol oyna-yıp sonra hep birlikte ramen ye-me-ye gid-eceğ-iz.
++ 今日|きょう|bugün
++ 友達|ともだち|arkadaş
++ 一緒|いっしょ|birlikte
++ 食べる|たべる|yemek|食べ
+// 4R1
+18 土曜日{どようび}に行{い}きたいですが、集{あつ}まる時間{じかん}が13時{じ}より早{はや}いものには行{い}けません。
+= Cumartesi git-mek istiyor-um ama toplan-ma saat-i 13'ten erken ol-an-lar-a gid-e-me-m.
++ 土曜日|どようび|cumartesi
++ 集まる|あつまる|toplanmak|集まる
++ 時間|じかん|zaman, saat
+// 4S1
+19 卓球{たっきゅう}は、一人{ひとり}2時間{じかん}、300円{えん}ですが、何時間{なんじかん}しますか。
+= Masa tenis-i kişi başı iki saat 300 yen, kaç saat oyna-yacak-sınız?
++ 卓球|たっきゅう|masa tenisi
++ 一人|ひとり|bir kişi
++ 円|えん|yen
++ 何時間|なんじかん|kaç saat
+// 5G
+20 わたしはすしがすきです。日本{にほん}にはたくさんすし屋{や}がありますね。
+= Ben suşi-yi sev-er-im. Japonya-da bir sürü suşi restoran-ı var.
++ 日本|にほん|Japonya
++ すし屋|すしや|suşi restoranı|すし屋

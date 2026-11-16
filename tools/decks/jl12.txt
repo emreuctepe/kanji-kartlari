@@ -1,0 +1,126 @@
+@ jl12 N5–N4 · 12
+// 4R1
+1 私{わたし}は「時間{じかん}は大丈夫{だいじょうぶ}ですか。」と聞{き}きました。
+= Ben "Vakt-iniz yet-er mi?" diye sor-du-m.
++ 私|わたし|ben
++ 時間|じかん|zaman, vakit
++ 大丈夫|だいじょうぶ|sorun yok, iyi
++ 聞く|きく|sormak|聞き
+// 5S
+2 友達{ともだち}は鉛筆{えんぴつ}がありません。「鉛筆{えんぴつ}、使{つか}いますか。」
+= Arkadaş-ın-ın kalem-i yok. "Kalem kullan-ır mı-sın?"
++ 友達|ともだち|arkadaş
++ 鉛筆|えんぴつ|kurşun kalem
++ 使う|つかう|kullanmak|使い
+// 4S
+3 最近{さいきん}は、専門{せんもん}の本{ほん}を月{つき}に3冊{さつ}ぐらい読{よ}んでいます。
+= Son zamanlar-da alan-ım-la ilgili ayda üç kadar kitap oku-yor-um.
++ 最近|さいきん|son zamanlarda
++ 専門|せんもん|uzmanlık alanı
++ 本|ほん|kitap
++ 月|つき|ay
++ 冊|さつ|(kitap sayacı)
++ 読む|よむ|okumak|読ん
+// 4R1
+4 お茶{ちゃ}とお菓子{かし}を楽{たの}しみながら、音楽{おんがく}を聞{き}きます。
+= Çay ve tatlı-nın tadı-nı çıkar-ırken müzik dinle-r-iz.
++ お茶|おちゃ|çay|お茶
++ お菓子|おかし|tatlı, şekerleme|お菓子
++ 楽しむ|たのしむ|keyfini çıkarmak|楽しみ
++ 音楽|おんがく|müzik
+// 5S1
+5 道{みち}の左側{ひだりがわ}に銀行{ぎんこう}があります。喫茶店{きっさてん}「みどり」は銀行{ぎんこう}のとなりですよ。
+= Yol-un sol taraf-ı-nda bir banka var. "Midori" kafe-si banka-nın yan-ı-nda.
++ 道|みち|yol
++ 左側|ひだりがわ|sol taraf
++ 銀行|ぎんこう|banka
++ 喫茶店|きっさてん|kafe, kahvehane
+// 5S1
+6 「夏休{なつやす}みはどこかへ出掛{でか}けましたか。」「どこへも行{い}きませんでした。」
+= "Yaz tatil-i-nde bir yer-e git-ti-n mi?" "Hiçbir yer-e git-me-di-m."
++ 夏休み|なつやすみ|yaz tatili|夏休み
++ 出掛ける|でかける|dışarı çıkmak, bir yere gitmek|出掛け
++ 行く|いく|gitmek|行き
+// 4G
+7 妹{いもうと}はおしゃべりだ。静{しず}かなのは、食事{しょくじ}のときだけだ。
+= Kız kardeş-im çok konuşkan. Sessiz ol-duğ-u tek an yemek zaman-ı.
++ 妹|いもうと|kız kardeş (küçük)
++ 静か|しずか|sessiz|静か
++ 食事|しょくじ|yemek (yeme)
+// 5R1
+8 ボゴさんの机{つくえ}の上{うえ}に、このメモとにもつがあります。
+= Bogo-san-ın masa-sı-nın üst-ün-de bu not ve bir paket var.
++ 机|つくえ|masa (çalışma)
++ 上|うえ|üst
+// 4S
+9 明日{あした}、二人{ふたり}で映画{えいが}に行{い}きたいです。「明日{あした}、映画{えいが}を見{み}に行{い}きませんか。」
+= Yarın ikiniz sinema-ya git-mek isti-yor-sun. "Yarın film izle-me-ye git-me-z mi-yiz?"
++ 明日|あした|yarın
++ 二人|ふたり|iki kişi
++ 映画|えいが|film, sinema
++ 見る|みる|izlemek|見
+// 4S1
+10 来週{らいしゅう}の授業{じゅぎょう}の前{まえ}に、事務所{じむしょ}でお金{かね}を払{はら}って、テキストをもらってください。
+= Gelecek hafta-ki ders-ten önce ofis-te para-yı öde-yip kitab-ı al-ın.
++ 来週|らいしゅう|gelecek hafta
++ 授業|じゅぎょう|ders
++ 前|まえ|önce
++ 事務所|じむしょ|ofis, büro
++ お金|おかね|para|お金
++ 払う|はらう|ödemek|払っ
+// 5G1
+11 今日{きょう}やおやでりんごを買{か}いました。五{いつ}つで300円{えん}でした。
+= Bugün manav-dan elma al-dı-m. Beş tane-si 300 yen-di.
++ 今日|きょう|bugün
++ 買う|かう|satın almak|買い
++ 五つ|いつつ|beş (tane)|五つ
++ 円|えん|yen
+// 5G
+12 わたしの母{はは}は50さいです。父{ちち}は55さいです。母{はは}は父{ちち}より5さいわかいです。
+= Anne-m 50 yaşında. Baba-m 55 yaşında. Anne-m baba-m-dan 5 yaş genç.
++ 母|はは|(kendi) anne
++ 父|ちち|(kendi) baba
+// 5S
+13 黒{くろ}で書{か}いてください。赤{あか}で書{か}かないでくださいね。
+= Siyah-la yaz-ın. Kırmızı-yla yaz-ma-yın lütfen.
++ 黒|くろ|siyah
++ 書く|かく|yazmak|書い
++ 赤|あか|kırmızı
+// 5S
+14 「それは、何{なん}の本{ほん}ですか。」「料理{りょうり}の本{ほん}です。」
+= "O ne kitab-ı?" "Yemek kitab-ı."
++ 何|なん|ne
++ 料理|りょうり|yemek (pişirme)
+// 5S1
+15 山田{やまだ}さん、昨日{きのう}どこかへ行{い}きましたか。
+= Yamada-san, dün bir yer-e git-ti-n mi?
++ 山田|やまだ|Yamada (soyadı)
++ 昨日|きのう|dün
+// 4S1
+16 「山田{やまだ}さん、けがはもうよくなりましたか。」「すっかり治{なお}りました。」
+= "Yamada-san, yara-n iyileş-ti mi artık?" "Tamamen iyileş-ti."
++ 治る|なおる|iyileşmek|治り
+// 4G1
+17 A市{し}の運動場{うんどうじょう}はだれでも使{つか}えますが、予約{よやく}がひつようです。
+= A Şehr-i'nin spor saha-sı-nı herkes kullan-abil-ir ama rezervasyon gerek.
++ 市|し|şehir
++ 運動場|うんどうじょう|spor sahası
++ 予約|よやく|rezervasyon
+// 4V
+18 とても眠{ねむ}かったので、コーヒーを飲{の}みました。
+= Çok uykum var-dı, kahve iç-ti-m.
++ 眠い|ねむい|uykulu|眠かっ
++ 飲む|のむ|içmek|飲み
+// 4G1
+19 それで少{すこ}しずつ泳{およ}げるようになりました。
+= Böylece yavaş yavaş yüz-ebil-ir hale gel-di-m.
++ 少し|すこし|biraz (少しずつ: azar azar)
++ 泳ぐ|およぐ|yüzmek|泳げる
+// 4G1
+20 次{つぎ}の週{しゅう}から町{まち}のプールで泳{およ}ぐ練習{れんしゅう}を始{はじ}めました。
+= Sonraki hafta-dan itibaren kasaba-nın havuz-u-nda yüzme alıştırma-sı-na başla-dı-m.
++ 次|つぎ|sonraki
++ 週|しゅう|hafta
++ 町|まち|kasaba, şehir
++ 練習|れんしゅう|alıştırma, pratik
++ 始める|はじめる|başlamak (bir şeye)|始め

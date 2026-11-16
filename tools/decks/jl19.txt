@@ -1,0 +1,106 @@
+@ jl19 N5–N4 · 19
+// 4G
+1 古川{ふるかわ}さん、このじゅぎょうのレポート、終{お}わりましたか。
+= Furukawa-san, bu ders-in rapor-u bit-ti mi?
++ 古川|ふるかわ|Furukawa (soyadı)
++ 終わる|おわる|bitmek|終わり
+// 4S
+2 先生{せんせい}に今{いま}、相談{そうだん}したいです。「ちょっとよろしいでしょうか。」
+= Öğretmen-e şimdi danış-mak isti-yor-sun. "Biraz müsait mi-siniz?"
++ 先生|せんせい|öğretmen
++ 今|いま|şimdi
++ 相談|そうだん|danışma
+// 5S
+3 「今日{きょう}は何日{なんにち}ですか。」「三日{みっか}です。」
+= "Bugün ayın kaç-ı?" "Üç-ü."
++ 今日|きょう|bugün
++ 何日|なんにち|ayın kaçı
++ 三日|みっか|ayın üçü; üç gün
+// 4V
+4 バスがしゅっぱつしました。
+= Otobüs kalk-tı.
+// 4S
+5 学校{がっこう}の体育館{たいいくかん}の前{まえ}に集{あつ}まってください。
+= Okul-un spor salon-u-nun ön-ün-de toplan-ın.
++ 学校|がっこう|okul
++ 体育館|たいいくかん|spor salonu
++ 前|まえ|ön
++ 集まる|あつまる|toplanmak|集まっ
+// 5V1
+6 このコーヒーは、さとうをたくさんいれましたから、あまいです。
+= Bu kahve-ye çok şeker koy-du-m, o yüzden tatlı.
+// 4R1
+7 青野市{あおのし}の有名{ゆうめい}な料理{りょうり}を一緒{いっしょ}に作{つく}って、食{た}べます。
+= Aono Şehr-i'nin ünlü yemek-ler-i-ni birlikte yap-ıp ye-r-iz.
++ 市|し|şehir|市
++ 有名|ゆうめい|ünlü
++ 料理|りょうり|yemek (pişirme)
++ 一緒|いっしょ|birlikte
++ 作る|つくる|yapmak|作っ
++ 食べる|たべる|yemek|食べ
+// 5S
+8 昼{ひる}は飲{の}まないでください。
+= Öğlen iç-me-yin.
++ 昼|ひる|öğle
++ 飲む|のむ|içmek|飲ま
+// 5V1
+9 きのうは会社{かいしゃ}をやすみました。
+= Dün iş-e git-me-di-m.
++ 会社|かいしゃ|şirket, iş yeri
+// 4S
+10 姉{あね}もいます。姉{あね}は両親{りょうしん}と一緒{いっしょ}に住{す}んでいます。
+= Abla-m da var. Abla-m anne baba-m-la birlikte otur-uyor.
++ 姉|あね|(kendi) abla
++ 両親|りょうしん|anne baba
++ 住む|すむ|oturmak, yaşamak|住ん
+// 4S1
+11 この授業{じゅぎょう}では「日本語{にほんご}1」というテキストを使{つか}います。
+= Bu ders-te "Japonca 1" ad-lı kitab-ı kullan-acağ-ız.
++ 授業|じゅぎょう|ders
++ 日本語|にほんご|Japonca
++ 使う|つかう|kullanmak|使い
+// 5V1
+12 わたしのへやはこのアパートの2かいです。
+= Oda-m bu apartman-ın ikinci kat-ı-nda.
+// 4V
+13 おとうととそうだんして母{はは}にあげるプレゼントをえらびました。
+= Küçük kardeş-im-le danış-ıp anne-m-e ver-ecek hediye-yi seç-ti-k.
++ 母|はは|(kendi) anne
+// 5R1
+14 それから学校{がっこう}へ行{い}きました。とてもいそがしい朝{あさ}でした。
+= Sonra okul-a git-ti-m. Çok yoğun bir sabah-tı.
++ 行く|いく|gitmek|行き
++ 朝|あさ|sabah
+// 4G
+15 わかりました。あしたは新{あたら}しいくつをはいて来{き}ます。
+= Anladım. Yarın yeni ayakkabı giy-ip gel-eceğ-im.
++ 新しい|あたらしい|yeni
++ 来る|くる|gelmek|来
+// 5R1
+16 でも、けさはなにも食{た}べませんでした。
+= Ama bu sabah hiçbir şey ye-me-di-m.
+// 5S
+17 皆{みな}さんの荷物{にもつ}は、ホテルの人{ひと}が部屋{へや}に持{も}っていきます。
+= Hepiniz-in bagaj-ı-nı otel görevli-ler-i oda-lar-a götür-ecek.
++ 皆さん|みなさん|herkes, hepiniz|皆さん
++ 荷物|にもつ|yük, bagaj
++ 人|ひと|kişi
++ 部屋|へや|oda
++ 持つ|もつ|tutmak, taşımak (持っていく: götürmek)|持っ
+// 5S
+18 鉛筆{えんぴつ}じゃなくて、ボールペンですよ。
+= Kurşun kalem değil, tükenmez kalem.
++ 鉛筆|えんぴつ|kurşun kalem
+// 4S
+19 「夏休{なつやす}みに国{くに}へ帰{かえ}ったら、何{なに}をしますか。」「友達{ともだち}に会{あ}うつもりです。」
+= "Yaz tatil-i-nde ülke-n-e dön-ünce ne yap-acak-sın?" "Arkadaş-lar-ım-la görüş-me-yi düşün-üyor-um."
++ 夏休み|なつやすみ|yaz tatili|夏休み
++ 国|くに|ülke, memleket
++ 帰る|かえる|dönmek|帰っ
++ 何|なに|ne
++ 友達|ともだち|arkadaş
++ 会う|あう|görüşmek, buluşmak|会う
+// 5S1
+20 ジョージさん、冬休{ふゆやす}みに国{くに}へ帰{かえ}りますか。
+= George-san, kış tatil-i-nde ülke-n-e dön-ecek mi-sin?
++ 冬休み|ふゆやすみ|kış tatili|冬休み

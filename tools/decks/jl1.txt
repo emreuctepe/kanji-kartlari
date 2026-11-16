@@ -1,0 +1,109 @@
+// JLPT N5–N4 resmî örnek sorularından (2012 ve 2018 örnek setleri) tamamlanmış cümleler; dağılım tools/jlpt/karisik.txt.
+// Her cümlenin kaynağı yorum satırında: 5/4 = N5/N4, V 文字・語彙, G 文法, R 読解, S 聴解; 1 = "(1)" dosyası.
+@ jl1 N5–N4 · 1
+// 4V
+1 りょこうのにもつはもうよういできましたか。
+= Seyahat bagaj-ı-nı hazırla-yabil-di-n mi artık?
+// 5V
+2 あたらしい車{くるま}をかいました。
+= Yeni bir araba al-dı-m.
++ 車|くるま|araba
+// 5V1
+3 あしたは雨{あめ}ですか。
+= Yarın yağmur mu var?
++ 雨|あめ|yağmur
+// 4R1
+4 レストランで食事{しょくじ}をしながら、ピアノを楽{たの}しみましょう。
+= Restoran-da yemek yer-ken piyano-nun tadı-nı çıkar-alım.
++ 食事|しょくじ|yemek (yeme)
++ 楽しむ|たのしむ|keyfini çıkarmak, eğlenmek|楽しみ
+// 5S1
+5 時間{じかん}は50分{ぷん}ぐらいかかりますが、楽{たの}しいですよ。
+= 50 dakika kadar sür-üyor ama eğlenceli.
++ 時間|じかん|zaman, süre
++ 分|ふん|dakika|分
++ 楽しい|たのしい|eğlenceli, keyifli
+// 5G
+6 いいえ、これは兄{あに}にもらいました。
+= Hayır, bu-nu ağabey-im-den al-dı-m.
++ 兄|あに|(kendi) ağabey
+// 4S1
+7 クラスは、来週{らいしゅう}新{あたら}しいクラスに変{か}わりますから、書{か}かないでください。
+= Sınıf-ın gelecek hafta yeni bir sınıf-a değiş-eceğ-i için (onu) yaz-ma-yın.
++ 来週|らいしゅう|gelecek hafta
++ 新しい|あたらしい|yeni
++ 変わる|かわる|değişmek|変わり
++ 書く|かく|yazmak|書か
+// 5G
+8 今日{きょう}パーティーがありますから、田中{たなか}さんも来{き}てください。
+= Bugün parti var, Tanaka-san siz de gel-in.
++ 今日|きょう|bugün
++ 田中|たなか|Tanaka (soyadı)
++ 来る|くる|gelmek|来
+// 4V1
+9 おとうとはあのきっさてんでアルバイトをしています。
+= Küçük erkek kardeş-im şu kafe-de yarı zamanlı çalış-ıyor.
+// 5S1
+10 「昼{ひる}ご飯{はん}はもう食{た}べましたか。」「いえ、今{いま}からです。」
+= "Öğle yemeğ-i-ni yedi-n mi?" "Hayır, şimdi yiy-eceğ-im."
++ 昼ご飯|ひるごはん|öğle yemeği|昼ご飯
++ 食べる|たべる|yemek|食べ
++ 今|いま|şimdi
+// 4S1
+11 こちらのお店{みせ}のホームページに、今日{きょう}は「卵{たまご}が安{やす}い」と書{か}いてあったんですが、売{う}り場{ば}はどこですか。
+= Bu mağaza-nın internet sayfa-sı-nda bugün "yumurta ucuz" diye yaz-ıyor-du, satış reyon-u nere-de?
++ 店|みせ|dükkân, mağaza
++ 卵|たまご|yumurta
++ 安い|やすい|ucuz
++ 売り場|うりば|satış reyonu, tezgâh
+// 5G
+12 いいえ、まだです。ここまではかんたんでしたが、さいごのもんだいがむずかしいです。
+= Hayır, henüz değil. Bura-ya kadar kolay-dı ama son soru zor.
+// 5S1
+13 パーティーのとき、使{つか}いたいですから、貸{か}してください。
+= Parti-de kullan-mak istiyor-um, (onu) ödünç ver-ir mi-sin.
++ 使う|つかう|kullanmak|使い
++ 貸す|かす|ödünç vermek|貸し
+// 4R
+14 わたしたちは「楽{たの}しかったね。こんな生活{せいかつ}もたまにはいいね。」と話{はな}しながら、家{いえ}に帰{かえ}りました。
+= "Eğlenceli-ydi değil mi? Böyle bir hayat da ara sıra iyi-ymiş." diye konuş-arak ev-e dön-dü-k.
++ 生活|せいかつ|hayat, yaşam
++ 話す|はなす|konuşmak|話し
++ 家|いえ|ev
++ 帰る|かえる|(eve) dönmek|帰り
+// 4S1
+15 最近{さいきん}、近所{きんじょ}の人{ひと}と友達{ともだち}になったから、残念{ざんねん}なんだけど。
+= Son zamanlar-da komşu-lar-la arkadaş ol-du-m, o yüzden üzücü tabii.
++ 最近|さいきん|son zamanlarda
++ 近所|きんじょ|komşuluk, yakın çevre
++ 人|ひと|insan, kişi
++ 友達|ともだち|arkadaş
++ 残念|ざんねん|üzücü, yazık
+// 5R
+16 駅{えき}の人{ひと}がわたしを見{み}て、「あのはこの中{なか}のかさを使{つか}ってください。」と言{い}いました。
+= İstasyon görevli-si ban-a bak-ıp "Şu kutu-nun için-deki şemsiye-yi kullan-ın." de-di.
++ 駅|えき|istasyon
++ 見る|みる|bakmak, görmek|見
++ 中|なか|iç
++ 言う|いう|söylemek, demek|言い
+// 5S
+17 そうですね、動物{どうぶつ}のを下{くだ}さい。
+= Şey, hayvan-lı ol-an-ı ver-in.
++ 動物|どうぶつ|hayvan
++ 下さい|ください|lütfen verin|下さい
+// 5R
+18 あしたはかさをはこの中{なか}に入{い}れます。
+= Yarın şemsiye-yi kutu-nun için-e koy-acağ-ım.
++ 入れる|いれる|koymak, içine sokmak|入れ
+// 5S
+19 山田{やまだ}さんはいつも何時間{なんじかん}ぐらい勉強{べんきょう}しますか。
+= Yamada-san her zaman kaç saat kadar ders çalış-ır-sın?
++ 山田|やまだ|Yamada (soyadı)
++ 何時間|なんじかん|kaç saat
++ 勉強|べんきょう|ders çalışma
+// 4S1
+20 ええ、友達{ともだち}と海{うみ}の近{ちか}くの店{みせ}に行{い}って、食事{しょくじ}をしました。
+= Evet, arkadaş-ım-la deniz-in yakın-ın-daki bir dükkân-a gid-ip yemek ye-di-k.
++ 海|うみ|deniz
++ 近く|ちかく|yakın, yakını
++ 行く|いく|gitmek|行っ

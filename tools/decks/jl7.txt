@@ -1,0 +1,115 @@
+@ jl7 N5–N4 · 7
+// 5S1
+1 火曜日{かようび}と金曜日{きんようび}は仕事{しごと}が6時{じ}に終{お}わりません。
+= Salı ve cuma iş-im saat 6'da bit-mi-yor.
++ 火曜日|かようび|salı
++ 金曜日|きんようび|cuma
++ 仕事|しごと|iş
++ 時|じ|saat (…de)
++ 終わる|おわる|bitmek|終わり
+// 4S1
+2 えっと、2本{ほん}お願{ねが}い。それから、チーズ。
+= Şey, iki tane lütfen. Bir de peynir.
++ 本|ほん|(uzun nesne sayacı)
++ お願い|おねがい|rica|お願い
+// 5G
+3 このぼうしは山田{やまだ}さんのですか。
+= Bu şapka Yamada-san-ın mı?
++ 山田|やまだ|Yamada (soyadı)
+// 4G
+4 つくえの上{うえ}にペンがあります。
+= Masa-nın üst-ün-de kalem var.
++ 上|うえ|üst
+// 4G1
+5 ええ、行{い}きます。でも、午前中{ごぜんちゅう}に用事{ようじ}があるので、遅{おく}れるかもしれません。
+= Evet, gid-eceğ-im. Ama öğleden önce iş-im ol-duğ-u için gecik-ebil-ir-im.
++ 行く|いく|gitmek|行き
++ 午前中|ごぜんちゅう|öğleden önce, sabah boyunca
++ 用事|ようじ|iş, yapılacak şey
++ 遅れる|おくれる|gecikmek|遅れる
+// 4V1
+6 この国{くに}はこめをゆにゅうしています。
+= Bu ülke pirinç ithal ed-iyor.
++ 国|くに|ülke
+// 4S
+7 僕{ぼく}たち二人{ふたり}と、友達{ともだち}四人{よにん}。
+= Biz iki kişi ve dört arkadaş.
++ 僕|ぼく|ben (erkek)
++ 二人|ふたり|iki kişi
++ 友達|ともだち|arkadaş
++ 四人|よにん|dört kişi
+// 4S
+8 ええ、少{すこ}し。でも、弟{おとうと}と一緒{いっしょ}に住{す}んでいるので、大丈夫{だいじょうぶ}です。
+= Evet, biraz. Ama küçük kardeş-im-le birlikte otur-duğ-um için sorun yok.
++ 少し|すこし|biraz
++ 弟|おとうと|küçük erkek kardeş
++ 一緒|いっしょ|birlikte
++ 住む|すむ|oturmak, yaşamak|住ん
++ 大丈夫|だいじょうぶ|sorun yok, iyi
+// 4R1
+9 「どうしたんですか。」と聞{き}かれたので、「電車{でんしゃ}の場所{ばしょ}がわからないんです。」と答{こた}えました。
+= "Ne oldu?" diye sor-ul-unca "Tren-in yer-i-ni bil-mi-yor-um." diye cevap ver-di-m.
++ 聞く|きく|sormak|聞か
++ 電車|でんしゃ|tren
++ 場所|ばしょ|yer
++ 答える|こたえる|cevap vermek|答え
+// 5R1
+10 シャワーをあびて、朝{あさ}ご飯{はん}を食{た}べました。
+= Duş al-ıp kahvaltı yap-tı-m.
++ 朝ご飯|あさごはん|kahvaltı|朝ご飯
++ 食べる|たべる|yemek|食べ
+// 4V
+11 このびょういんのおいしゃさんはとてもしんせつですよ。
+= Bu hastane-nin doktor-u çok nazik.
+// 5R1
+12 わたしは毎朝{まいあさ}ご飯{はん}となっとうか、パンとたまごを食{た}べて、学校{がっこう}へ行{い}きます。
+= Ben her sabah ya pilav-la nattō ya da ekmek-le yumurta ye-yip okul-a gid-er-im.
++ 毎朝|まいあさ|her sabah
++ ご飯|ごはん|pilav; yemek|ご飯
++ 学校|がっこう|okul
+// 5G1
+13 今日{きょう}から一週間{いっしゅうかん}薬{くすり}を飲{の}んで、来週{らいしゅう}の月曜日{げつようび}にまた来{き}てください。
+= Bugün-den itibaren bir hafta ilaç iç-ip gelecek hafta pazartesi tekrar gel-in.
++ 今日|きょう|bugün
++ 一週間|いっしゅうかん|bir hafta
++ 薬|くすり|ilaç
++ 飲む|のむ|içmek|飲ん
++ 来週|らいしゅう|gelecek hafta
++ 月曜日|げつようび|pazartesi
++ 来る|くる|gelmek|来
+// 4S
+14 木曜日{もくようび}は一日{いちにち}ずっと雨{あめ}になるでしょう。
+= Perşembe bütün gün yağmur-lu ol-acak.
++ 木曜日|もくようび|perşembe
++ 一日|いちにち|bir gün; bütün gün
++ 雨|あめ|yağmur
+// 4R
+15 アリさんから借{か}りた本{ほん}を置{お}いておきます。ありがとうございました。
+= Ali-san'dan ödünç al-dığ-ım kitab-ı bırak-ıyor-um. Teşekkür ederim.
++ 借りる|かりる|ödünç almak|借り
++ 本|ほん|kitap
++ 置く|おく|koymak, bırakmak|置い
+// 5S1
+16 では、月曜日{げつようび}がいいですよ。木曜日{もくようび}のクラスは話{はな}す時間{じかん}が短{みじか}いです。
+= O zaman pazartesi iyi. Perşembe sınıf-ı-nda konuş-ma süre-si kısa.
++ 話す|はなす|konuşmak
++ 時間|じかん|zaman, süre
++ 短い|みじかい|kısa
+// 4V1
+17 わたしはすいえいがすきです。
+= Ben yüzme-yi sev-er-im.
+// 4S1
+18 友達{ともだち}がかばんを閉{し}めるのを忘{わす}れています。「かばんが開{あ}いているよ。」
+= Arkadaş-ın çanta-sı-nı kapat-ma-yı unut-muş. "Çanta-n açık."
++ 閉める|しめる|kapatmak|閉める
++ 忘れる|わすれる|unutmak|忘れ
++ 開く|あく|açılmak, açık olmak|開い
+// 5V
+19 いもうとと同{おな}じふくをかいました。
+= Kız kardeş-im-le aynı giysi-yi al-dı-m.
++ 同じ|おなじ|aynı|同じ
+// 4G
+20 このすいかは大{おお}きすぎて、れいぞうこに入{はい}らない。
+= Bu karpuz çok büyük, buzdolabı-na sığ-mı-yor.
++ 大きい|おおきい|büyük|大き
++ 入る|はいる|girmek, sığmak|入ら
