@@ -1,0 +1,248 @@
+// Wakako (1:1 özel ders) — ders 98 「本日のポイント」. Belgedeki örnek cümleler aynen alındı;
+// tek başına verilen ifadeler için cümle kuruldu (1–3, 14, 21–23, 25–27, 30, 32–47). Kelime yalnızca destede ilk geçtiği cümlede listelenir.
+@ wk98 98 | あと少しで・だけではない・連絡・伝える／伝わる・受ける／〜たかった・〜たくなかった
+// ── あと少しで100レッスン (belgede ifade; cümle kuruldu) ──
+1 100レッスンまであと少{すこ}しです。
+= 100 ders-e az kal-dı.
++ あと少し|あとすこし|az kaldı, birazdan|あと少し
+2 あと少{すこ}しで100レッスンになります。
+= Az kal-dı, 100 ders ol-acak.
++ 少し|すこし|biraz (あと少しで: az sonra, az kaldı)
+3 先生{せんせい}とのレッスンは、もう100レッスン近{ちか}くになりました。
+= Öğretmen-le ders-ler-imiz şimdiden 100 ders-e yaklaş-tı.
++ 先生|せんせい|öğretmen
++ 近く|ちかく|yakın, -e yakın (100レッスン近く: 100 derse yakın)
+// ── 〜だけではない ──
+4 それだけでなく、美{うつく}しい発音{はつおん}も大切{たいせつ}です。
+= Yalnızca o değil, güzel telaffuz da önemli-dir.
++ だけでなく|だけでなく|yalnızca … değil (〜だけではない)
++ 美しい|うつくしい|güzel
++ 発音|はつおん|telaffuz
++ 大切|たいせつ|önemli, değerli
+5 これだけではありません！
+= Sadece bu kadar-la kal-mı-yor!
++ だけではない|だけではない|yalnızca … değil|だけではありません
+// ── 連絡する・連絡をとる ──
+6 いつでも連絡{れんらく}してください。
+= Ne zaman isters-en-iz iletişim-e geç-in.
++ 連絡|れんらく|iletişim, haber verme (連絡する: ulaşmak, haber vermek)
+7 また連絡{れんらく}を取{と}り合{あ}いましょう。
+= Yine birbir-imiz-le haberleş-elim.
++ 取り合う|とりあう|karşılıklı almak (連絡を取り合う: birbiriyle iletişimde olmak)|取り合い
+// ── コミュニケーションをとる ──
+8 完璧{かんぺき}な日本語{にほんご}を話{はな}すことよりもコミュニケーションをとろうとすることの方{ほう}が大切{たいせつ}だと思{おも}います。
+= Bence kusursuz Japonca konuş-mak-tan çok iletişim kur-ma-ya çalış-mak daha önemli.
++ 完璧|かんぺき|kusursuz, mükemmel
++ 日本語|にほんご|Japonca
++ 話す|はなす|konuşmak|話す
++ コミュニケーションをとる|こみゅにけーしょんをとる|iletişim kurmak|コミュニケーションをとろう
++ 方|ほう|taraf (〜の方が: … daha)
++ 思う|おもう|düşünmek|思い
+// ── 伝える・伝わる ──
+9 日本語{にほんご}で自分{じぶん}の気持{きも}ちを伝{つた}えるのは難{むずか}しいです。
+= Japonca-yla kendi duygu-lar-ı-mı ifade et-mek zor.
++ 自分|じぶん|kendi
++ 気持ち|きもち|duygu, his
++ 伝える|つたえる|iletmek, aktarmak, anlatmak|伝える
++ 難しい|むずかしい|zor
+10 その手紙{てがみ}から彼女{かのじょ}の気持{きも}ちが伝{つた}わってきました。
+= O mektup-tan onun duygu-lar-ı ban-a geç-ti (hissedil-di).
++ 手紙|てがみ|mektup
++ 彼女|かのじょ|o (kadın); kız arkadaş
++ 伝わる|つたわる|iletilmek, ulaşmak, hissedilmek|伝わっ
+// ── レッスン／授業／講座を受ける ──
+11 私{わたし}は定期的{ていきてき}に日本語{にほんご}のレッスンを受{う}けています。
+= Düzenli olarak Japonca ders-i al-ıyor-um.
++ 私|わたし|ben
++ 定期的|ていきてき|düzenli, belli aralıklarla
++ 受ける|うける|almak (ders, sınav vb.)|受け
+12 有名{ゆうめい}な先生{せんせい}の授業{じゅぎょう}を受{う}けられて光栄{こうえい}です。
+= Ünlü bir öğretmen-in ders-i-ni al-abil-diğ-im için onur duy-uyor-um.
++ 有名|ゆうめい|ünlü
++ 授業|じゅぎょう|ders (okul/sınıf dersi)
++ 光栄|こうえい|onur, şeref
+13 昨日{きのう}は一日中{いちにちじゅう}講座{こうざ}を受{う}けていました。
+= Dün bütün gün kurs-a katıl-dı-m.
++ 昨日|きのう|dün
++ 一日中|いちにちじゅう|bütün gün
++ 講座|こうざ|kurs, seminer dizisi
+14 来学期{らいがっき}は日本文学{にほんぶんがく}の授業{じゅぎょう}を取{と}るつもりです。
+= Gelecek dönem Japon edebiyatı ders-i-ne kaydol-may-ı düşün-üyor-um.
++ 来学期|らいがっき|gelecek dönem
++ 日本文学|にほんぶんがく|Japon edebiyatı
++ 取る|とる|almak (授業を取る: derse kaydolmak)|取る
+// ── 当時・最近・同時 ──
+15 当時{とうじ}はまだ教室{きょうしつ}にエアコンがありませんでした。
+= O zaman-lar sınıf-ta henüz klima yok-tu.
++ 当時|とうじ|o zamanlar, o dönemde
++ 教室|きょうしつ|sınıf, derslik
+16 最近{さいきん}、地震{じしん}が多{おお}い。
+= Son zaman-lar-da deprem çok.
++ 最近|さいきん|son zamanlarda
++ 地震|じしん|deprem
++ 多い|おおい|çok
+17 開店{かいてん}とほぼ同時{どうじ}に店{みせ}の前{まえ}に着{つ}きました。
+= Dükkân-ın açıl-ma-sı-yla hemen hemen aynı anda dükkân-ın önü-ne var-dı-m.
++ 開店|かいてん|dükkânın açılması
++ 同時|どうじ|aynı anda, eşzamanlı
++ 店|みせ|dükkân, mağaza
++ 前|まえ|ön
++ 着く|つく|varmak|着き
+// ── 基本・基礎 ──
+18 演技{えんぎ}の基本{きほん}を身{み}につけた。
+= Oyunculuğ-un temel-ler-i-ni edin-di-m.
++ 演技|えんぎ|oyunculuk, performans
++ 基本|きほん|temel, esas (basic)
++ 身につける|みにつける|edinmek, kazanmak (beceri)|身につけ
+19 基礎{きそ}が大事{だいじ}です！
+= Temel önemli-dir!
++ 基礎|きそ|temel, altyapı (foundation)
++ 大事|だいじ|önemli
+// ── 違い ──
+20 ニュアンスの違{ちが}いが難{むずか}しくてわかりません。
+= Nüans fark-lar-ı zor, anla-mı-yor-um.
++ 違い|ちがい|fark
+// ── 観客・聴衆・オーディエンス (belgede kelime; cümle kuruldu) ──
+21 コンサートの観客{かんきゃく}は五万人{ごまんにん}を超{こ}えた。
+= Konser-in seyirci-si elli bin kişi-yi geç-ti.
++ 観客|かんきゃく|seyirci
++ 五万人|ごまんにん|elli bin kişi
++ 超える|こえる|aşmak, geçmek|超え
+22 聴衆{ちょうしゅう}は彼{かれ}の講演{こうえん}を熱心{ねっしん}に聞{き}いていた。
+= Dinleyici-ler onun konuşma-sı-nı can kulağı-yla dinli-yor-du.
++ 聴衆|ちょうしゅう|dinleyiciler
++ 彼|かれ|o (erkek)
++ 講演|こうえん|konferans, konuşma
++ 熱心|ねっしん|hevesli, istekli
++ 聞く|きく|dinlemek, duymak|聞い
+23 オーディエンスの反応{はんのう}を見{み}ながら話{はな}し方{かた}を変{か}えます。
+= İzleyici-ler-in tepki-si-ne bak-arak konuşma biçim-im-i değiştir-ir-im.
++ オーディエンス|おーでぃえんす|izleyici kitlesi (audience)
++ 反応|はんのう|tepki
++ 見る|みる|bakmak, görmek|見
++ 話し方|はなしかた|konuşma biçimi
++ 変える|かえる|değiştirmek|変え
+// ── 努力・努力家 ──
+24 努力{どりょく}に勝{まさ}るものはない。
+= Çaba-dan üstün hiçbir şey yok-tur.
++ 努力|どりょく|çaba, gayret
++ 勝る|まさる|üstün olmak|勝る
+25 姉{あね}は毎朝{まいあさ}五時{ごじ}に起{お}きて勉強{べんきょう}する努力家{どりょくか}です。
+= Abla-m her sabah saat beş-te kalk-ıp ders çalış-an çalışkan biri-dir.
++ 姉|あね|(kendi) abla
++ 毎朝|まいあさ|her sabah
++ 五時|ごじ|saat beş
++ 起きる|おきる|kalkmak, uyanmak|起き
++ 勉強|べんきょう|ders çalışma
++ 努力家|どりょくか|çalışkan kişi
+// ── 能力・才能 (belgede kelime; cümle kuruldu) ──
+26 彼女{かのじょ}は人{ひと}の気持{きも}ちを理解{りかい}する能力{のうりょく}が高{たか}い。
+= O-nun insan-lar-ın duygu-lar-ı-nı anla-ma yetenek-i yüksek.
++ 人|ひと|insan, kişi
++ 理解|りかい|anlama, kavrama
++ 能力|のうりょく|yetenek, kabiliyet (ability)
++ 高い|たかい|yüksek
+27 彼{かれ}には音楽{おんがく}の才能{さいのう}がある。
+= O-nun müzik yetenek-i var.
++ 音楽|おんがく|müzik
++ 才能|さいのう|yetenek (doğuştan, talent)
+// ── 驚く ──
+28 彼{かれ}が結婚{けっこん}すると聞{き}いて驚{おどろ}きました。
+= O-nun evlen-eceğ-i-ni duy-unca şaşır-dı-m.
++ 結婚|けっこん|evlilik
++ 驚く|おどろく|şaşırmak|驚き
+29 驚{おどろ}かないの？
+= Şaşır-mı-yor mu-sun?
+// ── 霧 (belgede kelime; cümle kuruldu) ──
+30 今朝{けさ}は霧{きり}が濃{こ}くて、前{まえ}がよく見{み}えなかった。
+= Bu sabah sis yoğun-du, ön-ü pek gör-e-me-di-m.
++ 今朝|けさ|bu sabah
++ 霧|きり|sis
++ 濃い|こい|yoğun, koyu|濃く
++ 見える|みえる|görünmek|見え
+// ── 頭がぼーっとする ──
+31 寝不足{ねぶそく}で頭{あたま}がぼーっとしています。
+= Uykusuzluk-tan kafa-m bulanık.
++ 寝不足|ねぶそく|uykusuzluk
++ 頭|あたま|baş, kafa
++ 頭がぼーっとする|あたまがぼーっとする|kafası bulanık olmak, dalgın olmak|頭がぼーっとし
+// ── 文法: 〜たかった (belgede yalnız fiil; cümle kuruldu) ──
+32 子{こ}どものころ、宇宙{うちゅう}のことをもっと知{し}りたかった。
+= Çocukken uzay hakkında daha çok şey bil-mek iste-mişti-m.
++ 子ども|こども|çocuk|子ども
++ 宇宙|うちゅう|uzay, evren
++ 知る|しる|bilmek, öğrenmek|知り
++ 〜たかった|たかった|…mek istedim (〜たい'nın geçmişi)|たかった
+33 昨日{きのう}の試合{しあい}は絶対{ぜったい}に勝{か}ちたかった。
+= Dün-kü maç-ı ne olursa olsun kazan-mak iste-di-m.
++ 試合|しあい|maç, karşılaşma
++ 絶対|ぜったい|kesinlikle, ne olursa olsun
++ 勝つ|かつ|kazanmak, yenmek|勝ち
+34 本当{ほんとう}はあなたと一緒{いっしょ}に京都{きょうと}へ行{い}きたかった。
+= Aslında seninle birlikte Kyōto'ya git-mek iste-di-m.
++ 本当|ほんとう|gerçek (本当は: aslında)
++ 一緒|いっしょ|birlikte
++ 京都|きょうと|Kyōto
++ 行く|いく|gitmek|行き
+35 授業{じゅぎょう}の後{あと}で先生{せんせい}に質問{しつもん}したかったけど、時間{じかん}がなかった。
+= Ders-ten sonra öğretmen-e soru sor-mak iste-di-m ama vakit yok-tu.
++ 後|あと|sonra
++ 質問|しつもん|soru (質問する: soru sormak)
++ 時間|じかん|zaman, vakit
+36 早{はや}く日本{にほん}の生活{せいかつ}に慣{な}れたかった。
+= Bir an önce Japonya-daki hayat-a alış-mak isti-yor-du-m.
++ 早く|はやく|erken, çabuk, bir an önce
++ 日本|にほん|Japonya
++ 生活|せいかつ|hayat, yaşam
++ 慣れる|なれる|alışmak|慣れ
+37 あの靴{くつ}が買{か}いたかったのに、売{う}り切{き}れていた。
+= O ayakkabı-yı al-mak isti-yor-du-m ama tüken-miş-ti.
++ 靴|くつ|ayakkabı
++ 買う|かう|satın almak|買い
++ 売り切れる|うりきれる|tükenmek (satılıp bitmek)|売り切れ
+38 その映画{えいが}をずっと見{み}たかったんです。
+= O film-i uzun zaman-dır izle-mek isti-yor-du-m.
++ 映画|えいが|film
+39 夢{ゆめ}の内容{ないよう}を思{おも}い出{だ}したかったが、どうしても思{おも}い出{だ}せなかった。
+= Rüya-m-ın içerik-i-ni hatırla-mak iste-di-m ama bir türlü hatırla-ya-ma-dı-m.
++ 夢|ゆめ|rüya, hayal
++ 内容|ないよう|içerik
++ 思い出す|おもいだす|hatırlamak|思い出し
+// ── 文法: 〜たくなかった (belgede yalnız fiil; cümle kuruldu) ──
+40 楽{たの}しかったので、まだ家{いえ}に帰{かえ}りたくなかった。
+= Eğlenceli ol-duğ-u için henüz ev-e dön-mek iste-me-di-m.
++ 楽しい|たのしい|eğlenceli, keyifli|楽しかった
++ 家|いえ|ev
++ 帰る|かえる|(eve) dönmek|帰り
++ 〜たくなかった|たくなかった|…mek istemedim (〜たい'nın olumsuz geçmişi)|たくなかった
+41 その日{ひ}は疲{つか}れていて、誰{だれ}とも遊{あそ}びたくなかった。
+= O gün yorgun-du-m, kimse-yle eğlen-mek iste-me-di-m.
++ 日|ひ|gün
++ 疲れる|つかれる|yorulmak|疲れ
++ 誰|だれ|kim (誰とも…ない: hiç kimseyle)
++ 遊ぶ|あそぶ|oynamak, eğlenmek, takılmak|遊び
+42 けんかした後{あと}だったので、彼{かれ}には会{あ}いたくなかった。
+= Kavga et-tik-ten sonra ol-duğ-u için onu gör-mek iste-me-di-m.
++ 会う|あう|buluşmak, görüşmek|会い
+43 その会議{かいぎ}には本当{ほんとう}は参加{さんか}したくなかった。
+= Aslında o toplantı-ya katıl-mak iste-me-di-m.
++ 会議|かいぎ|toplantı
++ 参加|さんか|katılım (参加する: katılmak)
+44 宿題{しゅくだい}をやりたくなかったので、ずっとゲームをしていた。
+= Ödev yap-mak iste-me-diğ-im için hep oyun oyna-dı-m.
++ 宿題|しゅくだい|ödev
++ やる|やる|yapmak (günlük dil; する)|やり
+45 発表{はっぴょう}で間違{まちが}えたくなかったから、何度{なんど}も練習{れんしゅう}した。
+= Sunum-da hata yap-mak iste-me-diğ-im için defalarca çalış-tı-m.
++ 発表|はっぴょう|sunum, açıklama
++ 間違える|まちがえる|yanlış yapmak, hata yapmak|間違え
++ 何度も|なんども|defalarca
++ 練習|れんしゅう|alıştırma, pratik
+46 忙{いそが}しくても、日本語{にほんご}の勉強{べんきょう}だけはやめたくなかった。
+= Meşgul ol-sa-m da Japonca çalış-ma-yı bırak-mak iste-me-di-m.
++ 忙しい|いそがしい|meşgul, yoğun|忙しく
++ やめる|やめる|bırakmak, vazgeçmek|やめ
+47 寒{さむ}かったので、昨日{きのう}は一日中{いちにちじゅう}出{で}かけたくなかった。
+= Soğuk ol-duğ-u için dün bütün gün dışarı çık-mak iste-me-di-m.
++ 寒い|さむい|soğuk|寒かった
++ 出かける|でかける|dışarı çıkmak|出かけ
