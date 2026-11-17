@@ -54,15 +54,19 @@
   var JL45 = DECKS.filter(function (d) { return /^jl\d+$/.test(d.id); })
     .sort(function (a, b) { return +a.id.slice(2) - +b.id.slice(2); });
   var JLPT = JL45.length ? makeFolder('jlpt', 'JLPT', [makeFolder('jl45', 'N5–N4', JL45)]) : null;
-  var HOME = JLPT ? [JLPT] : [];
+  // Wakako: 1:1 özel ders desteleri (wkN = ders N), JLPT gibi kendi kilit zinciri
+  var WK = DECKS.filter(function (d) { return /^wk\d+$/.test(d.id); })
+    .sort(function (a, b) { return +a.id.slice(2) - +b.id.slice(2); });
+  var WAKAKO = WK.length ? makeFolder('wako', 'Wakako', WK) : null;
+  var HOME = (JLPT ? [JLPT] : []).concat(WAKAKO ? [WAKAKO] : []);
   DECKS.forEach(function (d) {
     if (PARENT[d.id]) { if (d === GRAMMAR[0]) HOME.push(FOLDER); }
     else HOME.push(d);
   });
   // kilit sırası: ana listede yukarıdan aşağı, klasörün içindekiler kendi sırasıyla; JLPT kendi zinciri (ana listeyi kilitlemez)
   var ORDER = [];
-  HOME.forEach(function (x) { if (FREE.indexOf(x.id) < 0 && x !== JLPT) ORDER = ORDER.concat(leaves(x)); });
-  var CHAINS = [ORDER].concat(JLPT ? [leaves(JLPT)] : []);
+  HOME.forEach(function (x) { if (FREE.indexOf(x.id) < 0 && x !== JLPT && x !== WAKAKO) ORDER = ORDER.concat(leaves(x)); });
+  var CHAINS = [ORDER].concat(JLPT ? [leaves(JLPT)] : [], WAKAKO ? [leaves(WAKAKO)] : []);
 
   // tüm cümleler: aynı metin birden çok destede geçiyorsa tek satır; gks = cümlede geçen kartların kelimeleri
   function plainOf(g) { return g.map(function (x) { return typeof x === 'string' ? x : x[0]; }).join(''); }
@@ -351,7 +355,7 @@
   }
   function storageNote() {
     if (!store.ready) return 'İlerleme yükleniyor…';
-    return 'Her basış bu tarayıcıda saklanıyor. Başka cihaza taşımak için burada JSON indir, orada JSON yükle; aynı basışlar iki kez sayılmaz. Kart durumu kelimenin son cevabıdır, bir kelime birden çok bölümde geçiyorsa durumu hepsinde ortaktır. Öğrenilmiş (yeşil) bir kelimeye ✗ basarsan ' + FORGOT_W + ' kırmızı sayılır. Kilit açıkken Ortak tekrar, オノマトペ, Tatoeba, Tüm kelimeler ve Tüm cümleler hep açıktır; JLPT desteleri kendi içinde sırayla açılır, diğer destelerin kilidini etkilemez.';
+    return 'Her basış bu tarayıcıda saklanıyor. Başka cihaza taşımak için burada JSON indir, orada JSON yükle; aynı basışlar iki kez sayılmaz. Kart durumu kelimenin son cevabıdır, bir kelime birden çok bölümde geçiyorsa durumu hepsinde ortaktır. Öğrenilmiş (yeşil) bir kelimeye ✗ basarsan ' + FORGOT_W + ' kırmızı sayılır. Kilit açıkken Ortak tekrar, オノマトペ, Tatoeba, Tüm kelimeler ve Tüm cümleler hep açıktır; JLPT ve Wakako desteleri kendi içinde sırayla açılır, diğer destelerin kilidini etkilemez.';
   }
   function deckById(id) { if (id === 'all') return ALL; for (var i = 0; i < DECKS.length; i++) if (DECKS[i].id === id) return DECKS[i]; return null; }
 

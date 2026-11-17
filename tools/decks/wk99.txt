@@ -1,0 +1,156 @@
+// Wakako (1:1 özel ders) — ders 99 「本日のポイント」. Belgedeki örnek cümleler aynen alındı;
+// tek başına verilen ifade (構造) için cümle kuruldu (21). Kelime yalnızca destede ilk geçtiği cümlede listelenir.
+@ wk99 99 | 科目・さっき・先ほど・先・論理的・解く／い形容詞の否定
+// ── 科目 ──
+1 テストは10科目{かもく}ありました。
+= 10 ders-in sınav-ı var-dı.
++ 科目|かもく|ders, (okul/sınav) konusu
+2 中間試験{ちゅうかんしけん}は全部{ぜんぶ}で何科目{なんかもく}ありましたか？
+= Ara sınav-lar toplam-da kaç ders-ti?
++ 中間試験|ちゅうかんしけん|ara sınav, vize
++ 全部|ぜんぶ|hepsi (全部で: toplamda)
++ 何科目|なんかもく|kaç ders
+// ── さっき ──
+3 さっき荷物{にもつ}が届{とど}いた。
+= Az önce bir paket gel-di.
++ さっき|さっき|az önce, demin
++ 荷物|にもつ|eşya, paket, bagaj
++ 届く|とどく|ulaşmak, (gönderi) gelmek|届い
+4 さっきから何{なに}をさがしているの？
+= Demin-den beri ne arı-yor-sun?
++ 何|なに|ne
++ さがす|さがす|aramak|さがし
+5 さっきの話{はなし}は忘{わす}れてください。
+= Az önce söyle-diğ-im-i lütfen unut-un.
++ 話|はなし|konuşma, söz, konu
++ 忘れる|わすれる|unutmak|忘れ
+6 太郎{たろう}ならさっきまでここにいたよ。
+= Tarō mu? Az öncesi-ne kadar burada-ydı.
++ 太郎|たろう|Tarō (erkek adı)
+// ── 先ほど／先程 ──
+7 先{さき}ほどの質問{しつもん}にお答{こた}えしますね。
+= Biraz önce-ki soru-nuz-u cevapla-yayım.
++ 先ほど|さきほど|biraz önce (さっき'nin kibar hali)
++ 質問|しつもん|soru
++ 答える|こたえる|cevap vermek (お答えする: alçakgönüllü dil)|答え
+8 先{さき}ほどは大変{たいへん}失礼{しつれい}いたしました。
+= Demin-ki için çok özür dile-r-im.
++ 大変|たいへん|çok, son derece
++ 失礼|しつれい|kabalık (失礼いたしました: özür dilerim)
+9 娘{むすめ}さんなら先程{さきほど}までここにいらっしゃいましたよ。
+= Kız-ınız mı? Biraz öncesi-ne kadar burada-ydı-lar.
++ 娘|むすめ|kız (evlat)
++ 先程|さきほど|biraz önce (先ほど'nun kanjili yazılışı)
++ いらっしゃる|いらっしゃる|bulunmak, gelmek (saygı dili)|いらっしゃい
+// ── 先 ──
+10 連絡先{れんらくさき}を教{おし}えてください。
+= İletişim bilgi-ler-in-i ver-ir mi-sin-iz?
++ 連絡先|れんらくさき|iletişim bilgisi, ulaşılacak adres
++ 教える|おしえる|öğretmek, söylemek|教え
+11 この先{さき}は行{い}き止{ど}まりです。
+= Bura-dan ileri-si çıkmaz yol.
++ 先|さき|ileri, öte; önce; gelecek
++ 行き止まり|いきどまり|çıkmaz yol
+12 お先{さき}に失礼{しつれい}します。
+= İzin-iniz-le, ben önden çık-ıyor-um.
++ お先に失礼します|おさきにしつれいします|(erken ayrılırken) izninizle, ben çıkıyorum
+13 母{はは}より私{わたし}のほうが先{さき}に家{いえ}に着{つ}いた。
+= Ev-e anne-m-den önce ben var-dı-m.
++ 母|はは|(kendi) anne
++ 私|わたし|ben
++ 家|いえ|ev
++ 着く|つく|varmak|着い
+14 この先{さき}どうなるのか誰{だれ}にも分{わ}からない。
+= Bundan sonra ne ol-acağ-ı-nı kimse bil-mi-yor.
++ 誰|だれ|kim (誰にも…ない: hiç kimse)
++ 分かる|わかる|anlamak, bilmek|分から
+// ── 論理的 ──
+15 彼{かれ}の言{い}っていることは論理的{ろんりてき}ではない。
+= O-nun söyle-dik-ler-i mantıklı değil.
++ 彼|かれ|o (erkek)
++ 言う|いう|söylemek|言っ
++ 論理的|ろんりてき|mantıklı, mantıksal
+16 自分{じぶん}の考{かんが}えを論理的{ろんりてき}に説明{せつめい}するのは難{むずか}しい。
+= Kendi düşünce-ler-i-ni mantıklı bir şekilde açıkla-mak zor.
++ 自分|じぶん|kendi
++ 考え|かんがえ|düşünce
++ 説明|せつめい|açıklama
++ 難しい|むずかしい|zor
+// ── 数か月 ──
+17 数{すう}か月{げつ}も先{さき}の予定{よてい}なんて分{わ}からないよ。
+= Aylar sonra-ki plan-lar-ı-mı nere-den bil-eyim!
++ 数か月|すうかげつ|birkaç ay
++ 予定|よてい|plan, program
+// ── 問題を解く・解答 ──
+18 彼{かれ}は難{むずか}しい数学{すうがく}の問題{もんだい}を解{と}くのが好{す}きです。
+= O zor matematik problem-ler-i çöz-me-yi sev-er.
++ 数学|すうがく|matematik
++ 問題|もんだい|soru, problem
++ 解く|とく|çözmek|解く
++ 好き|すき|sevmek, hoşlanmak
+19 先生{せんせい}は私{わたし}たちに翻訳{ほんやく}の練習問題{れんしゅうもんだい}をたくさん解{と}かせました。
+= Öğretmen biz-e bol bol çeviri alıştırma-sı çöz-dür-dü.
++ 先生|せんせい|öğretmen
++ 翻訳|ほんやく|çeviri
++ 練習問題|れんしゅうもんだい|alıştırma
+20 さっきの試験{しけん}の解答{かいとう}はオンラインで公開{こうかい}されました。
+= Az önce-ki sınav-ın cevap-lar-ı internet-te yayımla-n-dı.
++ 試験|しけん|sınav
++ 解答|かいとう|cevap, çözüm (isim)
++ 公開|こうかい|kamuya açma, yayımlama
+// ── 構造 (belgede tek kelime; cümle kuruldu) ──
+21 日本語{にほんご}と英語{えいご}では文{ぶん}の構造{こうぞう}がずいぶん違{ちが}います。
+= Japonca ile İngilizce-de cümle-nin yapı-sı epey farklı-dır.
++ 日本語|にほんご|Japonca
++ 英語|えいご|İngilizce
++ 文|ぶん|cümle
++ 構造|こうぞう|yapı
++ 違う|ちがう|farklı olmak|違い
+// ── 安心・不安・ジレンマ・上達・成長 ──
+22 私{わたし}は安心{あんしん}して話{はな}せる雰囲気{ふんいき}のレッスンを心{こころ}がけています。
+= Gönül rahatlığı-yla konuş-abil-eceğ-in bir ortam-da ders yap-ma-ya özen göster-iyor-um.
++ 安心|あんしん|içi rahat olmak, gönül rahatlığı
++ 話す|はなす|konuşmak|話せ
++ 雰囲気|ふんいき|ortam, hava, atmosfer
++ 心がける|こころがける|özen göstermek, gayret etmek|心がけ
+23 最初{さいしょ}は不安{ふあん}でした。
+= Başta kaygı-lı-ydı-m.
++ 最初|さいしょ|ilk, başlangıç
++ 不安|ふあん|kaygı, endişe
+24 私{わたし}にはジレンマがあります。
+= Bir ikilem-im var.
++ ジレンマ|じれんま|ikilem
+25 上達{じょうたつ}のスピードは人{ひと}それぞれです。
+= İlerleme hız-ı kişi-den kişi-ye değiş-ir.
++ 上達|じょうたつ|(bir beceride) ilerleme, gelişme
++ 人それぞれ|ひとそれぞれ|kişiden kişiye değişir
+26 毎日{まいにち}少{すこ}しずつ日本語{にほんご}を勉強{べんきょう}することで、自分{じぶん}の成長{せいちょう}を感{かん}じています。
+= Her gün azar azar Japonca çalış-arak kendi gelişim-im-i hissed-iyor-um.
++ 毎日|まいにち|her gün
++ 少しずつ|すこしずつ|azar azar
++ 勉強|べんきょう|ders çalışma
++ 成長|せいちょう|gelişim, büyüme
++ 感じる|かんじる|hissetmek|感じ
+27 間違{まちが}った日本語{にほんご}を使{つか}いたくないです。
+= Yanlış Japonca kullan-mak iste-mi-yor-um.
++ 間違う|まちがう|yanlış yapmak (間違った+isim: yanlış …)|間違った
++ 使う|つかう|kullanmak|使い
+// ── 文法: い形容詞の否定 (〜くない／〜くありません／〜くなかった) ──
+28 こわくないですか？
+= Korkunç değil mi? (Korkmu-yor mu-sun?)
++ こわい|こわい|korkunç, korkutucu (olumsuz: こわくない)|こわくない
+29 私{わたし}のパソコンは新{あたら}しくないです。
+= Bilgisayar-ım yeni değil.
++ 新しい|あたらしい|yeni (olumsuz: 新しくない)|新しくない
+30 試験{しけん}の結果{けっか}はあまりよくありませんでした。
+= Sınav sonuç-lar-ı pek iyi değil-di.
++ 結果|けっか|sonuç
++ あまり|あまり|(olumsuzla) pek, fazla (değil)
++ いい|いい|iyi (olumsuz: よくない／よくありません)|よくありません
+31 昨日{きのう}観{み}た映画{えいが}は全然{ぜんぜん}おもしろくなかったです。
+= Dün izle-diğ-im film hiç ilginç değil-di.
++ 昨日|きのう|dün
++ 観る|みる|izlemek (film, oyun vb.)|観
++ 映画|えいが|film
++ 全然|ぜんぜん|(olumsuzla) hiç
++ おもしろい|おもしろい|ilginç, eğlenceli (olumsuz geçmiş: おもしろくなかった)|おもしろくなかった
